@@ -1,0 +1,2620 @@
+[
+  {
+    "name": "Liga Española",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607",
+        "name": "Bein 1",
+        "uri": "7zgqbKG0/49fraRpQNfWa8GVWqtxo20nH+vE0wfQkABQkB3/vdTD8fCmZBwIw4E7BTDD3rkLV+OLfLQnEK2PYOnVroQtgTIGdIzeNxKGRtQkhuhFymlVXnfEerS34Zvtc3BwPonHvTbK2Cht2pEoe1/5d1AsSdCMHVM3ONzCh9gsNADmg1C/tLmLcVWdwF+co0gek0OiywU4lKiWoRsJ+71BblT2VExARql4WAxL9TBAdhBr9nvYaw1PEG6OOWWhRIkZw6S+ttYbClIa4O0Ffgn+Vwg4BkcRZY29Xoo2vDgp8Fab2i2J3K6G5r3ug8tVK49qipdywnTYu1v44FoUddaVwh2zZmKk4r+clVHl6v+u2ecKvNGx0Q3Qarls+WkcYyaB6Vodxh49KjCjuPfdhsqxylYNI25IZCxPu5KqGqrgoM6Ptp5dwExJt3fbu510Sz+yNwy2NC/t58vm3z37/i8gqA09N8N35vmrd+rQnNVsEYVUwiYq22n7L91VACMAoobjfckxrysafIXnPy+kWh74N5iO6NYP8DKBfkMS4uG0JEEFSj/ZzBMeDJAyg+4O2LwUiIfPUY+PAJ/A3D6wwQGVHMgpcuBixYgB/4Tj1IJoOIQE9GiJnB43G7icNTCOWW3ka8IctEpVqG0Y5Ym3nrG/HQSl2srdzWuP8dFd53tTygKE6Pkft/HyrYswlA6fWNb4HkoJOZ3k7kv2U8LUfGIqMtOtA/7dX/qiaVETPkUx9GuWnj0+1htMKPE/urYRnbJo5zFH6yEcgCKcQSjDYk34R7+OffX/zOCizcyM8O0e8KgPGxfFpmMJKo9EN/CFGBJ8BfrxzXf0h8m/qUu7rEJQPwAZwvXp75EjnksJ4ZqIXXAyw/cUloh+Bw2sPxSCWqF2nQTZ+h43IDxXy4PNHfDk+0YVErbRaU33i5WRpY28Fu3y7rQ+h78l8m6oGGbMsEzKDT/3S2vn0OonO/BJZCsXVEzLibXl0/Ca07K1qmCsreNVaVdmdIdxWeJRQe8+5eFe9LTAR5AkF5jjKHMcCQqcxZ8sgvC41WkSl9HZ8cnFIDuZH3mx3QWZ8ub4lxoIO3QJ0Jy9iOE1xBrWs809vw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gNdJ7gTt2HsYOgahcz0QJECqcKqt9JMve9jY7aKHiCXs6w+ND8dIihw4VKySqY0SbkIi++KKS3j9RdM2ku4ASeX2OK+pB7k64+APbsLW7FXQOEnHA7gocba9V+fJ0mX4VA=="
+      },
+      {
+        "icon": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
+        "name": "Bein 2",
+        "uri": "7zgqbKG0/49fraRpQNfWa8GVWqtxo20nH+vE0wfQkABQkB3/vdTD8fCmZBwIw4E7BTDD3rkLV+OLfLQnEK2PYD/4U8U8Sf5qHEtmjt7z+EZRy7Fl0O4oSqM966dyaLA0c3BwPonHvTbK2Cht2pEoe1/5d1AsSdCMHVM3ONzCh9gsNADmg1C/tLmLcVWdwF+co0gek0OiywU4lKiWoRsJ+71BblT2VExARql4WAxL9TBAdhBr9nvYaw1PEG6OOWWhRIkZw6S+ttYbClIa4O0Ffgn+Vwg4BkcRZY29Xoo2vDgp8Fab2i2J3K6G5r3ug8tVK49qipdywnTYu1v44FoUdWemOccWs2pNYefl11i5g65a7NG8qSxOe9pDjtVJyoW+RrbNOsum1JeiOvBiuh5iY+Gymu+NkqyVGtsHj+6l2N6Ku1FXYIjJrOo39v57L5/L7QwJsRRZmQDg7/hi2ifVtF7FN0/lzvE/9I2cmzeq52wSiV/MBTWpElm4UkdCNqNrzadu4prTIZoUTQDbq5lkw3Lw6aqZTKqYbV8kUoODmodn1qMUB7qjN7zKeMIJu7jm1b1pVv7503zEgjRBwjKNtIVKJmwVDmJvR3RLq1oWlrcTFXqsDlmNy5ZbjRx2UNx+K7W94XsxLs3QFkq2m4ZxUjst0TTwnygyRj5M9tPD6eKFLsG3Ek5zESGtdhNGQYFBzHGoPBOHU3BHl8uM8CnESVv1TakPGrNLbBSWe5Hp9uuN5PCDzeXNpGl7O9Caj9l9oUoG5w05dmvB0a1yjkODjla/ls7OsexL3bhSPVrP9FUMbqJjYe7wJdrLYVROhWsrAIGp+rT4xsm6ww/UB4Z0mCB7tGA7nRyCPn2OkZZbkOVr2OQqQ+dSj63iJvfruRu+SXIWfA2X5wvy+021KGTeHns0+VcMnGXUzGy9ocUh2Z8SMIdsqfeROKo77LGrhyR2JcGTdnkKaXQaMSm/sMYoEoYD59hKd5eTSSDspMG9IjMytc9zTH3hSIPa2DVMjiBXfm8Nfe6mJv/QaMR28fbgvtNvWQMhTXerF746VaX+PYAL5AHNQhzw6zM9uU7EphcwZkffQGRhVyfb3+vfCzJO0Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "Shr71iWY236mdvtql2w8KRNq4ZgPkyOGLzJpMwLJ9IM="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ec/BeIN_Sports_Max_4_2014.png/revision/latest/scale-to-width-down/305?cb=20230312110916",
+        "name": "Bein 4",
+        "uri": "7zgqbKG0/49fraRpQNfWa8GVWqtxo20nH+vE0wfQkABQkB3/vdTD8fCmZBwIw4E7BTDD3rkLV+OLfLQnEK2PYAcdvc9FQD+SVE2nTobQ+XvI+u0EHOuejeunKb+N6Msuc3BwPonHvTbK2Cht2pEoe1/5d1AsSdCMHVM3ONzCh9gsNADmg1C/tLmLcVWdwF+co0gek0OiywU4lKiWoRsJ+71BblT2VExARql4WAxL9TBAdhBr9nvYaw1PEG6OOWWhRIkZw6S+ttYbClIa4O0Ffgn+Vwg4BkcRZY29Xoo2vDgp8Fab2i2J3K6G5r3ug8tVYoT9RioS3RDLiW1bQXBNgyQPMF0b3y+L71taBRA8PrARb6FgxHpovdh19sNlYBUBjZghZswYuG/iMPg/OkeoQMqxylYNI25IZCxPu5KqGqrGe2WL89X7aHfMgqqOH0rSSz+yNwy2NC/t58vm3z37/i8gqA09N8N35vmrd+rQnNVsEYVUwiYq22n7L91VACMA4oQQ3eB1m9uKYS5v6GLkiSsExqcibc/JpHW4wOCpdheMTAMQCApzeYa7EOfib57n2LwUiIfPUY+PAJ/A3D6wwQGVHMgpcuBixYgB/4Tj1IJoOIQE9GiJnB43G7icNTCOWW3ka8IctEpVqG0Y5Ym3nrG/HQSl2srdzWuP8dFd53tTygKE6Pkft/HyrYswlA6fWNb4HkoJOZ3k7kv2U8LUfGIqMtOtA/7dX/qiaVETPkVDv3JdM0eMfFV58qqk+JcvpB6dtrrstbOVIwLURTL6AfqIwD5kK1oI4Rc1W7e0KiHfZGmzC5dblPFkxY+ZC6/iuA/PXNktScnWXvymuEBwgtj70XWGenHbsaW0iu+irgYb/thr85Yq7TZQGppWfZ7Ok67DrcwmVYldV0REXrx74S9DHZD5IRjo1vV/Im9f+OlT+PDPmh7FwrPmMPTYJL9lJizQ++Usvqe11uSGnk7i4E1UWsq7jpF+f7IjEwxR0sFqVKEr08Gf7MR990BISjPJEE1UCo8+HMEjsRmcx6gwPqXzqQLANG403bD4NwFdx0QqhUj/cMVDYXHnJviSPpafAT0SEZ4as6V/lNHgu2KA6Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "Shr71iWY236mdvtql2w8KZ89mceZ66LR+9ITDRqPE3E="
+      }
+    ]
+  },
+  {
+    "name": "CHAMPIONS LEAGUE",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/3/32/UCL97-98intro.png/revision/latest/scale-to-width-down/250?cb=20220816103435",
+        "name": "CHAMPIONS LEAGUE",
+        "uri": "Vf/jqaiBgK7gcgTN3ru75nA/8b7Oq4Hhz6UYfmvqGaLmsiGiHnF+V9ApyZCs3LCsxCtEoQEZf4UbwA2+algaoFocptpFtK6RqHRGThrVJGD5hhz5kZoOR5+wGOYLmZQpVClGv5kCFDWjmOWK6xUfZyuXh1SSFVDVNTYv5oJ6s0E=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uXwSwIfw5f5risW2BhGDVH4rlQBB3LzBIRsZU863dv2GZNupbantLYZbyK0sbdycWBErcVnxss+4kvZBG7Q+jc4mk1mVMN1NK291UUUYwlF9Nvwu0STFGFDreKwlJJfuJA=="
+      }
+    ]
+  },
+  {
+    "name": "España",
+    "mode": false,
+    "lista": [
+      {
+        "name": "24H",
+        "uri": "A16UUcua6wq+s3pl3dhlHriqPjTKnU24PDRyUY0JKrxJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmRMeQrEo5RvxFmRrOn2VSV0fyghw2/ZnN9coxtYJJue+rOTsWp4XK/Z48OZ2e9vrl4=",
+        "icon": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png"
+      },
+      {
+        "icon": "https://i.imgur.com/I2xqEQT.png",
+        "name": "La 1 es",
+        "uri": "/LdDV6ZDQ+1t4cB4iNRAHClyba2rqqWFDoEMJ3kBS2YLL0OMIIJ87Wmn9osdoP3xVK91B3e4rXaXxetDZcDF7NRgCVOS7H8g2eO2P0taIuzskP7VEGKF8Omn2bfT+d90lMjYXhZ3ITIPqgZoIbzN5bOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "icon": "https://i.imgur.com/I2xqEQT.png",
+        "name": "La 1 es",
+        "uri": "AVOhbN19Ae8vm3RKrHs2mJk4Fw7QXD25823WV97Ga4uvVH0ZTF9PzS7BUcR9HmbXJrHphUGa30VYKpGp+RK7XymPXXzGc7K7FIsmu30VDBQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMcIsRcRAFV7NCfwDRm+reQH14iYrrJX1cgIm+5+5NGIbKPgVYCNLCpbq7pxcYS/yn5crvPYzlJBfNocPJ2cSA0oqGB4JfNvWQCn8g5DD7f04Uj3lWlvjF7MvDMQZDp76g=="
+      },
+      {
+        "name": "TDP",
+        "uri": "Fdxq9ORGnKM7WAObrpM+rYMHPEsQfNry07BZx903nipJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmRxjFklkTwTb/OGNdfCZEdzUAiJu3qlTnG43P1KwLomB8OVkIIO2InBGLsf8e6UzEA=",
+        "icon": "http://78.47.174.211/logos/teledeporte.png"
+      },
+      {
+        "name": "ANTENA 3",
+        "uri": "ZI36biIQwAEvzUV8yTxUlyr/Z02RQxd/df+Fl1q41WeqGputyqfkrQ+dmt7MwvsPDrF5LDuzJwuz8OlCvDrsXNI9bUWf0hIlGXruip0TN9A=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHg8EiW4TAha9VumwuWU3xTij/dN1YxhqnjWhYds7Hl32Q9rlk3YUhwcS2MlWZSHAp+ou+2+qetZKyxY9bptq2EN0qXtPnZU5r48WjKFx+aXObJEybUUjs0LeMYd8qvgw==",
+        "icon": "https://i.ibb.co/m6dKvL5/antena3.png"
+      },
+      {
+        "name": "TODO NOVELAS  ",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCGFANT1FLL48ke9GxC9TtS4/LkWmKEYAUMN8EOnJKstfA==",
+        "icon": "https://i.ibb.co/kMzPbGJ/Todo-novelas.png"
+      },
+      {
+        "name": "SIN FILTROS ",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCECH2Bh8Au5+cHEdI+3Tin94yaSKgv1vrvftNfjf5s/ug==",
+        "icon": "https://i.ibb.co/hVd0mZm/sin-filtros.png"
+      },
+      {
+        "name": "CINE FRIKI ",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCFenKCO81EcJAMyaoOLv+D4lk8EvUkX/StXKmlbDYsamA==",
+        "icon": "https://i.ibb.co/WsZg54D/cine-friky.png"
+      },
+      {
+        "name": "FILM&CO ",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCER7H162ssKg1OTwPwnGbBOlk8EvUkX/StXKmlbDYsamA==",
+        "icon": "https://i.ibb.co/KyD623Z/Film-and-Co.png"
+      },
+      {
+        "name": "RUNTIME ",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCFZfKztw4hxUKFjffqWKgAqPjmaMmIeBOOyVtT9Q9rKCQ==",
+        "icon": "https://i.ibb.co/hYCm99J/Runtime.png"
+      },
+      {
+        "name": "SOL MÚSICA",
+        "uri": "UzqkGqW2axqu3GOGPYgGavr5bE4sJSjfa2zoNUz5u8ZJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmT06NFxYX3PQDNHx9jyQO5wFWWj7HfxfJf83r2B687LFCGFPonhW4D5sHGXbPJPhgY=",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SolMusica.png/320px-SolMusica.png"
+      },
+      {
+        "name": "NATURE TIME ",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCENojgHGqKjRWFbWWogeFJq04N6jFR4yN7KaRdXZxbRbg==",
+        "icon": "https://i.ibb.co/6Yzbnmf/Naturetime.png"
+      },
+      {
+        "name": "ETB 1",
+        "uri": "JE497l5nmelCu/t9CxMvpJiewi/xFi7Y3u0kBa93Cb0mCkr8uIc9/0tfTILGgGCvaLm7+ZeFBQE+AX7oHVeRZA==",
+        "icon": "http://78.47.174.211/logos/etb.png"
+      },
+      {
+        "name": "ETB 2",
+        "uri": "JE497l5nmelCu/t9CxMvpJiewi/xFi7Y3u0kBa93Cb2DE2pyY/qHub0kDYiBycgZaLm7+ZeFBQE+AX7oHVeRZA==",
+        "icon": "https://i.ibb.co/VM8LzVY/etb2.png"
+      },
+      {
+        "name": "ETB BASQUE",
+        "uri": "JE497l5nmelCu/t9CxMvpJiewi/xFi7Y3u0kBa93Cb0BnVni+irryZy31JVfZNCKhyEfWdm31VHzi+jcILM519ODeoxUeMjeymkXV2cW0W4=",
+        "icon": "https://i.ibb.co/KDM3qSm/ETB-Basque.png"
+      },
+      {
+        "name": "TV3 CATALUNYA",
+        "uri": "hmoH5pYAxUw6m4Yc1PhMUBR2uIzNI5POEJhdboxRDR9xKrFWfOIRtCxwLJAXPyn5KFRtaVc4xhiW+uso7+/5yjb8LtEkxRhQ63isJSSX7iQ=",
+        "icon": "http://78.47.174.211/logos/tv3.png"
+      },
+      {
+        "name": "VOTV ",
+        "uri": "N23fiEP3pWr6b5rQohEIX5n9IXMxGAmjp0QAniebNPWTwADM1MGkj4T4dRUQLijv",
+        "icon": "https://i.ibb.co/Lz4dJZw/votv.png"
+      },
+      {
+        "name": "ARAGÓN TV",
+        "uri": "HcoqpGXn2/fb2KHShD2NOSNOhxtAD+w2pMuYpQjwYDl51zQB3mtWFeNF3tNsb3GH7P3H01RVFUj49mQ5L/S/Fjb8LtEkxRhQ63isJSSX7iQ=",
+        "icon": "http://78.47.174.211/logos/aragontv.png"
+      },
+      {
+        "name": "CANAL EXTREMADURA SAT",
+        "uri": "EKBcDG8tkjoN3cJ7hDY1cJlskREkpHXFjGtEuonSMHcxk9MYdbRQupb6Zcy7Rd2vQKp06lCf3De9/8DKFByoHSW0xk5fd/mQGNW1LEzU2kz+n7GljahXPp2x2W1X3yq1",
+        "icon": "http://78.47.174.211/logos/extremadura.png"
+      },
+      {
+        "name": "NESTING TV",
+        "uri": "jKL/GWrQke1Qk41zZ1Z6UYyi55cG9OEbZ1sf9eA/mK24O6MphQrRmMRgOXKkoKN3eYSm78McGBehPjPeeDtccQ==",
+        "icon": "https://i.ibb.co/vhQj81h/Nesting-TV.png"
+      },
+      {
+        "name": "EL PAÍS",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCGmbEA9jfIpirICIIIgh7/fre4DnTdo82dDoMEUSxX7zA==",
+        "icon": "https://i.ibb.co/JBkLC4s/el-pa-s.png"
+      },
+      {
+        "name": "NEGOCIOS TV",
+        "uri": "f8Ke7lgOqYUOR9ykRNbCwFlfekM9+0YnnuhkF6RoangxwkipjcndvIeJ8JvRIeYk6qMRoX1P88ZA62kpZy2Uww==",
+        "icon": "https://i.ibb.co/jDGJQw2/negocios-tv.png"
+      }
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "mode": false,
+    "lista": [
+      {
+        "name": "EVENTOS  1",
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72zw59z24h6QEjpHhiHiYuxdk5kldbhHSrzznPICZ8qS4udk5HdNWgccXHBbCFUsP6POBa9xbffSQ0dsPuzFtkTh",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gFAWrWSPwUNib75r3VQOmJ0S7Ekw3pgNrraWJZOArj1Yush9syPLw+3au7RjCB8VZYn7klfQPs15rucvGcjJRWR8IwalVMW5X5Tl5r5nzWBnn1pidLInuixNbl/3oE6oog==",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png"
+      },
+      {
+        "name": "EVENTOS  2",
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72wE9CZm7UnNOJssFLiTVFdWYHIxu6CWaykm3FWoR48X3m4R615ETXMso522iCG/OkLD2kQTmEjaztYna38QYXVF",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEaQfIFgO+vdgWQCsUOnxQIVi7NRAEZgX8ZwEHfVrTa9GGn+HQ5FeTP8v9nXqpfs6oXIq1B09MJjmip+1IElIaB6QUICrkzBoKPX1SB+Bq0jb7iy9V22h+kkdfPRb/2prg==",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png"
+      },
+      {
+        "name": "SNT",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM+E1cjWnBaAJQurY0MnDt3AtLUtW/7PswNWXZL1vE/XtyqbmFBEqRL+1kA8sS2zSks=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ8F1p290A+PcypNYl+4gY6PhuXX/a0Vf/79CNur+yEB7hWS5AbIVs6VZ4q/cVAdW5TYiO8sR+xcnpt4FLVvrlE6umdLisicHGvqWB2uavGtlfzbo6PdtWjc3RR5vVvVVQ==",
+        "icon": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
+      },
+      {
+        "name": "TELEFUTURO",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM/HQFo5nuAqaTsfF6Qv2nRam06FxDuG19kYY8yVBbHjY0a6/wOpjIhhWrRaxCm3dOI147KT9I2SKCrgSByV0TSQ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGs+v+cMOpe9jOdyvdSZGE8kyjay5ZaUH68mNqzvPsjS9HEOckaKTtnuKPQTvgupZst4q8Uny1vhPONpL9zcnB6UR+SLJOnwTq5DfGE/i6BXcdcMksfvYwSyi3eOcrJY2w==",
+        "icon": "https://i.ibb.co/NjymhsW/FFFF.jpg"
+      },
+      {
+        "name": "TRECE",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM+P6rly9nsCDZAUxb0Mkm4TAPLh+oIyidS5GDMUk/mePyqbmFBEqRL+1kA8sS2zSks=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gL0jgvFuG0zaZiGDNhShhuYUgrALh2PovuFBaGqfT8GuCUog3CUucJx2G4kwC9Pv0ZvGzdyqwWE/pwFPyGR2luQ3qxDJBm4Mr026IwL//xhb9yj2RL0Vz+UbZdABIQcvmQ==",
+        "icon": "https://i.ibb.co/bNM6g8N/trecepy.png"
+      },
+      {
+        "name": "UNICANAL",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM/BJTJ/zMINdK7IxsE4EJmQqtuKewCXC4bHgKMeZ79W2wawvvJOej9ob7w4eZYosfI2/C7RJMUYUOt4rCUkl+4k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ueOjVWBafyF6wJmTXFzEY9ZeumWrrMyL5JH4z1HLikSFFSLYOQcjVQ/Zi8Jv1gWmeR2J46VrMyybv+nlC7gHTjiM9mc/Ssc8hvlnWQ4u+MCvNvwu0STFGFDreKwlJJfuJA==",
+        "icon": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
+      },
+      {
+        "name": "MEGA TV",
+        "uri": "hzjLqMLPGSRRck5+HLHwegUHikm9n6JRb5yLT5aZEgkfj9xwjutRKf+nROylElhAxl2zatAeNU0J+FXszwIY3nxSX3hM0/t5YdqduXetGc0=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEFRYjQwc0H+/jvjoH3EDvv6bFnMXuP/dQQjJ8nQDpsHOAOiquXgvtLcLm61g9KQHechs6G1viBWLUdD1PY07/0pu1r2JawD+3mQD2DtKecdfOZaTDUBMFax9dyEvvscNA==",
+        "icon": "https://i.ibb.co/hfFmYXz/WW.jpg"
+      },
+      {
+        "name": "TV CAMARA",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM91T48WCG9wdA4l8UNNGV6OY9l3iMXwbSmJqm3PLTKr+GXgkahA5ZdnuOjKf//il9g=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIqYBAi2nVzWfxFA3s/F3It3/D2p6SC1T1Vie+wACSm1h8s7gJnkyvIZHHCBpge/zuiILJzU7UB8Oj5sEFzHXuT/nVl6p/SCMIczUB2rMF00ox5QC7ijsxxYhXdoxXy7lw==",
+        "icon": "https://i.ibb.co/TkT1Dbm/tvcamara.jpg"
+      },
+      {
+        "name": "PARAGUAY TV",
+        "uri": "hzjLqMLPGSRRck5+HLHwegUHikm9n6JRb5yLT5aZEgkWrhmosJdiO2NgYNJbUZxiqtuKewCXC4bHgKMeZ79W24NHMVuJoyT14tVd06GvYF82/C7RJMUYUOt4rCUkl+4k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIcl1+qEM0woTH30DzG6/dYPOBs6GM2Yo0OmruF54gqDRmjVqQzgF25jZh2NrVtvDmiENK0e2oYe8PhW90cFz9tP+X6zbTu+Ze+a/8lLxfgG0iujf3EzDRDC7ASRnpsNyA==",
+        "icon": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
+      },
+      {
+        "name": "CANAL PRO",
+        "uri": "hzjLqMLPGSRRck5+HLHwegUHikm9n6JRb5yLT5aZEgnvOLCi/91GW627HJ+Z+VM9KkQTwtNgmx9jFqDqYFnjFkm4T8+ntXA+U4taB9iX47w=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uRUnNHvHfIbuNRZ5G59hPBpRukqNndsUUpmL694vqrREW2nvBYEkgjs8z6y7Xqj6vQM2qKCQDIuv1RRVqd8xGMwH9IqHedlBavotGKISymtzNvwu0STFGFDreKwlJJfuJA==",
+        "icon": "https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg"
+      },
+      {
+        "name": "5 DIAS",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM/+KMvQKnrDigjVdBEWac1c1A37jjdC69zH/ZDJF2Fjj7WYemp4ZSG9zRAPv/YmoEs=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uS8cSU8pDtS3KX697eGtIRXfNGgv7N2EDQaR4hBN4r+pcEOpg4in2mp9sf+4WawdrR9Dnq6w/aAo8+MSBpSLJ0YGWBprhwZj9yKlWlzjwfzQNvwu0STFGFDreKwlJJfuJA==",
+        "icon": "https://i.ibb.co/k48NKrR/5diaspy.png"
+      },
+      {
+        "name": "SURTV",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM+oynK3jkMU7EMD/Guz9tPKT4CKVdAhmimMDNr3bMZtSkFXZR5BRTSJopFv6kucnfY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBrujpo+58bBIhNBNMKzeMrvW3Zat2fjuoCrSKREP91Oq6x9muapzBvrjDrc5EsPL67NmOU1BDH8cNxxpLHGIzgkVwByT/ZIZdGyDq/iMS6dxLjxpkAFTay3BHn8LeTHOg==",
+        "icon": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg"
+      },
+      {
+        "name": "VENUS MEDIA",
+        "uri": "+VOPqxJtOFcFR15kcS0eQ7Z2dNG9UaysQ4vKmjtq+JIgWLpqXqDLnUiyjwXHRFhYk95x+L1M2WWekVowXOEIxvv9TItjebEBwRtUz2qqBp0=",
+        "icon": "https://i.ibb.co/jh9nXPP/venus-media.png"
+      },
+      {
+        "name": "ÑANDUTI TV",
+        "uri": "+VOPqxJtOFcFR15kcS0eQ7Z2dNG9UaysQ4vKmjtq+JLHTUiCR3YY1Oliu7XrsnZvt973TSWzeFcp7hhDh1OsMaEY4HUWiSf5uK5Jt7/afUM=",
+        "icon": "https://i.ibb.co/1zVZ9kX/anduti.png"
+      },
+      {
+        "name": "ABC",
+        "uri": "lZ/EITUOn7QNVmtUTgw5/8kAUgil0DWM3Y83MluVDcnCRYS6+dUxUFQUvUSD/BUSlpwyhuz80BEAU4zMbY16o7mX4Ci9ydsVZXVhzUmqYzqA2bbB/tEoFTylY68Ldx9dW4LMRznZdUTiP7bE+l1PNmugGcMlKxNsKq6iYyqKj6rTg3qMVHjI3sppF1dnFtFu",
+        "icon": "https://i.ibb.co/dGqjksf/descarga.png"
+      },
+      {
+        "name": "NPY",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM9oeIJXtAvZW5ETbNUtbbe8yCYTJF4H7dhtWEoCYgaPHzFdghT44ZaYTB4LCTkMLO4qm5hQRKkS/tZAPLEts0pL",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLgLWeu5TEJmhmcGRwi09qwf4nUj1H1u9YP3YdFoIW2u1L9AQnQeK88st7luffrLCWNZzH6O0rYKXplNSDfrZotEMIuLDf3bz3Z8llnORNj/bT5zpWPKR/g3LnYcvdj99A==",
+        "icon": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
+      },
+      {
+        "name": "PARAVISION",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM9x627DQ2mYcbNBdIjxk7lom06FxDuG19kYY8yVBbHjY2bonXAxFfr40UESdMk2GoA147KT9I2SKCrgSByV0TSQ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uRoXlgF9xngWwhQs0XAePdHnFIZNM9SgbSI5t/DdQ0qu539kQ3/dbKdDjupKBOfv/uEnBWfdf0EBOl4xiI1cw2Oc34/RZhUatTmZNhuoHuhxNvwu0STFGFDreKwlJJfuJA==",
+        "icon": "https://i.ibb.co/FXnvNPk/paravision.png"
+      },
+      {
+        "name": "C9N",
+        "uri": "hzjLqMLPGSRRck5+HLHweid2BLrm1zsuWDRLFu/K+ZGetT+wMdeCmQ5mGjCBmJ5G3KWyPCkjtEngzM6uKsK09CqbmFBEqRL+1kA8sS2zSks=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gOBH1djtsPyrBSZn6ZyA9Yx/RouNrToIxr5nJO1l0KEFTj60YJ1MPllDLyqE2QZKXn1kj/5E0sBn8RuFWCGKAOjT2gCLc6cHrCbkdGPbwUjEqFzIapOU696SRdcys/R+Jw==",
+        "icon": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
+      },
+      {
+        "name": "GEN TV",
+        "uri": "hzjLqMLPGSRRck5+HLHwegUHikm9n6JRb5yLT5aZEglQAIEf8huEfEP+X/KeXOlFmAqB/27cDs21Ji4AyD0u0cOgxdRrcwWJs7RZ7DrsnfU=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTZp0zKJRxWLBzxKugMhobSM2JLbM8Pa4WeHQ8AhW2yq0ohKJv3a+oqiJg8HiTKDmoFmuTHom35f5Z1haPwDjf/8AqPLLRq3OmZrgX7b44jPNvwu0STFGFDreKwlJJfuJA==",
+        "icon": "https://i.ibb.co/jyh9z2W/gentv.png"
+      },
+      {
+        "name": "FARRA PLAY ",
+        "uri": "MdlfcTDfGcCj/3k+Hujfm1jwq02dhqXb1k1sgn+v6jBPNLLmeDD7Vs1FSHzpltzg",
+        "icon": "https://i.ibb.co/99DzY4J/farra-play.png"
+      },
+      {
+        "name": "BRUNO MASI TV ",
+        "uri": "+VOPqxJtOFcFR15kcS0eQ7Z2dNG9UaysQ4vKmjtq+JL1SmdHN+aWcVrjPRPA5UkXM5eTO0+J1IeSqCz5EDDUZjdDhZIF0YOkAKIHAVp0Kfk=",
+        "icon": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png"
+      },
+      {
+        "name": "LA TELE HD",
+        "uri": "+VOPqxJtOFcFR15kcS0eQ7Z2dNG9UaysQ4vKmjtq+JI+/bVVqHm7bhDi/6exRPsL9hUDb4jq9SyLNi9QABewSDCMjgs06p7snzz/cIm0SMbESVWuOPFnS0T2d85P3CgI",
+        "icon": "https://i.ibb.co/Zg861M4/latele.png"
+      },
+      {
+        "name": "LA TELE",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM8+VGH89qmvkhktO/wYKH59zTcL8JnH3h37rpzDTPCafEp/ZTtJ+UZOsXZmXBS3rps=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uY7kgLFlxt+TNrB9NJV4FZpavbzS6Y3Fatb7HlFlbYAAluz0Bt5JDqh36lW9fsKdlHSPOoSkvaUzviIRpTsCBQOhrxo4VN0ZvW3JmUFrWukvNvwu0STFGFDreKwlJJfuJA==",
+        "icon": "https://i.ibb.co/Zg861M4/latele.png"
+      },
+      {
+        "name": "4D MÁS NOTICIAS ",
+        "uri": "+VOPqxJtOFcFR15kcS0eQ7Z2dNG9UaysQ4vKmjtq+JJPv2aS+L0b5zSZle1uJ1Pd7otWwSpxUwv4+KbhjZtrxbxD6JrKmpzEc/6beWHOmfq3hKCOjgsQ4NKpEH5uaL3v",
+        "icon": "https://i.ibb.co/Vw7gVWz/4d-noticias.png"
+      },
+      {
+        "name": "ASPEN CLASSIC ",
+        "uri": "+VOPqxJtOFcFR15kcS0eQ7Z2dNG9UaysQ4vKmjtq+JJ+JgQ/+SUmjZanzk2wYY6HDqD/KtMI6JnseWtaAWWRKbeEoI6OCxDg0qkQfm5ove8=",
+        "icon": "https://i.ibb.co/sJRyc31/aspen-classic.png"
+      },
+      {
+        "name": "Unión Tv",
+        "uri": "+VOPqxJtOFcFR15kcS0eQ7Z2dNG9UaysQ4vKmjtq+JL1sj5Rmqr0tvzCUeL7Mo1Y6HOeRi5qfCsmo/LtIm+DSQ==",
+        "icon": "https://i.ibb.co/9hqVmzy/descarga.png"
+      }
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "mode": false,
+    "lista": [
+      {
+        "name": "CANAL 10",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM9HfAdEtZquHqjcOt6oucU9qtuKewCXC4bHgKMeZ79W25xA4Lar67sM1ShjEYlKO0E2/C7RJMUYUOt4rCUkl+4k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBHrYaerJgtqmzoS4yWoIkVrfC5r0w6GykDz5ccLTkE+Cf6KgVGGfhP2GqSmwluM/o6BVOEvyCqkxSQvkOmkXqrKIs9ySlGAIlGlRzk/m5w6s+9D4IBdLyEJWmZ7QFCB+Q==",
+        "icon": "https://i.ibb.co/G7f4Rbh/canal10uy-2.png"
+      },
+      {
+        "name": "CANAL 4",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM9YpkXHUYBAzaw0OeN+t+NezTcL8JnH3h37rpzDTPCafBcAPRvw6QNlyitTS8o8j/Q=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gCFNhNmSDV9BHFhd2dKrhKnEeAeBnMB/662uAzsVQh4oprjPcn5cwulec4Ep3DETqvhGweXJaxSJNdTPQzlmFWPD66ou/jHvEzs1OanySW/TndaVd0/9XPZ+EBzEa5H+Tw==",
+        "icon": "https://i.ibb.co/X2X854s/canal4uy.png"
+      },
+      {
+        "name": "TELEDOCE",
+        "uri": "hzjLqMLPGSRRck5+HLHweiu+Amsz7jWJFeiMm/2MtM+xmvgkj54owid92W+nVlOazTcL8JnH3h37rpzDTPCafDeeVFXko3cpACk+TAiOnlU=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBZLd1MGQzYtSla3yIisI0DZssZ2vblawWpH9YFLd2JWqu0K+8XnrUxQW2/K0QLz9DEMzV02b43UCeYMR4w9EsTiu6Frc089A6isNyF+KdwPkGk7gbbB1aJr162oodxbGw==",
+        "icon": "https://i.ibb.co/HKkJ1zX/teledoce.png"
+      },
+      {
+        "name": "CANAL 5",
+        "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q9ampprN5r3b7PThYuQGmi7euOq21s6UDgLKpyKSQ9vIEwoFqJD4Stw5SBsJKhSMGW70e7w2SX16uPsxSrlQ1cs",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gM62BynttfhFZjF5mP9sYc3ef1Eo8n/ye7o1bL5xSYrkvM8yYA0mQc71CubQr0WnXXF9upLFBV3N5ga+sr1Wt784egGe60p+LrvFPEnLiduLrYsziC4exr4oUPm4Kz/pbA==",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"
+      },
+      {
+        "name": "TV CIUDAD",
+        "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q9CK/dbiSnDpFR1gzqhAJMiqtuKewCXC4bHgKMeZ79W2x1vV//H0hWwdEkVmWr20wA2/C7RJMUYUOt4rCUkl+4k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gG+7RWWrdhWLXYj0FZAq0F6RHVLxyg57100UdvGLl05MpkwwzbzipxfKPzmGdAJUF1Ri7jStf6a79hyy4EJ/ssZCaMJgKCMkSsx0rxnqy1cAMyUsYB18jZO5sXJxUKw3MQ==",
+        "icon": "https://i.ibb.co/dkq8Jgm/tvciudad.png"
+      },
+      {
+        "name": "UCL",
+        "uri": "U5keUx0/zU6hlffWan4SApwaDydrqNC9BAdRlmjvmIRMkK8oTVPCVTbwwxcMjJ+hI4xlcCH7XF9iliBrtamnHg==",
+        "icon": "https://i.ibb.co/w0PzFPC/ucl.png"
+      },
+      {
+        "name": "CHARRÚA TV",
+        "uri": "jkiKRB8PEV7JSGsvZY9km66xejVCusfhnEqJqHZlM9wizobk0yHM10rxAmAOpODY6HOeRi5qfCsmo/LtIm+DSQ==",
+        "icon": "https://i.ibb.co/ts4GCSf/charrua.png"
+      },
+      {
+        "name": "VTV",
+        "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q+0HCdLPgiCkzBdFUQNWXOiKzAsJAcea2IrOxn812/GRg6TlyCKu19SbMklKvGPRr0=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gFClB53GcZhV9NsyPd9XsiDmRd4vvlFvr05aBmCODNLdtD9MUVNsVIf+MEbFjwrMbHkYWAWlG//v8OxAQy7AHyW4qDVh39GVVNuzpdN/3cQ5tluYDJb5nVCwAkQ99GFwLQ==",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+      },
+      {
+        "name": "VTV PLUS",
+        "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q82jUWO47q7OyZmN8L9FHppqtuKewCXC4bHgKMeZ79W2z1jj7/+7wmG2AYTUlvzhHw2/C7RJMUYUOt4rCUkl+4k",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw==",
+        "icon": "https://i.ibb.co/nwyBsP2/vtvplus.png"
+      }
+    ]
+  },
+  {
+    "name": "Peru",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/250?cb=20210506015834",
+        "name": "America PE",
+        "uri": "95wtc9NyWH4zh6Ilh56x6PLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+E8oCmdMo9XnOiN/3aNMWKg="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/c/cc/Latina.pe_logo_2021.svg/revision/latest/scale-to-width-down/233?cb=20221014155341&path-prefix=es",
+        "name": "Latina PE",
+        "uri": "z761GUhOfLwBsRDYjJL4EvLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "Shr71iWY236mdvtql2w8KSGaRLU93f30a2G7JB7vyAk="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/06/ATV_HD_2018.svg/revision/latest/scale-to-width-down/300?cb=20210519150647",
+        "name": "ATV HD PE",
+        "uri": "21KToYy5r300HQc4VCZkAfLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+KXqa7mYo1st5qtii03OgGM="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Mundo de la Musica TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRciVX4Z5t/hgY7B/CcQmovn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1092_Planeta_TV.png",
+        "name": "Planeta TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD33M0TaUC20Lrh0/Ys0bmRKaOOpTNIXT/yWjLOmiOJDDQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
+        "name": "Turbo Mix TV",
+        "uri": "6438R9ZzJhSeP4B6ByXArzxS/RnQrZ+ZsLMcdBrj1C4hnYyEN64zj+ZlpzcTze0d09Ns2adRoQOAycJx/BIYlwzXmOKEmCxKvZ/iHEsKlwYJZ2uOlnZTTE0J0z8MBr3J"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/684_Nativa.png",
+        "name": "Nativa",
+        "uri": "dzKcM+5HZoJeB1nh3tNDRJRNNXlKZjTW7jSxgXQZrFqs870jedhulb7R+QBboWYUM1GLcD9V4NKOSZF5hQ8KTfITOa0TqqAXfqluL62BgYhp028N8Xg8TLRMjply9MKv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/969_Onda_Digital_TV.png",
+        "name": "Onda Digital TV",
+        "uri": "88PG/48FLBimBWSidzwgRS1C9YXXtsFMt9Ar4o84qAu8ai+jICzBjWr6gvmnJd5SpMheutLmGZSXwmnYEoS2uwlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/694_Antares_TV.png",
+        "name": "Antares TV",
+        "uri": "sUl0Tb5VyBNvReDSiyxESuNEbqd+MW98jwav6wqhMX4CGREkFK3WOjuERmJheGn040xp71mFSNGAE3GT3Y7I8+Ov2MDNnNFmC7shvOOZOAG/MISBLDw8YyJBnCBQomaB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
+        "name": "Autentica TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD7Gx7UXhYrajvSIuxDLkfbhgDKDuDIfDNH1XzvwpI2T/lV6OTlm8y2GL66Ye+37jhILNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
+        "name": "Canal 8 Catacaos",
+        "uri": "rO8tZQAIC/gblDysM/QcD7X+/trYRc9t3KsCA1t1hEA6E614IH/HSoDXrtvuOrBTQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+        "name": "Controversia TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD7X+/trYRc9t3KsCA1t1hEAdw7dTpuYWwguR7+YygtkYlV6OTlm8y2GL66Ye+37jhILNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+        "name": "CR TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD7X+/trYRc9t3KsCA1t1hEBiM5OyWy1HkebY1lBLfZGdvzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/978_DMJ.png",
+        "name": "DMJ",
+        "uri": "venHb/xEn8vvguRH4ToUq9xRoNFslVVt0aHvCpIUTyBcNcNazfqG+aAUbf1UgELia9QYdy3byhT2fO7hRUqIbPjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1256_Doble_C_TV.png",
+        "name": "Doble C TV",
+        "uri": "6438R9ZzJhSeP4B6ByXArzxS/RnQrZ+ZsLMcdBrj1C62vQ68iNuZZ78swsl5ELHq0vXZPvINcKnWB2mDrMzTe6y+kT15ZI4JRa5twH9Cxa4="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/691_Exitosa.jpg",
+        "name": "Exitosa",
+        "uri": "52svd3KJDxJnZz3YkDFfA851oiqlXcTnd9qLJHQhoAe1IZUk+QKKNA9j5upjhAFzgR9KbOwg55XUVpS6JUfyw0DDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1093_Genios_TV.png",
+        "name": "Genios TV",
+        "uri": "rO8tZQAIC/gblDysM/QcDyoic35n/RmX0NVC69kIMCNkaHMnrW5f1ObxWme+JuxD0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/697_Hechicera_TV.png",
+        "name": "Hechicera TV",
+        "uri": "sbRHAP3Uok3rQ+EEJzuQTRc7JAywTEJmo2Yw4lOR7A9oQ8pq1LyqWr6Bzw9FkVWq1IwvdS4DN9QoZ2G1eXy1ZOdGGo/pMRJiFsHf32cKbeC/MISBLDw8YyJBnCBQomaB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/690_JN19.png",
+        "name": "JN19",
+        "uri": "clPkoj85knU1/eGcdvB+543oL3b/XkGbp9CABMLYTNomPCPQjlnjQodVuU5QpBn+ahn19Lkn45i8oNVr3VKNPQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1190_Master_Television.png",
+        "name": "Master Television",
+        "uri": "qFx/JgXxW1J/mUhLj5mRM0mYYDM6SN7OBvG5OhjoPemgVvtkGFC+MZM1XkE5bHnwa9QYdy3byhT2fO7hRUqIbPjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
+        "name": "Mega TV Jaen",
+        "uri": "6438R9ZzJhSeP4B6ByXArzxS/RnQrZ+ZsLMcdBrj1C4EXKZJs7IbSEeW3D2QzVy/XnlU7znUFShTkl3k60jawoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/699_Ovacion.png",
+        "name": "Ovacion",
+        "uri": "sUl0Tb5VyBNvReDSiyxESuNEbqd+MW98jwav6wqhMX5QHSBOTyYdTQBcWc2V3b0Ffcd0aw0j3rg/DZGdv/naagKdattKyTgsx8seAUetESVAw7ndUwb7hcsx1eTXXFv/dIjJb5VULYPoYdAkSiLvmw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1290_Palmeras_TV.png",
+        "name": "Palmeras TV",
+        "uri": "oBYNA0QcVAN6uDdfPpYoZUmdcmrps2rd5QT02/n/h8aD58DCIK3pTmv3syL8ync4ZcCRBwpbGrVapnXlIbLUAIfhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1187_Sanjuanera_TV.png",
+        "name": "Sanjuanera TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD/ZMVWtW0seBfi2eTWd3DClaFNfriQ46yeaSxkGgmvTQ8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+        "name": "Telecolor TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD3QPKtsX81AeAfmwvVmZr4VHL55GF1qcgQanBIneQPTwpMheutLmGZSXwmnYEoS2uwlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1115_Tumpis_TV.png",
+        "name": "Tumpis TV",
+        "uri": "clPkoj85knU1/eGcdvB+5+QlCViiZqWzCuo4FofBecDiBhXNtj9z4dvCDtWjFKcXh+FASQbCFkMlcvOhWKty6w=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/701_TV_Cosmos_15_1.png",
+        "name": "TV Cosmos 15.1",
+        "uri": "dmf4IUiAJga6z2QadzrMCLZfZWec1ABWHdrwO4+mjONLiimRFi7ehakRRKMnkEDytANMPMwNbMP8Bu5eUO02d0Has/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
+        "name": "TV en linea Cusco",
+        "uri": "tMLhSFVOd3W1TKez4J+W46jBPO8hSERA4qNaW2iKzfIAEhWtXOR4vcyClq9c1U//QMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/702_Unitel.png",
+        "name": "Unitel",
+        "uri": "ywcwSsNlyMT9ikxKlMkrUPZb7XA1FDvoBZrsvLXyheFjDJPm+CK8iRL+micmWXblxQ7fsiF3QMrdEtN363mKa2BxbbF97h95nufBzx/CYAk="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
+        "name": "Uranio TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD+KxvDjTgGXk49B1Ipr9fYfRUD7s8bNLLeEa+Yu6WxHhPwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
+        "name": "Via Alto Mayo TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD/8cRKBPjYMBfjJ7+Z6ePKA//VttpFI7S1S0VBkMJCMrlV6OTlm8y2GL66Ye+37jhILNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
+        "name": "Via Television Tarapoto",
+        "uri": "gdjjlH0y84sBka/8yDi6RkpPTJIyaE7u/JDRYJPO8DPBOpfp74Wk/7h3fqjSFkev+k4JMPjqzIkSl3q2VfKUbVC2YJjkcYHZBRUxsgrlN3gJZ2uOlnZTTE0J0z8MBr3J"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1490_Vision_Sur_Television.png",
+        "name": "Vision Sur Television",
+        "uri": "q0NwMqRcfAnv2oi4VfJ3AdLLtCeOfepnzlOHx2pC3qHXEghLOqgX3+mbeMuMd85rsM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1183_VZ_TV.png",
+        "name": "VZ TV",
+        "uri": "rO8tZQAIC/gblDysM/QcD/8cRKBPjYMBfjJ7+Z6ePKA0d52zeGwBpegjSinoFvgUrL6RPXlkjglFrm3Af0LFrg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1555_Emanuel7_TV.png",
+        "name": "Emanuel7 TV",
+        "uri": "dFI8f0y0F3EGaPND3a+oFkQnTSZO4BfX9XBHjKHCZYjtnfnqIW7BFp+kQXqIPPUmDECYOSJ7vfHCZyxDRhq7Zay+kT15ZI4JRa5twH9Cxa4="
+      }
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://cdn.m3u.cl/logo/146_Promar_TV.png",
+        "name": "Promar TV",
+        "uri": "XKNB1Zs80pwn/wzxriThbKOM0a95NiZIQTGqhHDy9sYNpFkTVjU6wDScFA+kPnKT8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/499_Telesur.png",
+        "name": "Telesur",
+        "uri": "zitAOIuaFovsKTj9RBBOGZgPBD5bd8VxOl6WS0OvpE78BiwEwtLFuEvndTg4ZjSeTh4oGF5TX60bPwJvLmrzrUDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/500_Telesur_English.png",
+        "name": "Telesur English",
+        "uri": "vGm0W2gITg8t3+MYnohsLZgPBD5bd8VxOl6WS0OvpE7f9tnFkhz/O6TIG/5fVhM8Akx2spul63yvgT+pln04K78whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/519_Canal_i.png",
+        "name": "Canal i",
+        "uri": "XKNB1Zs80pwn/wzxriThbJev5Fh0rrfqftws0xFzrtz/4MBPqrw7mkim2hbNrppl8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+        "name": "Retro Plus TV",
+        "uri": "3i8QddClnDVyHoxOeyreDFwizho5SnCQ1PwASGMcJdnjql/TP6Uz+DX/t4KSG6xhWTqtp2Xp1pkViEscr885YIgvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/14_Urban_TV.png",
+        "name": "Urban TV",
+        "uri": "o8D3ObgnPVgFZnVJaWdxABwtNtX2J/JKlY48S8OO8Kp1gFrreytkmsnM6gdgfUsb0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+        "name": "Recuerdos Retro Radio TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkSCWyXYHngTNRNlX7pKlqXon1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/926_Oxigeno_Network.png",
+        "name": "Oxigeno Network",
+        "uri": "XKNB1Zs80pwn/wzxriThbP6qesLW0rYYptObr01ZILOORO/MMBJeSYpm1dhvQWSua9QYdy3byhT2fO7hRUqIbPjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/924_Panavision.png",
+        "name": "Panavision",
+        "uri": "XKNB1Zs80pwn/wzxriThbBQF+Z5fCI38miT5f6656qsnHO0/GshHIYZRngZzsrPIFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/928_MovieFE.png",
+        "name": "MovieFE",
+        "uri": "XKNB1Zs80pwn/wzxriThbNlyFzd6J9iWSxuwEQ9X5mLSMWfqeWMq6KZHSIkl1Zw5n1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Mundo de la Musica TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRciVX4Z5t/hgY7B/CcQmovn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1203_Chivacoa_TV.png",
+        "name": "Chivacoa TV",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8Hag7pMAFlG0XOWLkpuCwe6OrMH1VQsmq9ZV8c5jLu/+R031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1221_Cantina_TV.png",
+        "name": "Cantina TV",
+        "uri": "XKNB1Zs80pwn/wzxriThbEdPzcAjFI6sdZkkXXCpWpMDArNXkrAYzTc/pemIcFt4a9QYdy3byhT2fO7hRUqIbPjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1224_TRV.png",
+        "name": "TRV",
+        "uri": "cm4TK11XIAJQp3uhtDRlrNIu4DQjk+qCiCjV6pE4e1Z+0/y3W6aDxi/bzyM6vTZbahn19Lkn45i8oNVr3VKNPQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1227_TV_FANB.png",
+        "name": "TV FANB",
+        "uri": "2Ttm1uvN0V7PQcMi/c/ZHI6NqVjoTfdagcfDw36qYuc20pRqsEt4k49RBFLdVfDb0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1226_Vale_TV.png",
+        "name": "Vale TV",
+        "uri": "2Ttm1uvN0V7PQcMi/c/ZHMiojXXVk/PitJrOOERk2BXvZ0J3Gsmtcljry4NoOSX60aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1325_MDA_TV.png",
+        "name": "MDA TV",
+        "uri": "XKNB1Zs80pwn/wzxriThbMSvYZ03KF0c60Pw85MGMpvxAaMl52CRi10EPm0AduxGPwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1326_Globovision.png",
+        "name": "Globovision",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opZ/oSEJf9nLzyOWqBWahwF8gKucoChyZyRipSFB317E8zmk8E+u/FH9YhN+ko4Hn6fUOrJ/cFQdsKXLx14d2e2guGk0MBRED2s+xg2MmQj95SI/7hmOLLZxN4exwqtV21l3HKj/3DTrzL+BUwmGyVgw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1327_TRT.png",
+        "name": "TRT",
+        "uri": "zWeRz21b7ltkuiPVj0PSgYzA6+si3+eXC2h3yQWmqryMkQAeArCU5c6vJ65yY4OnQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1400_Torococo_TV.png",
+        "name": "Torococo TV",
+        "uri": "eEChDh6y145h7kPc/FvAPVaNEDEqKOCbIZl5W8Xj+k1CKUR/xZLnL9WTAjkOWFpFBe5zUPX81QjIujTWUe3TnGBxbbF97h95nufBzx/CYAk="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1439_Canal_Diplomatico.png",
+        "name": "Canal Diplomatico",
+        "uri": "3d9u5RMwOSTkkKi4zVPtcBWZu13RcAK0YKBvjI2dHOwVNBzYBh4Fljh5HylOZB8+DhZIP5+nR4H4Si2aKbq/cYgvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1440_Plous_TV.png",
+        "name": "Plous TV",
+        "uri": "3d9u5RMwOSTkkKi4zVPtcBr9R9ZhJFeybG2UWCGDQTVGjzoqZHwJo5W97PV8tbXB0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1438_Somos_TV.png",
+        "name": "Somos TV",
+        "uri": "cm4TK11XIAJQp3uhtDRlrKoOGpavO7ip2dqY+bUxzM0leV0+KpvQVS2Us1DnPRt0egkvposbkjJ2sAxpA7VYtWBxbbF97h95nufBzx/CYAk="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1573_Net_Channel.png",
+        "name": "Net Channel",
+        "uri": "Z+czhbQptZ35ugjZ5YSHZ5IW/6O68IfCAkU9JobofC+tmh3UQym/F9ODG1SzXuLF0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1575_Barinas_TV.png",
+        "name": "Barinas TV",
+        "uri": "J7u+IvfVX+RtGNcWaPE2S59yi9JxY4tHTaS+UhTztqCOJcqn2esuGddSmEVSrmHmFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1592_Televisora_Andina_de_Merida.png",
+        "name": "Televisora Andina de Merida",
+        "uri": "anbZJfriIt32QbXdaaHiznzo2myaqfnHa3rLhmDOL50efQFXd/gMDdnm/uX7MJn2QMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1593_Aguacate_TV.png",
+        "name": "Aguacate TV",
+        "uri": "52svd3KJDxJnZz3YkDFfAwqBajKaR3teGMzylWx/w5KArB6TdmIWpOijGBlkj7+M0seXqWOYbnmeQKCoJJ/RhpJN/Rum+RtmD294NeyG0NQJZ2uOlnZTTE0J0z8MBr3J"
+      }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png",
+        "name": "Conecta TV",
+        "uri": "7YK3B6bRlAmDIcxOsFmhLAgYaCFIqNE297jXLH08flkmoMoHL3K+NaImeNeMuVxby1Jg7oGB+V+cHTUpeRmtqmoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Mundo de la Musica TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRciVX4Z5t/hgY7B/CcQmovn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+        "name": "Recuerdos Retro Radio TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkSCWyXYHngTNRNlX7pKlqXon1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1288_Suyai_TV.png",
+        "name": "Suyai TV",
+        "uri": "OR/bZj5TSpu0H48sibp2EuCFu3mjP5/EJBCXM/3jWi+Q/KJBqaQhTGTFDv+HTcCQ4e0UywfLp/HeGS8Isusk2fjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/657_15TV_Sabinas.png",
+        "name": "15TV Sabinas",
+        "uri": "fI+ULLbWJLmGXuVuPDDSwa07tTSILY6oA7cmAsLwqFOfekDyF1B0/tr346/FnguXWYOubA66tRY8YDM8cb3uoUHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/642_8_NTV.png",
+        "name": "8 NTV",
+        "uri": "nlTEues9v+OKwuFk3wrk/z7ccBVvn7eapDp67Ztd7PE7a6/B1w2R1vED9MZQcWaSag1dq3vUM3M6XbcdEkEOykDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/658_ADN_40.png",
+        "name": "ADN 40",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P9qTdi9ric7k4yvnYefJhqr5cJthLETa0GJseQWwT0CbtGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/659_Canal_10_Cancun.png",
+        "name": "Canal 10 Cancun",
+        "uri": "HeL377utqF7BFuqDjwdTOTgy5wAL8SVW5jhgwtQPRejfOkQowap6FJz24l0avSqjYy/q5rYrUALHvu6i/xHIAp9Td58IdkadNs8AG9P4TmwJZ2uOlnZTTE0J0z8MBr3J"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png",
+        "name": "Canal 10 Chiapas",
+        "uri": "D9jZZEs6JhaKbz4+uLbbbYmWLO6MXyHZoNKO36ORLVko5+wla1vQnlnBkcZd424aEWshF4tgp3IzyhjmuJv6M17K9eGQBdosxbzyPqq0ydaH4UBJBsIWQyVy86FYq3Lr"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/663_Canal_4_Saltillo.png",
+        "name": "Canal 4 Saltillo",
+        "uri": "5GXxFBpYAf6dc8lYFz8u0KcqL9O7O0STi9z6CEDLhlJrcjnpZXNaSgLVGfNA/ULU7h8qNZTsYnYw2ZIiVCkxQkDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1171_Canal_Cultural_Huauchinango.png",
+        "name": "Canal Cultural Huauchinango",
+        "uri": "vrUBGbG/2VjYC6gbIla3jmMxubu5wfow8J+0vgZKATLcaA6uZyjhoLhIMcSnQgyuaoQjQALFED3Ax+yywab98UeyYKBledxsrKTwolcLU9h4jFn9K8MVGwKrS4Nld50yYHFtsX3uH3me58HPH8JgCQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1409_GikTVMX.png",
+        "name": "GikTVMX",
+        "uri": "jpJYE7b4V6Ig8sMl20AmSWzF517vC6Oo8cq/0K8FZkFZRr+O1mC/kXjzQ7Rqq9Wb5HTfVYD6u9OlLql1MKUX2g=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/652_Mexiquense_TV.png",
+        "name": "Mexiquense TV",
+        "uri": "UE35aGFW+1BQcMk1nYHWlYo5k8Kc5VzrYfgGIk7TVJzZjkOefUsLwFHl219+HAW5lBABaQ6pUpwgBwwbSdvKnSpKtdQvxBtO0Q35D41egpW/MISBLDw8YyJBnCBQomaB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png",
+        "name": "Multimedios CDMX",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P973c3damzql2vg3foUdoHgvj97OR51UeOOFMTub+8T9NGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png",
+        "name": "Multimedios Guadalajara",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P9Q1vdWj6hhLQ7EpPgsTTykSHvUqg2CgPhvteHjJLr/LdGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/669_Multimedios_Laguna.png",
+        "name": "Multimedios Laguna",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P/znNQxoBXWjLnsUpOC1ej121UrVx+ccHGmKNSdCRy+RNGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png",
+        "name": "Multimedios Monterrey",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P/LYNRnZyc6bvBp2dIWH4ngyPAz6qAkPCU7YbiT1tXDENGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/672_Presumiendo_Mexico.png",
+        "name": "Presumiendo Mexico",
+        "uri": "AIJA4FMSur52TkW8GKi3I2h7KbrdYc0FNpNt5d+yzeeB3jjbfC8x2wK9BZydy8vKkmuQ2fxJ0kZnrIc+ILsyNiB5E44+IjbdcFRn4vQsQoTyEzmtE6qgF36pbi+tgYGIadNvDfF4PEy0TI6ZcvTCrw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/673_RCG_1_Saltillo.png",
+        "name": "RCG 1 Saltillo",
+        "uri": "zrEaLfrPLCr5AZuAaYz+Oqu0LrCbWm6zwEUpk9V09LpmzKtHdSaMAwrGJgOOGqPRDziDtJKLNLpJ+cGpSPmSBkHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/676_RTQ_Queretaro.png",
+        "name": "RTQ Queretaro",
+        "uri": "mEvGjAw3dIbz33U5a7mWyGN67pKC6oYz3pNrcOP3mWaVy14Bxr0veGyN5i2eX7MMACBkjlU2cWtI3LPe0uJ20x8zvzlS+zxlII4sTUYpLtuCzY4pkRT8oohWjT3TgOFn"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/636_Teleplay.png",
+        "name": "Teleplay",
+        "uri": "mnk6wTLMs1YGkm9ob6mqrsor3+b15imZzm6VY1X/wtXHYw3yFuaj7Uiky9tJIEb7FZ7w6k8YtpAZqGTvav3K5AxAmDkie73xwmcsQ0Yau2WsvpE9eWSOCUWubcB/QsWu"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/680_Teleritmo.png",
+        "name": "Teleritmo",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P8cGEH0zDhEaOLX+urqHD1/o3lgpESNvDtygdREdT3B+dGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/647_Tlaxcala_TV.png",
+        "name": "Tlaxcala TV",
+        "uri": "t8yzIXPd3D1/RkQ/E90zqKjfbmZJvYqPoMUoCAP842bfY1XyFcGtN1g0urcktWzn2SE8jFpjMy83TZfa62epg1gFQXzu7aqBD3XYX7sPaLPfFA0teVLBPmAI0Byenh3/PwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/683_TRC_TV_Campeche.png",
+        "name": "TRC TV Campeche",
+        "uri": "GLNvnvWjUOZELFCmAd+nqTcF1m2eyQVSR6oJWsXfnDtRYLa2g1OyjZB64RX/tb60iC/MxM/uJ3GELUh/v08G5uR031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/638_TV_Lobo.png",
+        "name": "TV Lobo",
+        "uri": "FBT7PCwBwgjYk/xRIqQTXZZBp44/fQ2a/E0bZe2Ku4bz5uMnhNRmuBWFlH+++4aAA/TcKcKeo5040fOL80sT44gvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/656_TV4_Noticias.png",
+        "name": "TV4 Noticias",
+        "uri": "UE35aGFW+1BQcMk1nYHWlYo5k8Kc5VzrYfgGIk7TVJxx/QhWlUajWUmUl+3FG5i8J5/cqBV/f4oIZaM1fgE/YPITOa0TqqAXfqluL62BgYhp028N8Xg8TLRMjply9MKv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/651_TVP_Culiacan.png",
+        "name": "TVP Culiacan",
+        "uri": "UE35aGFW+1BQcMk1nYHWlYo5k8Kc5VzrYfgGIk7TVJyCW4Pr9b5Q7jzFvYjxmQ2ZME05gkbIa8pf6+RbuwGu2fgDdcbRM/T2b2ozQlk2moyfU3efCHZGnTbPABvT+E5sCWdrjpZ2U0xNCdM/DAa9yQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png",
+        "name": "TVP Los Mochis",
+        "uri": "UE35aGFW+1BQcMk1nYHWlYo5k8Kc5VzrYfgGIk7TVJyCW4Pr9b5Q7jzFvYjxmQ2ZzHy08Ys/DnEpYEfJK39upPXcjevrLPg/RVmG2KxgI6c/Aj2RRWiL3/qo5W0jFoaSNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png",
+        "name": "TVP Mazatlan",
+        "uri": "UE35aGFW+1BQcMk1nYHWlYo5k8Kc5VzrYfgGIk7TVJyCW4Pr9b5Q7jzFvYjxmQ2ZGH1j++HI8Hj58XhxtaGf1bgMPIRFHflh8mP3qR+w/0vyEzmtE6qgF36pbi+tgYGIadNvDfF4PEy0TI6ZcvTCrw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/650_TVP_Obregon.png",
+        "name": "TVP Obregon",
+        "uri": "UE35aGFW+1BQcMk1nYHWlYo5k8Kc5VzrYfgGIk7TVJyCW4Pr9b5Q7jzFvYjxmQ2ZCrSOlhClsqLlDX/oRTqS1BTgA3L7pzE9jy/AeTcr/TdAw7ndUwb7hcsx1eTXXFv/dIjJb5VULYPoYdAkSiLvmw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/641_UMTV.png",
+        "name": "UMTV",
+        "uri": "nlTEues9v+OKwuFk3wrk/z7ccBVvn7eapDp67Ztd7PF/EIYCvKmzK1FX21ERCNZusWXYOqkrffxjnts92LARlkfeFWu3ZqhWYW2EGu1dv63RoO9gXuEbhaqLKgyQ64MHXTKPmoCiF4b/qhrrd4Dobw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1042_AMX_Noticias.png",
+        "name": "AMX Noticias",
+        "uri": "O4owFiTGHXTDRqqiZkxE7tGjoMqZNKK7cN+wHy1Fdynyk0ko/3q7e/u3DVviFtrCOA5FSYWoKrQaBHamtTY9/2GETJ0Vqw8CROzAfhzgbthqGfX0uSfjmLyg1WvdUo09"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png",
+        "name": "Canal 66 El Canal de las Noticias",
+        "uri": "nlTEues9v+OKwuFk3wrk/z7ccBVvn7eapDp67Ztd7PGAdlJw0LsEqcwB4c/+BFn/TLkgjfRR3BuQFWgmCLC5HK9VAmXbHBEUPJgpVtGMNs1B2rP7AiWs5vF8hXLDW1qS"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/865_Alcance_TV.png",
+        "name": "Alcance TV",
+        "uri": "XEIXUm+incwXw6RoBCCaglm+J5U58A4dcqOd3QchaEa+g6WGWXdvnaVj7f5bmAO47lgQHnyCoPvmBxywt5haHmvUGHct28oU9nzu4UVKiGz42dzV5znnQbarfySpKvsI"
+      }
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/e0/Teleamazonas_Logo.png/revision/latest/scale-to-width-down/200?cb=20201007235119&path-prefix=es",
+        "name": "Tele Amazonas EC",
+        "uri": "jIouHwgBbxcskjQEP3CuB/LtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+CGLP8mu5nZvYpTjFdy4UK8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/95_America_Estereo.png",
+        "name": "America Estereo",
+        "uri": "dEW4zPVtAcQFusOGvF5isRQx9M5oFsVqUtP2wHe/aMBrW1tkwcm8ewfoZlUzIe6qlS7mTKi9jMMSk4UCVm/Mmty5Taa/+0X6fuu5j7Z+qdvRoO9gXuEbhaqLKgyQ64MHXTKPmoCiF4b/qhrrd4Dobw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/99_Ecotel_TV.png",
+        "name": "Ecotel TV",
+        "uri": "LdtOkaPvz4UW9vjTCeBO4o4vkmoYA6HmRfVgvGTI1JorOCb2E55L2P8ffV25xUPgUDXI12Muo3N1CRBRGb/8ZNGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1324_Ecuavisa.png",
+        "name": "Ecuavisa",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkhG52PVyC+OFVM2lkRA7wkCR0WCPMXtzzd+19Lfhvbpm1RLm3LArkrJtqyH5bgOXkETVbr7SMCRaRuuRPeWEzDm7CMgEsjsN1NSyw7hAcz819Gg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/102_Hechos_TV.png",
+        "name": "Hechos TV",
+        "uri": "hqtjlWR3MY2PfSRjGf6V72loGWFpa7H0bNuAcELd5ZJN4+bCgC3wDd7OpMem4bARDsUEKeIZ84qHenIRnAwP6IFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png",
+        "name": "Red TVE Ventanas",
+        "uri": "Xhg6n58xh0LA/DbbYKZhLkID6Y1IV64V2CJk/HHBWHOiGL8gvxlNs6Ymdc+GVD0QQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/108_RTU_TV.png",
+        "name": "RTU TV",
+        "uri": "DCu+g5fEp4euVkTM78QC5BQx9M5oFsVqUtP2wHe/aMAUE8o1/ZFzEQdT6xFthgrA0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/110_TV_Puruwa.png",
+        "name": "TV Puruwa",
+        "uri": "HQRHkVolmmt3vk9w7hQOpscMPr/irHsUjObqFinnQ59/Jo86dKbGvLP43OG5pe31IQjGl1x5TQHDRBJnRmAbIb8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1056_WuanPlus.png",
+        "name": "WuanPlus",
+        "uri": "dEW4zPVtAcQFusOGvF5isRQx9M5oFsVqUtP2wHe/aMAJCKd7tdwkUVxX3YiqQylOrZqhuwDN/X790mmtTf/2aGoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+        "name": "Recuerdos Retro Radio TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkSCWyXYHngTNRNlX7pKlqXon1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+        "name": "Retro Plus TV",
+        "uri": "3i8QddClnDVyHoxOeyreDFwizho5SnCQ1PwASGMcJdnjql/TP6Uz+DX/t4KSG6xhWTqtp2Xp1pkViEscr885YIgvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/176_Asomavision.png",
+        "name": "Asomavision",
+        "uri": "Zx1B2hXIr6IXiyRhQvVDprOK6eCbtYyApuTlaLe0E4aPmIdXirr8viHAMhBappgePwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/0c/Logo-tv-globo-2015.png/revision/latest/scale-to-width-down/200?cb=20210512200745&path-prefix=es",
+        "name": "Globo BR",
+        "uri": "Dquql0GDo0g6TiTlNSNLzM+UErWwCf3oA04mY787x1+dQ26h6cHVXKpUvekZ7tvGNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/0c/Logo-tv-globo-2015.png/revision/latest/scale-to-width-down/200?cb=20210512200745&path-prefix=es",
+        "name": "Globo BR",
+        "uri": "F55FNTr7T56AdrW4I26c5K9cdVd0IEPcMLcMwIRxG1LcION4WyUDgY+sApiUVzdci1cpClEWbZ2Fpkqc4LUH8nN4+LxBkWPl7lqpkskWm+A="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/982_Teleweb_TV.png",
+        "name": "Teleweb TV",
+        "uri": "OgMT/cQyWSOWWeAa8lv0C54RJE9awQTqcFKxdhpGi7FEAN/bNnaPZCS+zdWOF8Rnk4NWdreVEMTlgyKTR6q3zdGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/988_Vintage_TV.png",
+        "name": "Vintage TV",
+        "uri": "OgMT/cQyWSOWWeAa8lv0Cx/BAwAnutcnvaliNoHSFa9woFSfY2nV6oOh+laBT188xYM926lIaP7kQscZvi7+3UDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1028_ArarunaTV.png",
+        "name": "ArarunaTV",
+        "uri": "ONKDr3H/gxsu6J++Ho2SAlPwgu6ZnOAOt4j1l9GkEgrJklw9EZzzDuWxOLBmAS2fDFbMvJ3u7dLfsE7TOCTvoEDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/560_Band.png",
+        "name": "Band",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5Fe9jENhlvtRecUUf9blvKdrQc9AcLxDMIDgAepArM4Oh0DDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/547_Classique_TV.png",
+        "name": "Classique TV",
+        "uri": "LlG3GeOOyoycDPQpWMopN27PH+rDVlUWRZzoYCZEiEZbYRsahnOnBumwMTJMURtWiC/MxM/uJ3GELUh/v08G5uR031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/585_NTV_Patos_de_Minas.png",
+        "name": "NTV Patos de Minas",
+        "uri": "ONKDr3H/gxsu6J++Ho2SAlPwgu6ZnOAOt4j1l9GkEgo1+nihuUCAEI2tXB5NBGRAsM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/572_Record_News_Espirito_Santo.png",
+        "name": "Record News Espirito Santo",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FfQazwKDiOs+G4sGnOs1A3NFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/576_TV_A_Plateia.png",
+        "name": "TV A Plateia",
+        "uri": "OgMT/cQyWSOWWeAa8lv0C5LdPwIc2kbT2/EM0IwJV2aH7N4VFiRJbt181PLnOnzz4htEZ25Fx0DKP9P2q0E+EGoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/551_TV_Agua_Boa.png",
+        "name": "TV Água Boa",
+        "uri": "NXorm+bK51pfIp8UJ1GkeNioE9zmq+fx2Ue8r2z1SSWBv1Iw6M2Wnhi9BNie5G/vd5HrclUly0oiXJ0DbEpM9BWL3waMheFjpc/q4zzm6XKBSpdxCIS4n8ZgbePaKudB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1296_TV_Curuca.png",
+        "name": "TV Curuça",
+        "uri": "LlG3GeOOyoycDPQpWMopNxdAemwicxe0sO9qJ5av7LZ/BI49s68CLr7FJOUWUiayXsr14ZAF2izFvPI+qrTJ1ofhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/531_TV_Destak.png",
+        "name": "TV Destak",
+        "uri": "w3y3zQSGioTt84ytOofoNlPwgu6ZnOAOt4j1l9GkEgqJY8g9HyeCz4HDxwO0XbH9B5OtxKdT0q0cjOuZ6XvBJWoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/536_TV_Digital_Birigui.jpg",
+        "name": "TV Digital Birigui",
+        "uri": "w3y3zQSGioTt84ytOofoNlPwgu6ZnOAOt4j1l9GkEgpTwHEhjoHH+Q2qUVeeDwrkiSBC278UilYKBo9jGMBDBARGCM7/7+J6tmwPzp/1Qti/MISBLDw8YyJBnCBQomaB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/989_TV_Mais.png",
+        "name": "TV Mais",
+        "uri": "MbLnzD9vpthXxTeC6G5yQWtXrOvEn7PR5ZDhlL/vqbxOOfkQKqygVThWv8w4OucodHl5mgGS5gIh5MBl+FmKgT8CPZFFaIvf+qjlbSMWhpI2/C7RJMUYUOt4rCUkl+4k"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/592_TV_Mana_Brasil.png",
+        "name": "TV Maná Brasil",
+        "uri": "7ufrBgsMScDHq4A7YlNF0wt+X2LXVo1yqTk7Sr3/eqROgzX82oj1AXKukOARMxVgDzv9CbQCEaX8k0kRDK1uggxAmDkie73xwmcsQ0Yau2WsvpE9eWSOCUWubcB/QsWu"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/567_TV_Mundial.jpg",
+        "name": "TV Mundial",
+        "uri": "8BskemdisFST22x3ikhvS8cI/DnZhBuqme6pNjukhZXD40Go/rPN1AGmUmBEGmxlzW3XPmAQ1e5lMOk8uoheWNGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/532_TV_Pombal.png",
+        "name": "TV Pombal",
+        "uri": "3lCid5Us67Nm15L/cvmzOY5XcKrVuNVOtb6enlL3VQn5quFasg4D0UycDi/guhvPQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/582_TV_Rio_Preto.png",
+        "name": "TV Rio Preto",
+        "uri": "YkKcI/kPvTYVb4GgaQkly1Pwgu6ZnOAOt4j1l9GkEgqagxZkoC3Z7eibebnHb/PmrTCuSw12/5mGG8TmTDakh9Gg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/992_TV_Sim_Cachoeiro.png",
+        "name": "TV Sim Cachoeiro",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FdBlOXJj1PAI2BGDPaFwbRW3zVkwx5NtYJ2wOk8Xm2TokHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/565_TV_Sim_Colatina.png",
+        "name": "TV Sim Colatina",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FdBf3ckHy99oeyoCdJfCXrWZm5qizhIhYTBtRbZdKQRNEHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/991_TV_Sim_Linhares.png",
+        "name": "TV Sim Linhares",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FdBlOXJj1PAI2BGDPaFwbRW3zVkwx5NtYJ2wOk8Xm2TokHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/993_TV_Sim_Vitoria.png",
+        "name": "TV Sim Vitória",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FdBlOXJj1PAI2BGDPaFwbRW3zVkwx5NtYJ2wOk8Xm2TokHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/544_TV_Sul.jpg",
+        "name": "TV Sul",
+        "uri": "375qiYHsqocwVx/BDy0whCDZ6TzQ5s/VWjauUWy8LyROFz3zmaCdAPfit2mUGpMziC/MxM/uJ3GELUh/v08G5uR031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/575_TV_Vicosa.jpg",
+        "name": "TV Vicosa",
+        "uri": "N4BKH9+Vfy5ECTMRpYbQwLTcZd2n+SBb3FnCryJ4iaHap1zysN76LkMxrv4MnIv1FYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/591_TVE.jpg",
+        "name": "TVE",
+        "uri": "FBT7PCwBwgjYk/xRIqQTXWEtlkuseoGC29Y4f4ofznno2XXMWP6A/AHS5hZb7LOSFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1311_Yeeaah_TV.png",
+        "name": "Yeeaah TV",
+        "uri": "UOUN05NMjJMHGUypINGYzBUpma5oLJteoH/nSzcj8QXn8En5wBteFNNuuwAEds4esBAD9SGdWVRS/AGkrsASy78whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/574_All_Sports.png",
+        "name": "All Sports",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FdZbc6a4/7gofNt7Efa+Dz/eWzfUbmA4rderxDBGOtfgXRy2EdjAfuwJaaxNibPiwj42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/559_Canal_29.png",
+        "name": "Canal 29",
+        "uri": "LlG3GeOOyoycDPQpWMopN9rUR8HKNRBV17atcMg7MHLCEAmCq+VFrtyI/CdS/uoa0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1169_Geekdot.png",
+        "name": "Geekdot",
+        "uri": "SulIRcftgKknEY/Bs4OPpKFOzsGG/H5fKmUG7I0t/HP529rZ4j9gkN4uIafnBRNYPwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/528_Gospel_Cartoon.png",
+        "name": "Gospel Cartoon",
+        "uri": "LlG3GeOOyoycDPQpWMopN/u4qPKU+5ZLFThQYfh9vDzEKawaxiOzxUjUJnhu8L9Vt0wpBsf4lz1Gzr5to5k7a78whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/554_ISTV.jpg",
+        "name": "ISTV",
+        "uri": "LlG3GeOOyoycDPQpWMopN2o/M3uOHbFOwBWGW37cr7V8DvGyKg50DqYBaUnz7+mRDECYOSJ7vfHCZyxDRhq7Zay+kT15ZI4JRa5twH9Cxa4="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/534_Kuriakos_Kids.png",
+        "name": "Kuriakos Kids",
+        "uri": "JtMiexzFsZ5ok7V9KQP24VQ1rhmHf15zy+Bmq2lRAGA3IveAq88GPWR4vzUdsU05DECYOSJ7vfHCZyxDRhq7Zay+kT15ZI4JRa5twH9Cxa4="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/555_Retro_Cartoon.png",
+        "name": "Retro Cartoon",
+        "uri": "LlG3GeOOyoycDPQpWMopNwO5P0bXoVEdc6whKr99GA350BwJB9VuS7XPdq6uNY1h5bAofb3SUjPH5na+3NjF1vjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/556_TV_Aracati.jpg",
+        "name": "TV Aracati",
+        "uri": "RnyxXwMdXm0/eAy452wUxVPwgu6ZnOAOt4j1l9GkEgpT2MHJaOWmwM3E5mlnGJ/8TVm/Rr6/OHjZTsvVhukU5EDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/579_TV_J_SID.jpg",
+        "name": "TV J.SID",
+        "uri": "ONKDr3H/gxsu6J++Ho2SAlPwgu6ZnOAOt4j1l9GkEgoGK2PnkEUW4qFxaF2tSFi5sM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/550_TV_Japi.png",
+        "name": "TV Japi",
+        "uri": "MbLnzD9vpthXxTeC6G5yQfEXlTOAEdbsox9mcWn86LVifqLshBFWsbnw4TRw/+ebn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/546_Top_TV.png",
+        "name": "Top TV",
+        "uri": "xYJLuGanL8oPlV739a9M7RZjKXEcAbNS8NbBWPYK3+0B7jEyB2d6Etd8UqH51m5IQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/540_Gospel_Movies_Television.jpg",
+        "name": "Gospel Movies Television",
+        "uri": "LlG3GeOOyoycDPQpWMopN+Pfg3QidS3Z6B8aR5OMtDy54CwyGXraWDPmURwqCXpe5bAofb3SUjPH5na+3NjF1vjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/165_Nuevo_Tiempo.png",
+        "name": "Nuevo Tiempo",
+        "uri": "5KLQ/AWNg+vN30IW+3f18R6OrmHqMipUzhIVHtgBevVJFLhEupwnIZLeqhjoDZF3FN/X1I2CfJubaprR4WSVaGvUGHct28oU9nzu4UVKiGz42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/571_Rede_Vida.jpg",
+        "name": "Rede Vida",
+        "uri": "eWMqO46V6jyBh299WY69cWBRtu+LrzlMu5Kc0H/kGc1/uxEVcZ/0EziqQguUzUeridsICDJywAnsKYdT10TjaGvUGHct28oU9nzu4UVKiGz42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg",
+        "name": "TV Aparecida",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrNAJuheh+0RlhFSrp+aA+I3yH4kdMppYZehTUKxJznFfNGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/566_TV_Rede_Gospel.jpg",
+        "name": "TV Rede Gospel",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrM2BdyVUxlzH36hLpepEImgk8ui90vraLzW799XJA59d9Gg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/563_TV_Universal.jpg",
+        "name": "TV Universal",
+        "uri": "zu2P87xl3VPUEcAdB97TissHgXHbgbxw56n7VSKuVrUTSLveCXgu/6SMhl7IXNwCx/oWO84deYax4I773jn5BmvUGHct28oU9nzu4UVKiGz42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00",
+        "name": "CONEC_TV",
+        "uri": "kZYfy0UGUsobcWEBQZc9flf7XNCCkvGNuPmFnfeHeyy1gggb0n/LNEUntY94FDbnVh5K0Ms8Qx4Uv+WBevgEFw=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/800px-Record_News_logo_2022.svg.png",
+        "name": "RECORD_NEWS",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FfNngnjzP3HG8UWm+e8uPWBA9EbB0Pl7ohVmgqLsyunWnZIL3BqAEGW9OOoPIZkqYA="
+      },
+      {
+        "name": "Adesso TV (720p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrM6LwVHOqiMwr8WXAq/tIMMkPjhNZKDMqoHh9pZVx2thbOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "SBT",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
+      },
+      {
+        "name": "AgroBrasil TV (720p) [Not 24/7]",
+        "uri": "mm8v3uCuuCVXRWBxgYx+bmalFCcdEMNqNH9YuoxsVYErgpFAT6ZswV32ow8c9OojILR/MEtv7n5gOyhaOTfjDLeEoI6OCxDg0qkQfm5ove8="
+      },
+      {
+        "name": "AgroBrasil TV (720p) [Not 24/7]",
+        "uri": "s2mwZRL6Vpmnn2sg/UPnd007Pu/kkjB9xM/PPW4ggmYrXColikJoqK7JLNgfqAZco7+jiBJSVTbfIk2+2Uagpz45mjJiHgTjslbU/UPaygk="
+      },
+      {
+        "name": "All Sports (720p)",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FdZbc6a4/7gofNt7Efa+Dz/6HOeRi5qfCsmo/LtIm+DSQ=="
+      },
+      {
+        "name": "Amazon Sat (1080p)",
+        "uri": "MmpSVz7nNBt1oD+FrNSM3BgXUG1BVEK93xTUrbrBRZsFRMvcqcap4+hmWqmizXBLToIYASZTQHC06JbpRDH+vA=="
+      },
+      {
+        "name": "Anime TV (360p) [Not 24/7]",
+        "uri": "LlG3GeOOyoycDPQpWMopN8z0h58uHjM8AoX0Ey/b1TcG4wbdUxFWJS0z0com/vjAs5Oxanhcr9njw5nZ72+uXg=="
+      },
+      {
+        "name": "Assembleia Legislativa do Estado de Mato Grosso (720p)",
+        "uri": "f8Ke7lgOqYUOR9ykRNbCwMKcPXtw5HHpKtYgM2Iyb0g3xaVFzHDGXrlZUT4aHvn6"
+      },
+      {
+        "name": "Boas Novas (1080p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrMzr7hEByu541eVV/lmCmuMDIBbvKgX+ruHjDG6luAo07OTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
+        "uri": "kZYfy0UGUsobcWEBQZc9flf7XNCCkvGNuPmFnfeHeyxxInfcaUTh4gexvlRMLvytuNd1RL+5bLSGxGo7yPQcVg=="
+      },
+      {
+        "name": "Canal 38 (720p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOkVG5dqxu53D/HrPUe5ybjd2FEpdbyi3G3qYtpzFtSsbOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "Canal do Criador (1080p)",
+        "uri": "dv3wqq51ctms/Zo+oFafXcHgn2+nuAlQz5Cxx8vW25SdOBdburm9ONvTFU93fu4LV8yCxvXym3KWk4Jz0hSxd69VAmXbHBEUPJgpVtGMNs02/C7RJMUYUOt4rCUkl+4k"
+      },
+      {
+        "name": "Canal do Inter (720p) [Not 24/7]",
+        "uri": "OgMT/cQyWSOWWeAa8lv0C7RT96pnTTNnjg+rnf2xn2BjKEDPTVq7eWxQCfCUYxECgi1xIUd0pPuo0/m29doGDdgkdaHI+zJ9Ws2te7V7EWM="
+      },
+      {
+        "name": "Canal Metropolitano de Noticias (720p)",
+        "uri": "OgMT/cQyWSOWWeAa8lv0C1Pwgu6ZnOAOt4j1l9GkEgr1u5V96GHsU6op8DaveUm5ANhFtxzcgbkqud4kg5s0v9ODeoxUeMjeymkXV2cW0W4="
+      },
+      {
+        "name": "ConecTV Brasil (720p)",
+        "uri": "kZYfy0UGUsobcWEBQZc9flf7XNCCkvGNuPmFnfeHeyy1gggb0n/LNEUntY94FDbnVh5K0Ms8Qx4Uv+WBevgEFw=="
+      },
+      {
+        "name": "Conexão TV (720p)",
+        "uri": "1gpjddE7FvhZE9jdf2TArWlBRzpT8SESvudmSa8b0tDCeG7L9Z1+p7b7NUu3nJS4WrkQJ/PPMlyfbHqngXh6CTdDhZIF0YOkAKIHAVp0Kfk="
+      },
+      {
+        "name": "CWB TV (720p)",
+        "uri": "mEvGjAw3dIbz33U5a7mWyGN67pKC6oYz3pNrcOP3mWabAfizYJ8DZTp83wd5WWF16HOeRi5qfCsmo/LtIm+DSQ=="
+      },
+      {
+        "name": "Demais TV (720p)",
+        "uri": "4B1W+UsAvWwKBzsYgWWep79dS0AHOwzIo3PiPx/m7Md0XR5LQPKb2UANqMR1QYCG/oDmCJ2NPcwRuE7a/e6Aez45mjJiHgTjslbU/UPaygk="
+      },
+      {
+        "name": "ElyTV (360p)",
+        "uri": "LlG3GeOOyoycDPQpWMopN1cnKGs1w8RIw7dEgKiAoe9796DtW2LcYX8qhASfJThW"
+      },
+      {
+        "name": "EUTV (720p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrM2BdyVUxlzH36hLpepEImgk8ui90vraLzW799XJA59d7OTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "Fala Litoral (480p)",
+        "uri": "KkY5C3yvds4+WuNwv06j/syx0lLUNrwAH+B+NEmfMIX0qpstyRW9N4gHZu9nj6bi/H0BCnqJAdBMQlp1ydChMOhznkYuanwrJqPy7SJvg0k="
+      },
+      {
+        "name": "Fonte TV (1080p) [Not 24/7]",
+        "uri": "QvgUgwdczY+3HDTq7DTyZWgVYs/RoVsI+b6GYpQZrlpUjNHmi+8S+0V2ak36/eGUC7GqYHeYjRcc2ziyhg+GGA=="
+      },
+      {
+        "name": "Geekdot (720p)",
+        "uri": "SulIRcftgKknEY/Bs4OPpKFOzsGG/H5fKmUG7I0t/HP529rZ4j9gkN4uIafnBRNYt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "name": "Gospel Cartoon (360p)",
+        "uri": "LlG3GeOOyoycDPQpWMopN/u4qPKU+5ZLFThQYfh9vDzEKawaxiOzxUjUJnhu8L9Vt0wpBsf4lz1Gzr5to5k7ayGFPonhW4D5sHGXbPJPhgY="
+      },
+      {
+        "name": "Gospel Movie TV (360p)",
+        "uri": "LlG3GeOOyoycDPQpWMopN+Pfg3QidS3Z6B8aR5OMtDy54CwyGXraWDPmURwqCXpes5Oxanhcr9njw5nZ72+uXg=="
+      },
+      {
+        "name": "IMPD TV (720p)",
+        "uri": "8BskemdisFST22x3ikhvS8cI/DnZhBuqme6pNjukhZXD40Go/rPN1AGmUmBEGmxlzW3XPmAQ1e5lMOk8uoheWLOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "ISTV (720p) [Not 24/7]",
+        "uri": "LlG3GeOOyoycDPQpWMopN2o/M3uOHbFOwBWGW37cr7V8DvGyKg50DqYBaUnz7+mR6HOeRi5qfCsmo/LtIm+DSQ=="
+      }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://cdn.m3u.cl/logo/1545_Estacion_Retro.png",
+        "name": "Estacion Retro",
+        "uri": "hPGll8N8i5lFKXBFCSpcqPat6NlCi4foPEkjW5k5uMVvywALJCsUCcJcrwOX/vR098m3P5E56xzx6gzsylJEz4LNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/113_Cali_TV.png",
+        "name": "Cali TV",
+        "uri": "6sgQ9IGIkP8GvUqb6zv/jb2+qoUpgZS9I3kP1z50n4GLeiELXX24x07jPkH3aphfJtbMPN6fml9bEOwd5F05CPdFhBEAVtdpd/nt7CiMoTpB2rP7AiWs5vF8hXLDW1qS"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/120_Canal_Institucional.png",
+        "name": "Canal Institucional",
+        "uri": "f8Ke7lgOqYUOR9ykRNbCwFUD/kAOHkPSUlvffFgDFt0cUVk6AIzInJ7ooAHAafFLzJ9nYbAj/qj6n+qssHdEexF2fOlFBPpNjfrWufp6G1XRoO9gXuEbhaqLKgyQ64MHXTKPmoCiF4b/qhrrd4Dobw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/122_Canal_Vision_Dorada.png",
+        "name": "Canal Visión Dorada",
+        "uri": "MyxG8Rc5MwJibtl1v9nGgA7Tj0VV9DkxvwtZSM8Uu2QBRH+Gtcw59EBKUdWMy6S/PwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/125_Cosmovision.png",
+        "name": "Cosmovisión",
+        "uri": "lGsiqShsWY4iElCOpeoODqxkZUpcFkWFjRUNOdwhJSsRD7jnK9f57ANyYYIPVpKngUqXcQiEuJ/GYG3j2irnQQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/126_CTV.png",
+        "name": "CTV",
+        "uri": "Io5IXoQrXRUflXq1VbVgFCRGXOTKtSM3SuebH0/yBta35Tht7jOe5QsFPGElu320S8LlPUkIVZbkQ3nBle9p8J9Td58IdkadNs8AG9P4TmwJZ2uOlnZTTE0J0z8MBr3J"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/128_Senal_Colombia.png",
+        "name": "Señal Colombia",
+        "uri": "f8Ke7lgOqYUOR9ykRNbCwFUD/kAOHkPSUlvffFgDFt2crd9o/UxD3r9f1aUmqDuLyxN4LVN8jUqer8VPBEmoEBIvmc9COPOxX+eUAg7o30C/MISBLDw8YyJBnCBQomaB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/129_Suram.png",
+        "name": "Suram",
+        "uri": "4ermeGafEQHLOHWOkCaK+3JYV8t04CG1OEjgn4peSqz3Zkazrpd1EDVcVMnQx+91n8hKaXhX7AHsVBawMqRAp+R031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/130_TDI.png",
+        "name": "TDI",
+        "uri": "C4mU+446uwfRfysWJYOzujfPHxqFJXXOPg0I1WID8apV2PB0IYlVx49rjet6op9bgB5wG79urEKCgySI/5h2JEDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/137_Tele_Islas.png",
+        "name": "Tele Islas",
+        "uri": "6sgQ9IGIkP8GvUqb6zv/jb2+qoUpgZS9I3kP1z50n4HkgxsizYNDwaqlK4zYIKW6+MEndbETQ471oJfKxi505kBAgdbVCRREIrHi085RXQ3RoO9gXuEbhaqLKgyQ64MHXTKPmoCiF4b/qhrrd4Dobw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/135_Telepacifico.png",
+        "name": "Telepacífico",
+        "uri": "HwS+0hna7aFL1PJGvr7ho3ALpWsJcf3Vmj4Th742KHuXvQFc73wnmmmJREdZ8MYWUKvWp9JsNZJDhZ51VHwdUDLE4YIJdKQzTLIs3jsXkAg/Aj2RRWiL3/qo5W0jFoaSNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/140_Zoom_TV.png",
+        "name": "Zoom TV",
+        "uri": "M7cXfSTaMF5HfsJMRQiicKEK/FfzcdmXLn4yeIQKAp1DZgjEA1Xq5/msOzewts/dn1U2me3hEsUjCT33yhFSiUHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/187_Tele_Familia.png",
+        "name": "Tele Familia",
+        "uri": "qBc2UCcw/6za0UDnD/2gUK7sCbReNv2esXOH0g36BlXYFnSG70PRRaS5yDHLTXHdoPKj5rqxa6CgpZJeDhnuwD8CPZFFaIvf+qjlbSMWhpI2/C7RJMUYUOt4rCUkl+4k"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/181_TV_Gracia.png",
+        "name": "TV Gracia",
+        "uri": "pwg776lMQJZfK9Txoxa7nVAqs5pL0e0b0ezfo9mgpt3dS5bhCR1EOoDMK8yDq+84a9QYdy3byhT2fO7hRUqIbPjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+        "name": "Recuerdos Retro Radio TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkSCWyXYHngTNRNlX7pKlqXon1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+        "name": "Retro Plus TV",
+        "uri": "3i8QddClnDVyHoxOeyreDFwizho5SnCQ1PwASGMcJdnjql/TP6Uz+DX/t4KSG6xhWTqtp2Xp1pkViEscr885YIgvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/862_Oasis_TV.png",
+        "name": "Oasis TV",
+        "uri": "GR4zEGwEum3YDPiOAf4oWppDKIL3FZm6pTDJqGlfZUNrT+W3jYHcgkDZUcynC72XFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Mundo de la Musica TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRciVX4Z5t/hgY7B/CcQmovn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1090_Noticiero_90_Minutos.png",
+        "name": "Noticiero 90 Minutos",
+        "uri": "HwS+0hna7aFL1PJGvr7ho4GxsQfn/r8DpjfWZNw0Sga/pJTxIGNbpUHkmCDRBj3OEs5yhWT8xaXItoltfJcvzSuZHhujTPYfSCo9nAnlKM8/Aj2RRWiL3/qo5W0jFoaSNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1557_Salsagorda_Television.png",
+        "name": "Salsagorda Television",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuUREnl+Fd3oOcVwJDOAgXkUpMheutLmGZSXwmnYEoS2uwlna46WdlNMTQnTPwwGvck="
+      }
+    ]
+  },
+  {
+    "name": "Chile",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+        "name": "Retro Plus TV",
+        "uri": "3i8QddClnDVyHoxOeyreDFwizho5SnCQ1PwASGMcJdnjql/TP6Uz+DX/t4KSG6xhWTqtp2Xp1pkViEscr885YIgvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+        "name": "Recuerdos Retro Radio TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkSCWyXYHngTNRNlX7pKlqXon1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
+        "name": "VClassicTV",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpYhp70sXoPFfL36FThzSPky8WKvX+mWYjHnAqCvkwXVs78whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
+        "name": "VClassicTV Tropical",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpYIauM/qXW5FihmBt/mPC1oU9dHZ1/VuweHIum08UOkP78whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
+        "name": "Portal FoxMix",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkQP9KoCcvufgSMw/cd3nm+Qn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1436_Apanines_TV.png",
+        "name": "Apanines TV",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuVcPHERn1/O6YrVT3i19f0U6OrMH1VQsmq9ZV8c5jLu/+R031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1466_Pandamax_TV.png",
+        "name": "Pandamax TV",
+        "uri": "Hh0eYwT90KENp7bX+duz5pJaZ60Ox/M0/bKJGFtrOU7JhWklzh+smQYEl/cSx+c//aelaBbvivujkQKHw9bMyGoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
+        "name": "Moni TV",
+        "uri": "OR/bZj5TSpu0H48sibp2EuCFu3mjP5/EJBCXM/3jWi8VROYHL0bfHwePu0l3188kPf2O/ujznxoNEj3DOtwRa4FKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/13_Ruidos_TV.png",
+        "name": "Ruidos TV",
+        "uri": "OR/bZj5TSpu0H48sibp2EuCFu3mjP5/EJBCXM/3jWi+fJG4R6HY/63I4RRyiU+mbvbUPlcCud4+geP1yVWCNnYFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1312_Eternal_Metal.png",
+        "name": "Eternal Metal",
+        "uri": "uOhe3qRnMkG0In6mUzu9m6MmwszRIRErAkd5yPExtWOt8ak6QvjoH6uKlsK/75Sn0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
+        "name": "Latinos Radio",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKF/XPgMvCiqds7rctywqzkA9+OWBihBCfA204PA1GQLOwFIfZCC7CzuSFhXGyh3C+X/ITOa0TqqAXfqluL62BgYhp028N8Xg8TLRMjply9MKv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1424_Parentesis_TV.png",
+        "name": "Parentesis TV",
+        "uri": "SsC3WsisyjbxD42PmRI8idZ+UjbcfOtU0Fie1gbTvT//kAghh1iFpkSbBcpsgFcnU/1EQNBvaIQSt+Tcabj25p9Td58IdkadNs8AG9P4TmwJZ2uOlnZTTE0J0z8MBr3J"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Mundo de la Musica TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRciVX4Z5t/hgY7B/CcQmovn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png",
+        "name": "La Chilena TV",
+        "uri": "xLDrsc2I0YnW195QpPdiKXJWnn7PkS5plcJNMRF8IKMsW2b9DGtJfkFdOWRBAmOC+Nnc1ec550G2q38kqSr7CA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1288_Suyai_TV.png",
+        "name": "Suyai TV",
+        "uri": "OR/bZj5TSpu0H48sibp2EuCFu3mjP5/EJBCXM/3jWi+Q/KJBqaQhTGTFDv+HTcCQ4e0UywfLp/HeGS8Isusk2fjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1602_RTV.png",
+        "name": "RTV",
+        "uri": "xHDUS6ZyufkSgerPj59c+XJ4FvqpCYPR1+0wfAWi6NhO27gvAoapL38j7G6a+ifqrL6RPXlkjglFrm3Af0LFrg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/897_Retro_Play_TV.png",
+        "name": "Retro Play TV",
+        "uri": "88PG/48FLBimBWSidzwgRe+ykBLlMXNRVmsYZOPKeHWEdQPDjQKEqaE3IbU99N59Qdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1601_Maray_TV.png",
+        "name": "Maray TV",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpY8JXioBY163sY9APcIglQk05e3BanVq+FsFox56o+1JWvUGHct28oU9nzu4UVKiGz42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1587_DVC_Television.png",
+        "name": "DVC Television",
+        "uri": "eEChDh6y145h7kPc/FvAPVdxIBBV4TVGY2exT2o0EfRQuDGpTqzhMAXARrmkgAwqPwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1586_Chile_Remix.png",
+        "name": "Chile Remix",
+        "uri": "HQRHkVolmmt3vk9w7hQOpscMPr/irHsUjObqFinnQ59kv8IKQRBMQAatH59shEDI4PID/nnh1TqOYR+H/DY2RmoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1314_Unetev.png",
+        "name": "Unetev",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkS950NantoyD1WdvBif6gain1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1574_Rock_City.png",
+        "name": "Rock City",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuXPPKzdCt8nNJ5ZiWzV0y63UJ/FLDEj33r3BimuTQ6fNYfhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1563_Modo_Radio.png",
+        "name": "Modo Radio",
+        "uri": "lQ3lYERTtY/VrBF8Dskr9ai1kkBB6XevGraEH36/cmOo/aNYkzkRuDJ/LfwNmitC2YU3jx2AqLXMSjiBdVR3ur8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1566_Latina_TV.png",
+        "name": "Latina TV",
+        "uri": "doHyd2kafpMUAY1PX4ODZfvAYYbaqbtLK0z88IWyqvGP3xWdzqW6dRi/WTgTZubWQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
+        "name": "Ritmo Top Latino",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRkASsICIfCklQKSm5Pc8I7n1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1565_Radio_Imagen_106_5.png",
+        "name": "Radio Imagen 106.5",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkQYCh9A9MFD/AoFR6dTfjI/n1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1553_Providencia_TV.png",
+        "name": "Providencia TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54sK2eHnOCHr7A0yItFFYoZgQE+TGdlsdAeY+041WLx24PwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png",
+        "name": "Sabrosona TV",
+        "uri": "LG5UiBO5bcBgbdJqLTRpur39sVstWJ39uidcncOKxKGQAfH98qq2up8Sf10lm+xvsUEPyz2XC73BL/euQWBBd/jZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1281_Caldera_Vision_TV.png",
+        "name": "Caldera Vision TV",
+        "uri": "eEChDh6y145h7kPc/FvAPdhmqYqwBFiaZcV7hFCUjTZuzbLIwFJS7LR4rP7h9Fn38hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1538_Radio_Navarino.png",
+        "name": "Radio Navarino",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRK0mYBt/BtP7cBekk5Emaun1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/881_Wapp.png",
+        "name": "Wapp",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkjXdPZrzKbvB6n5iGGGnfDQy65YzaVk2JolLPYfHE+YrP/SkJn3cMtC90nhq2bMddWZmYlRHZsDNePtSZRPLaNREi+Zz0I487Ff55QCDujfQL8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/790_La_Red.png",
+        "name": "La Red",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZkRtKZ4NF7lBLdU5OodPFGEi+Zz0I487Ff55QCDujfQL8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/45_NTV.png",
+        "name": "NTV",
+        "uri": "7obSh2/FSPACzMbdvY16GluaCZis55fRw6J8nj5VBdZeyvXhkAXaLMW88j6qtMnWh+FASQbCFkMlcvOhWKty6w=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1437_TVN3.png",
+        "name": "TVN3",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P/FSzwszqrsZwPQ3s5W0vQ2VTB5NJkR8qB6C3KrzFazmdGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1054_T13.png",
+        "name": "T13",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkiPgLXhifQYU9LND3NHjqSF/6SLWV8omBAlwAT7z0Uktn0jQdZ3Rq4tWvUto8AJsWfs+Ut3Sh1ZjXuvGXyh8y87Xsr14ZAF2izFvPI+qrTJ1ofhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
+        "name": "T13 Radio",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZLd/riAZBlmHoX+aod59AuPHXl+UtEnpjXVzsEoSFKb3oJL6aLG5IydrAMaQO1WLVgcW2xfe4feZ7nwc8fwmAJ"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1487_Radio_Labrar_TV.png",
+        "name": "Radio Labrar TV",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuXxu42U7QaJYQbuC858ggSmsFBuoutYyC5BbwPUaJP1moFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1474_WF9.png",
+        "name": "WF9",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpa1aLMge6HY51VIZSLvdxL0u0EY9+HDL9t751K90BdMXb8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1473_Music_PUQ.png",
+        "name": "Music PUQ",
+        "uri": "xLDrsc2I0YnW195QpPdiKTbGIiePh6xQR6NAwa4yBGOCz7dwyxMLGAucFBcyHjdgQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1430_Classic_Channel.png",
+        "name": "Classic Channel",
+        "uri": "doHyd2kafpMUAY1PX4ODZfPZEGWm76xjr0rIMPhtH43E2htJuX3++zOUFwPsKD6LQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1416_TV_y_TV.png",
+        "name": "TV y TV",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFzIRLnnj27zVTIWkCdKFEAzPxMqIko6k5PipqbAKbwXqn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1332_ClickRadio_cl.png",
+        "name": "ClickRadio.cl",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuXjguATprknx/WBJt5WctsX6OrMH1VQsmq9ZV8c5jLu/+R031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1319_Play_Music_Conectados.png",
+        "name": "Play Music Conectados",
+        "uri": "4z0ymg0idzZI6OMy1YiFj8HUxLXWDU2oIk2hCmhEEQBhiCRFMWSCzUxOz2A+SELQ8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1282_Galactika_Media.png",
+        "name": "Galactika Media",
+        "uri": "Yap5iOlqB5bcXtI+ZlCvT2Wlr5p5GuwzUinObkKN5hHP2TNxrV2kc8f20cpA5c4zx/aiOjIHgy/NnZj2hPNaA0DDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1403_Red_Circle.png",
+        "name": "Red Circle",
+        "uri": "1dyJZXNGD+eclTorR1p6ELNldVbl7mI0BrTb81vJf2bMNhu+m6qDY9sPxU67sXZzRVFw/gtXflwwLxHFG45LWUHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1166_Dance_FM.png",
+        "name": "Dance FM",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpZIIJukndphoVFRUwglyEU9OaVkJ9fwij9qm/tTyDbtg17K9eGQBdosxbzyPqq0ydaH4UBJBsIWQyVy86FYq3Lr"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png",
+        "name": "EnerGeek Radio",
+        "uri": "Hh0eYwT90KENp7bX+duz5i3xi1Wqimt5VS9s63p0HvucBb8+4JdhEjP7uHTvU1jGiC/MxM/uJ3GELUh/v08G5uR031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/432_HiperTV.png",
+        "name": "HiperTV",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFzSiRxjc5rhywCf+usvoVQBMRfny2EyenCAV8zZsdN2mkbQoQIq40JVQ32xXRsL0wGvUGHct28oU9nzu4UVKiGz42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1005_Onda_Radio_TV.png",
+        "name": "Onda Radio TV",
+        "uri": "qiUD7H5zZjjuF8HpjMiNQU8Fyc55t0VktJ2NWkyw3ebHI3PFXmFq0UDDv05EdoAcsUEPyz2XC73BL/euQWBBd/jZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/386_Energia_TV.png?rand=hHAQnLf0vi",
+        "name": "Energia TV",
+        "uri": "uLOEWE4V5QV/Vdf/EJx3fc5OMRH6cQSVKxMmFys8CwEagenRRjybqSirXq+JV/kvbHTIJgzqd8TNwJtGSWZX0p9Td58IdkadNs8AG9P4TmwJZ2uOlnZTTE0J0z8MBr3J"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png",
+        "name": "TV Prime Peliculas",
+        "uri": "4z0ymg0idzZI6OMy1YiFj8HUxLXWDU2oIk2hCmhEEQCHyEsxvLyjXioL2vK3LfZy8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/64_Pintana_TV.png",
+        "name": "Pintana TV",
+        "uri": "BAbv227SYl9x3fC2uDDEkQthUdU9F3kGa3rzjBu9JbJa+M9pAmt2Q0yHxZ4PvEBFvzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/66_Pichilemu_TV.png",
+        "name": "Pichilemu TV",
+        "uri": "RCav676CZTUKxDJV7eakF+x7hkBNqsE35i/cYXAD+fGDx4EiLvzPGbG+8P2cifQiFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/67_Exprezion_TV.png",
+        "name": "Exprezion TV",
+        "uri": "xLDrsc2I0YnW195QpPdiKWN3KUKu9ngMK8kNj1zspRERL/zPX5rEpl/+V6ooSMklQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/69_G_Vision.png",
+        "name": "G Vision",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XvhIEAkvjh02cxY/enVm0/3mIwtJuV0kVruSILH+uvIcmmrL5KZkcLppsq4TYHUu44FKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1457_Comunitaria_Radio_Tv.png",
+        "name": "Comunitaria Radio Tv",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkS/3hNT/bPWJ3SUQFwbdxJPn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/54_UCV.png",
+        "name": "UCV",
+        "uri": "TDNabkJIIRdj5lOFziI7Ic/ctATq4nDzetJZAZRtxJ2IdZ05gO/lOk6gCK2E/+UZFOADcvunMT2PL8B5Nyv9N0DDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1152_UCV_2.png",
+        "name": "UCV 2",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZbFFiiwBu+ZlMlHiYuQ90y8YqWW+ED12XxsFFP4s9kDgeTrcSnU9KtHIzrmel7wSVqGfX0uSfjmLyg1WvdUo09"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/53_STGO_TV.png",
+        "name": "STGO.TV",
+        "uri": "XB8KNFbL8w09MGMkPMB2mJ3oIhnFEY9aI1Umy1QRIPPJebfntNgRr/FMsIT7W1NDg+bDGJAG6Sg4jg0UpGuHAdGzOTmGtvBn1Ci2CEbxoINdMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/55_UTalcaTV.png",
+        "name": "UTalcaTV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZC4cuCeYQT2WsoRjC3WPbWeZIZzEVjWHktOHZat1YtN3oJL6aLG5IydrAMaQO1WLVgcW2xfe4feZ7nwc8fwmAJ"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/56_TVU.png",
+        "name": "TVU",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQaT5kp1lbXgiwTHVSi+dfUdsM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/58_Universidad_Autonoma_TV.png",
+        "name": "Universidad Autonoma TV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQa8xZfjyaGLFqMARv+0dLwdB5OtxKdT0q0cjOuZ6XvBJWoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/802_TV_UCT.png",
+        "name": "TV UCT",
+        "uri": "TDNabkJIIRdj5lOFziI7Ic/ctATq4nDzetJZAZRtxJ327NqZ9re3TzZ9dusiq3SdsM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/60_UMAG_TV.png",
+        "name": "UMAG TV",
+        "uri": "3i8QddClnDVyHoxOeyreDHdDwIVpROrOCeyc/3CVwEPwy2pd4cUPlYYZ1cJ6Il6iHzO/OVL7PGUgjixNRiku24LNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/61_UMAG_TV_2.png",
+        "name": "UMAG TV 2",
+        "uri": "3i8QddClnDVyHoxOeyreDKYefaLnAZ7xGpjk/Sen3B4ewXa0HuqWPNwQa8JY2syBahn19Lkn45i8oNVr3VKNPQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/62_UesTV.png",
+        "name": "UesTV",
+        "uri": "3i8QddClnDVyHoxOeyreDKGpbClZmucDCpVv/DKPuDAewXa0HuqWPNwQa8JY2syBahn19Lkn45i8oNVr3VKNPQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/798_Cultura_Online.png",
+        "name": "Cultura Online",
+        "uri": "doHyd2kafpMUAY1PX4ODZZgw9b7Yn3urGRYV7jtWnJaxKK5HB8MmgkU1/O6ipV5nQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/415_Puranoticia.png",
+        "name": "Puranoticia",
+        "uri": "9xN5D3fDJugPFnbJOa53Z80zogWgHdjaww8ZmuDzBkGfU3efCHZGnTbPABvT+E5sCWdrjpZ2U0xNCdM/DAa9yQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1515_Corcubio_TV.png",
+        "name": "Corcubio TV",
+        "uri": "wDio0lj7FG54va65oQMqHb4CIeVl+cf2EQRReDILCGCxMZtMyIWWMcs/EqbhXG6/8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png",
+        "name": "Señal Mediabanco",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQbmsHu6EzrgeWk6Div+tMd9/v0rFVhVq9k3UmrCkNAEkF7K9eGQBdosxbzyPqq0ydaH4UBJBsIWQyVy86FYq3Lr"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1020_Caracola_TV.png",
+        "name": "Caracola TV",
+        "uri": "x5I3sAsELn+ygLu0wCEXaHAn8/kNCFKe9Dj18V0V8yAQe9I1pPF7h1EAkxzXBumN037EZhAgtDEi6UQhYOyuYNGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1022_EGM_Channel.png",
+        "name": "EGM Channel",
+        "uri": "doHyd2kafpMUAY1PX4ODZRgIt2wFBYIWTuHuz7vco8NGrkZDBAIPPZDJkBLAcztSQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/895_Radio_Lado_Oscuro_TV.png",
+        "name": "Radio Lado Oscuro TV",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKF4jmSaRSs1H4mwqELJRtyB7vikv4mHPWO334xflawRY4a9QYdy3byhT2fO7hRUqIbPjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png",
+        "name": "Raices Arabes TV",
+        "uri": "qiUD7H5zZjjuF8HpjMiNQU8Fyc55t0VktJ2NWkyw3ebeP6mB23vUdSPdzOaaLzYpUJ/FLDEj33r3BimuTQ6fNYfhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/438_Tevex.png",
+        "name": "Tevex",
+        "uri": "09Vxu//eUV8JQLi6wI0JfLzoR7yi7VrXS0q3UQlm5v6xQQ/LPZcLvcEv965BYEF3+Nnc1ec550G2q38kqSr7CA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/313_Puerta_Norte.png",
+        "name": "Puerta Norte",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkTnHyv8k9PGOxQO3wyGs2Rbn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/314_Iquique_TV.png",
+        "name": "Iquique TV",
+        "uri": "7obSh2/FSPACzMbdvY16Gt5H/Av/cxspmPzn9mI2uQqgUXfbd7YyjLmj+up3Beeg6WfKD6JqkHQhsLGAqoZHhOR031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/71_Antofagasta_TV.png",
+        "name": "Antofagasta TV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZDrCNFIhDlKtF94D1EtT+/sM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1499_Longino_TV.png",
+        "name": "Longino TV",
+        "uri": "TxjiNzFCayDjQOyZ9+5Nslre55skdxlIow429qBZD5BCQXevo9qE750GodD0pDQXCjOepw/eBe+zV/Hu6utU07DNWvqla1cKO91Ma0mV+OD4KduB7/poBbqm6hzwUyUo"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/316_LRP_Television.png",
+        "name": "LRP Television",
+        "uri": "09Vxu//eUV8JQLi6wI0JfO68Jb/+27sdh51mYXJVEMKVXo5OWbzLYYvrph77fuOEgs2OKZEU/KKIVo0904DhZw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1241_TV_Norte_Digital.png",
+        "name": "TV Norte Digital",
+        "uri": "88PG/48FLBimBWSidzwgRaUhaui8bAV+aKM6J+2EH/xoiilHYT165jG6MQ6hl2MDQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1375_Television_Minera_del_Norte.png",
+        "name": "Televisión Minera del Norte",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54ust0eK83wwhtK8ytZjh5EuxQQ/LPZcLvcEv965BYEF3+Nnc1ec550G2q38kqSr7CA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/905_Taltal_TV.png",
+        "name": "Taltal TV",
+        "uri": "hPGll8N8i5lFKXBFCSpcqPat6NlCi4foPEkjW5k5uMWGta8Pw7ImyxGyomMsEyAM0aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/72_Holvoet_TV.png",
+        "name": "Holvoet TV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQYXqLnWDz/q+raZdzJ/Puk4nvpGuG9ZHxFT6d5z+1VvjogvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png",
+        "name": "Atacama Noticias TV",
+        "uri": "09Vxu//eUV8JQLi6wI0JfGV/du09VsfoHCKyO4pvlr6Z69ZMqxx7rfKTmY608aVr8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/320_Atacama_TV.png",
+        "name": "Atacama TV",
+        "uri": "09Vxu//eUV8JQLi6wI0JfGV/du09VsfoHCKyO4pvlr4CaOcApv3XhUbahE2JcXNFrL6RPXlkjglFrm3Af0LFrg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/321_Huasco_TV.jpg",
+        "name": "Huasco TV",
+        "uri": "doHyd2kafpMUAY1PX4ODZb5kjsIhk/OGkgDUIC1J5is3WjMkH0JrMgh0TCmVvrv2QMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/462_Alternativa_TV.png",
+        "name": "Alternativa TV",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuV+m526XgrIEoVddGYGCdPJsFBuoutYyC5BbwPUaJP1moFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/322_Enfoque_Digital_TV.png",
+        "name": "Enfoque Digital TV",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpawiJJLrTsE98MaHBwQVor8G/We1VI8bpH6BU5HJUZZlr8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1500_Radio_RT.png",
+        "name": "Radio RT",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54kefPP0M5yAYu2By2y2WZ1UDcRCv0UMqWmnfcUrPCdIOQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/325_La_Popular_TV.png",
+        "name": "La Popular TV",
+        "uri": "qiUD7H5zZjjuF8HpjMiNQU8Fyc55t0VktJ2NWkyw3eYW872ZXwUTgtKaTMjxwVtfsUEPyz2XC73BL/euQWBBd/jZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/326_ThemaTV.png",
+        "name": "ThemaTV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQYdG04aIqHO0omj4M2Co5P4Ei+Zz0I487Ff55QCDujfQL8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/327_America_TV_Chile.png",
+        "name": "América TV Chile",
+        "uri": "09Vxu//eUV8JQLi6wI0JfHnAA6PvKxC6XdkSEFyvlu6H09OzpXv1RKdLh/IjCmff8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1339_Senal_21.png",
+        "name": "Señal 21",
+        "uri": "4z0ymg0idzZI6OMy1YiFj8HUxLXWDU2oIk2hCmhEEQAZqbuDg9nwOb7Ov3MDSPUE8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/329_TV_Elqui.png",
+        "name": "TV Elqui",
+        "uri": "88PG/48FLBimBWSidzwgRfdyymrY/0w6eiiX6ZLnoT+7j1EJh/oJWCU5Mf0xDuQIQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/335_VTV.png",
+        "name": "VTV",
+        "uri": "TDNabkJIIRdj5lOFziI7Ic/ctATq4nDzetJZAZRtxJ3e9LfK1qDsKCGs9AMucuG4sM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1455_TV_EnPlacilla.png",
+        "name": "TV EnPlacilla",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkTxms5q/KsOxO4XucmW/KdBn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png",
+        "name": "Marga Marga TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54nJ2kq+jQhJD8ryJF4TxxIhLNPiDSDvPRig+xlju2oQHvzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1427_Estacion_TV.png",
+        "name": "Estacion TV",
+        "uri": "88PG/48FLBimBWSidzwgRUF4Ln5XQnlPo0wFiyvb5BXLLOqVd5l7FqK6rvOJs8hgvzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1238_Canal_LOF_Aconcagua.png",
+        "name": "Canal LOF Aconcagua",
+        "uri": "qiUD7H5zZjjuF8HpjMiNQU8Fyc55t0VktJ2NWkyw3eYX0zEvQdyDEeCeu1UYjwwqeIxZ/SvDFRsCq0uDZXedMmBxbbF97h95nufBzx/CYAk="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/332_TV_Costa.png",
+        "name": "TV Costa",
+        "uri": "4z0ymg0idzZI6OMy1YiFj8HUxLXWDU2oIk2hCmhEEQDYdaZozciyl4VKZgcWWN//osVDN6xogzWzGqsK3yL1XoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/854_TV_Quinta_Region.png",
+        "name": "TV Quinta Region",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFx4JaVR8gWKRlmnGxTpDsc5rkAf4dbjgPF+7vM0bG1X53GbNpr/eBsZrjjYnHLz1cR8zvzlS+zxlII4sTUYpLtuCzY4pkRT8oohWjT3TgOFn"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/464_Frecuencia_7_Aconcagua.png",
+        "name": "Frecuencia 7 Aconcagua",
+        "uri": "09Vxu//eUV8JQLi6wI0JfJqs8ortXgllh2mZrGRcVtJZE6IMzabnGcblTTbKN4xWQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/333_Plaza_TV.png",
+        "name": "Plaza TV",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuVpIfIJ20GDiU8kNbFax/iCeIxZ/SvDFRsCq0uDZXedMmBxbbF97h95nufBzx/CYAk="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/77_TVR.png",
+        "name": "TVR",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQb/Z8lvfBVCabavm/x4w8E+sM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1484_Zona_de_Prensa.png",
+        "name": "Zona de Prensa",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKF+oiAw0zbikJaRic1QovXAtS453lp6l2nEV2EEr+zScX1wrstIYM/mArMJNlX9lYFvITOa0TqqAXfqluL62BgYhp028N8Xg8TLRMjply9MKv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/336_Tendencias_Prime.png",
+        "name": "Tendencias Prime",
+        "uri": "88PG/48FLBimBWSidzwgRUpWPGs5DmnQ2ftrhTqeAVXsR3fCGwPQjvk9E11/+0ulvzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.jpg",
+        "name": "Vision Plus TV",
+        "uri": "RCav676CZTUKxDJV7eakF+x7hkBNqsE35i/cYXAD+fH2E6Zme12yBZpQhTY/HPfOlyyFNTOZAhZvHWl9CM4QFB8zvzlS+zxlII4sTUYpLtuCzY4pkRT8oohWjT3TgOFn"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/337_Buin_Somos_Todos.png",
+        "name": "Buin Somos Todos",
+        "uri": "1MLVeFGN61X3TFhjDMoMAi77C8gYjKGBD3BbIIws9C742dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/338_Canal_57_Melipilla.png",
+        "name": "Canal 57 Melipilla",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkSxR1srYDxuxKbeAJm41t+1n1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1404_Canal_Noticias_Colchagua.png",
+        "name": "Canal Noticias Colchagua",
+        "uri": "Yap5iOlqB5bcXtI+ZlCvTwRVLCdUrso02xBcEipbK7KD0ivOiOdqNdy94NtOAbcclFSf3AYbdbEcB0yYQnjEt78whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png",
+        "name": "Telecanal Santa Cruz",
+        "uri": "xHDUS6ZyufkSgerPj59c+XJ4FvqpCYPR1+0wfAWi6NgQaGq1MJemMox4FhN08jw2rL6RPXlkjglFrm3Af0LFrg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1253_El_Tipografo.png",
+        "name": "El Tipografo",
+        "uri": "BAbv227SYl9x3fC2uDDEkfNTwEhGN0nGfjS2QFHBsAHoBUyLAVS2dG/CPxXZlvsSvzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/341_Sextavision.png",
+        "name": "Sextavision",
+        "uri": "RCav676CZTUKxDJV7eakF+x7hkBNqsE35i/cYXAD+fGRZW/3fpzi09St456xb4HHX9jrWZJmf/hNvdVw5aI6JUHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/463_Ekiz_TV.jpg",
+        "name": "Ekiz TV",
+        "uri": "BAbv227SYl9x3fC2uDDEkaph/ZI42mqcRdsjK8CocPctoF8gyNYTrQusB54vB+lXahn19Lkn45i8oNVr3VKNPQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1486_Radio_Graneros_TV.png",
+        "name": "Radio Graneros TV",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFxBjM0w70pVN1yQdd2QplITISu/g9DghF6+lfTjiAJO/JfggD3ypNPtpmMYQUwPtV2vUGHct28oU9nzu4UVKiGz42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/343_VLTV.png",
+        "name": "VLTV",
+        "uri": "uLOEWE4V5QV/Vdf/EJx3fSlg81BwCCqaCAyDur9veJ2D8xQFAtMTlFVasF+wDfViTYnc2JiZEy+N6lbAYO7oxnoJL6aLG5IydrAMaQO1WLVgcW2xfe4feZ7nwc8fwmAJ"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1432_El_Centro_TV.jpg",
+        "name": "El Centro TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54s3YAFSvbj2H4j81WyKBFOp+Tpnjss48xQlD2OwDufxq6OrMH1VQsmq9ZV8c5jLu/+R031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/80_TV_5_Linares.png",
+        "name": "TV 5 Linares",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54mopSvSreip+55XIIEzJcoJOOPo/63r47l+13sJwbzd4ahn19Lkn45i8oNVr3VKNPQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/81_Contivision.png",
+        "name": "Contivision",
+        "uri": "TDNabkJIIRdj5lOFziI7Ic/ctATq4nDzetJZAZRtxJ0/4wDIw7/31R5p3KtM6j9mXsr14ZAF2izFvPI+qrTJ1ofhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1249_Molina_TV.png",
+        "name": "Molina TV",
+        "uri": "BAbv227SYl9x3fC2uDDEkRYabMRn939KId5pKQMlVz0Jl1ilgxwHHup6xqc2rasUQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/345_UTV_San_Clemente.png",
+        "name": "UTV San Clemente",
+        "uri": "09Vxu//eUV8JQLi6wI0JfPn1/kd2vQ0jMzmfOKSIZxeVXo5OWbzLYYvrph77fuOEgs2OKZEU/KKIVo0904DhZw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/346_Nativa_TV.png",
+        "name": "Nativa TV",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKF3BvkxdHQgejF8MmBbAHgH6jnHGzNIftLMgPob0+kGCVFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1164_Maule_Vision.png",
+        "name": "Maule Vision",
+        "uri": "eEChDh6y145h7kPc/FvAPYkvf761FhU+Ib3Teu4vsf76IPfFmZZlWeZSwI6ewhIKQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1431_Canal_30_Loncomilla.png",
+        "name": "Canal 30 Loncomilla",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54s0HrgjixoYCf3pC2ihC2smgnQTXgodT8bYJmsgtZhIVROwWBtI6NSDEz2KkQKIZlp3hkL9YD74nGvwxg604NsmCzY4pkRT8oohWjT3TgOFn"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1250_Nueva_Region_TV.png",
+        "name": "Nueva Region TV",
+        "uri": "BAbv227SYl9x3fC2uDDEkaO7cqMyGzhQiFaXLcsy+bGSXffqCL5a+5T0U3nM4BoQQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/348_Canal_21_Chillan.jpg",
+        "name": "Canal 21 Chillán",
+        "uri": "3i8QddClnDVyHoxOeyreDPuuonZ2Ud3pgau44a/rSM/YwngyJEUiQhDRxppfLAxWQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/903_Region_Television_Nuble.png",
+        "name": "Región Televisión Ñuble",
+        "uri": "doHyd2kafpMUAY1PX4ODZXUoFYpN+sP5BtMA+65UhajJg51l3JL0gVgpSF06Adv2QMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1037_Canal_SCN___San_Carlos_Nuble.png",
+        "name": "Canal SCÑ - San Carlos Ñuble",
+        "uri": "HQRHkVolmmt3vk9w7hQOpscMPr/irHsUjObqFinnQ58rzQ1buIoITHtnwj1LsrrGp3TWw4pnR3ergUB6fGEkuHoJL6aLG5IydrAMaQO1WLVgcW2xfe4feZ7nwc8fwmAJ"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/902_Nublevision.png",
+        "name": "Ñublevision",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54pFhl2w270SYWm8gV7+X3K6wUG6i61jILkFvA9Rok/WagUqXcQiEuJ/GYG3j2irnQQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1163_YungayOnline.png",
+        "name": "YungayOnline",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKF97hrI7S7VYSjDbcrz+sHCDgr4njBHSFo3fcBwySUIKabA74zq6Gem2IvDjKlKsU7fITOa0TqqAXfqluL62BgYhp028N8Xg8TLRMjply9MKv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/350_ClickTv.png",
+        "name": "ClickTv",
+        "uri": "09Vxu//eUV8JQLi6wI0JfBiEJGOmZ02J5RE8sm6X0OawUG6i61jILkFvA9Rok/WagUqXcQiEuJ/GYG3j2irnQQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/349_Supersonika_TV.png",
+        "name": "Supersonika TV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZie+gRoioegueIr/AicIMn8avdC6H4HBuF4BxO+1HmIxIvmc9COPOxX+eUAg7o30C/MISBLDw8YyJBnCBQomaB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/174_VP_Television.png",
+        "name": "VP Televisión",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54s0HrgjixoYCf3pC2ihC2smG2DwYWg5hsv0v7mSxKUdKDD87ds4GDhZLbQ9pyjYN0PjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/352_Concepcion_TV.png",
+        "name": "Concepcion TV",
+        "uri": "3kn7uAd9rBum90fwnuwQtLyA5qBFDS1sVyHCPPd0fB1yHB1fvQaZ78LMMhyB5L6S+Cnbge/6aAW6puoc8FMlKA=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/19/Canal_9_Regional_1993.svg/revision/latest/scale-to-width-down/125?cb=20210501162700&path-prefix=es",
+        "name": "Canal 9 Bío Bí­o TV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZVG16XSkRgGxDogMPl4dFCXsr14ZAF2izFvPI+qrTJ1ofhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/354_TV8.png",
+        "name": "TV8",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkTSD5tmYVzkxRND/ewY2MBJn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1340_Canal_Alta_Frontera.png",
+        "name": "Canal Alta Frontera",
+        "uri": "IxDdjxsBEjv6gyvHy/VwNvooSdRQCcgXOj03pMTaa8FGxk2uFmsiwVhvtNp2nHG4LVcSph8MLxkFtYYZGk1tSYfhQEkGwhZDJXLzoVircus="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/948_San_Pedro_Conecta.png",
+        "name": "San Pedro Conecta",
+        "uri": "DiS9wE/iyG5f7cHLe3b8EFSBlfPvmXPDO38Zh6zItPpzeDyBLM3eixvUWBDe2eoe8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/810_Club_TV.png",
+        "name": "Club TV",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFzWHW0U3IWI78QHz+zpYc/G372WqhSKqpgyzc6ANwN+/HzO/OVL7PGUgjixNRiku24LNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/82_Teleangol_Radio.png",
+        "name": "Teleangol Radio",
+        "uri": "H3XY1azuJuCsK+JI6pAw+MzSSl3EzBOse/0ccg4Yj2OqDcQFj5Ngc11UMvBpV45K7o7PN3jhcwt0+QVtI15q+fXcjevrLPg/RVmG2KxgI6c/Aj2RRWiL3/qo5W0jFoaSNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1013_CRadio_cl.png",
+        "name": "CRadio.cl",
+        "uri": "3i8QddClnDVyHoxOeyreDCnAvv77xhWipvqk0WJ/e0zkMfnEQqLNTgY65QkJEJBVQdqz+wIlrObxfIVyw1takg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/83_Pucon_TV.png",
+        "name": "Pucon TV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZ6uWi3cVUwy9W8KKpbI9BYfcYSdMHe2l4qwhcSAKN9NtGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/357_Temuco_TV.png",
+        "name": "Temuco TV",
+        "uri": "BsUOJCA1hFtBNOuQJOqkcw/eF/ZA6X9DOUnsoGKFW7LFYoErQZ7WqPJEYOhYjAp9+wCSlIrMd+LIhUgvug4nm0DDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1503_RAYZ_Noticias.png",
+        "name": "RAYZ Noticias",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRehH6XK2dUxdbghw66TW3qn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/359_Canal_Latino_54.png",
+        "name": "Canal Latino 54",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XvhIEAkvjh02cxY/enVm0/2C8p+r8fmIrEO9hy+4LZwI3SeB9BT2/3DoZn8NtknaOKy+kT15ZI4JRa5twH9Cxa4="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1469_TV_Canal_5.png",
+        "name": "TV Canal 5",
+        "uri": "xLDrsc2I0YnW195QpPdiKWfptQbq7KcDQ5gAMIhVkqYsW2b9DGtJfkFdOWRBAmOC+Nnc1ec550G2q38kqSr7CA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1318_Los_Sauces_TV.png",
+        "name": "Los Sauces TV",
+        "uri": "BAbv227SYl9x3fC2uDDEkaeqTvfsFSUpFcir/YxJ0Oi9PRQDikZGs6Pwrbh5wcTHQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1299_Lanco_TV.png",
+        "name": "Lanco TV",
+        "uri": "1dyJZXNGD+eclTorR1p6ELNldVbl7mI0BrTb81vJf2ZllCSwtiYT45P85jPVY9vOwv+/dIMZnwz5pTrNHHmijRWL3waMheFjpc/q4zzm6XKBSpdxCIS4n8ZgbePaKudB"
+      },
+      {
+        "icon": "https://i.postimg.cc/tC6ZFhmf/image.png",
+        "name": "Osorno TV+",
+        "uri": "5rOD/eeu/TRz+MhX7cX87BmvOh/FcYCC4BqkLIqEpbmHsa0nWJe9HJIKmhewSZB3tXuEmpH4o6q0JNT5YvWKa86lfVF6KgWKJETnzR1MKPH42dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/85_Decima_TV.png",
+        "name": "Decima TV",
+        "uri": "TDNabkJIIRdj5lOFziI7Ic/ctATq4nDzetJZAZRtxJ1k9Z33sQhGG6RuJO1E0P2Q90f4/uNz0WSfJIct2lTIdHoJL6aLG5IydrAMaQO1WLVgcW2xfe4feZ7nwc8fwmAJ"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1428_Castro_Municipio_TV.png",
+        "name": "Castro Municipio TV",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XvhIEAkvjh02cxY/enVm0/2FSyGgeKPC5KVOJHn2oAOYBt3e/br8aOGc+BVOW6Y2+2oZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1293_TVM.png",
+        "name": "TVM",
+        "uri": "OR/bZj5TSpu0H48sibp2EuCFu3mjP5/EJBCXM/3jWi+9JSo+ZNDPCAhAH/B2R9pVgW+iMwfGrXIJ1h4fXpgmuoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/84_T_Vinet.png",
+        "name": "T-Vinet",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQaKlG7zZ/pL2mdOHmhzWkjdEi+Zz0I487Ff55QCDujfQL8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png",
+        "name": "Canal 2 Quellon",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQaUYMc7nV/jLf4zaklTh1m07FIZDL7scB3N5nCHV809c4gvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png",
+        "name": "Hito Cero TV",
+        "uri": "1dyJZXNGD+eclTorR1p6ELNldVbl7mI0BrTb81vJf2a33LwRLHWpGihhvbCt+Inr/SMXbhNV78kFTMvaS2NJPBWL3waMheFjpc/q4zzm6XKBSpdxCIS4n8ZgbePaKudB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/366_Chiloe_Red_25.png",
+        "name": "Chiloe Red 25",
+        "uri": "09Vxu//eUV8JQLi6wI0JfNLdTdExKC+WiBoLKSzOtwZLFsk4MxtRM7bB6kZ4g8YIrL6RPXlkjglFrm3Af0LFrg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1396_Alerce_TV.png",
+        "name": "Alerce TV",
+        "uri": "tMLhSFVOd3W1TKez4J+W45jEXrPOFUnkRRgBQv4StvsAg1O2slvvOnMOWiA7OFTJQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/368_Santa_Maria_TV.png",
+        "name": "Santa Maria TV",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZDqf+xjaHNa6cZcJOmKGXsB5OtxKdT0q0cjOuZ6XvBJWoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/369_Canal_11_TV_Aysen.png",
+        "name": "Canal 11 TV Aysen",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54s0HrgjixoYCf3pC2ihC2sn0+smiEuCSFYsyMQxA2wlS8j6TWEcy0Vx8XqPXqeOJR6y+kT15ZI4JRa5twH9Cxa4="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1012_Aysen_TV.png",
+        "name": "Aysen TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54grGGE6u7YVlReivk/Dx2zSwUG6i61jILkFvA9Rok/WagUqXcQiEuJ/GYG3j2irnQQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/370_Soberania_Radio.png",
+        "name": "Soberania Radio",
+        "uri": "3i8QddClnDVyHoxOeyreDFmEbjI7clQqopxxY+CfCbaXZJGlhswGGNWB0VfD2d0KHzO/OVL7PGUgjixNRiku24LNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png",
+        "name": "La Melinkana TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54upPIicDJ2h03S6VqXURV/POQOUnQoNdqF8g9IBIj+/crL6RPXlkjglFrm3Af0LFrg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1116_SurTV.png",
+        "name": "SurTV",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkhtbKhU+CJIbynv0Ykn5bx1ibkXwQC+45a5P78iALFTK6zCcB7Al0cYqmyIFx07NHhLMjBpTs7J/0Ixs7V32ob4B5OtxKdT0q0cjOuZ6XvBJWoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/371_EvaVision.png",
+        "name": "EvaVisión",
+        "uri": "venHb/xEn8vvguRH4ToUqwckBPSvzcWXvaL4Ph5LMX/qzDsD0pf8wfsBByjfJ3Z6ovLAJ8P+ZmDyUMz8tWMnrD8CPZFFaIvf+qjlbSMWhpI2/C7RJMUYUOt4rCUkl+4k"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/372_Canal_Sur_Patagonia.png",
+        "name": "Canal Sur Patagonia",
+        "uri": "09Vxu//eUV8JQLi6wI0JfI9FbfDKJuTuXJrHsTs3Om7u2JmuI48X9LFdDAxSiYnH1GXDrYDYZr+u1/WzUZvOwmoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/373_PinguinoTV.png",
+        "name": "PinguinoTV",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkjXdPZrzKbvB6n5iGGGnfDQy65YzaVk2JolLPYfHE+YrP/SkJn3cMtC90nhq2bMddVQ9zr/hBf3hlokWPZ+V01KpCVuzg2kCafgveZzVUKQ5ogvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/376_Teletrak.png",
+        "name": "Teletrak",
+        "uri": "u3I4TgU/UIpsHI2Ic9OLcqBRG+cAxdSIPk79rgWHWoKmo/cCoHXKPOhlKhywAVv0SJRb8+YA3k2++YadAV/Pireqp48rZajGl9rcNWy5Fn342dzV5znnQbarfySpKvsI"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/374_TV_Turf.png",
+        "name": "TV Turf",
+        "uri": "sIOMh7RnzAFijKcPyiRBMmZjOgs8XZCBspD2VzdmwrHr6uxM8wsKWnDy4vyYVCbk6PGgLQWhDcYmMYy7ZgjPH2BG8DB9t4ax7dYmQr4fahyR/4nWE+ll41tyBA9PK3+7dIjJb5VULYPoYdAkSiLvmw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/375_Valparaiso_Sporting.png",
+        "name": "Valparaiso Sporting",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQar+6xEZvN7KiiZzuEbm8vDXx9xq4ckgrbIxxGkgwfHx17K9eGQBdosxbzyPqq0ydaH4UBJBsIWQyVy86FYq3Lr"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/324_El_Galpon_80.png",
+        "name": "El Galpon 80",
+        "uri": "a99D4GtTrk3nxoR0DaKkupKM1oCDXyXRmjtekmacCRFNq2DL49L7mQuO7OYx5kLYHsF2tB7qljzcEGvCWNrMgWoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/849_Sensacion_Costa.png",
+        "name": "Sensacion Costa",
+        "uri": "4z0ymg0idzZI6OMy1YiFj8HUxLXWDU2oIk2hCmhEEQAdy0q1Jw/gF4j/LGbMfkCc5Lag/98q7B+MAvQk8HUbE4FKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/33_Maxima_FM.png",
+        "name": "Maxima FM",
+        "uri": "xKHbZFX0pNGfJ4oS74ziGPo7H1t4hsUTx5K54+8ccFL9pZupmcSxo3QnKj/IJoviBRGg66aur+/slVyQUfFEApVfWZHP4LJi+QxwKQT9Y/irXXNku2cti5MW8ycqLejqHzO/OVL7PGUgjixNRiku24LNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/34_TV_vconline_cl.png",
+        "name": "TV vconline.cl",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRwz+zVMEVdBYqTA9BvyZ0bn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/973_Top_New_Radio.png",
+        "name": "Top New Radio",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkT6GpKARKKyxaoVUcmKvMV9n1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png",
+        "name": "Radio Edelweiss",
+        "uri": "wPI/7D6PVrVTkbDOwJymTEN1sBu34Gze+Q4pVgoXHk6AMHNdKq5H0dnQOZoLaKGm8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1582_Kaos_del_Flow_TV.png",
+        "name": "Kaos del Flow TV",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuUbVn39ZP/wYhqHOZ1TUYA0sFBuoutYyC5BbwPUaJP1moFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1468_Radio_Araucania_Laja.png",
+        "name": "Radio Araucania Laja",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFxBjM0w70pVN1yQdd2QplIS8rEzpth77zSLJejuoaDTgReydCYnedXxnMAYq80mZZx8zvzlS+zxlII4sTUYpLtuCzY4pkRT8oohWjT3TgOFn"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1550_M_Music_TV.png",
+        "name": "M Music TV",
+        "uri": "3ctDp5rhlomrWnOnzopiCi9kYWszAU9nNfKUhxJ0PT+yQqDWzrnjIGIttaa/XQcXefXQPvEHLpRHIt8IwzdPOEDDud1TBvuFyzHV5NdcW/90iMlvlVQtg+hh0CRKIu+b"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1389_Radio_Acogida.png",
+        "name": "Radio Acogida",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XvhIEAkvjh02cxY/enVm0/2FSyGgeKPC5KVOJHn2oAOYPA4m1SC6iShvHschX7UCn2oZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
+        "name": "Urban Pro DJ",
+        "uri": "xLDrsc2I0YnW195QpPdiKe+d+50aQvci9O4m3VnJ0P8sW2b9DGtJfkFdOWRBAmOC+Nnc1ec550G2q38kqSr7CA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1128_Solobailalo_TV.png",
+        "name": "Solobailalo TV",
+        "uri": "RCav676CZTUKxDJV7eakF+x7hkBNqsE35i/cYXAD+fHq7EDOAW1L3tvW6yDqYqaV9KFwikpFKjWXMH97q24GpEHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1408_Radio_Continente_FM.png",
+        "name": "Radio Continente FM",
+        "uri": "a99D4GtTrk3nxoR0DaKkujs0ru9U5gN5wXblacaZL2udEQhvhklTN9zpGs9HeNOsDECYOSJ7vfHCZyxDRhq7Zay+kT15ZI4JRa5twH9Cxa4="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png",
+        "name": "Radio Rosa FM",
+        "uri": "qiUD7H5zZjjuF8HpjMiNQU8Fyc55t0VktJ2NWkyw3eZGFB7vZpqFfcrka4OiDOJ70aDvYF7hG4WqiyoMkOuDB10yj5qAoheG/6oa63eA6G8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1463_Radio_Bienvenida_FM.png",
+        "name": "Radio Bienvenida FM",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkR3YEw5Zxh7OyuQsV1RmXbwn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1467_Radio_UC.png",
+        "name": "Radio UC",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFxBjM0w70pVN1yQdd2QplIQfTD1mCgckCUqUplQnPGCBa9QYdy3byhT2fO7hRUqIbPjZ3NXnOedBtqt/JKkq+wg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1284_Autonoma_Radio.png",
+        "name": "Autonoma Radio",
+        "uri": "x5I3sAsELn+ygLu0wCEXaHAn8/kNCFKe9Dj18V0V8yDinRwkQC9ibd3gey3QqT183jJUGuUxoY6dDCCgLYqHkNGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png",
+        "name": "Santa Cruz FM",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQY4lHQd7E/O5l+BtJ/c9WUOEi+Zz0I487Ff55QCDujfQL8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1242_Radio_Estacion_Arica.png",
+        "name": "Radio Estacion Arica",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpYI9GsEfmGuKnjzJus0+BLo9h++yxsLlBqbxLEhBfs2NLDNWvqla1cKO91Ma0mV+OD4KduB7/poBbqm6hzwUyUo"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1248_Subela_Radio.png",
+        "name": "Subela Radio",
+        "uri": "Zs/BbjHgLaGJQWBDlv1DtOIQjdH//sBGGsHPJkQq3P+AN+zXbYN5q5RAF5T7IwMHmuucU655PjkrsOYwjubOI9Gg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png",
+        "name": "Radio Ritmo FM",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkRybm/jLWjtYXH8IZK5mn3in1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1173_Radio_Mia_89_3_Fm.png",
+        "name": "Radio Mia 89.3 Fm",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFxBjM0w70pVN1yQdd2QplIQYKV2PcV6UjQq3STXdSbZbFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1069_Radio_Magallanes.png",
+        "name": "Radio Magallanes",
+        "uri": "eEChDh6y145h7kPc/FvAPadJPCCwFUyjViySzdpBoY4r2dbFiDWMVulu5Wz5agWB8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1134_Radio_Maqui.png",
+        "name": "Radio Maqui",
+        "uri": "pwg776lMQJZfK9Txoxa7nQW6LtwxggD251d+mLtxWHaSxK6K+qJTQColt0ZFODB/FYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/987_Emocion_TV.png",
+        "name": "Emocion TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54jk1bz00y2nFt8RtHXOxFOidTyci2SLAn4VzYvU3FK30rL6RPXlkjglFrm3Af0LFrg=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png",
+        "name": "Zona Play Radio",
+        "uri": "D8t5O5NUahs5WN6xAk9D60K++6a2ZG8DtbvCcHvUj7GvjvbIwWJMOWz/sra3osMtPwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1125_Radio_La_Serena.png",
+        "name": "Radio La Serena",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFxBjM0w70pVN1yQdd2QplISCsmHXl3eiXxP4296n8RNNjPTy/tvXz3GnqevzpUB6M59Td58IdkadNs8AG9P4TmwJZ2uOlnZTTE0J0z8MBr3J"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/974_Patagonia_Radio_TV.png",
+        "name": "Patagonia Radio TV",
+        "uri": "OgMT/cQyWSOWWeAa8lv0C1Pwgu6ZnOAOt4j1l9GkEgo1AGSwuHMDrPaBLrWnKkCX9DU6zn+qATR6EbRgqBA8gNGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/400_Red_Fueguina_Radio.png",
+        "name": "Red Fueguina Radio",
+        "uri": "HpEygLjszTCAduxUj9r9sM3aPW0SMbK4PTVkL3O7EMMxe4yUFTKPc+P0sdGfkwCwegkvposbkjJ2sAxpA7VYtWBxbbF97h95nufBzx/CYAk="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/838_DBox_Radio.png",
+        "name": "DBox Radio",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XvhIEAkvjh02cxY/enVm0/0SW5x1MHFAB128/g1L2BvqqBzzxXtggeHh0iKzTzhNS78whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/392_Radio_Zeta.png",
+        "name": "Radio Zeta",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQakNnCBqG07Pvj8Hga6gKiF1Pvw40IMUuCoXSg1uIUQAXoJL6aLG5IydrAMaQO1WLVgcW2xfe4feZ7nwc8fwmAJ"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png",
+        "name": "Radio Via Libre",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKF5tp7dNNzaRBJGA3Gr5Pg1Ze6ctwHUKQy3kpy7fj4QqtFYvfBoyF4WOlz+rjPObpcoFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/390_Radio_Universal.png",
+        "name": "Radio Universal",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XvhIEAkvjh02cxY/enVm0/3ZE1bnN6ujZCkjG0zDGwptED+7c8r1nKAY1PYAfOOLNr8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
+        "name": "Sabor TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54sG5Nxi/g+v3E4NIvTAsba+wUG6i61jILkFvA9Rok/WagUqXcQiEuJ/GYG3j2irnQQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/413_Radio_Presidente_Ibanez.png",
+        "name": "Radio Presidente Ibañez",
+        "uri": "nxqEkHNTEtL0BjXfXxCGFFUpPX8kIoz5mbsIOFziPHyfyEppeFfsAexUFrAypECn5HTfVYD6u9OlLql1MKUX2g=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/403_Radio_Polar.png",
+        "name": "Radio Polar",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKFxBjM0w70pVN1yQdd2QplIRhnDBaqnPepI9QTIpAN8gMIM8mF0VYzZzq9bLP3IBdlUHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/412_Radio_Genial_TV.png",
+        "name": "Radio Genial TV",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54s0HrgjixoYCf3pC2ihC2smU+7aH7noaWPYt9gmJCcIwjAfgnFThYs1y4lNFb8H+Oglna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
+        "name": "Radio Fiessta",
+        "uri": "KBPhq3ieEPpOpgcfyJBJ/TGBXBNXhx/GT5DZt+lL6pnfwlRcWE4NKuQPbN5YA4R1DSXFKHuxOw2irtXgiKKp6+n60CaLxK/OXGdai6V+ipCCzY4pkRT8oohWjT3TgOFn"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png",
+        "name": "Radio Panoramica",
+        "uri": "09Vxu//eUV8JQLi6wI0JfEXq/cFRGyjNvhJF/R6LLpxADHjFutUVCI9Y0EWigMoVlV6OTlm8y2GL66Ye+37jhILNjimRFPyiiFaNPdOA4Wc="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/417_Radio_Favorita.png",
+        "name": "Radio Favorita",
+        "uri": "pwg776lMQJZfK9Txoxa7nThn/bmt5oTp4esZrB3FgLGG3CM4KTIdTR/U6YvFd/sKffUTkD+11p4K7tdWEDWkYr8whIEsPDxjIkGcIFCiZoE="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
+        "name": "Radio Fantasia TV",
+        "uri": "09Vxu//eUV8JQLi6wI0JfMooBYoG61iDf+mCJ3qhLuGFjGYyR4wyGBytn3VKAOIyahn19Lkn45i8oNVr3VKNPQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png",
+        "name": "Radio Camila TV",
+        "uri": "AhHDFVSVdqaZGvOe8jLHtg3+i1/rjNmCRx+SRV/KqkQkM2bPbJ8w8dvHrfpc8bWPn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/395_Mi_Radio_TV.png",
+        "name": "Mi Radio TV",
+        "uri": "3i8QddClnDVyHoxOeyreDKwLnmfRxnLJ/B5m7eluMqE4iLNAEbgfZ0vBwkeW3rbhPwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/388_Interactiva_FM.jpg",
+        "name": "Interactiva FM",
+        "uri": "HQRHkVolmmt3vk9w7hQOpscMPr/irHsUjObqFinnQ58lwKjwIyFzY7NlgMnbFpxrpDcU/xxX3jbIsBC/yJvBGF7K9eGQBdosxbzyPqq0ydaH4UBJBsIWQyVy86FYq3Lr"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png",
+        "name": "El Conquistador Santiago",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkhbZZoQGJciTM3RW7DiZAQ5ubeNqIQg2KOSPmpiv9JPi1Zl/Cy5dLucyvbREMDF1YolRKCaMrugQ8eYLZlGq3nsYL4NLTaj40vjceQSUosxzH3GEnTB3tpeKsIXEgCjfTbRoO9gXuEbhaqLKgyQ64MHXTKPmoCiF4b/qhrrd4Dobw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png",
+        "name": "El Conquistador Concepcion",
+        "uri": "E+Wx8fMs2tCR7pAW4xn54s0HrgjixoYCf3pC2ihC2sk9AvxzGzQ1gOsi0XCWakADLgxn29jqVVS80zFnw0ccNzGPa02agez7JP2b6I/G+RA/Aj2RRWiL3/qo5W0jFoaSNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png",
+        "name": "Radio La Señal",
+        "uri": "RCav676CZTUKxDJV7eakF+x7hkBNqsE35i/cYXAD+fEoJ6uiRxrCqettHiAW4ZB65MRyUel91tNFT6Rqxex7RhWL3waMheFjpc/q4zzm6XKBSpdxCIS4n8ZgbePaKudB"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png",
+        "name": "Radio Ancoa TV",
+        "uri": "09Vxu//eUV8JQLi6wI0JfGe1WscUDy51Sjt2KmzWhLz0r6H7LOnIupzFcTc6vMJ4vzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/414_AE_Radio.png",
+        "name": "AE Radio",
+        "uri": "3i8QddClnDVyHoxOeyreDBz3Lf1L5pWsjSu5uvrPRQp99ROQP7XWngru11YQNaRivzCEgSw8PGMiQZwgUKJmgQ=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1534_Estacion_Metropolitana.png",
+        "name": "Estación Metropolitana",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkhbZZoQGJciTM3RW7DiZAQ5ubeNqIQg2KOSPmpiv9JPi1Zl/Cy5dLucyvbREMDF1Yp9u8sGuCfmgb8Uzm+PVneQfbvLBrgn5oG/FM5vj1Z3kBTgA3L7pzE9jy/AeTcr/TdAw7ndUwb7hcsx1eTXXFv/dIjJb5VULYPoYdAkSiLvmw=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png",
+        "name": "Radioactiva TV",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkjXdPZrzKbvB6n5iGGGnfDQy65YzaVk2JolLPYfHE+YrP/SkJn3cMtC90nhq2bMddWT8bJbcdXkFr8tg7QcVG8qd30bVaTbm42DRO2G7uuTeQeTrcSnU9KtHIzrmel7wSVqGfX0uSfjmLyg1WvdUo09"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
+        "name": "La Clave",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZz++8GYGDHe11wu10948t8PhraGQkz6tHs5HEM1NRthogvzMTP7idxhC1If79PBubkdN9VgPq706UuqXUwpRfa"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/423_Radio_Agricultura.png",
+        "name": "Radio Agricultura",
+        "uri": "BJ9YIh4QUAdZ6UhzlLZmcdQ7ywWjIsLbcnR3j4ZUats5YzPc0zw7o0DST2YgDPfqr1UCZdscERQ8mClW0Yw2zUHas/sCJazm8XyFcsNbWpI="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/429_Pudahuel_FM.png",
+        "name": "Pudahuel FM",
+        "uri": "TDNabkJIIRdj5lOFziI7Ic/ctATq4nDzetJZAZRtxJ1MwAAQ7NvsI0RkewMX/KTShO6fbVvgdUY2j4ir+W5+717K9eGQBdosxbzyPqq0ydaH4UBJBsIWQyVy86FYq3Lr"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/422_Cooperativa.png",
+        "name": "Cooperativa",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQZh+A7HptwsxHDa+KfpMBGGfcYSdMHe2l4qwhcSAKN9NtGg72Be4RuFqosqDJDrgwddMo+agKIXhv+qGut3gOhv"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
+        "name": "Bio Bio TV",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkjXdPZrzKbvB6n5iGGGnfDQy65YzaVk2JolLPYfHE+YrP/SkJn3cMtC90nhq2bMddVj/pusSmSGQxX13fdyfK/UsM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/424_ADN.png",
+        "name": "ADN",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkhbZZoQGJciTM3RW7DiZAQ5ubeNqIQg2KOSPmpiv9JPi1Zl/Cy5dLucyvbREMDF1Yr66QiZiuz0UEfefiDaGaziB5OtxKdT0q0cjOuZ6XvBJWoZ9fS5J+OYvKDVa91SjT0="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1472_La_Nuestra.png",
+        "name": "La Nuestra",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkjXdPZrzKbvB6n5iGGGnfDQy65YzaVk2JolLPYfHE+YrP/SkJn3cMtC90nhq2bMddW60DIiyfzeqjbqmDTL21WQiC/MxM/uJ3GELUh/v08G5uR031WA+rvTpS6pdTClF9o="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/168_TNE.png",
+        "name": "TNE",
+        "uri": "09Vxu//eUV8JQLi6wI0JfF2GsgkhB2KPZsCf3c3UU56xQQ/LPZcLvcEv965BYEF3+Nnc1ec550G2q38kqSr7CA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/169_Televida_HD.png",
+        "name": "Televida HD",
+        "uri": "3i8QddClnDVyHoxOeyreDJ/3bKdrZ/J7pnucZQ+5X9o4iLNAEbgfZ0vBwkeW3rbhPwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png",
+        "name": "Radio Vida Curico",
+        "uri": "09Vxu//eUV8JQLi6wI0JfIeJOmn9l14wLHt6U/fziRPYf/PTZmNkJAxpUS9Q28SkNaLHzXdItC0/GgpSgEDW5YFKl3EIhLifxmBt49oq50E="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/163_Gracia_TV.png",
+        "name": "Gracia TV",
+        "uri": "88PG/48FLBimBWSidzwgRU0Zk8dCkcJnw0O1i6ayKspyHB1fvQaZ78LMMhyB5L6S+Cnbge/6aAW6puoc8FMlKA=="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/159_Canal_ISB.png",
+        "name": "Canal ISB",
+        "uri": "TDNabkJIIRdj5lOFziI7IWg9PshwJyec5sSSR2L+mQaeiZILvULcejRIkG+uWTL7sM1a+qVrVwo73UxrSZX44Pgp24Hv+mgFuqbqHPBTJSg="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1186_Casa_Sobre_La_Roca_TV.png",
+        "name": "Casa Sobre La Roca TV",
+        "uri": "+DEzMgguCN3Rv76rz6kaAQf6+ceCA2ub6llAwRFOHJ0VrTnHbybksECIvvEzQawG8hM5rROqoBd+qW4vrYGBiGnTbw3xeDxMtEyOmXL0wq8="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1399_IPNA_Medio.png",
+        "name": "IPNA Medio",
+        "uri": "doHyd2kafpMUAY1PX4ODZaWAlcKTl7ScXbuIUBPmP1DxbCxKyPJRiamRasJJ6azgQMO53VMG+4XLMdXk11xb/3SIyW+VVC2D6GHQJEoi75s="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png",
+        "name": "Fortaleza Radio",
+        "uri": "HQRHkVolmmt3vk9w7hQOpscMPr/irHsUjObqFinnQ5/ZWo33mcxyqiR+cbtyL+YmULhct0fSrkS/zzk6k8tipXoJL6aLG5IydrAMaQO1WLVgcW2xfe4feZ7nwc8fwmAJ"
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png",
+        "name": "Fortaleza TV",
+        "uri": "JE497l5nmelCu/t9CxMvpCBTWB2I1hhanXxUgrpaJzvqb6jgraxaUwkh4jNfr0C2PwI9kUVoi9/6qOVtIxaGkjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1514_CESTV.png",
+        "name": "CESTV",
+        "uri": "PL+CqQcP+C5Vd8QJdfaKF4arXTi+wJXIgHY+v4+Frrp6D9RnJuUuw3Bz9HlnEdjBn1N3nwh2Rp02zwAb0/hObAlna46WdlNMTQnTPwwGvck="
+      },
+      {
+        "icon": "https://cdn.m3u.cl/logo/1599_RialTv.png",
+        "name": "RialTv",
+        "uri": "keArZFtPdzkMHzBIUJk42xj9fzcGMEr3eAXUSTzWRpbLAgZoU3B3OsW6STMv4rdPHXg+ch2E4DzbLfrvPfuWd78whIEsPDxjIkGcIFCiZoE="
+      }
+    ]
+  }
+]
