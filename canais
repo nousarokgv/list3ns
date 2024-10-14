@@ -371,7 +371,7 @@
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jRBxEwjZe97vyiwO0Ya+t3VezznVjhFFbUh0KUPsdAKgNbzAwK0Bgx1kOnDZw5+qvBenWiLCMClcR1hCScWLPN",
         "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK1YdsQBgpMdBv1OH/Sic6VfzlpWvRPAcMfxQHimk/HB/iqjs4VWKFn3Q3V7uJNj0Fw=="
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gACGLXf2u/PwqIpBSyNuJWBziXQYUM/1O3g9lMNegaYCJdvSHNkbFUoPTu59MYSiNWGUyNvcfvUahoglonFJpITKhdtQOst7jnUu322UpkMUnr4zq6FIFDJB30RpxfzdfA=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png",
@@ -1601,6 +1601,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "AXN MOVIES",
+        "uri": "+pdt9b77DgqycjmKreL+gVK6h4r0MD+K4nmboVYJbXywe8YpRnWjl4DaeiiI/WYSM6Sm5Rx/9kQd1u3uZGeDRmVeQ6ZXJVwxXeHYCY9QSTfNP3smXO6XIzE9lwf3YHvG",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBBpnVmpBBoMB4siq9Re3mQ32GA9FImku/UTPur7L0uX47IdQ23R3uOZXzmzxhxNyyXAtzevGpi48gN3cxUw3L1Gz7txIB+gEiTCOdnk97CGWGaonRbfh5GYD6ybZHbFKg==",
+        "icon": "https://i.ibb.co/Qc4ZpmZ/axn-movies.png"
+      },
+      {
         "icon": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
         "name": "AXN MOVIE",
         "drm_scheme": "clearkey",
@@ -1612,14 +1619,49 @@
         "name": "Golden",
         "drm_scheme": "clearkey",
         "uri": "hzjLqMLPGSRRck5+HLHwejir+ZPO+Lz8LG/y8ZkVmt0KIGSE9CcqfCzdKYsEOE3hfpohNQs/ADsIPCfx/tvfoVv5Th18D8z9dWoAxZl4dvM=",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9LFZ7T2gDY3NdY83d3oI/jp/LaIJ2rgCyOIXfAQ9NqKzShvNVtd8Nq3xE7bl7WKvQ=="
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMMF9npoDBgjzSTkQOZq5L2r5dvzZZLRbIPJfjmILTBWxchR+Ib+1hIBYvnArdiLH0Th0fWLEsInIebAijTMocdHltPeKG6+n8jR1TWqoER0O74g4YUjK3nUgIeOJB03pA=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",
         "name": "Golden Plus",
         "drm_scheme": "clearkey",
         "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh16b2LDuz7BVpqbsdGp8IGZyrEF7U4jMvcK0QmuKXl5OtjBTOoDcDkaLi3HCsOhmRw==",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9LFZ7T2gDY3NdY83d3oI/gn5herUQ5Ss4JDLYK9WAdRZzeBW/vT04boQbadWQQifw=="
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gH6E9MeRPm57YuWdM4QnKeB9z13C42WXC3efLoCEIhPoZiOudIBcRB+iAUjYUle236OIzmg61Um1Cg0bbpa9VaUhwmDhVp9LpRP/PzLl/7Gtm/hqdtSwmcEN6iNoZiH/GQ=="
+      },
+      {
+        "name": "GOLDEN EDGE",
+        "uri": "dcD6xYt42ZspxEG8NSb/YQ6lSoJiLkM1xsqNOxtYIJO9JZJ7OvvcJYscZlIYgvc9QvBEI7iGbn2rwQUXaHSqJcKxCM5OIjh2a2zNVCP09BPHewu5dPb6CU5o04AxXbsK",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGHYhR95BOlGCayfBHH9DB4+QvEAItWB8FFc/lWCH358PKSlxTM3Ys9rb/k+DfijjrOemU/3hmGf5fU6ZP8wPotsdczE8GYuaJ2fOKnHtGF/sGfHsjAdUZatBtDvYXIvww==",
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png"
+      },
+      {
+        "name": "GOLDEN PREMIER",
+        "uri": "n3wzAsKqMLMmKHSTNrSsOb0psu+AXYB3Ym2cYurNP42rZ52de+DrBw5DMX6CltjEqZY7kU3zK8QmKbec2foN2DXjspP0jZIoKuBIHJXRNJA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gL2mp+odN77UaWrgYevn9poWkUAtWwjBcmhWQ8HbORTHDUaNZhYbt59n6/mG7vmnz+yvDwpcmD7G1sGg7WtP84IqJQ873hPzDGRvr3O/NNHdtZEeVLD7Czza30QpJYFuxQ==",
+        "icon": "https://i.ibb.co/6D60Brn/golden-premier.png"
+      },
+      {
+        "name": "GOLDEN PLUS",
+        "uri": "pQAAARrzVvPei0Gfnr3bjr0psu+AXYB3Ym2cYurNP40gJcMop6VVosb+1bNJZiUM2TISp/W6UZawRhi0el5gyA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gCbSzuldXIcJ/Mz49ErPOFutdO261ReY1USR86evvZULVoTfYuZsx1c9gxyYQO158euDEHHMQEHt7+h6oF4FTXnFmV01SWaJ8Un0bxYxzblwm/hqdtSwmcEN6iNoZiH/GQ==",
+        "icon": "https://i.ibb.co/NyNYXrx/golden-plus.png"
+      },
+      {
+        "name": "GOLDEN EDGE",
+        "uri": "gintGMVPsb2zDjGULOWZ270psu+AXYB3Ym2cYurNP41j/+gBEa68pShV/5cji0ZPqVHKVqjm+vgB4oqgu0ajldI9bUWf0hIlGXruip0TN9A=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIX9scBDr5sszhMVPSx2KhFJMP3UpvLp5MZTSQCFo2z9Mn5NiwBWnf7esxXQkvk6BFCzzzWaHThg7Iov8Gh3roLMphrg+afbDr9o0ZIBVYtXKodBcqcL5t0QbaCW3aZ7WQ==",
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png"
+      },
+      {
+        "name": "GOLDEN MULTIPLEX",
+        "uri": "pQAAARrzVvPei0Gfnr3bjr0psu+AXYB3Ym2cYurNP404M7Qb7Rg7cgNPUc8kDzpCYRYaIirankmk2N9Ui3V4Fsd7C7l09voJTmjTgDFduwo=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEddz4cJJZWWD0CjZFQvOy+PLr7+zvQ1YxPdR9pvYGPI1zNEVKEIJB9ckOZdGbqdE9G7X4VqYFlVRfOxjgG3phfQmKEDiUdRkRkDVno82G+KYDEV8g0eeJ/Sya3mBB3Pvw==",
+        "icon": "https://i.ibb.co/BTjfF3p/golden-multiplex.png"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Sony_Channel_Logo.png/revision/latest/scale-to-width-down/250?cb=20190822193846",
@@ -1649,6 +1691,13 @@
         "uri": "HGqu1Kxmu21DgmpR+7xaZGv64ZRInYI69z7jRBs+hrKysRtoLA8GQyPzAbffMDlYZH7MOi54SV57XDXA10p2VyBOvaqmkF3bzrbJM9pVyNJs6zXWEVniiMGkRAYhk/aN",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGRA5kbC6PKkuwYrHe0WfufhyfsFAVDhp+HWEBd9WXxUTnBvUGOgJt4qJWzLMXrfFJXLhfa1DfeXWDLSs39obdRVo5d+8PHUEvuFHov4STnEk7WJMSALvAdoiHF5ePhtow=="
+      },
+      {
+        "name": "DHE",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hhE3aeIM0H7o7w10zna4ng8o3IJjjwaRg9+tLfeNnH1dI9bUWf0hIlGXruip0TN9A=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHzASTaqc0BZIc0wxEiCUE3X0Yl+6qrtmMrKKhAfDyfotDBzGw0tnmK8qLA3NMf5RUOkPhDz/ITOwJ1yKsqEy/mLd/qvZqNLO25SsUO0VHPfqowOVdnuV9cUS5tK9cnFOQ==",
+        "icon": "https://i.ibb.co/wCQcFwJ/dhe.png"
       },
       {
         "name": "DHE",
@@ -1729,10 +1778,15 @@
       },
       {
         "name": "TCM",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/d/df/TCM_%28Latin_America%29.svg/revision/latest/scale-to-width-down/170?cb=20200823030607",
-        "uri": "hzjLqMLPGSRRck5+HLHwejir+ZPO+Lz8LG/y8ZkVmt3xxITEC+m1UBhZF1q5T7QiOYOHfkPMd2yimiRVRHr7N8d7C7l09voJTmjTgDFduwo=",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gI5FCYI8qKPO8/RUI//ch7N2gcnGHDgV6QPzjCrKGhKNI9bUWf0hIlGXruip0TN9A=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK863kjiDK9xqg02r4o5isTnAOJCK97FkQo/HMVGVQidE2fF9XQb6oEFgyBDW2qNr3w=="
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLRRZwmBui8dBDVwGbOyQIpt0vkRrwFbtRVvELEw7I+vZQEFxWB52NAAPZX3CV/LjjSVYnyfyFTomaGR5KIyMpbwH8sAZA0inKaAgebv/5pyM/ERMmiIdlC5+le18WwT1A==",
+        "icon": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
+      },
+      {
+        "name": "Cinema+",
+        "icon": "https://i.imgur.com/OpOdLfZ.png",
+        "uri": "J083UuF69HLWg7wnl8Uc205cyYPWWoI1T4Jr8cQHK7QZsih93QY6hOuLYJ8bEuNdXbSAVeGKIe8FpxDcjHcUIg=="
       },
       {
         "name": "Cinema+",
