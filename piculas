@@ -421,6 +421,37 @@
     ]
   },
   {
+    "name": "Pelicula 60FPS",
+    "mode": true,
+    "lista": [
+      {
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9utgpM7TzMR0t1BzhPX3yd5bKl9-tyCz1uHkgTAifOva-i_1eUSFcSDMw02UcXEWxq_OvefHV8PNvhmCcSGifJ9Lvo9j4pfLs_S0LNFlLBaO5Xh0hyphenhyphenr93RY3txs8XLfHLMpBQ5sKvSNa4OCHP65PwNqUNfM94LMpDnNMeE6ibk_OX7rx_1-zHZFxehpu_/w426-h640/Dippol-60fps.png",
+        "name": "DeadPool and Wolverine",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/Ij2y0POydh8NjVPML9mRDEGJXHPlI9Lf0uXEHAYjLoTNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://i.imgur.com/XmZ9UxZ.png",
+        "name": "El Guason",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/Melr2guXExICO/QkEUDr51d6SMX7GXZET26+dAcIim0nqf+c8hlvGNYX+znAT7+jLeEoI6OCxDg0qkQfm5ove8="
+      },
+      {
+        "icon": "https://i.imgur.com/GJvgEcp.png",
+        "name": "Aves de Presa",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/C0Ssi8XdoEJVodbzp+6g0C43LWx+W1OpjE1k9l0i/ypYiM391jaDqPRtpJnA2fFTw=="
+      },
+      {
+        "icon": "https://i.imgur.com/mAVrgXQ.png",
+        "name": "Mario Bross",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/Mm7Q2mwGALjvZITqpJyoiSvA/6l+9iIzIGfohT7nJKm"
+      },
+      {
+        "icon": "https://i.imgur.com/1zCzJuq.png",
+        "name": "Avatar el camino del agua",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/GKtVqYjIGNX8b9gSG+32EF8GNJ0m1zwvVw3VccfpUuKt4Sgjo4LEODSqRB+bmi97w=="
+      }
+    ]
+  },
+  {
     "name": "No listados",
     "mode": true,
     "lista": [
