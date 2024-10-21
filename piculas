@@ -4,6 +4,41 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/bsz7f1f.png",
+        "name": "Ctrl",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWfecsrkAeQ04g7ZuIsxiA9WrwTeYv9uOQbCFefmWvlcw=="
+      },
+      {
+        "icon": "https://i.imgur.com/aWi1Wgx.png",
+        "name": "El atraco",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWJ5fFdTUO7vbKZndh51xXTy8/F3mO43ZkldAFwcXNB0A=="
+      },
+      {
+        "icon": "https://i.imgur.com/obGtvJl.png",
+        "name": "Hermanos",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW6Yw9vETGdwnnhvnNtUplryeYJVmqwJ+4q+XDu5EQMLg=="
+      },
+      {
+        "icon": "https://i.imgur.com/twhTvlA.png",
+        "name": "Bienvenidos al paraiso",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWcBckIkSkkNfqbXtcE5zZMYnBjriq6J3gXWnitURYEQGY/88i+iy6IrZD9IlrLhpw="
+      },
+      {
+        "icon": "https://www.neocine.es/recurso/articulo/nunca_te_sueltes_101924.jpg",
+        "name": "Nunca te sueltes",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXkcmbOnSjI8WCV5MhBJCKjsDsFUGcNmH1JLkCjBcNxJJfqX21/OyfpJFSMIW2s+uY="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/5/5c/Ahi_afuera_-_Poster.jpg/revision/latest?cb=20241017210705&path-prefix=es",
+        "name": "Ahi afuera!",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWf5VpZLCxnGGr39BEmkHTRIVH/m2phbkTAx/oaQB1iuw=="
+      },
+      {
+        "icon": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/47427-649819-20240911011247.jpg",
+        "name": "Robot Salvaje",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVhuyOQBu1Qv761dZvSJCnsCY1YmeZAY2IwP7x6RYi1Kjb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
         "icon": "https://image.tmdb.org/t/p/original/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg",
         "name": "El hoyo (2019)",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmTm4Gf3ylk7Ni6/pwslOKrLkG9hEd2hck686+rsZbHH3wyfYPSHbAMtu64NF6FEPsj6PLer1DV48jgCA8s1csXZGNeSVGB0eNM4kCxw0/+vCao195XfdLzaMv+oYZy+gqeJNS2ZVXR28gHtr0B2B3aROmG2kmIpZtOHLwQh2+AHs+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJDRr0U1Xz10szDUMBgPjnIr9Gzw5c0pE1gSthr9xEfPMPZlveRDJH1Fq3SQg69iNbNrD391PaJmewc04Dn0Uq7ClxbBpOMLgBOSKKiTikcijhcrDqE0a3jsIWi+IaiTY6TJ7wHHVREulvVDjIXCMyd+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
@@ -254,11 +289,6 @@
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWg/B5TFmg0Qzd5WLNAnIZUfI93bxiU84FZuhQ5YPXYzUS9WlBRI7sxj8WlbK3EDfM="
       },
       {
-        "name": "Mi villano favorito 4",
-        "icon": "https://i.imgur.com/jzqhKsX.png",
-        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZfMreZ1/3OespM3vVv85mb1xdxG8vyr+f3gE6/d9fncSitoRFYsJnusMAssKExVOgRDnzmWfJy2qRKLYwlkmeidbuHnF/9KMNOAWRY4xNSMGPjInZelJSX92kPTxoFLwt9Rf4um0ppY2jcLxgvkIj2jsYqmQwfR/dyJ4f5bsmEQEhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt9xsYi7wU/u9Cpv/cKjerbB4+9wzFLArUzjk9XH9+T3NYJX2ndDLeKexrNvSTdiTh7gYh7uIaBThKPCDAMIJAeNcynznJ4ZEiePcfi21l8U3dEq41KVfvfxG9LF99hrvNv5Znc2dClej717q9FhzVVbehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
-      },
-      {
         "name": "La academia del Sr. Kleks",
         "icon": "http://tv.powerlan.com.ar/poster/w200/10269991719102913i.jpg",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXmosa4h9viI9ixJBRcSZdoEUDkTaH8Mt5H1XvO4EnHAsnmCVZqsCfuKvlw7uREDC4="
@@ -425,6 +455,21 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/fjnZs9A.png",
+        "name": "Bad Boys 4",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/MgJIoL/ZGhmV+69J7L7QjAuG+WlgjTP0ZfCTVQ/W7XTPjmaMmIeBOOyVtT9Q9rKCQ=="
+      },
+      {
+        "icon": "https://i.imgur.com/eUp1387.png",
+        "name": "Mad Max Furiosa",
+        "uri": "5FSgSsDC6nVpPZRfqN9COLZbqtfUpiaa+dDozW2jWG5NEDU0ulgOEOHAgDfTKshPvzU4k0IdMmTPHIjUQXESTF8WoV2NxktRI6K1xlDuVcI2Io9GVeaK50nn8qROoglC"
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/eKYHbgTY3jBnuJaZ2eY6fMoUlv28LGtEvuHlhbJRdyBxt3LvEnO9FnJgmrfZFKpjxhGBMe_SpEVwGziBGQ",
+        "name": "Mad Max Furiosa",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/MgJIoL/ZGhmV+69J7L7QjAuG+WlgjTP0ZfCTVQ/W7XTPjmaMmIeBOOyVtT9Q9rKCQ=="
+      },
+      {
         "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9utgpM7TzMR0t1BzhPX3yd5bKl9-tyCz1uHkgTAifOva-i_1eUSFcSDMw02UcXEWxq_OvefHV8PNvhmCcSGifJ9Lvo9j4pfLs_S0LNFlLBaO5Xh0hyphenhyphenr93RY3txs8XLfHLMpBQ5sKvSNa4OCHP65PwNqUNfM94LMpDnNMeE6ibk_OX7rx_1-zHZFxehpu_/w426-h640/Dippol-60fps.png",
         "name": "DeadPool and Wolverine",
         "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/Ij2y0POydh8NjVPML9mRDEGJXHPlI9Lf0uXEHAYjLoTNvwu0STFGFDreKwlJJfuJA=="
@@ -501,24 +546,9 @@
         "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkQ/rjGqPSD5JolxkN5WkKnmuJu69oY8nxh3Pf94wTrACH5aSZzCTOWpqquIgm7hBXxNYw7TUagjWSNIYd/07Qqutg2M23PypOk1AWN9DUjOafCnwYF1VCdVS5kFOCjPaJfcfFdMvZzmnH4tJi6PNBTw=="
       },
       {
-        "icon": "https://pelisimg.online/cover/el-increible-burt-wonderstone-1603481411.jpg",
-        "name": "El Increíble Burt Wonderstone",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT4NgcxfQImGmftVCvpGqWrNPkcwFjZ6VFEMHl6v3JewfDCtMZTJwNUgUI2JOnaLvLGih9OUsc2rKP7ZcxQ8kh/C9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://play-lh.googleusercontent.com/Q_9iAB0VB1jIvQdQzVveklir9hoEoPgGy778uEWZkAxjNyCxT-NSMv-qU2EOdivHW2Vq=w240-h480-rw",
         "name": "Soldier",
         "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CJphbo8Zv9l1FOlN9PK1Jx9MHkb/SfQH2U6L8igVjpNfSPW1Fn9ISJRl67oqdEzfQ"
-      },
-      {
-        "icon": "https://resizer.glanacion.com/resizer/v2/5HRP2E5WPNFP3GNGQNFBB3WVBQ.png?auth=8be04739a3e21ee77fda274f373f95c793407c6283890b1228fed1e80c2c89e9&width=210&height=300&smart=true",
-        "name": "Instinto Maternal",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT4f5dlfKixqA9BaQdWDYa7wQS08Rs4DZrdr2GTMstRikPTgLm2G08okCKA8/Q8N9GHx8XS2wFcbGlhdGIJUN3bv9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/los-4-fantasticos-y-silver-surfer.jpg",
-        "name": "Los 4 Fantastico 2",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT6wtMAOfrmwLnWURMtzzfDC4vuOb5pB7oengAI6fqEPMEURpbtxsuiIvzBL+miuKnCQWBHpK0a8BBQNphEyXhPA9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "icon": "https://pelisimg.online/cover/fluke-1574723104.jpg",
@@ -553,7 +583,7 @@
       {
         "icon": "https://play-lh.googleusercontent.com/vKrEDMucv2UtHI4dDK-LmHUaeoBowdTsM3H-hMbgoCz6m6jFs5KrYMPwNLG-YyIgV-9VDUsljuw2-bOyu8s",
         "name": "Cuando acecha la maldad",
-        "uri": "KLmIcX+KWceJlAPIHpx1it5SNSy5XpWWDdx2lCCQ0pYUjkLYDI84QGSQ2QYuirYzzbfKjjSC03DljJfpNJqIoepxLg7Kxe9kZDhiIuLTxAJPn3qeW9bA8ZsBdjb5cyVNlbwOjNJlFkd4xJSQkOwWSTOQ2AAapmion9FJxkjPVoCPhERAEwy5KtJvJULgDZW57x0RnsKhb/dQNUn2VpGpcdfgpcWHMtytjMxY0oNTDqhLHhC9cetva3QWUtTKQiYBIxCHzCBJPMh0C92SLNDvgo2AP4kQ25YRWnqub2Vpu8CrCUpV6wvsbdrT0bF4WlFaZDIXfFnQ+0M/pTmAcC/ALg=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/DjhRvhmvJUq6xPkZxpD2piuQQwSCdLCbVP2vM4DmrtJ4s5VkiRAXF54W+S1mZmeZICt+MeDHDsFMLCFaAUPOKk="
       },
       {
         "icon": "https://i.imgur.com/yu5LPRz.png",
@@ -563,37 +593,27 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/en/c/c6/Sisu_ver2.png",
         "name": "Sisu",
-        "uri": "cqSAeA15QHtp0vkrgiAzD2Im8aA9W7zLpE/NpLE+51B+45ab0vNQmFe3ZXPOEhU/50QCuneMrb55EU4mkB81OkBmISo7L8eV/V6hXJCLrQFdUIMneV6IKurnWIm2IqaV"
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/HrwWmcZUjNz/HYHp6Yn9ODW4tzQF3Fu8uBDVovVwMa4"
       },
       {
         "icon": "https://pelisimg.online/cover/the-guardian.jpg",
         "name": "Guardianes de Alta mar",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7BoQr+kdFmEmquLbJ1aO5Zx06yStx1B726Ulr+FXaBHda+iDxwC7C1u87WYvMB8BpgnZ70d1vbEzZ/l3rN0oU69V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://play-lh.googleusercontent.com/KKWoKOlZqkLR-sOBUGlm5xdlE1vby3D9ZVgC1oUsv5WCSBVaygCmMlgaQzLGWILbc7St",
-        "name": "Brothers",
-        "uri": "cqSAeA15QHtp0vkrgiAzD2Im8aA9W7zLpE/NpLE+51AY7d35faEMwAeYiE1YKIGSmyyDVqZvTl+cT3NJWlFlcuzDkOYM1hVcs2dqfqaY0wJKultjkdZlHxt/4nahJgTE"
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuvxC7Ly4kWo2R6UDZFxPRog=="
       },
       {
         "icon": "https://play-lh.googleusercontent.com/L_58io-NwcOuMRZiJgcxC-_KIJCHXg2YLal_ujJXI5jMC202FUY95awa3aPICYD0yAiV4Q=w240-h480-rw",
         "name": "Hellboy El Ejército Dorado",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT76EnMAkDgx7QFs9Ir87Fnp4XuoDpSU47O1xZLZIzF11HqQ4tF6ZZMerrSvXNANyloep0y6sH1yhmF3mgra0I8zNS/skHXTCxpwzk5WbKyWZA=="
-      },
-      {
-        "icon": "https://www.penguinlibros.com/ar/1596498/bajo-la-misma-estrella.jpg",
-        "name": "Bajo la misma estrella",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT6W7kJHXOxmpBIf7fOLwfq3nEHTizgRL3kjzmv0EVdUY4QB0M8A23L4dBOZQIvWtpRSG+ciSIoEJn67Qy+pFhVW9V7sG20F5MutT0fnt4fINA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/H+wuVH6uDCtlhcaCceKY6RVb8dX5gJ+QYfQHuJEDRzqc6aV1eUvZrj5hoD/C7lSUbI6PBRw8/6zOEZ78zLo6CM2/C7RJMUYUOt4rCUkl+4k"
       },
       {
         "icon": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/579114.jpg",
         "name": "Yo antes de ti",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT4T3jkrXSgY6Hhx5fFVK6bgXepIPpL/pqjG4RFwcfSNRNsM3+/uAl3zwAhkwtmbOkSXdhhI3dwClwpPToHfAGi99V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PY9dgzBqMPfIKZ8J31s5F2kexgrT04xsZ3bbxMAhSQCWQ=="
       },
       {
         "icon": "https://mx.web.img2.acsta.net/c_310_420/medias/nmedia/18/67/61/01/20070878.jpg",
         "name": "Diario De Una Pasión",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT7Ob4q702XKocBV6TpucTVHlfY9KIK/girCHMMcepy4U7rl9pRXHOKbgOes9HF8fFgnSmxH/T+3mCYjfe8iXt4z9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuXlYCHxgDt7d8uFIXTxEFJw=="
       },
       {
         "icon": "https://i.imgur.com/FOCzOeZ.png",
@@ -608,7 +628,7 @@
       {
         "icon": "https://i.imgur.com/4wtpp26.png",
         "name": "Camino hacia el Terror",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT4TUd9xPkr5B5foK4n7kEVFzs0D3CCm4OcULSTl7iw0+e8C9Og6oOz5WxZ7V2zssO4W9RbwUNLkyH6Rj9EclI0P9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUu/NZ7lOnzpZsDwTG9TQwKHQ=="
       },
       {
         "icon": "https://static.cinepolis.com.ar/posters/1785/w500/milagros-inesperadosjpg",
@@ -623,7 +643,7 @@
       {
         "icon": "https://i.postimg.cc/85Brshcf/image.png",
         "name": "El Desafio",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT75Rr+3E6AC/4X0j6kcwNNJYalikZpmSo+JWaScXep2+ps8X4vpAQC6VVJYrSBGOoFXlgManw9cPs9pYFU3vqPQ9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuEkNf5TsZ6Jn4Xr37adNshA=="
       },
       {
         "icon": "https://iehs.unicen.edu.ar/img/filmoteca/la%20caida.jpg",
@@ -678,7 +698,7 @@
       {
         "icon": "https://play-lh.googleusercontent.com/jVCE0sikdkJSIoAAEaHu3wWe0SNwdFLQDAZZDqXMh4ofEg3CKGQlzjA2OuC1KtZpItGjcw",
         "name": "Armageddon",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT5D8tG00ITToSyRJL4asGNHQWd4vsvtyp79n3L6sNw0HpYVqzKXhTWvpeX/NkhulGF9WSXSTLkmuaGyVGzV9O3/9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuhz4Q/A0wcphSrp1yjz0pVg=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/doblaje/images/8/8c/ANightattheRoxbury.jpg/revision/latest?cb=20091212033156&path-prefix=es",
@@ -703,22 +723,22 @@
       {
         "icon": "https://pelisimg.online/cover/el-vuelo.jpg",
         "name": "El Vuelo",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT4eOEjZGDzqkZDK/6VSQlszjBBZ5xiUNewyqByAUJ5OH4sjamrec9BenF+jGofXfR+5U+qqtophXL+5HITG3I1A9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUu9Rab2FzEuzRVsn//zh+VOQ=="
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pl4Vj9dtliCFU7mNdHnKL_4zjmLUw5af7erBCGp_DVg1YduUojUVBL80kG3mxmpi1Q8&usqp=CAU",
-        "name": "Quien quiere ser millonario?",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7DFH98gGqLIB0Ur224XrIc4E7bpQkHs6vrCxpPv817YNrwbowpVGfpQI3wneWAQlbLCc+wfzd+njJ25WucjGna9V7sG20F5MutT0fnt4fINA=="
+        "name": "Quisiera ser millonario",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuMbGKDt45oqhLGWN+zIJKpg=="
       },
       {
         "icon": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/33104/rockstar_lg.jpg",
         "name": "Rock Star",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT6SGHCNiZiisDrAzCc/ouZ+XWjIjZV4mQlNChnjyjkdLYTyi8UocWqbdka78xUUOgXYcegpNkrjltHtKvnKPdZG9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuECbaMQ1S0Sh1RZEPfC+ruw=="
       },
       {
         "icon": "https://i.imgur.com/Ii015WK.jpeg",
         "name": "Mi nombre es Khan",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT5ViX5MkOZO7/fw0fwGk5+P+C1TPvLJpUNbD1Eto8dWKUdEk5KRhsuKPYfnhn5IIqUJmd6yDy8YxORRo1/NzrtB9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuMhLe543t0KoiEu24xXMGZQ=="
       },
       {
         "icon": "https://i.imgur.com/MUG5rii.png",
@@ -726,14 +746,9 @@
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWMubHqx4xM4rx9WZ/JL+zlNSgf9bmDtRY+e61b16d+5g=="
       },
       {
-        "icon": "https://play-lh.googleusercontent.com/5snt2J33UuZQ8LV5GiNL227RyGbx08O7s4IomEcgzol4FVYGBgnHgPaicdbh2WANs3kvcQ=w240-h480-rw",
-        "name": "Alma De Héroes",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT6ncCM/Nz4bAEeeJV0D8zCsWZzbG5KhA0la+80UhzYJxw244MU/nhPB8jmOaycmKEap9WSKXIE3k/I5HnH1U0Ww9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://play-lh.googleusercontent.com/XCmoLdjcbmU9mV_HKz4LN5JjysVY7sWCm0H7d0uMo8gSww2jfgKwkS0GLMN6QKL-IqkTOghLuAbI-tpx8ZY",
         "name": "Spirit: El Corcel Indomable",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT6zeEWWnpprcX5lYozjQm4agI+o6UpnT+QBF0nsTpBXh+D6qTS+W77Alootnnk+4waexMWx3nFtKegS3LwsnoF59V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUu2lkQ1CD3pBJdpQPRtBAMlw=="
       },
       {
         "icon": "https://i.imgur.com/eErnAyP.png",
@@ -904,12 +919,7 @@
       {
         "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/psJ1QqSfJb4aGabMzR2lSqWDWD7.jpg",
         "name": "Terrifier (2016) 720p subtitulado",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT6SFPdKrRQwIPF+J1L+hAvBjuMbbwqrDGEnPzQMGsco90p8KdG/r8vFrx6jGJfXav4b8REkyr716CrBohLchZjB9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/yw8NQyvbeNXoZO6v4SEXrgQ27Ll.jpg",
-        "name": "Terrifier2",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT7018wQl92zjCsbluVA96NQTcn5dd3GQ599TYKVRPScAcpkEorYfLTwT1iLaZf5YTJUFp/z4kI1t2YpuFT2/Dczt4Sgjo4LEODSqRB+bmi97w=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuoJlZNf0nadW+0avqgdjIGw=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/yT2SUMGuI4inUmBsiFjHqGp2axZ.jpg",
@@ -927,69 +937,34 @@
         "uri": "5/tvCXUmcT2NjZEkUqLkKyrutL9RxDd1Tpg2H+D3fXA6LOagjnZ3F3Z2EEbSB287yM1onFTBLh/thaMUjmBIDw=="
       },
       {
-        "icon": "https://pelisimg.online/cover/los-extranos.jpg",
-        "name": "LOS EXTRAÑS",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT5OJKH5Vwx9BpFp07KKalG4fvwC3iTeUZyLB1osd2fN3RiFTPFevPKwjpcufYTrHsS3KJjjXKpkXfbzpCzEPhGqt4Sgjo4LEODSqRB+bmi97w=="
-      },
-      {
         "icon": "https://pelisimg.online/cover/los-extranos-caceria-nocturna.jpg",
         "name": "Los Extraños: Cacería Nocturna",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7P1EuPIrbvp1NkY2r85TiIuvrIi1DgKAJR9HGOElWyqwQjAB2MyLTEjn55tCg25DJ3zG30ZFcNkyPsj45KENfkt4Sgjo4LEODSqRB+bmi97w=="
-      },
-      {
-        "icon": "https://archive.org/download/feliz-navidad_202312/feliz%20navidad.jpg",
-        "name": "feliz navidad (2022) 720p latino",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT4pFlIu9GiKerhfE8Ylw9R8YO0FWWP7UT5PALKDjK4lzvO6bxYTJezHeM2s7WdAfOIbo0M4Y74yRKdoTi5RzU6u9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://archive.org/download/feliz-navidad_202312/feliz%20navidad.jpg",
-        "name": "feliz navidad (2022) 720p subtitulado",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT4pFlIu9GiKerhfE8Ylw9R8YO0FWWP7UT5PALKDjK4lzqA+aG/9ikFbuId8QAaZ4RK8EA+TigEPSdi6uiCOLsJK9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuGfOprafIM1hvIOnFVzHg+A=="
       },
       {
         "icon": "https://pelisimg.online/cover/five-nights-at-freddys-1698390627.png",
         "name": "Five Nights at Freddy's (2023) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT5YTqXjzcLCR4oBwFlm8cfug7imL8iAhMTP/6YRibRGwVqXAHtMUcLju+Gtu9qLBtMgM0SK6KD1o5q1tm/2xyIv9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/five-nights-at-freddys-1698390627.png",
-        "name": "Five Nights at Freddy's (2023) 720p subtitulado",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT5YTqXjzcLCR4oBwFlm8cfug7imL8iAhMTP/6YRibRGwew/IDhokGy0Wz/q64Q55xL/JT53PPMQWLGx06jeN+lX9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUub3ZtSlqT/AWlRnL5kqMetw=="
       },
       {
         "icon": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hYaKxnvqQt4pMtFy5KptUYJo1S0.jpg",
-        "name": "SAW X (2023) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT5mzGlCe3ESNwldobJPYKGF+Yk6xpL3ROAFad9FxYlQr/rwO/OVvcnkcUmhsa2nyNhf3zan4igffVgtBzNsruTs9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hYaKxnvqQt4pMtFy5KptUYJo1S0.jpg",
-        "name": "SAW X (2023) 720p subtitulado",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT5mzGlCe3ESNwldobJPYKGF+Yk6xpL3ROAFad9FxYlQr2SVSj2sm3cQY42dJgNEbmWlRs+ksMxOtFnqyeYUBJHw9V7sG20F5MutT0fnt4fINA=="
+        "name": "SAW X (2023)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuATV9eDIqA1wlpvinjWoINA=="
       },
       {
         "icon": "https://pelisimg.online/cover/el-monstruo-dentro-de-mi-1696411226.png",
         "name": "El monstruo dentro de mí (2023) 720p latino",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT7PrglDzo2m6mSwVapEmoPN1gLVwgiLOtVl0f0tfrZ/IyO3DeczyXvHTdV0DGRgxAfRKzvh9M3LieN5p32VojmS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-monstruo-dentro-de-mi-1696411226.png",
-        "name": "El monstruo dentro de mí (2023) 720p subtitulado",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT7PrglDzo2m6mSwVapEmoPN1gLVwgiLOtVl0f0tfrZ/I9vNY5AtA3wu8R/GeIOlyeuxmVVp4nB9Cc3F7ggfo/XQ9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUupaUueyJvfj6fVr5HeBi48g=="
       },
       {
         "icon": "https://pelisimg.online/cover/dulces-y-sangrientos-16-1696689150.png",
-        "name": "Dulces y Sangrientos 16 (2023) 720p latino",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT7PeW2NvY9LHqw3H2g7BfSdXMaCBWR/gw5a8I7EBY+Ktnq97EJIEGPAnKYwep/DN3R2H4aB0U29vRJBe3Y50euc9V7sG20F5MutT0fnt4fINA=="
+        "name": "Dulces y Sangrientos 16 ",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUu4DGI4QumGbA+Nnpxb8DiqA=="
       },
       {
         "icon": "https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6StdSKn9ej4rwtQjcl1XMk5E0iE.jpg&w=640&q=75",
         "name": "El exorcista: Creyentes (2023) 720p latino",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6jgV8+PlazTkH+79lKvtiSpHo3sc1ZkE5nWs69JA+U7bZ7uU+myy3D374fozl4qPJk+D9t6itr3vBNFCHOJh7m9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6StdSKn9ej4rwtQjcl1XMk5E0iE.jpg&w=640&q=75",
-        "name": "El exorcista: Creyentes (2023) 720p subtitulado",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6jgV8+PlazTkH+79lKvtiSpHo3sc1ZkE5nWs69JA+U7R2wgtNrD1bFq2KV8eJ5WlUWG/fcWUcpY4xvidokBfuL9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuxrfmDVuB5m4HR8SjuiS2Tw=="
       },
       {
         "icon": "https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg&w=640&q=75",
@@ -999,32 +974,22 @@
       {
         "icon": "https://pelisimg.online/cover/boogeyman-el-nombre-del-miedo-1693841591.png",
         "name": "Boogeyman: El nombre del miedo (2005) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT7yqeGjJWR8DK3RojW9pCyJx+mUHzmQmllWhWUyzVthKT2Dg8eI+hWnuDVynygXxawkUBqZfTcy0AK5p8org0zy9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUunCUQ7/rEGGF0/DMJQLX3Hg=="
       },
       {
         "icon": "https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FudniPSAJS6RDarNgSBK8IUsFthf.jpg&w=640&q=75",
         "name": "Nadie podrá salvarte (2023) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT68Y7e0bQWyptfxLXyxGJ7cLTiUKMRNZHdSLDoBMaM8nj8pmVQbyxn2PEmfpebVIg+/ohDSIroRr9M9tlELOPTz9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FudniPSAJS6RDarNgSBK8IUsFthf.jpg&w=640&q=75",
-        "name": "Nadie podrá salvarte (2023) 720p subtitulado",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT68Y7e0bQWyptfxLXyxGJ7cLTiUKMRNZHdSLDoBMaM8nl01Fd5iN/cCjUNNwnQ4FmfafV/UOh2Kp6D7U9YCZ7zt9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuUZv46FHb4b2yo7I6xqYGlA=="
       },
       {
         "icon": "https://pelisimg.online/cover/jovenes-brujas-nueva-hermandad-1604511607.jpg",
-        "name": "Jóvenes Brujas: Nueva Hermandad (2020) 360p subtitulado",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT5nmYZJEKFGt6ItwSpnObemIEl8tSAsPd6dR+vwCTzWsr8hABTu39fo6oD2rqnHrhpoDid1rc2FkQKCixrTLH7V9V7sG20F5MutT0fnt4fINA=="
+        "name": "Jóvenes Brujas: Nueva Hermandad ",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuyT8sUL/3JrJ4GBocLcsoFg=="
       },
       {
         "icon": "https://image.tmdb.org/t/p/original/qO0L1PzZCmqhRrYUuPvGXdysMdG.jpg",
         "name": "Hablame (2023) 720p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7u+hIKfWgE3s/UQwEpPibcDzdD9aeGlxpeRcHaT6cnCWBMn3zJT3T09N2qzLD/uutbyTsXFhjpHoQ7shUaiPYn9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/original/qO0L1PzZCmqhRrYUuPvGXdysMdG.jpg",
-        "name": "Hablame (2023) 720p subtitulado",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7u+hIKfWgE3s/UQwEpPibcDzdD9aeGlxpeRcHaT6cnCfR8lFE/WZZSBhUuIU7kSZSehzLMKDRgnak6V496AqVl9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUu2Mo1i8rPsu4tlBViRak4gg=="
       },
       {
         "icon": "https://compucalitv.org/wp-content/uploads/2023/08/Dracula-Mar-sangre-2023-HD-1080p-720p-portada.jpg",
@@ -1032,214 +997,54 @@
         "uri": "5/tvCXUmcT2NjZEkUqLkK3eKCkpTwFPsdUmyJtkHioydMqmzM48I62glM8zzUHhlxxsMPXQ0dsdpTbxY9wk+JbX+Gzyaz347PPAYvuGrza3MGJ5pxKcL3fjZWKhpZY9qlG/UX17nO3ygivSJANfO8e4oW7OELfVWDGLdAUlXIfc="
       },
       {
-        "icon": "https://pelisimg.online/cover/camino-hacia-el-terror.jpg",
-        "name": "Camino hacia el terror (2003) 720p latino",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT4TUd9xPkr5B5foK4n7kEVFzs0D3CCm4OcULSTl7iw0+e8C9Og6oOz5WxZ7V2zssO4W9RbwUNLkyH6Rj9EclI0P9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/camino-hacia-el-terror-5-el-linaje-canibal.jpg",
-        "name": "Camino hacia el terror 5 (2012) 720p latino",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT6vqNughepUGG0CD0D3Gmf0AGUyf6CzliDyuTziED/gfMu1sWpWIBtwgntxqzfvfqnfbxn2XfYiG7GsJoLDz0oc9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/camino-hacia-el-terror-6-herencia-de-muerte.jpg",
-        "name": "Camino hacia el terror 6 (2014) 720p latino",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT6VWpekv5SFiFnE8JXtTidEn+VTpAJNy/qwYUVqhzIhNLW+dY355AgISCLO9qY24K7M9OUWWavkDbZYH//gOaAU9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg",
         "name": "Fear the Invisible Man (2023) 720p subtitulado",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT7hMm2mQ9LNIL3V8vB9TLLCg8ZEBQkCK3Cg3zXiUOJ0R5z5MF2npbh/6a22E2y0KO/JHUaz1r+waxmYnCWam6UL9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/xbrPRC7doDPEoC3z35q6MXqLEBM.jpg",
-        "name": "Hostal (2005) 720p latino",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT4Oe0Sb8rig0hgOxhUHacxD+PSmYaIvUGloDOSS7n/J4UVHJcw+L2MTXGX89+3186rsqQHWBaQC7Yrk85Gi0+NB9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/fvFYsHFyK4KB8MxezR8xUhUyFHL.jpg",
-        "name": "Hostal 2 (2007) 720p latino",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT4AMFHfz7NAWnYkL+P9bCgJQCULZ3fJRhowzqhF03KugRIzmvjow93VjPqYAIAK837qRkct6XoWpWqvwNfuXsEg9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/bWMijQjpu09Pq9jrn3SL3qTHMvS.jpg",
-        "name": "Hostal 3 (2011) 720p latino",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT4iqLvU6u9Dahs4dTs2SdrmbC+CGTiqV5KMhmTW5RVHWX2KgtGzajFNezoUCZv4qaefwVO4CqN77ap1Ft5PXemh9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuVpBJizeySShrmefdEq/ZXg=="
       },
       {
         "icon": "https://pelisimg.online/cover/bird-box-a-ciegas.jpg",
         "name": "Bird Box a ciegas (2018) 720p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT5tEyimlh8h1+2Kmxtv1ghyaypYG8rTEnb3MA94zujwiRYRCKuZLpyruT5Ul1+ikpBJYgKvVz5ptiFXz5h0tVDN9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/destino-final.jpg",
-        "name": "destino final (2000) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT43D3V8wxrmpZxo3fPpbR4X6RxVNV5sLoTmX2CM9q2ZTyHmIT4rIg6XSZwpPXRgRGe9DHdiEHK9CQLuMtzC9JEV9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuA1UJG4YsNHgRuEzRyd52ZQ=="
       },
       {
         "icon": "https://pelisimg.online/cover/exterminio.jpg",
         "name": "Exterminio: 28 days later (2002) 720p latino",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT69mE/qGjaTLvCI8OVnUXjUmjL+LUUgeucWkXZrnFLZXwh6rMLHzNlW87pf1n1QYO5a21kUubuT27W/5O8KIxs/9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUu3qWDOO72wUlGrck6rHmsWw=="
       },
       {
         "icon": "https://pelisimg.online/cover/28-semanas-despues-1691146656.png",
         "name": "Extermino 2: 28 weeks later (2007) latino",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7LjdXbWmJpsN9peluQ4ZFQxe9PU8DYLPYk7g0wZhdVKW4uOdIQeKdnHflmezNcMqFP6RvnOX1fgmVLfLHd65Ia9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuXiPapFAJ/lOmGJ2Y9jqZ6w=="
       },
       {
         "icon": "https://pelisimg.online/cover/la-casa-de-los-1000-cadaveres-1585696805.jpg",
-        "name": "La Casa de Los 1000 Cadáveres (2003) 360p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT6JsXNYC12vWbGqRjvZxJs/Q67W14LncD7XelfEtt7/74Fcb5OBSXgEkFFhgyOmU9vWNsznGb43ntEpbgsBUdGp9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-casa-de-cera.jpg",
-        "name": "La Casa de Cera (2005) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7qnrqrKgeYrjGN3qaljhw2PbOTYHFycpFPxqAea86H5laYVBU58lD3JiuX9uKCe28FgQ6Sr5ra1cXnScS9Og6V9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-ejercito-de-frankenstein-1603819509.jpg",
-        "name": "Frankenstein’s Army (2013) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4lzd0YtuSoq7TH8o5cY9LdzgCEQz4ojr4M7cQURwEtCIkTwwD8VGhSpJrWaClfdkdKFAi63G8MYkqkjKXuPn2/9V7sG20F5MutT0fnt4fINA=="
+        "name": "La Casa de Los 1000 Cadáveres",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuD8CzlWO4prpzLMcXsclqDA=="
       },
       {
         "icon": "https://pelisimg.online/cover/la-noche-del-demonio.jpg",
         "name": "La Noche del Demonio (2010) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT7L2ncC/UODqsedfjHb17alBFTHIPtqTcqXWTTH3ub0OsiRYcPbltI0yBKMJrssGcFsN8QiR2NctfK1QYoXvwcX9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuBri5lDHE6L4djZa+rvFC2Q=="
       },
       {
         "icon": "https://pelisimg.online/cover/la-noche-del-demonio-2.jpg",
         "name": "La Noche del Demonio 2 (2013) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT7m9UEL8BS/XQvagQyvulNMSGpt0uDoI1qV4nMOYOhku70E3WXLfaWLeSe7JnSF6llwWmebHAuVEBgnwobSV5NX9V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUuFrChPGSmOnSX9POUdkRWQA=="
       },
       {
         "icon": "https://pelisimg.online/cover/la-noche-del-demonio-3.jpg",
-        "name": "La Noche del Demonio 3 (2015) 360p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT5IranjHXDSSJvSo53fOIGN2Xb4X6sXjBBnY0Qca9cTIiJkzsfR3Ly5y98Ff4TMZeHzzP6iiH5T0noE8mrJsDNe9V7sG20F5MutT0fnt4fINA=="
+        "name": "La Noche del Demonio 3",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUufVXOHMWJ2fPW3BvFT098rA=="
       },
       {
         "icon": "https://pelisimg.online/cover/la-noche-del-demonio-4-la-ultima-llave.jpg",
         "name": "La Noche del Demonio 4 :La última llave (2018) 720p latino",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT4VTd4jp3395HGdrUlDCmRQ8Nr64wJmW2pcnWkmYRzJ4bC2y6wu11+Tu9YDCLzx/Hec3NebJ2grlC41+KQO1wMj9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/jeepers-creepers-reborn-2-1669011404.jpg",
-        "name": "Jeepers Creepers 4 Reborn (2022) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4my//zJ4JDfnvlg+SQpOHoZAtE+kc6sotKne1Wb8oXfutggTOL06cFaFmuOKcRkNWFo5v/nE0I7Q6BoV2FJlsl9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/jeepers-creepers-3.jpg",
-        "name": "Jeepers Creepers 3 (2017) 720p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT5XGRWm/QodC+zykSqYJPyzQqvDdzXu567PSbK6DKSZjFaXCBnDbfXzTxlbkmsciAxR74fAmXZD0EHql2RnCo1F9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/jeepers-creepers-3.jpg",
-        "name": "Jeepers Creepers 3 (2017) 720p subtitulado",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT4u5nvpCsioDtMoWs4riWHQt5mtWmYJUBBtJM2/huo8/Yc10kh1uSkDUaXLLh/DQtH3cJ+3U31/ogn9uk8Hy5Jk9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/jeepers-creepers-2.jpg",
-        "name": "Jeepers Creepers 2 (2003) 720p latino",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT7x30edOvLPbMsR/pL/G+yW66L2jtmsl4h0srP3xLXQRHfJb/i7ZMFX5NrKWeO7k+jwDHPavnwhR323vNnIwGYE9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/jeepers-creepers.jpg",
-        "name": "Jeepers Creepers (2001) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT5zMc+R/MvGtjVICC/1B8YmQUycphs4q4Zt0HaiZw6jJtBYcW//tneTtlPAz1I0lwZ8+//ZTHAlYc6/FzSfzQCF9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/the-exorcism-of-god-2-1669168202.jpg",
-        "name": "El Exorcismo De Dios",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT44TJ+nqUvKDSuA9Qgy9jJxQXOlvIzbNb73p0kCve+GoqqetURMJVMfNh60l/9/Ma5I3JXO46qVvZ9jvrWSZ49PNS/skHXTCxpwzk5WbKyWZA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-nina-de-la-comunion-2-1681842004.jpg",
-        "name": "La niña de la comunión (2023) 720p castellano",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT4NrlksqpVKyA0XQfLsCKQkexkKvx6bxWKmBuFXapBwAlnYY6OoFccZnFSmQ4b1FkGKkTfkcLkcQ+rx9YfQnMq69V7sG20F5MutT0fnt4fINA=="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK4Z4eSAnTcB1g2yzfdtL9PaYOzbQofBHiYzI8B2VtVUufVXOHMWJ2fPW3BvFT098rA=="
       },
       {
         "icon": "https://pelisimg.online/cover/smile-2-1668779779.jpg",
         "name": "smile",
         "uri": "f+C7v4grf+D+3KV1XoLEPx8ARR6KHJwPAdwYcWrYj4V40Uyqczb+G9v3Tp/mfeepl+pfbX87J+kkVIwhbaz65g=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/winnie-the-pooh-blood-and-honey-2-1674952565.jpg",
-        "name": "winnie-the-pooh -sangre-y-miel (2023) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT6tQf+80+kn/32dF76YkWUsVR9UKQNY+SQfL1OFeESpC+PgX8OWWkG0NX2HStLJpjN6aFMpiPgLqENsBrDAVIUK9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/posesion-infernal.jpg",
-        "name": "Posesión Infernal (2013) 720p latino",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT6O+7w+85j2p8mgkCiceLzqr3/OdrzYNJkN14rmQ7FvlmKgcosPJvAkz+OHRFKBbhKaspW/KMgteJfOOWqlID5r9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/evil-dead-rise-2-1682111766.jpg",
-        "name": "Posesión infernal: El despertar (2023) 720p latino",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7aLQ8GOvsPgcPuZK5Hd6QQS1WYZ45J2AGtgasWt3FJG1Wmyf6Im/LMYboM6UnXk78+qXdLfDdjYmDf55XOoQSy9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-lugar-en-silencio.jpg",
-        "name": "Un Lugar en Silencio (2018) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6rBPip393Gtm3XkUXMpKRYyDyagwgTznopCZml1vHdzWCU7yi5Cqu0JOqZGA+EAmmpaCRDw9ejjvb5bSMyxzsr9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/hellraiser-v-infierno.jpg",
-        "name": "Hellraiser V: Infierno (2000) 720p latino",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT40HIGBJHvATmbOsexKAt6qqJfi4OczYxt7mugPcA1coc5vzd3V8i2UTT1F+NYRwSFe8YYdPnr7vB5h5FOUGOiy9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/frecuencia-mortal.jpg",
-        "name": "Nunca juegues con extraños (2001) 720p latino",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT5kFvNYmfzz5gaGBLjO+5I6Cir4aJ1YSqo4vqjwh6Fl1Y653cYdgYRh2znyqD3Ugj8s8+BdUvbZEHjpZWJKjZ1N9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/frecuencia-mortal-2.jpg",
-        "name": "Nunca juegues con extraños 2 (2008) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT5vsfxVFf5qAmgqM5eimLDu5Lg9Lzqby6GlEEKB3e2oQTsmZ58lMrcSGq1ydiNJ/87oUwsedTY3I3lkSjppLz1j9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/frecuencia-mortal-3.jpg",
-        "name": "Nunca juegues con extraños 3 (2014) 720p latino",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT6RJOE2DgxRq6NBFqpSIwHfX9XonNZYghWaVt8Gd6jhbSDZ/9UjzTCnMpj6pZkTS/A9BwPOteG+oyPOWDwAIbc29V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-hijo-de-chucky.jpg",
-        "name": "El Hijo de Chucky (2004) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT7gdQd+9pLxcc2ggcDSP8EyZbDRuaHWU8M3Dy+QC8liQPBi1yzjqXhfx6XxqLiNYQHiyZFA0Ox6kG7k8UlAC8wy9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-maldicion-de-chucky.jpg",
-        "name": "La Maldicion de Chucky (2013) 720p latino",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7rl6ONFIuO5wNi/DRC+15wsfwqkhFPB3Zv1L/icCTTnC3j4ApdlFmZzycj1Fl/PX6M1RR2XQbQ1fMkvTXcNR9Y9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/arrastrame-al-infierno-1573853407.jpg",
-        "name": "Arrastrame al infierno (2009) 360p latino",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT57BpqZ5fgl5ir0ftXXTKeL94V+yc9tFuVMArpy5pH17vNirpqPT8FXdM9dNPuC8LVoEwIqbPGY5dyiVUIZVrNm9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/terror-en-amityville-2005.jpg",
-        "name": "Terror en Amityville (2005) 360p latino",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT6LOPJSf97NOlcWfFyXoMgJMZk8H6l8vp56Em/Wy+FUl0i5EzWSlAL5RtPWaGwYNUX19n7QBKaKEXgGwHl+VGeH9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/viernes-13-2009.jpg",
-        "name": "Viernes 13 (2009) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6UQV1zpqRhCih5IH/HTkV3poJu7pterH7HRFpzNoMDM1H+A1gumkDOA33kya+sye1jfhCLJq461Hm1Wx6U0bSf9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/cuando-acecha-la-maldad-1698390703.png",
-        "name": "Cuando acecha la maldad 720p idioma de argentina",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT6y/cceoDVqAzH6p66Ywwe3WU5Z2a3oI4uzSRIssV/FuUKGZGq1Ar304E/h6m0J4Q9GmncF7sBxZa99n0BeDTyB9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/hablame-1691750975.png",
-        "name": "Háblame (2023) 720p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7u+hIKfWgE3s/UQwEpPibcDzdD9aeGlxpeRcHaT6cnCWBMn3zJT3T09N2qzLD/uutbyTsXFhjpHoQ7shUaiPYn9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/hablame-1691750975.png",
-        "name": "Háblame (2023) 720p subtitulado",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7u+hIKfWgE3s/UQwEpPibcDzdD9aeGlxpeRcHaT6cnCfR8lFE/WZZSBhUuIU7kSZSehzLMKDRgnak6V496AqVl9V7sG20F5MutT0fnt4fINA=="
       }
     ]
   },
@@ -1531,284 +1336,99 @@
         "uri": "5/tvCXUmcT2NjZEkUqLkK07S/gNlMGXTO1W3PF3H70iiSnaBasgEiyFw61xGlnh7z6a2BFFNW7j4gJWeiLCTpxMtP21NoUJv3mJzX8M6Ch42/C7RJMUYUOt4rCUkl+4k"
       },
       {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/d2bIGAs9BI46UPyF6o1hrsBMEl8.jpg",
-        "name": "Una Chihuahua de Beverly 1",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK6iAP8irTHguY/0C+Ldz1XaBtdGxIzZPoaTOVCqgIPhayB4TUtd5gsEu6bydQ9wrogjeNkxt0IRDUWC5ERlu/10="
-      },
-      {
         "icon": "https://i.ibb.co/j4K31Vw/IMG-20240626-163625-979.jpg",
         "name": "La Sirenita (2023)",
-        "uri": "f+C7v4grf+D+3KV1XoLEP1kmz6a6VENqAYLB8lF5WscsXtM1XKRu6pf9zxvdjd9Ue2uMqC2rwwAnr7fjuTnwJA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i0SN3GuopGoqeVHiXLA89s2XBMirsh07ROhnRo5k9WkhojL0d526Ljpgl88/LIHBJg=="
       },
       {
         "icon": "https://i.ibb.co/NntWkVS/IMG-20240626-163139-901.jpg",
         "name": "NIMONA (2023)",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK99Dtsu5N1R0rousFMhppfGHISbyv/tpE93eYndfgq2Ysw80CM5ov7DIdb4Yhp6UATYH1MG/9+QW+9YEM5SPEbnBvxm76H/gkGxUS2WVbhBWWCbSxV/FOr8NOSAe1RTlsA=="
-      },
-      {
-        "icon": "https://i.ibb.co/m5Fjhgp/nacidoparaserrey.png",
-        "name": "Nacido para ser Rey",
-        "uri": "tneo7O+3kPg4+E6BW67BZlCvTXOVnQN4b0wuMjwiGFdSR8dLC0XecSxFONsEGtXZ4M/5pS214VuGl7IvLGRN2LloOk6F6Ao1QrCfdo6WG7s="
-      },
-      {
-        "icon": "https://i.ibb.co/P5B2G7Z/IMG-20240626-193115-648.jpg",
-        "name": "Mario Bross (2023)",
-        "uri": "f+C7v4grf+D+3KV1XoLEP0FQA24xD49S1J911uLjpjSLJ5fOPT+4OVL+9oToOXe2l86zUTbiOjSVpBbr8Ixnfg=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i4gcLIxQ5yljbVPvdl3WBl0RvY1uShK8g8zVuNwK3iwC"
       },
       {
         "icon": "https://i.ibb.co/R6LNT6v/IMG-20240626-200736-468.jpg",
         "name": "Vivo (2021)",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK9pAni44kAITcROJOjE0iwN+4ky3spkxLXASv7GDVBBSvVsW7oBbq36eB2qtw9EGwQ=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7iz6QWmcVvG1eIfAM7RJNgwvSihcneF7fbFlhNaRr16AC04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
         "icon": "https://i.ibb.co/fCR10n2/IMG-20240626-164512-579.jpg",
         "name": "Jugando con el destino los (2020)",
-        "uri": "f+C7v4grf+D+3KV1XoLEPy9v5AvxfnJBuxM8yts+49qpEmDeL0tirr/NKf/Pv93Od+YV+ygyBArIbF0IFVhJu83eIXEd49FH9GCcp81WDB0="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7ixU0YtW/97RMHXxjIGdkpszg5UjMwurZ381xU/xzel11TEh6wOuLCp0C+me4SJVDXbOTsWp4XK/Z48OZ2e9vrl4="
       },
       {
         "icon": "https://i.ibb.co/z5BmKcL/IMG-20240626-200015-426.jpg",
         "name": "Space Jam el juego del siglo",
-        "uri": "f+C7v4grf+D+3KV1XoLEP5HG4NI5v29hAb/8CkehXqJANwPrsQsRKZyfLOUlxaSBxf/4nHzDRmgTjFGw45wqUg=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/alicia-en-el-pais-de-las-maravillas-animada.jpg",
-        "name": "Alicia en el País de las Maravillas (1951) 360p latino",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT4crxZVryxrO2wn+W8kHODMgh7vsHvEDpdF7dKg/dITuUCCUOj+kSzb1s3hGxKTiGZijy3Tc0B9JMJZQtXXNPGT9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/3BFR30kh0O3NKR1Sfea3HXCG6hw.jpg",
-        "name": "La Navidad embrujada de Casper (2000) 720p latino",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT5Gh3xr2u/G/715TDfM1twjzLzJLN7Z1YqD7s9qeGTJileGVZ6qFwCrbkGtiVuTQXV4sXwxPl/GYVQ6nvoleKNu9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/zYJWQvee9CN6nc9En2KUWewHGHr.jpg",
-        "name": "Casper y la mágica Wendy (1998) 720p latino",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT4MmdLZmbM+PRZ+QymZ+qhjZcN8aEJS8bGLCCtO6bvfYxLAyYiOWj8IJMpI8oXXo4vgIgUkDbHclUXJWID6Lw4G9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/48TGK0jFTjL74qnXMPoYRrv4mr0.jpg",
-        "name": "La escuela del terror de Casper (2006) 720p latino",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT6hJkpx7dD0qDlg0OmTB7ozWaBD2A6ojb6oTYHDV2JlqcsU2KMF/Y8y8InloXEgDW2DQyEP7MNl8aIHpTTMl10z9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg",
-        "name": "Urkel Saves Santa: The Movie! (2023) 720p latino",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6UD4cWCbyi0FOJ/ExUUcKeojsQDM1QQVenMwpvJZ1PgPwyfKV722bAiwqWklrMsFkLksyVsjunchh1zmp9x/+59V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w188_and_h282_bestv2/1YjtY8k7T17tgDdWLUPV7Hbc18B.jpg",
-        "name": "La hora poderosa de Jimmy y Timmy parte 1 (2004) 360p latino",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT5dizkcpJ68d2XT4WnEEfFJHGlc/pD9qSfFGQIrP2TzFZnBvGOJiPtnQ9BaqrV8VrpA10Nb2Zh967/zZGM6O1qQ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/bS8yOrOZ8DMxW4DfrBJxvlAtkVx.jpg",
-        "name": "R.A.D.A.R.: The Adventures of the Bionic Dog (2023) 720p latino",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT7rM6PEUq7QDP97E2yWpWnGt6lSqGj9wQkPgcduXfnriiVVp85RVuP7LGReoV96kus8A8RicE0U55NEenjOgEWs9V7sG20F5MutT0fnt4fINA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i6IFutWKT2ZNwKFgp0ZbDqjnqd39EWGipJ8ZUS2fy1hDIYU+ieFbgPmwcZds8k+GBg=="
       },
       {
         "icon": "https://image.tmdb.org/t/p/w185/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg",
-        "name": "Trolls 3: Se armó la banda (2023) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT5Sq7r9gQ0uP2N/10MQDpQo+i5RpbRypJH8IzwjAQS/dd/NbuPUFSXPvzn7WuO9wQWQ7T5IAjfDI4/uof+M5bWi9V7sG20F5MutT0fnt4fINA=="
+        "name": "Trolls 1",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i8dtnkKa3dtaB3Zmb0z49IJ/zSz8qI49aG8TOMQeM7Z2"
       },
       {
-        "icon": "https://pelisimg.online/cover/scarygirl-1697384360.png",
-        "name": "Scarygirl (2023) 720p latino",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT4TipSb6Hmr9RaTizJroo7APd8NWvT+wqYQI3sYLx6+hO1UBgNoIbmjhOJtsd7R0P2R0eBpq8krydaKYpMdliuY9V7sG20F5MutT0fnt4fINA=="
+        "icon": "https://image.tmdb.org/t/p/w185/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg",
+        "name": "Trolls 2",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7iw2P64qIxwGEm333cLTIMCu1HSk7v8DBYkJH98nQEAEM"
       },
       {
-        "icon": "https://pelisimg.online/cover/we-bare-bears-the-movie-1604960406.jpg",
-        "name": "Escandalosos: La Película (2020) 360p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT4smRgQIRDxNT8YRw/ZbM9YVBsZ1aqQj5UdEpXElmZ77cMmURpbZtkRi+qhTYX35RULL1VAP4547aS+oQIj+xeZ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/dos-canguros-muy-maduros-1606251009.jpg",
-        "name": "Papás a la Fuerza (2009) 360p latino",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT6bvzXfBHEmyxQp5BakUcMhZl7kAxvq0zQjMpoUVOy+JjaqZC2VWaM2J/HEMdBKt1nip5j5/NDiENc4FhaqgnsS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/todos-los-perros-van-al-cielo-1593208810.jpg",
-        "name": "Todos los Perros Van al Cielo (1989) 360p latino",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6VX96sqIA3mx1bL9Kqj0dz7B8MxEzp+6udmlcJR5ojHERzyJ2B81dNA19CbSvZbLHIpLS4+oLjf0J3fewsAkoe9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/todos-los-perros-van-al-cielo-2-1593209111.jpg",
-        "name": "Todos los Perros Van al Cielo 2 (1996) 360p latino",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT7hL/8LNSiPk1PXnA+ZWAc4NtsE0A6ZPRWKRGV7IzAavTcBbzLVn258p57yqyXIUwmOoVgDkKY9PyboUMYArxUR9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/nuestra-pandilla-1585611605.jpg",
-        "name": "Nuestra Pandilla (1993) 360p latino",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT6MdyLTBw/Q3t8MQrHC/8eB+9EnFFSF3EOfz+uCQ75PiXQX2nAwh49u2FmbDVjzJXM2l/gny9wDMRDgbRPAHq029V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/fievel-el-misterio-del-monstruo-nocturno-1583271305.jpg",
-        "name": "Fievel",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT6t6UezKQkDNLSKm9mKvDl5PL7r+9ehQMnaGMiSOKnr2mEadWittQnRiAYoEEqoeDYJjjdSn/TGkpw/2egC+nA69V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-cuento-americano.jpg",
-        "name": "Un Cuento Americano (1986) 720p latino",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT4l7aIQl5AIZsj5UUs0IKKrl45DzqofWtXJ/csCITrSZ9fmtEJKbWGiAHdCyCgYJ8Buh03v97uvt2xrkX9GjpUH9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-cuento-americano-2-fievel-va-al-oeste-1583273104.jpg",
-        "name": "Un Cuento Americano 2: Fievel va al Oeste (1991) 360p latino",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT5oNi8NGWZguNb8VYO8JPpMcEre3SLfygP8OlEkDMDEcKKx2Wm/WQXDLGGoeRfQ8D6Xfs7knHvBFgWG+PjP5T5/9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/paw-patrol-mighty-pups-2-1575216963.jpg",
-        "name": "Paw patrol:Mighty pups (2019) 360p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT6YxN95p1yqKFMKfW89+1KppzYYycnYJcSRycb7LLfiUiZdkO4WXeuagD/l97IxeImtYcdnprioqDzFgd34IGMn9V7sG20F5MutT0fnt4fINA=="
+        "icon": "https://image.tmdb.org/t/p/w185/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg",
+        "name": "Trolls 3",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i7Kq2Kli+TEo61LSIB+Pp80niLgm+EwwwWgyhrFc6Poy"
       },
       {
         "icon": "https://pelisimg.online/cover/paw-patrol-the-movie-2-1629602166.jpg",
         "name": "Paw patrol:La película (2021) 720p latino",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT7s3DbkhheVyuTgBMtL3fKmRs3VhlnN6yUr2XBpRkodO24osb0vtIb0yrMj71UO7MMa9m955IgwFkarYgPJXi5T9V7sG20F5MutT0fnt4fINA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i/uaaoscqMHO/EN8Zhx8KQ0ppfRDRUvR0uHqUhDS8BNC"
       },
       {
         "icon": "https://pelisimg.online/cover/paw-patrol-la-super-pelicula-1696688868.png",
         "name": "PAW Patrol: La súper película (2023) 720p latino",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT7XimLTfL9M16sQMzaK7ugu2O95zKuA8bQD2oV42dCYDzlSp6KT9zE7Da4lnNfXmwcmSCbxCKDq72eijdVbeLfz9V7sG20F5MutT0fnt4fINA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7ixRJwwMPGQKY0UmjtMV1z/QMt6aboi8bXrVr68N29OEq"
       },
       {
         "icon": "https://pelisimg.online/cover/bob-esponja-un-heroe-fuera-del-agua.jpg",
-        "name": "Bob Esponja: Un héroe fuera del agua (2015) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6l9dJ/m/eJI1zHeTNNel/uRki8LifeaHGmjRgMSvNeV8Nv0BjMyUIunq8AHmYTyC80LaXDbNoWx2oA/QhAemVM9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/bob-esponja-la-pelicula.jpg",
-        "name": "Bob Esponja: La Película (2004) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT6pBzLvisnisKkwkSV76r60sAU9cyY36iYwtjB7u/DVxLbYgN+wxi5xaRHrLI55VrtxnE0GAO5VcjLsGDGNYI5p9V7sG20F5MutT0fnt4fINA=="
+        "name": "Bob Esponja: Un héroe fuera del agua",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i1WrT40rfmzbDV4SQl5cT7x8c7LNudg46jjq5+VZZe/R04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
         "icon": "https://pelisimg.online/cover/bob-esponja-un-heroe-al-rescate-1604598604.jpg",
-        "name": "Bob Esponja: Al Rescate (2020) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4wXzO0r3V6E0FyuEWLmU5f230UVZ8jxYgt0lVkMmFjick4Lrlxd4khoqofa3FE+6SHK7XIK1QJLDluK+HMlqlr9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/bob-esponja-presenta-la-marea-desconocida-1693841699.png",
-        "name": "Bob Esponja Presenta: La Marea Desconocida (2023) 720p latino",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT6NBaYKaYsjNSKDafU3YtwhbSaLRpGzMitQR2Ziw96ZOdQIgLTs847sdMXT18aRJ9G5Mges6cvoRmGS/czuS+NH9V7sG20F5MutT0fnt4fINA=="
+        "name": "Bob Esponja: Al Rescate",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i1WrT40rfmzbDV4SQl5cT7zLEY+Kvbg8hx4sNQah1SDp04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
         "icon": "https://www.themoviedb.org/t/p/w440_and_h660_face/cm0x47F6HsLYDuVzhna81ZGtASU.jpg",
-        "name": "GUARDIANES DEL MUSEO (2023) 720p latino",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT4NAMEsuraZ3gGJ/aVjMtGkI7+W/T9uomUpd/8HFv+eiJ1EXOOXdtqNpQbwz/oKqMaM5qkUwbKrarHy/kH5kyI99V7sG20F5MutT0fnt4fINA=="
+        "name": "GUARDIANES DEL MUSEO",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i55xOKtXmbWqcjk8LVeO3iyGwP25ZuUKd4OTthj/BlOjm63eiuLoA2iATUZzBosZotODeoxUeMjeymkXV2cW0W4="
       },
       {
         "icon": "https://pelisimg.online/cover/scooby-doo-and-krypto-too-1695875550.png",
-        "name": "¡Scooby Doo! ¡Y Krypto al rescate! (2023) 720p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7Pofi28vJO10MhVdm9lQPA+souG4SoVY9IaS5QJDICXIkmyi5QJbj1R6baDH9N/BIsmXhAUceL3Ko1sg0gXcce9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://telechancho.github.io/telechancho-iptv/covers/movies/2902985.jpg",
-        "name": "Un jefe en pañales (2017) 720p latino",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT7SXotIyHgPVoGBqAY3vd97EdUidIQMVHvnJkAeYbGyXsEeM3tEVpBAeui5+7b8Ug+D9t7AdWp0AFQORfKT9+uu9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pequenos-guerreros-1586370904.jpg",
-        "name": "Pequenos guerreros (1998) 360p latino",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT4/5iZg3LPMnJOlKoLJ1o6eZZpkKRYk3XUiXRswWLmfeVJAucjNlAITO0iuL+vuQIRpopN9OUGCLn/1p79Kg/m79V7sG20F5MutT0fnt4fINA=="
+        "name": "¡Scooby Doo! ¡Y Krypto al rescate!",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7iyqK3UtpytXW9IEduEyOL+psI/F5j0RvD7KRLS+zDHyH04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
         "icon": "https://pelisimg.online/cover/miraculous-las-aventuras-de-ladybug-la-pelicula-1690627639.png",
         "name": "Miraculous: Las aventuras de Ladybug - La Película (2023) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT5bHQa4BEX7VTZhxHZwSOJedRBlgDgNKMQZgFchCkBChN4t+W7RP2mGs2hk2PzgbMDUC0PY05WblWjRWc/+7Xem9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/atlantis-el-imperio-perdido.jpg",
-        "name": "Atlantis: El Imperio Perdido (2001) 720p latino",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT6/RqIaxONDtXGNj7MEz27HDBNhPYUDPQ3+vMrKtxStfcVzSoR1C0hR+0Iyx9JfwGzx1TEAXUAX5R7PoNGd7mPQ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/las-locuras-de-kronk.jpg",
-        "name": "Las locuras de kronk (2005) 360p latino",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7N9Q5FhzPk0x48mxx1wOCAvYwX2kJDNZjbGh6fICHhBLa9kvU6zja3p7JFsQck79Qvdu/aw8WEcEKg/FoWCs9x9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/lego-disney-princess-the-castle-quest-1692434609.png",
-        "name": "LEGO Disney Princess: The Castle Quest (2023) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4T/C2xVreHQWy+5Gj6UM6PQRK8obqOSQK3ngJvpAe7BqkGepiuRoXxEOnEqlGP73eQjC4T5vMrDdK82TtcZxOJ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/las-locuras-del-emperador.jpg",
-        "name": "Las Locuras Del Emperador (2000) 720p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7YkFN9dlafK2NouqBCxalz1eUTcUCfvMkLKO15ghWM7BQVzD0EQBU77PsfRQFk2/cCX28K/oAZEN7Hh3S0INFS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w260_and_h390_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg",
-        "name": "La Princesa y el Sapo (2012) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7/bk+mx63P47c1ztrR3UQl0lKG5BzWykBjkXgUsB+jWZ/K420ukr6go05/uO2DNdO9s/+U2ONklmlyp4xDiDJF9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/ole-el-viaje-de-ferdinand.jpg",
-        "name": "Olé: El Viaje de Ferdinand (2017) 720p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT4rP/ix+VM2QSbHapz5U9IBBRq5AvTREuC/Mt9ahUYU9e1cRXpQU+K2CCTI/VJYzrrIJ59SFzWGFoGBGBf9epUX9V7sG20F5MutT0fnt4fINA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i6gGLYX4zzZLvbGWI5qMY4JZuZ41iR0XcXbfzw0J+PLaP3Bx9qB/NjRhfufpS3+JBA=="
       },
       {
         "icon": "https://pelisimg.online/cover/moana-un-mar-de-aventuras.jpg",
         "name": "Moana:Un Mar de Aventuras (2016) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT5ja5qRjEKWTynVNkYMAbycRENsHNx+RVEOv4+AerMiRM8FpZN7WWnmjUh9ti/v8ov13IREuipLyVwX9aCWPIYV9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/leroy-y-stitch-1582994104.jpg",
-        "name": "Leroy y Stitch(2006) 360p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT5QSzv6IiAqWAjfdjnYfN/z88geNKlXBNd19u+ndhlffimDj8mt3IhPSg07GnZsdXyt8CGeWblYCR32YowdOp4g9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/bailarina.jpg",
-        "name": "Bailarina (2026) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT7yVvBi1iDSkE8kfWDxmfXMsTcS1tmPXIQcEN+4sqEj4I/ag24oopxLZZid+9t+GhcGswjVmbmt4E6jCGVsMfKB9V7sG20F5MutT0fnt4fINA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i/d/BQJeAWKVmlM8ElclA5snudfyx16/9ad2VY6oVHyJ"
       },
       {
         "icon": "https://pelisimg.online/cover/intensa-mente.jpg",
-        "name": "Intensa-Mente (2015) 720p latino",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT4+CrTR/mI9G8YwQR4hoyTsmyLcFSlC0axMQo9dfka+XE5nJiu7JZ6a2krTwPru1EsGFTjkOKEvM0Fn8P1FMdEk9V7sG20F5MutT0fnt4fINA=="
+        "name": "Intensa-Mente 1",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7iwc6dV4pZOw6jY5nB+/WWfTFRCYp/YV6ahhPqOWs8R7Qj51hEy27IKqLmbKMHTCggw=="
+      },
+      {
+        "icon": "https://pelisimg.online/cover/intensa-mente.jpg",
+        "name": "Intensa-Mente 2",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7iwc6dV4pZOw6jY5nB+/WWfROfYY91wFQmxF6+LStfGM5ZWP6Zpz6MiEvkULHCBygXw=="
       },
       {
         "icon": "https://pelisimg.online/cover/raya-and-the-last-dragon-2-1615088522.jpg",
         "name": "Raya y el último dragón (2021) 720p latino",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT7HHGcTp85atM+8WXqtdo124lO7MmZwOCnFm3m0joK1ym/qQjqKRGSjG5lIq8hIibtLaJKf1SHlSV11WX89Z0369V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/the-little-mermaid-2-2-1685139725.jpg",
-        "name": "La sirenita (2023) 720p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT65HdVhYFvoFKyRrqJKRa2CBICEZ6ZTCIoqE1j/296vhSPTMSPDqIVZ9U0Oq6L9gRzLl4Xtr3uao2MnimYCCVcc9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/grandes-heroes.jpg",
-        "name": "Grandes Héroes (2014) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT4Z6FGmBOhYsuyBLjR8wFH8yM6mK3/N0K6YTpWIdnUosQ0PlXA3hMlMqbwLNDDhliDYGbC3n4mk7I3sC8OH4HJV9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/my-little-pony-la-pelicula.jpg",
-        "name": "My Little Pony: La Película (2017) 720p latino",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT7lZRoG+3l2N38G1p2WgXiCpkmdmyNxT9pJ+1vdmhMpLEvrNjAJ6rDLY9N9ua0L9zGCVMXsLEdlfq2Dt3qVR7qL9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/buscando-a-nemo.jpg",
-        "name": "Buscando a Nemo (2003) 720p latino",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT7z6TwygnUmEVveUlhzUAkI/Z2TqQE81H5DhdQD8NZxIaP53402hw9dO8KrroseiHOOHhYWfSBQFQbQn/u/ZXsh9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/cars-2-una-nueva-aventura-sobre-ruedas.jpg",
-        "name": "Cars 2: Una Nueva Aventura Sobre Ruedas (2011) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT6SsMR8yyFz7YXTB9S0RG3kaGW9o4EF7UPAzMy9sobrtV4dzI7Wl8bOeX5QosnVNAf03zXRSdHIcgeYHiXHzqIN9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/cars-3.jpg",
-        "name": "Cars 3 (2017) 360p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT4fhjFnsu8zn6sE1IP2FkhtkRIu9K8z5pDrj/jyFITCeQre6HugtJhbudhSLxGkp0R+5YRJVLmNOlwbSxkM3ZTe9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/enredados.jpg",
-        "name": "Enredados (2010) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT78fzc0xjsmYpm8Y+HEaERyNTC2FdWDlwK+J10dvKIwvE3yxyyLKBoKtIhEJJAJBsYomMMELD6ikF6dcW7EhbwE9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/frozen-una-aventura-congelada.jpg",
-        "name": "Frozen: Una Aventura Congelada (2013) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6E1pTRtcykjTgFTBfHa/XwRR2IWOpnVh6ltJlS03GuU7khbNFajQil6aFn7bgL5yyueZMIF9PDMiCOB6spMYrd9V7sG20F5MutT0fnt4fINA=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kyN/PE6pEueHDL/qoNGmi7i8862kPaZe262Ya3DvQkayxVDmpLpqFMw0jWsueMtOVd1Yqnp1B6qVOfbc6ItpDAvw=="
       },
       {
         "icon": "https://pelisimg.online/cover/frozen-2-2-1574439004.jpg",
@@ -1816,249 +1436,29 @@
         "uri": "15IUVv/ERAX2JTGWDLDVPsF9kCH9XhJvVQxFCxOrm2WjXcda+QuQoQnLjG7Upmb9ky7q2vxMWU5Zf79KtNvWvpfqX21/OyfpJFSMIW2s+uY="
       },
       {
-        "icon": "https://pelisimg.online/cover/space-jam.jpg",
-        "name": "Space Jam: El Juego del Siglo (1996) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT6vd3P7NtxCmokiOHt6PLdp6pRmZa8Ta0YHLFbeZIo03xqTau0bQJ70XDzmOJyh6sd9FplGVOGJuEMPtbxs6jI79V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-gallo-con-muchos-huevos-1578414304.jpg",
-        "name": "Un Gallo con Muchos Huevos (2015) 360p latino",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT6wc5pcz+TTV6Y8NgHXfSHM0sIifCgpRxq01Xqd43PhVX/U6xzqBdqjgvu9HvsnIwbzMdn+MkvbOSoJ0uIw3vDs9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/coco.jpg",
-        "name": "Coco (2017) 720p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT72Tl9Qv7QZkV7u+rO8yf4c1CMt+GYJXLOS3Vo1cAvezt8/yhg7L1HC+TtraVjtbrtUis0UUGbGCARvooxx54AF9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/my-little-pony-equestria-girls-la-leyenda-de.jpg",
-        "name": "My Little Pony Equestria Girls: La Leyenda de Everfree (2016) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4agcfkXYm+DWChzkD6Q/ZnftLzsO6SWVGe+t6Rta4fGFHi0Mm3x0eKGOSa6iCP2ls4mBJkbVpA1HNnw4czOjiX9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://pelisimg.online/cover/mi-villano-favorito.jpg",
-        "name": "Mi villano favorito (2010) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT6uCjtkMsHbOmfpTAafIqh7Xs1fXqHJckhq6iP/5uNKZBm9w35LpEcFd513oHLqj2XXhbQ6qCKZyBn0fzwbLoEv9V7sG20F5MutT0fnt4fINA=="
+        "name": "Mi villano favorito 1",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/OCKI8lfWjsAYetMPE3OwKm4uTfmYUeeXas60WpffZWF"
       },
       {
         "icon": "https://pelisimg.online/cover/mi-villano-favorito-2.jpg",
-        "name": "Mi villano favorito 2 (2013) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT6/tAoY3oeAz7+VZJAAnyHXXnGZUGboSXcxW/6Ab5JB9FnkAdqL40m7Ip2pCYixWQzDB+hPSTPAiFuYrl5ypclv9V7sG20F5MutT0fnt4fINA=="
+        "name": "Mi villano favorito 2",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/Ci2ymdLMHQyosy6AMqGcWxS8iJ8B6shC1kgtuBkVOJq"
       },
       {
         "icon": "https://pelisimg.online/cover/mi-villano-favorito-3.jpg",
-        "name": "Mi villano favorito 3 (2017) 720p latino",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT5RyQefaaRo/m6R84FJIgWYmYC4sVMIHTRtp9ldHjwv/y+lxWRiW+WFweEd086GtoiTW0/cZ9WTNfJUb0umTtaq9V7sG20F5MutT0fnt4fINA=="
+        "name": "Mi villano favorito 3",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/B86aA+g/9WY0n+yOc7Y5H99pbgOHmP84xYcHqRCM5Wk"
       },
       {
-        "icon": "https://pelisimg.online/cover/los-minions.jpg",
-        "name": "Los Minions (2015) 360p latino",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT5jAGK3Yshc0kt0Kwf9NTh0Z/KKQwZWAZrWfPQfJZ8M422Ziwdfg7YPNzNj/LtDREkiiqzeUxc2yEeX0bPlFSW19V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/luca-2-1624062482.jpg",
-        "name": "Luca (2021) 720p latino",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT6hLBGk2OG0PfrktzI/KFB7Jml5XovwtKiaRHSj1VFmgQSLTT/sOusVCSE1z4oTbTBzJynoHLB17cQ5pU/nCnNV9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/night-at-the-museum-kahmunrah-rises-again-2-1670689202.jpg",
-        "name": "Noche en el museo: El retorno de Kahmunrah (2014) 720p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT6sv/QAdSBYTxMfREY73vhy5+jWl6+CgBn0hIajijUYvdYwWhue8LurxrUGziOEyLwqdNpVkcaUNFz1zBgwBRZg9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/los-croods-2-una-nueva-era-1608300603.jpg",
-        "name": "Los Croods 2: Una Nueva Era (2020) 720p latino",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT5H5NpF3vXwVuSy0C1q2BNQ/6HkW5p00ZJhz+NEvHtdQAK/5FEmHXyqqfV48839v8KpV2co4Qfcv+BXD6zfT4/H9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/super-mario-bros-la-pelicula-2-1680808202.jpg",
-        "name": "Super Mario Bros La Película (2023) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7zZ54VlGvpL1be17/kjQmLNZCDtbro8qc5RXbu3M4HnMiBHQ+42ZFaLBEPP7NfHtmpVd196XJhppWwugr2YBhh9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-la-pelicula-mewtwo-vs-mew.jpg",
-        "name": "Pokémon 1",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT633ARUtnEBiEcAScM87udSIYvkZeLFnivVC8suXVo1t+9c1d+4KP0iHNcgWl7lQ6omtPwWyiySdddAaRu3BBzwNS/skHXTCxpwzk5WbKyWZA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-2-el-poder-de-uno-1601415008.jpg",
-        "name": "Pokémon 2",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT7RwZr7Q0GDtA19vte9xxVWa1ymnRcLrLOFraL78vcWGB9eovFe9DcRhHeuDBnhFcE/w+9qtvZpi9fC0wELrFmS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-3-el-hechizo-de-los-unown-1601415610.jpg",
-        "name": "Pokémon 3",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT62geGY60zKpaoNwwmSDYvHA9vRmNILgj18g6kZlB+YD6G7ucYZdoZUD2JnQFgyb6E7tLBc0j2y+2Op7fCSfffF9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-4ever-1601415610.jpg",
-        "name": "Pokemon 4",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7bq6r3VM999ntqs9c/HMjMZRwMeLnX7VDn72bHmEEivkkakS6pEhqnlKvxbuNOoxQ9lKl7XKfBKKTsJD/fhbCq9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-5-heroes-pokemon-latios-y-latias-1601415610.jpg",
-        "name": "Pokémon 5",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT4dgxQNy/pKpHaU26VBPlSFteDzLPrclem5nCGHnVZjMwYkmasnP45Us1jt3EZ1rHoS3Y+AESN6Xs1VVXrCN9Po9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-6-jirachi-y-los-deseos-1601416210.jpg",
-        "name": "Pokemon 6",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT5o2xBdHdHPGUAYFaY+9+pn7dqlgM07oYSqauedt58shiR8NwFt7dgKFZ/PZS41aWD64dG1glbhNLj3tHP0vQxA9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-7-destino-deoxys-1601416211.jpg",
-        "name": "Pokémon 7",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT5a2JeE1GfTrwxrFMfI9URrHC06fWCsvhjlYoTQ6Uf2ZnyoHmcjmcCPAYNYrFZBF49tz1bS3iqAesGXqzaukzZB9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-8-lucario-y-el-misterio-de-mew-1601416812.jpg",
-        "name": "Pokemon 8",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT7DrrfJTfcTruY/xAr+VepagUhDIkmZR8C9ZGg50r5e4+GZftp+TNwbDse1bEO48WaA3uOoc0h9k4jlJMxrV5xM9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-9-pokemon-ranger-y-el-templo-del-mar-1601417109.jpg",
-        "name": "Pokémon 9",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT6QMHsz2n0Fv6/jLSkyhE8OzUrMgRqMZ+SDkEIPwi4PUlrMOG+C1Y4QgeZUXiljBSkAasM5zS21ekj6ZrZEj0w39V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-10-el-desafio-de-darkrai-1601417109.jpg",
-        "name": "Pokemon 10",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT6pVSnca6wRIEmxeZjKTtG/cNuWhOQ/JJwvvjL/xQLUJfxfMyZ31I8YwP4elE0hSkRS+wDXgrVApmRyZSyy2YEM9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-giratina-y-el-defensor-de-los-cielos-1601418010.jpg",
-        "name": "Pokemon 11",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT66g1c0nDBLn6vXb0E6BEJkUbuArodAK4q/YPkUcpnGG65SIwnOocvsRA4j5Wtrj+cQuMtvGNNAMYa+hdn83Tbn9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-12-arceus-y-la-joya-de-la-vida-1601418010.jpg",
-        "name": "Pokémon 12",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT54nDgQAzm12nKCUpZZNmmL63Qwa2RJ+hCzZuiMvJ/CbwjHuvCEEDDAOzAJxz2cNSS4Gq8IwMyB4jNayoLRvU/D9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-13-el-fantasma-gobernante-zoroark-1601418609.jpg",
-        "name": "Pokemon 13",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT5gGQRDeiMV3ClmoxJoj1TR8U5wVzCycDtr+R1uS/59hqcyBaQRp6XQgwBnCJRd60realKHVwZBzcVse34CGKGy9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-pelicula-pokemon-blanco-victini-y-zekrom-1601418610.jpg",
-        "name": "Pokémon 14",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT41zyFfnsol1wb9+i9DxtWMFxuuaii9v5SiqWD8Z3KpHwri8+iagwpJ09XhCMxzslUQiyDC3wI7eq89Ce1y2gCm9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-pelicula-pokemon-negro-victini-y-reshiram-1574176807.jpg",
-        "name": "Pokemon 15",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6U73SE2d7QKLT2fdgtLNiBGHqEUKxltCd59LBz6praACeIua5EHKXdfoqbgdiZ9AXJHJyoukdsS9kib+E3VF1g9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-pelicula-pokemon-kyurem-vs-el-espadachin-1574173506.jpg",
-        "name": "Pokémon16",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT58HmwqmAkC9L28K8KSzlqeVwkggjGSd9cd1OYNkjR8JmO1x9GS+CQ/RPkFZsLKXQ08E1AgT17IOZZrFTa/dp+/9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-genesect-y-el-despertar-de-una-leyenda-1601420410.jpg",
-        "name": "Pokemon 17",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT7W/0aeD5FQN7IKsQq5dinQJxYG5TOQHuqvOG6aFUf2yDmTGoQKfKFCP0YRullESQIwkAeEDERxKG4hrYQCaOe49V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-diancie-y-la-crisalida-de-la-destruccion-1601420410.jpg",
-        "name": "Pokémon 18",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT6IC6u+VbCzxFV8M8+S0Wq4HQAnDBuKih6kDHCJNRlb7Pw/3KvZXuCiu3GIGexVTm72Crvb+2akmsg1Dq7sKjKZ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-pelicula-pokemon-hoopa-y-un-duelo-historico-1601420410.jpg",
-        "name": "Pokemon 19",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT6xp9bGgWcB4keDksW2qJruxSa+o6Gu/tsLbUMt5+Od8sVJmP5vWjJP7pb5670mnK5an2CPhG0wLL1w4tOxZKBH9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-volcanion-y-la-maravilla-mecanica.jpg",
-        "name": "Pokémon 20",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT5uqbmrg+6oeb5ZhzMgOcvz3+7uyE8FeHjNU04PZUVVS+EgRxhav4bpYTv4zbbMKOnqSSKqP0kN0OFT6w9vkh9rNS/skHXTCxpwzk5WbKyWZA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-el-poder-de-todos.jpg",
-        "name": "Pokémon 22",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT5EIkFasUBE5wAFvf49Pyz3eBEk6tWBJb0ia2Eq/sthi7ApcP9pQrU0CZ9t7dXAgJVxgxxLW46Y6sxB9UWK8eg69V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/gekijouban-poketto-monsuta-koko-2-1633769165.jpg",
-        "name": "Pokémon 23",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT6/RlThAJ+qHyhEfl0EzGONJCIf60zPq/fU7jzcUz3ZkdHLXXmhZx320jRQe8Js99IjJxh50kaTuaZJY/TrvYzO9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/pokemon-mewtwo-contraataca-evolucion-1585763704.jpg",
-        "name": "Pokémon 24",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT6kgiqMd9JugfUvk6FodasYOnMOqdJWhE/cMaOjm8c+QziI1jbYNq1UgKSGrOgMbRIqb4IVF2hgpRoXoQA2+QPZ9V7sG20F5MutT0fnt4fINA=="
+        "name": "Mi villano favorito 4",
+        "icon": "https://i.imgur.com/jzqhKsX.png",
+        "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/CI/kna2pLLVFA/kJarq4uUwfVrPvFNGMOqaXsVYib64"
       },
       {
         "name": "El Guardian De Las Palabras (1994) 720p latino",
         "uri": "f+C7v4grf+D+3KV1XoLEPwUY2uhkPKEYGExkCPPfcECnzOOi01tsLCsd/uECT1Ipfvr4apT9CNWf6hWCOiPE3yG/B6Z7MJpzX0g+uRamEFo7MTUob2ZHb8xGuzTxmVf32+DIeO5QxMNsmq8Vtpy3bw==",
         "icon": "https://media.themoviedb.org/t/p/w116_and_h174_face/etctWkYFfP7voGM3rd7uqxQJavY.jpg"
-      },
-      {
-        "name": "La sirenita (1989) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT4N32G22Lqy4Y0WN8DVjHO8FQNijSdunmmjdExEgHwtKBgF0PSJANQO5qHUUYgwGqKGJ4Q5WLZDon+jScUjwdlx9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/la-sirenita.jpg"
-      },
-      {
-        "name": "E.T. El Extraterrestre (1982) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT6im3JR7AEKSZ87sRzS7NcN1Ht/YvwOWnc8L1QuOhUr39Cezxnros/dmnpWbH7DyU8fYNMCiSU8ug4CcH9eSCUD9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/e-t-el-extraterrestre.jpg"
-      },
-      {
-        "name": "La Historia sin Fin (1984) 720p latino",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7ASj6/YtgU8gcRQyEHrg+0FgtYmmAbyjEfFzFdQM9hvBxOAFC/mv+EoB2nGqTfq7KunAj7y/HINGpsNUm75X079V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/la-historia-sin-fin.jpg"
-      },
-      {
-        "name": "El Joven Sherlock Holmes (1985) 720p latino",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT7TBSc5r8XRiYmZrmkLg/FjDYp/27SCI2eJtrBOqTi/zRkoOyKa372V/tRTmLZfgN1MAim2ydmXmjBH0AaqUJse9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/el-joven-sherlock-holmes.jpg"
-      },
-      {
-        "name": "Mira Quién Habla (1989) 360p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT41d3pP8M25U4tG++ZhIwrDqW6fBAQVPHGn6UBO7NDgbitJXj5Ax5PK1icV3FHhxoyidRsOd8sULhFKLqV0eMx49V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/mira-quien-habla-1600100110.jpg"
-      },
-      {
-        "name": "Cariño, he encogido a los niños (1989) 720p latino",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT6G3NBNKmLOGqVx+ciM2YzFGChY4vnt8QvLlTvfKjcXiK0azXeqlpJ9lraWgaT0oIWj8akkYR6wHM+5yzKp/WL59V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/querida-encogi-a-los-ninos.jpg"
-      },
-      {
-        "name": "Starman: El hombre de las estrellas (1984) 720p latino",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT5hrDg851CDeE82xTQamTLMZJFhtSjbbCBpsTmInineleU/VODcFaKUAWyMDV9ic+VEWOKwmgP2RPeQ5C89Ct3f9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/starman.jpg"
-      },
-      {
-        "name": "George de la selva (1997) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT5aIqA/ixGDmmfdKJT1KKhX5AMwCmU+9qdGgUbkfJAnIlrMeu/gRfTFk9O4VOn/qbwocaGffMATT0QnSswTmrT39V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/george-de-la-selva.jpg"
-      },
-      {
-        "name": "Hook (1991) 720p latino",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT4q0ymPkdpG9K7CN9IGtF6hhv+60VGc2nJF1tSmqI4xIQNOcnUJ1irtoSpCLjYvQC/spd7zrtfCopr1sUCC491m9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/hook.jpg"
-      },
-      {
-        "name": "Mi pobre angelito 1 (1990) 720p latino",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT5LHjWsdKKkzZHtavcq+j+UbMN+b1/elKZPf7j0ez2OzpmWLFtIZkinhhtyOHkLno5oQGe805+2+vf0rYqcyzWH9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/mi-pobre-angelito.jpg"
-      },
-      {
-        "name": "Mi pobre angelito 2: Perdido en nueva york (1992) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT57q1PSPwnhcGgyml10SMTL6VVus3IoNWVxJKp3ZHA7V4PTL3RzAqv6htGjSopWkVmWd5+yGEPDPt26uqdIhbBV9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/mi-pobre-angelito-2-perdido-en-nueva-york.jpg"
-      },
-      {
-        "name": "Daniel el Travieso (1993) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT5g0GrpzOQQkPGl+s35OsgLXYEkk4cAlgo31XAbj5n01pDdzMzpBFlnAs+K1JoawHR166ZohS/hqmjTz7egdMP+9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/daniel-el-travieso-1585696805.jpg"
-      },
-      {
-        "name": "Doctor Dolittle (1998) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT420H0QVmpi35zV1mDp7VomfxARTYbGyWUM6fZGDJLUamzbOqAtu2ZNa8C+nv0kes74bOWz+nR2iRmZfQ/qLBxB9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/dr-dolittle-1585865404.jpg"
       },
       {
         "icon": "http://tv.powerlan.com.ar/poster/w200/8294021718418417i.jpg",
@@ -2086,23 +1486,6 @@
         "uri": "BunfZdU+n8cwi3+ti4ErxvXBgr/ZHed6TkFzqkhy20klN6oNe/W+PwhPC27vBDHYslx44kBEZ9e78pVcRN439tRVWTBwcu+2Tfd4F1J4+2OszpcofP9Pl6fVZw3VM+IRB7inKGx8O+JKsMsov5kW07eEoI6OCxDg0qkQfm5ove8="
       },
       {
-        "icon": "https://play-lh.googleusercontent.com/Yfr1oZ-9p7hkhJeV7WxCY_45it949SLgqu4RyE1whUuZW9oNEaOoNFAYY1pnnoIzgrbmig",
-        "name": "Kunfu Panda 3",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT7lhLafk9Ec3q4G0Dd7W/R6s6iP3TClTvNrnxQL64A8SBUGqplD8wfhAel5qcOB67GT0MpYoLxJ5FLNn7VWNojx9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://play-lh.googleusercontent.com/79nkCzd3XXYR2n7REDqGG0KIBQlMMJEiCc_dOtfp6nF6-8MWcCP58y8-bcdbVkN-05o=w240-h480-rw",
-        "name": "Mascotas",
-        "drm_scheme": "clearkey",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT7ZOh2Qr1iO3/ZSUsiETCQ0+aJCrsms57wJss7C0RW+oUmFo48gEtfAzNKAgEqNMISaBOv8ezgAUWpuocPH1/3y9V7sG20F5MutT0fnt4fINA==",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ue/HUHZUuwEpFdyz4Pa/v8ViehQ62RecBr1xEzlKlS866GIlkQGHnuFIjla7wHeS7VJETA7vKUezrabooTVX460igfe38hCL22rVoKm3O9pvNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "icon": "https://play-lh.googleusercontent.com/UG4rGDlAuLdZxLO0QDUUCVWBmMNqB19xYYlWqyd55PZTf49QkFhItimZf578G4Q3Ugo=w240-h480-rw",
-        "name": "Paulie",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT7ZOh2Qr1iO3/ZSUsiETCQ0+aJCrsms57wJss7C0RW+oUmFo48gEtfAzNKAgEqNMISaBOv8ezgAUWpuocPH1/3y9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://play-lh.googleusercontent.com/onsvlE_PMUEF5QtUCiL_zZZmgTXAlLZoYNZ5WSVzWBqprfduZZixnJOy3pOMFSk6mEx6",
         "name": "Trueno y la casa magina",
         "drm_scheme": "clearkey",
@@ -2117,66 +1500,6 @@
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1udnOsE+xo/U5kRbOE8vJZwOxdm1v6mw/ZbkCOmdM1wwxQDuJUbv3e9Ao/4t0WLDkuZyWAHVRbPh+L/Zntu4jPb79v/ZO17e/ILVHj77rmziSNvwu0STFGFDreKwlJJfuJA=="
       },
       {
-        "icon": "https://play-lh.googleusercontent.com/CX_4I0XlauOsSbCfRFrxY9-Sk832DSSyVYgXlPGEo32ZRCGYAC7RGBAMibTFBrydb5kR",
-        "name": "Como entrenar a tu dragon",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT6yKLYI8sQAEqZhDDNJhEB30vqFcAxcexab4kz2rvLu85MeFXD/dCZ7GaNuC/OkRMbei4edzVWiUjABrKwn0o1Y9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://play-lh.googleusercontent.com/XPgpaFmQVNEpmlqP7KPkVJVFAPFRICu89xOy1MsDgdQF1gkvPSt0Aq8mIQUfpV6bvzdl",
-        "name": "Como entrenar a tu dragon 2",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT59XnAiuz7qu7H8HKVEt2+Up2MyzduhCc7sOSTc868b9DppfnPqYPacFbDr+Vdi7IfDQwvZqsgPx/odubN50HF99V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/como-entrenar-a-tu-dragon-3.jpg",
-        "name": "Como entrenar a tu dragon 3",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT5tFlXLXNul66d8Gh0Qb0oyVhDbbicqBaBMaGtA0JC10u6xFenxnd9vYM38++hmjuo8wDYEk1b7dG+KRRP46AoA9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31469417.jpg",
-        "name": "Madagascar",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT5XVTmS1oVRAljAr49+9JwHZRQ4CXecxv2yu9ZySqORVl9ndWGUaCGLrCsnzzmaQF/jqZzenfY++4DmNV74l3rZ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/madagascar-2-escape-de-africa.jpg",
-        "name": "Madagascar 2",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT4ciMafDCeq81lF6ILTpCZjBKjTixCjZzEX/aaVzfq9xmIO7Tq2Y3a5DEaJLTRxXyN89ExO2fr7bqJ8zAFWD/yj9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/madagascar-3-los-fugitivos.jpg",
-        "name": "Madagascar 3",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT5Q2VWFgW8cGJu6Asx7jk2ocOJ6dN038wyAr688nsbEIRrHoiyKD8oArceDm4Y4PMupCY2KA3n9WBl9f3leGJU+9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-espanta-tiburones.jpg",
-        "name": "El Espanta Tiburones",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT4q3xej/c+Jp5kzJVPxhfMLS2ZzkbwhNwHrVclDJnebKYx7GJApnRzN0DUOl07tcbvMpnUIgC1Ccm3uQCr4yTn59V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31492342.jpg",
-        "name": "Capitán Calzoncillos",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6dtRP/4FXXfwkwQc3q1T9IFjcZNuzmFAV6AcHyhYcb2/2xUJSQchMMXMOpd4+PLPz9M1dsIM6v3etIVoVJG06q9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/shrek-1.jpg",
-        "name": "Shrek",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7bMWfNK3PuZD2q652iZ99oeNqPV8h0wiykAFkO4aNNrpNqC/M71EP87m+6ao52CfJZUA2BPVSPcvg3yLlpZ/BA9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/shrek-2.jpg",
-        "name": "Shrek 2",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT5QXkwxT1iBrDZ6oL5cHCpYPgWj13xB2fEwev7NvpQXXI+E47Iwh9WXEk0hXOqo0vJC5G0JdMvBoYwWlkBx8Pba9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/shrek-tercero.jpg",
-        "name": "Shrek 3",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT5ggEqQ2O5gLDxjScQ2Tte/vLZDhy7BZFAbcZzvoMqqZA+hKvG94wjPI3+apFPWL7CD3NMZ0JRb6d/RlwEbUCxq9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/shrek-para-siempre-el-capitulo-final.jpg",
-        "name": "Shrek, felices para siempre",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT55DVnEQn+gmkL6BGBl5rC40KQc4ivj+8egCY4r8sSX+ZmLHSXtgjBvCXWAeWzr4wIG5Hm7qI+oRNMVmgW1v8TZ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31524349.jpg",
         "name": "Sing!",
         "drm_scheme": "clearkey",
@@ -2184,32 +1507,11 @@
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTNpQCr/xbubCfwubjXJdx9J7xen60MGt81SEmEZtFFJeL3ZHGAJxgy8KnB2UdrYcC6YNbctqucKi9nxutUytWiC6tBGBFwE5vatdmzeyiFmNvwu0STFGFDreKwlJJfuJA=="
       },
       {
-        "icon": "https://pelisimg.online/cover/sing-2-2-1670328607.jpg",
-        "name": "Sing 2",
-        "drm_scheme": "clearkey",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT4BKVKqQ2NKz/7MmM9oIew1o8PM1jLqrL9T5Us4Booc0kUv+9KRwfOpF2YTiNmVvGIxQMOp5RlBvHlN41Ipa5eD9V7sG20F5MutT0fnt4fINA==",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78doOEoLxvneVTqeZpKOq8J03p8Ltlc+wYmbsef30jsWKsXrxuXTVFpAt1GkRvFOyh3sojHCOYUJSAPp3r9PRIj"
-      },
-      {
-        "icon": "https://pelisimg.online/cover/megamente-contra-el-sindicato-de-doom.jpg",
-        "name": "Megamente contra el sindicato de Doom",
-        "drm_scheme": "clearkey",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT6+DzmpDoJIqe4eklyLGK4ENIJhigI2a+mztGvvVLya53fPCua+yYWqfF1oMAevRMzqxzqxqOYMbXlbzLgC/xbd9V7sG20F5MutT0fnt4fINA==",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78doOEoLxvneVTqeZpKOq8J03p8Ltlc+wYmbsef30jsWKsXrxuXTVFpAt1GkRvFOyh3sojHCOYUJSAPp3r9PRIj"
-      },
-      {
         "icon": "https://pelisimg.online/cover/los-croods.jpg",
         "name": "The Croods",
         "drm_scheme": "clearkey",
         "uri": "WR20+8lZSRQ19nW0bvbwMUnkkHch0NUdxHuFO2RW03pCGVpEv0pXtfpSyk/f3/xzLMrNjeQtVZyYvX3pfBJ5jzho67USAkrTvUPmHzOaNLg9Yq6FKC8QI7P7Ex4KCDspaoMslj0cAq/xg8g1SHoGXNyhSNtp3lIA3EErVWqFQbM=",
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ufm7Ge1nBjRnOpTzGcakhlzpZx9ypUN8SZl85kKVfD1WBx2pqWIOGrGOY8FyrGhqh31RaYobSC9FHTk8fDez4smdAGgJi+5m/O+27Ta9KHXlNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-origen-de-los-guardianes.jpg",
-        "name": "El origen de los guardianes",
-        "drm_scheme": "clearkey",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7gS450khDntqiWXCT7fqLqN4KnuhfS8eXZyT7nDaxK/bmwdNC/2iBydISi9zUKKLAVk/fdxAhhNtHUQar13Bhi9V7sG20F5MutT0fnt4fINA==",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78doOEoLxvneVTqeZpKOq8J03p8Ltlc+wYmbsef30jsWKsXrxuXTVFpAt1GkRvFOyh3sojHCOYUJSAPp3r9PRIj"
       },
       {
         "icon": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31461338.jpg",
@@ -2245,20 +1547,6 @@
         "drm_scheme": "clearkey",
         "uri": "WR20+8lZSRQ19nW0bvbwMUnkkHch0NUdxHuFO2RW03p+W7DcUTUBaTMEZTKWyshhktHvOI9XH6KQ+0QPF1B6LCSVJ6Vwpxq6Jjam3VXLoyg4HO7Rg5UFsfqCcfczTjSTxURcG3Kzx4nEAXfmiA+IhRqmPJD1Kh+UoWVIN7mh0x8=",
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ubiBH8qggJ12DA1jXcSuBVrr2jh1DVNu8JhAzSy3mXDEuYd+iHvXDxKr2ab65LpKYHOZK3bpfBs86dEBiy0oqaww2QlLC30g/LkxyvmVlU6TNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/bob-esponja-la-pelicula.jpg",
-        "name": "Bob Esponja la pelicula",
-        "drm_scheme": "clearkey",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT6pBzLvisnisKkwkSV76r60sAU9cyY36iYwtjB7u/DVxLbYgN+wxi5xaRHrLI55VrtxnE0GAO5VcjLsGDGNYI5p9V7sG20F5MutT0fnt4fINA==",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78doOEoLxvneVTqeZpKOq8J03p8Ltlc+wYmbsef30jsWKsXrxuXTVFpAt1GkRvFOyh3sojHCOYUJSAPp3r9PRIj"
-      },
-      {
-        "icon": "https://pelisimg.online/cover/simbad-la-leyenda-de-los-siete-mares.jpg",
-        "name": "Simbad: La leyenda de los siete mares",
-        "drm_scheme": "clearkey",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4tnG2oqMAk4MngddFWTGs1aFqQ2n7dxk3IGDAqLG8OQ4aukS3BR35Rt0zohvfzvgOjWuPbcj9lwQeeuTKPXTAy9V7sG20F5MutT0fnt4fINA==",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78doOEoLxvneVTqeZpKOq8J03p8Ltlc+wYmbsef30jsWKsXrxuXTVFpAt1GkRvFOyh3sojHCOYUJSAPp3r9PRIj"
       },
       {
         "icon": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31467844.jpg",
@@ -2322,16 +1610,6 @@
         "drm_scheme": "clearkey",
         "uri": "WR20+8lZSRQ19nW0bvbwMUnkkHch0NUdxHuFO2RW03p+W7DcUTUBaTMEZTKWyshh79OZlNhz3VVp6cILPiHh4popEBPcNy6cWBURtKH/WQ877hTHOT1Kbg6QCdrjUrOxurJRiMrsqzX75kaNzu6pzA==",
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ueT3QtQrfz/NEmPJXEGzvR5b6W/DLyIJ3hhs/bgXNDXWdkaG/cpKKT9ikgur1Iv3AfsRK+shnhQ+d+0c7rb6XKfUQqyKJFX2neBNOflQROOaNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "name": "Amadrinadas (2020)",
-        "icon": "https://es.web.img3.acsta.net/pictures/20/11/27/10/29/4513574.jpg",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT6LAdSm4auX1qMA8DdX/Bmot3IFut1OBUWc1cIZX0owucHhgZSBLOveQsKLUUn84SiERbOkVqKXKacDz2jiyjlv9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "name": "Artemis Fowl: El Mundo Subterraneo (2020)",
-        "icon": "https://www.themoviedb.org/t/p/w188_and_h282_bestv2/h19m4mgoSlkii1PU9mwOffUmkK8.jpg",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT6A9qLDsGvIfrm+UPQuPJUPT4m4y76GDLdkXqjuUacR2L6q9ZOzm/BVlRNg5E2v1KeNWBhp9HRYd9RmdDzBYVjZ9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "name": "Cruella (2021)",
@@ -2555,11 +1833,6 @@
         "uri": "5/tvCXUmcT2NjZEkUqLkKwivDIm6bm265hYoQAE+Jsmke7Wc1nxlLoSKLXVpxtoL3j+UsBLS6+jloI7GCDtPqO6u6mQO+PlkacoqQGdJf3kXDv+1nFmiqk3C5yIckck7"
       },
       {
-        "icon": "https://pelisimg.online/cover/digimon-adventure-la-ultima-evolucion-kizuna-1600378510.jpg",
-        "name": "Digimon Adventure:La ultima evolucion de Kizuna  latino",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT5BIbH0QTm4EPaXoTVTyI3Q8xZxuAxVl0FLuiyvhK7mYo81LacV8yibLqdh3V/8ADQn44wOF9Dk+RW6+XiV7xNOt4Sgjo4LEODSqRB+bmi97w=="
-      },
-      {
         "icon": "https://m.animeflv.net/uploads/animes/covers/3599.jpg",
         "name": "My Hero Academia World Mission",
         "uri": "pJG6wqM00o+eGG57ra2dY+nUCz7ddGjqundHvp8EXuWoSljR8ZDdBNIAiAdUPQrbHnMJ7N6MZHHksK9yG9fJtzOz6CFvrxAyw0uPYc/Ta+62TuYbNDYInxe8jcXix7hTg0Dq4iEYRxV9czj7c9TlgFqLjyf57U4p5t0Jrn5C+9szKLAPX6o7pg0r3/i8ohEeihRsoK4VQwSBdixaJIH9El41FLMmaEpsvqJcfSG3g+vMJ7aK3S2JWg3MjEKzWvJvl+pfbX87J+kkVIwhbaz65g=="
@@ -2570,54 +1843,9 @@
         "uri": "ZT3A4tbJM/voQ2hu/acFQunUCz7ddGjqundHvp8EXuXfIRlMZsfecl/LHwN4/X7uwxUVRNctcHAJrhx46l/kDNxfNxZdzfIAvgsVN/mm3ZhUHccdhlBAA0Gw3DGJWsCZ"
       },
       {
-        "icon": "https://pelisimg.online/cover/dragon-ball-z-la-resurreccion-de-freezer.jpg",
-        "name": "Dragon ball Z: La resurreccion de freezer (2015) 720p latino",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT5bnCtkmM/pbbteaobFzaTsxDGwZhFGpnva0kbdHrTe0HUHVoQQSTYEhCSEr8/p8Q5i3quJvXyG4kGmYZzOqoaK9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/suzume-no-tojimari-2-1682385002.jpg",
-        "name": "Suzume (2022) 720p subtitulada",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT5CFV8Azo1WEkhfqS8uFa8Xm8g5KNZwE9z0FbOKr+MRCSaU70TgHpyVBllmDJVNiYI3BbVaj5wzNygRhJz2Of3v9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/suzume-no-tojimari-2-1682385002.jpg",
-        "name": "Suzume (2022) 720p español latino",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT5CFV8Azo1WEkhfqS8uFa8Xm8g5KNZwE9z0FbOKr+MRCWMC6RjGvKxL49KJvZFJgqamP8YYnpk9xSr+Qy9Cg5lO9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://img.animeflv.cc/cover/dragon-ball-z-pelicula-1.jpg",
         "name": "Dragon Ball Z:Devuélvanme a mi Gohan (1989) 720p latino",
         "uri": "Q+seA/Piqs119lxGaNGyHOnUCz7ddGjqundHvp8EXuV+gyDfvgAoIlkDilW6sxNHiHjNi/lAJaKphyaQTsB6yDmEqY38VhC6TTfLM85NeEGBjcE/Wol8Llmz4eMs493GQL5IVNQZSg1yE58PMNarowq1NHrJKeaWgRO5CS0ePrrxoe6sU33Ad09ieqzJKO++S3fvz7UG8mZ/lklN2L8f8KD4892GFr9VymOvYgx4eq8="
-      },
-      {
-        "icon": "https://img.animeflv.cc/cover/dragon-ball-z-pelicula-2.jpg",
-        "name": "Dragon Ball Z:El hombre mas fuerte de este mundo (1990) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT43h+cA/Cx9vLXG0isbbwDi9qkQykWNAHGfBd9bXTMLzfzafS3VUsNldb/hn5GS5gc7RAyB9dEkR/jVaFgkheK/9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://img.animeflv.cc/cover/dragon-ball-z-pelicula-11.jpg",
-        "name": "Dragon Ball Z:El combate final (1994) 360p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7XTDSJF49mUFog13TZhPLTsDxgULUdgDsQRvmINs2cA0JhWB29keO7meStyhq4nEGetLUNKV5ZMONvfjI9QmDW9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://img.animeflv.cc/cover/dragon-ball-z-pelicula-12.jpg",
-        "name": "Dragon Ball Z:La fusion de goku y vegeta (1995) 360p latino",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT4gKGuFudSnfIUWi+TY+DqfTrbAd9n5GOJSniLtaSxlQBO5mnVPTChQzmHwCUUNbWKmOPaD0aqLzbMFWnn+X9tE9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://img.animeflv.cc/cover/dragon-ball-z-especial-1.jpg",
-        "name": "Dragon Ball Z Especial:Freezer contra el padre de goku (!990) 720p latino",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT60MwJznkVsfPY3n1G232ZcOiT3MGgXioVuWMZEBoRbRHCSZ/NMdFQD3v52hKNsI7XEyWtTNIiZWcs3kONkVaM39V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-infierno-de-dante.jpg",
-        "name": "Dante's inferno 720p latino",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT4iXJtgkZCyggmGMElQMwXwSn/UpGy84aJHzNT6AnElJlbdY6/sfJGwvbbrx0yq595cfzr9ausV1/XIfeHZy+kQ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-infierno-de-dante.jpg",
-        "name": "Dante's inferno 720p subtitulado",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT4iXJtgkZCyggmGMElQMwXwSn/UpGy84aJHzNT6AnElJoTznBxZ69zuKdvmlAWDOBdvRGG2gqlyWNFZPjRGER2G9V7sG20F5MutT0fnt4fINA=="
       }
     ]
   },
@@ -2629,11 +1857,6 @@
         "icon": "https://image.tmdb.org/t/p/original/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg",
         "name": "Harold y el lápiz mágico (2024)",
         "uri": "f+C7v4grf+D+3KV1XoLEPzGnbQH75dgDfYlR3VB6GbxZjvrS1OZigJEQVmgqNbflE73ohUeGsfOTunHBrs5RSBy/30tK4dA0/XVaDuF+qRCaS1zMAyJYd6NNqrwJTJrbDixkZhXQcHUVCVcJwNb8dIw/GYTfBRAj11G6TOM1H74AQPju0B7GhJEK5fWKoaBF"
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/z3NM5Lk7iIUI03ImIbH7Ihn8J7w.jpg",
-        "name": "los picapiedras (1994)",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT6w4SDjbNaTJeNXIuqo6Malpjp5mlByhw4O71b2U2+OZxMsMyR2Z0poGfQFNypErVCGy12XP7AAkSlcGfOAWSomt4Sgjo4LEODSqRB+bmi97w=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/sTpOfjsI17o2ZjehAwqzF2BVjCG.jpg",
@@ -2771,244 +1994,9 @@
         "uri": "5/tvCXUmcT2NjZEkUqLkK0iiBRRLx91NkSYRE33uo8ohH7oz1xxulCQK8aVTwgGZhPHDWn+0dTDQCxYeWvFTfePzAjcdSo6skplFgaY9i8hgFAYbClylRL/rvKMOnN/cypCrNl/bhuhE0TOzTAJN98zzcmQSXuzjRtcGa9f+sIwe2erIRAYFCb4wGGPJpr8pw7z+FL0xA+LsZrazNu+U2A=="
       },
       {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/8AXeipK5ppzIacZM3qQPr35IsPE.jpg",
-        "name": "Me he hecho viral",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7WYRjWnGSVqQ51uusAmqiM5oACuAqRNgSQk6H5+3bo7ae7ZYkyb1/PvNKTUX1XyQ1ONp84lSDa3OyO2NPb9E399V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/j0n68v05DPaCcjl0AnEQmTQB154.jpg",
-        "name": "¿Tu navidad o la mía? 2",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT7/0RT2YefWRCzXNNqc7NMwoDH7o7PuTWGBm/2zvKvS9a+NqZbmjc8b58HULqRkfIkWm6KyYIleGNybvz7BCJjj9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/gj74sUGsPMg5qDQooh8GTs4MvbP.jpg",
-        "name": "Mr. Monk's Last Case: A Monk Movie",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT402QIMlNNKzB4FSxZuzOhRAv3/4pFBfDvPMV7cLtkbbMueZNQPxEB786zWF4N54mIMUPjZmlmaQCG32IcXPUrS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/w300/1tSN0rsFxnCNEqymr9qGcHNekIQ.jpg",
-        "name": "Hay algo en el granero",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT6DX6ma+3JUI0oA2py+PZWz514DDAFnlYhqXHrqwiLxholu6MnPq824no6V25HT/S1zngs1ipcU+YaBYJtaAxAg9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/9b6Zl2jm6RxLKv0NfVlV3iwwHwh.jpg",
-        "name": "no me rompan",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT5VtU/OdH6S/+7YLLXBr6UyyxJQ5nBoBjpyM6gNAEvSvdPlDYDreD75RtqAYxqLR/Ph9vfhiQ2RK9PdThVA4wmf9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://archive.org/download/8tpxg-h-4h-ae-g-61d-ffj-pki-vzftfo-z/8tpxgH4hAeG61dFfjPKiVZFTFoZ.jpg",
         "name": "la calle de la navidad",
         "uri": "5/tvCXUmcT2NjZEkUqLkK/1Q+wB6H/Lzk6zBxM0C86UC/nQFGUhMhvf/uxLcmf3jfefRigjbl0sfaIhlWcXgdyGXF3MBGP4Y6fm4uQtRfZMBvJBl6quxz7TUFxNYWNpvnqVJ5vD39TdFk2O8qutkww=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/wFCnsUHSeAqbVwmVZhJ93gVA8tb.jpg",
-        "name": "malos padres",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT4D4pSf1J5Ib40XpZ3H2rPeGLMWeQugUmWHwd/aMln7QEM3+tIGsFo74yb9y3y3zyGBqyTkqh5QG1mThAxUFael9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/ggFsajUBbUlOtKgWU9EjKfPOGSP.jpg",
-        "name": "La lista de los besos",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT6DVqrMuPgf6nHF5p2VSEqMXP7EFCKCdVjPClisXlGNbLrR+eL3q+8gB3cjc2cn9jMAe49r04OMRmItz4QwCwN/9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/the-sneak-over-1697282789.png",
-        "name": "The Sneak Over",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT5NJK23N9pYrjJoKQYRpDk6QG7d+0IyktLz02XC4aejriCfKGuUxdWFAlwfsUg8mat0nNRSCD6adh3dQ4okuIWN9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/the-ladykillers-1578587105.jpg",
-        "name": "El Quinteto de La Muerte(SUB)",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT5AfeZH0xtYEbhM+LjWMaTxfEMy/JZ9Iqp9cT0Kf3//6lI4/FsNZWQexNn50u6fSpSqHXdH4YdGRISklHHcEhgI9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/una-loca-pelicula-epica-1578514205.jpg",
-        "name": "Una Loca Película Épica",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT53jqdrMDVFcj9XhV239v7EovyguZMymo9+JxZgY6kaVMZVw2JKSZ5uQECC/wMxGZyXVrEqCgbrZLkIdbaCOHG59V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/diabolica-tentacion.jpg",
-        "name": "Diabólica Tentación",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT6A/l6ckSnN+xO+u0CkKHyJbWw7DJf9QMAFayLT+VdO+VNrPx0YeNvuyQj59YOwYhC68A5olpWWHVynNRM1jlY19V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-muerte-le-sienta-bien.jpg",
-        "name": "la muerte sienta bien",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT5C9MRPlY0c9zo4zcPxluqzbJ8FzGtTtorewecdBbe+2EHJVfHxc5cIig9XfVaANKThrdYsjIi6fL12d4Qts9FJ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/phillip-morris-te-quiero.jpg",
-        "name": "Phillip Morris ¡Te quiero!",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT5fWA4WV7fjT/fvG9VCEb+Henk3rH1vMnTHKvcdDalqfJevdqbL9UFGAGW3dhDyZOa9SlWo9M8o6Er/rg0kMoB/9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/brothers-nest.jpg",
-        "name": "Brothers' Nest(SUB)",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT60NI+4aT5NFiQSllx+scVSFju6KXXw3dmVW/bCiq7KrdQIttsci88XU0LGgl0NR7+Xw8Z9a5SOK2oMsxflSn8G9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/noche-de-juegos-game-night.jpg",
-        "name": "Noche de Juegos (Game Night)",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT51k9ZsB0h3Bo37KicQtf73QQQtTsw3bqllvRu8TprJrfZUxSadEBb2nQnoX/YRe4nkD65mP9U3oLstoX8NQSUU9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/vidas-criminales.jpg",
-        "name": "Vidas Criminales",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT4N5hNb18qo3k68++6FKhQNcUl4Y4trnYU8zk/1WVy1+GeXaVpIVvRywaP3hPvus8X4ANNc3k08WI3/4wY/O2zQ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/siete-psicopatas.jpg",
-        "name": "Siete Psicopatas",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT68G3vR6/PD55RNEA1QXFcOr06QehibT5TLaHMv7lK+e8A9mUEKkzcDH8kgZoZxKEWYPOpEPGfhrJY8F4gArVf19V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/dotado-para-triunfar.jpg",
-        "name": "Dotado para Triunfar",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT7vWa17JhNTmBe611uod+oeXLcIticH608i3r0AMiVuH4ECv1toIxhQQgLrtZZ84oifb3DB9sLX1WXjMKRbQczV9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/jefe.jpg",
-        "name": "jefe",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT7kMyK/gKLk9X20oiLngSif9sDdTLm5CLv0YBG7ASpMGuGzfE5i0ZEEzSYXEJKJmAwn9AoqBKywGXbKMjyzgdNy9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/nacion-asesina.jpg",
-        "name": "nación asesina",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT5cqPR4jjBzu1gnZmeDfTUv+C8v3zPoWjydZGLqKU/FZwkVaarrY5/Q0blWwvWvdYTT0yUVwFmGHPGpC1ABMY2C9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-gol-mas-por-favor.jpg",
-        "name": "Un Gol Mas",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT50xYUMtam9osKBVqeJAfg46G9BmNToiCcCBWkk0aMGnOPfsCE6opczDroADTK3MTL0mJrbgf0REXi1ukzNXC1p9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/mama-y-papa.jpg",
-        "name": "mama papa",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT4tdRGXvAAT5ItjwSy9+MOjn18cCGl2DLKRhYCiGGczIHJ4/Wak4+2iDfxSBizQKPHZFGhFO+21GsSdlNoXE9XZ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/yucatan.jpg",
-        "name": "Yucatán",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT4BSSMacdvOxtq7RnAZJk4Yq7+CM1GRneWP5BsKwx/3uk0/iXXiKp4DdU14ju70B15u9BmeqbuPR2Kj2XxiVCsU9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-favorita.jpg",
-        "name": "La Favorita",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT72g3Syaz8WLREFioIqk70KmeT6oudEgIk5v8geDtmhr2h8a+9sqrY0AfKTeiFBCZg02EkPPHtMW6qxO5+V3NDj9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/summer-03.jpg",
-        "name": "Summer ’03(SUB)",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT6DIT75NPWCwODWhG+V59dcpZmdBlHdP605K2vseDY7T1WDhnLJrebKMQkOJo0Zkxs6zRIGVvKf9fTxdQCzaIAf9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/malos-momentos-en-el-hotel-royale.jpg",
-        "name": "Malos Momentos en el Hotel Royale",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7UA7BrIY84oMjYb+L6V92jjgjQfxwrUZOHAd8wvGet90Ua/MKOAl76t+adovK1VyxSOq6ngFJZlfGL4j0jJeLE9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-dia-de-la-novia.jpg",
-        "name": "El Día de La Novia",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT7mQl5MrZZTs9plxw57i2JtSE4QmbFonXhFJAUu7J0aIJbuNLISQxldhoQaYupEcqU7GVtrVqGXoM7rQv+uvEJC9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-navidad-de-las-madres-rebeldes.jpg",
-        "name": "La Navidad de las Madres Rebeldes",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT62sQLoe3Nr56bOETfjXl6OENcfUPZZQ5HFNaCOIEO9FEdWEK2f+GYy06EwFTdf7Z7ivdyM/EToZqh7uSkqqxeU9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pics.filmaffinity.com/do_not_disturb_ayzek_ile_bir_gece-484736025-mmed.jpg",
-        "name": "NO MOLESTAR",
-        "uri": "5/tvCXUmcT2NjZEkUqLkKwxtutKjQyUKSFXrMXoIEp9dF9WkGmRYcCTOFGA4sV0BcIKz/h2Ta4eS28h72bukwR0JoIufCUXHMlAMxRr0+0BOwbc8B6BPmjoQ5hFvNv/zZ2giOiTlckzGk4HAgxyDXgAyL/j+TlSvixefTJEnOMVcSnRhuppxHnNftiuUsxWvpOzmwfmXLp2dSu1T+MwK5kUuPhNxtq66FI529CKsxPM="
-      },
-      {
-        "icon": "https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsELPfcRyVmqncxbHCd1Lxc8HdXD.jpg&w=640&q=75",
-        "name": "Mi gran boda griega 3",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT58rarF1Zakqfd8bzVwf8ZyPZciiHPaZZ+rM02aH8A1q3KDuMnG7pcLcSF9z9rS7/gLK5zV8cTI/cOVibcLmTMk9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/tener-tiempo-1695654254.png",
-        "name": "Tener tiempo",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4xU8TCMvqjxuv67y2PBRg01DAh2Lx65NQe/RV4v/h5gRpt3fwhXk/hqCY8AaaIKDTcL2Cyw6oV+8WtkE16e6Zd9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/soltera-codiciada-2-1695555846.png",
-        "name": "Soltera codiciada 2",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT6acP1arvwaKvtqxIokfv2TWM25yu2h3MEYziQ5rRvdb69NAGivLkQwyziydmoVc6qrIzw/zf5r4COBzGYcQd6q9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/miniespias-armagedon-1695465486.png",
-        "name": "Miniespías: Armagedón",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT5SKd5psKaowdu8CFnheKIYsaeHTAh6T6+iIeZ6qnIBkO4gT7gbKdyXHwJtNIN/gAGWlYkrvemEti9Dk4JHrBzQ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/no-estas-invitada-a-mi-bat-mitzvah-1693122055.png",
-        "name": "No estás invitada a mi bat Mitzvah!",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT44L7VMhdDWU7gZyEqFjfn4RSVr2iKhUOHvhHgoAhEH48oyiYrt74cp32PFXGOT1W533nNbcxmUDl/5mOK3zUdD9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg",
-        "name": "Hijos de perra(FHD)",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT7dfsEQcfjwfiQUAZgbcgb5A/K9p69ggFEMlxRoPlpxh9zFdc4coxLmVNb/EdSKx2EFqNYoy1F4kR8h8oDjbJh+9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/muertos-de-risa.jpg",
-        "name": "Muertos de risa",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT74G76s9bPn5o1fnU/rX1UNH6QcdXSFwJD9qFUxSQBdhwIlZb/oTGF0RyjINAjKMeng5mwwFqooGnAGrofks/Fx9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
-        "name": "Barbie (2023)",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT4PM/bCANRkoyU5jCTUGI2ivV5wFwcrRZF+z4Q9mBKqzxcQqZpB1EFz0FNtC10/6sg9d8FgmP8J0UAXt1LpLZIV9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/zombie-camp.jpg",
-        "name": "A la Mierda con los Zombies",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT7pytVLO27hS2WA2XRdgoky9VvPDm81/WyQ8lBeJJsr95L14L3CqFE9Mw9h8g1W3HupSK9yU3VKjpEewTAFWRJu9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/vosotros-sois-mi-pelicula-1578110047.jpg",
-        "name": "Vosotros Sois Mi Película",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT4lKTlmFRuBGLA35ekTVNqom3ml+jyR275TARyAHgtBCLm8O9XF/USHaL0W16HScqylv8ASdJibI8+TeutMq8tK9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/como-ser-un-latin-lover.jpg",
-        "name": "Cómo Ser un Latin Lover(2017)",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT6Gy16epGpozjqIkigo3v+sjJ26rW97sxgGSSG9CheEa80rZcs0dQhQ5p1PJmGVNKI0yFA6zp6dHzuLwohi1z0i9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/y-donde-esta-el-fantasma.jpg",
-        "name": "¿Y Dónde Está El Fantasma?",
-        "uri": "0smrFadXyJkbXqazq96aQOnUCz7ddGjqundHvp8EXuVfa+xnCKwhfrhAhDBjyDQ7dfqqA1QGY8Rg6kmBwoM/QCsGPvwdhK7zwHPf1sn4fwW4CayN3avUw579uBYyJuiRc9GoGjsnLIQ0mPAsqWFqpWYsw1krUsAjqwDoDx2w7FZcIgV5m4OC0w8qr649wHp+"
-      },
-      {
-        "icon": "https://pelisimg.online/cover/y-donde-esta-el-fantasma-2.jpg",
-        "name": "¿Y Dónde Está El Fantasma?2",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT7lixZw5cuRkZbML8ZtShK9HB35vlkga/GTiLpqq1bVM+Z6GM1blfR+h3hH/d68yzEXPJo1Fc91b0jKcmD53Hig9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-golpe-con-estilo.jpg",
-        "name": "Un Golpe Con Estilo",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7JrNdRMVvlnhaTq9YMTbh1wLzyyI63V2VoNvr6KRd29fVt97G+WbFIf+lEqOAoxTZjQYTwg20ENzIRobd5dmAI9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/comando-especial.jpg",
-        "name": "Comando Especial",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT6aF9xFBK2KNwwByS9EcFruOEdMn5im88U4NuWeaEyP4Qx1Qz/o81+skO/4qykzJWShgWqPBRtcgfKXTrllVwh59V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/comando-especial-2.jpg",
-        "name": "Comando Especial 2",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7wNGswwedb2GMZf4EufMOe8aO3XLnS2gMGaCTZJtMxVInZdpG5qedD1ACww6mwn39fx53QK5q7HB4FPqxbS1GN9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/juego-de-armas.jpg",
-        "name": "Amigos de Armas",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT5bk6dtVBGRqAqMozczVCls7JWsfTeM7UluB7CP4l/GO/TY2UEgrDhWsfBLVnq0JlUculZqL9aO2VwR5InOWYux9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/proyecto-x.jpg",
-        "name": "Proyecto X",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT5kcFQjqO8WgqLW77UhndxU9R9rTIxJIobslKGI+etZhxNoaWYzkvPTMxRIbcAzaBocqx+05d4WjorOqY4+lLTA9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "icon": "https://pelisimg.online/cover/27-vestidos.jpg",
@@ -3016,44 +2004,9 @@
         "uri": "f+C7v4grf+D+3KV1XoLEP3Sa9Bxk66NW94DOY09nBfONUbh3JEDLdT3nMgCcOzBxYjNkUKdX/I34UrGGUs/Q9ReZKA1Qd8bVf70kHsTzty+IEnWalYJCPEKUCX3z1FyEj9IfykswGX2e3AIp3fHYZ9QCvg1V4W5ZoE8aGYSNlD6JzMmM6U4scPKuhumWDAq02mGGtZZIZ6OMJvg9OLlCHw=="
       },
       {
-        "icon": "https://pelisimg.online/cover/pequena-miss-sunshine.jpg",
-        "name": "Pequeña miss sunshine",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT6/rrCFqUFUlq4cuou71mVVhgZbDyabtu4kPL01/OHaXEHZ3NbT//8K2WZ74HqfCwOA8i+jnzdlx/7VfNmUaP9C9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/zoey-102-el-casamiento-1691824009.png",
-        "name": "Zoey 102:El casamiento",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7hhqvu/QnsRrHGHSnuClBxb2LlDIFfphGJYg60uG9JlLx68JehqGHT35UkUp032xTZpMiglXZ/DwYXh4R/CwKu9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/superheroes-la-pelicula.jpg",
-        "name": "Super heroes:La pelicula 720p",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT5Ph3U8ZLrsF/zxTz1kOT05bQ7vnsVVktHiJy2nZFN9KkCo/9ZxT/vAi6jacxvQVe65argxsYOTckks3zNRGKjl9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/loca-academia-de-pilotos.jpg",
-        "name": "Loca academia de pilotos 720p",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT50U4HB6UnoCP6+7UbOvSVwTh6HSw/maIV670/V0txCqjqACiMKawWdlDzI9uXObYS+vLq8TOjJXlIBwFsbPOwm9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://pics.filmaffinity.com/hot_shots_part_deux-964770808-msmall.jpg",
         "name": "Loca academia de pilotos 2 720p",
         "uri": "dYMmRJaP4VTsiR4vZ1hn2OnUCz7ddGjqundHvp8EXuUt7D5kyohb3JL7omQX4MMrqJkHU4Kxd1c5tJB8O6U/rDMZF5zl13UZTh7ycAGRQaqAg67mQA05+VbqI6gYgZdK/oYwOaZxgtf+q9V/fPMM/wWdFdbHK24xl+3kxtKKu3OrAlfvTfvCA0gb1l2Rx+xjkcIVQcvh3PMaM5D63wwcAfZUg4Oyi6vVU6xc+vuHx3M22a+KNBU91oREZd3w80bi6KCrjeo/Ir9aF11itFJ4Gg=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/luna-de-miel-en-familia.jpg",
-        "name": "Luna de miel en familia 720p",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT4cUp6PqIgtPIzrKetdDqrotgr7R5ncMG75zQokOKWwpDzGh4R3gkcJH0v+6l66WSo1xnPmsv49te9rAgVYP6TJ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/dale-duro.jpg",
-        "name": "30 dias para ir a la carcel 720p",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT7hS+R9SNA2vqy4PbEZ8swoiuViv5sKdgjrpf7+3u6u3qkIVmTOUZiRDzjH7Ne6+u7ZuS2nBis2z2MULRkalkcw9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/hijos-de-perra-1693121654.png",
-        "name": "Hijos de Perra CAM 2023",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT7dfsEQcfjwfiQUAZgbcgb5A/K9p69ggFEMlxRoPlpxh+HIUGT58Uyy2KRm6uAtmDiyJ9LWU425ZeD5u+t+ks8s9V7sG20F5MutT0fnt4fINA=="
       }
     ]
   },
@@ -3061,41 +2014,6 @@
     "name": "Drama",
     "mode": true,
     "lista": [
-      {
-        "icon": "https://tse2.mm.bing.net/th?id=OIP.ABk8R1PIDJxK7Tl5zkUWYwHaLH&pid=Api&P=0&w=400&h=600",
-        "name": "STEP UP",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7k5r9HviQcbfQ3abPdQlnSk1MVYv4AoVsLRIog6yTPBS+FG7nvgZ/jGr2O96xw7oHcdzMyV4/35bJ5yfENF1Yz9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://tse2.mm.bing.net/th?id=OIP.7xtkwNaD6hPDq6lRP1IqqwHaLH&pid=Api&P=0&w=400&h=600",
-        "name": "STEP UP 2 STREET DANCE",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT7jPRf8fkaE+BKFQx/D/MTsnuawlZIPiXd+nORF5VCq143BnHxzshdEg+5EYJGPfa2jjXQFgUjl+E61K/MP5awt9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://tse2.mm.bing.net/th?id=OIP.3eUMf7HPTlzfkWN94SdK8wHaK8&pid=Api&P=0&w=400&h=591",
-        "name": "STEP UP 3",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT64NJf5p+8WbGHHkgfAlmx6vpLt76owcPE3TXUnPzF1vEjo8PspJMFdfCxF08w+kPBBCR0vPFzeTMGy0k1f9ZQb9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://images.justwatch.com/poster/176514021/s592/step-up-revolution",
-        "name": "STEP UP 4 REVOLUTION",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT5s5iCjC5nlmDLDXuJZbrlsWZzZv6rhthDwOtB2h42C8sS2YTOE6MSomybUTStgqL6ruSW/k8oOh7RSr32+oD3E9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://i.ebayimg.com/images/g/9YUAAOSwVplhXhUn/s-l1600.jpg",
-        "name": "STEP UP 5 ALL IN",
-        "uri": "mgcNsstGCBDEU88MCvIPtOnUCz7ddGjqundHvp8EXuXijjaUhh0MJy0/uUYPDjgP/2KNENkNzuKXcs2T13QYz+OtkU9GIXq3xL/UmjFDe5vMSfE/hO0Zfyi3GzDiWxZp5+3hFHI6XpSWcUAuABREYmuMS8l4njh5Gw4lhdnLPfwihBZNAFO+ZDXr6RO735vv"
-      },
-      {
-        "icon": "https://tse1.mm.bing.net/th?id=OIP.qVVsrq14P-1f14OmHl2iFQHaLH&pid=Api&P=0&w=400&h=600",
-        "name": "STEP UP YEAR OF THE DANCE",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT7bbv9DNvL3jCK19lFIW90GaF1dcphEwarOmX2jdF+6YHrITJM7gKmOhRGwlrsLN8v+LS0z/cPR0Ll8QiXvMihi9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/yXYTje8e5aiH0W2RyrswyHhdH53.jpg",
-        "name": "LA BATALLA DEL AÑO",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT5FlCa0pdw9e/EI0r0GNkAHvkU8Nj+pcIIHlg/IBWvwMe3KNwjVt1GdCrFvbcR0RgsD3ylahwft3a0ombZn08BZ9V7sG20F5MutT0fnt4fINA=="
-      },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/kKBHjBY9RLPyIJaycEdduPj0cjB.jpg",
         "name": "Inocencia interrumpida (1999)",
@@ -3110,11 +2028,6 @@
         "icon": "https://dl.dropbox.com/scl/fi/m6x6ehurbopf8lru53trs/455x650_poster_laestrellaazul_70x100_9136.jpg?rlkey=a40mxmqo92s47v21taaywxnm6&dl=0",
         "name": "la estrella azul",
         "uri": "f+C7v4grf+D+3KV1XoLEP7vn8F7kLX7EAx0RTRYDvn6IJie+0IEyiQbSHvSWijcHRm8c8li62XPkiPl6MZBidDhbGKPZ2fdt7oIibJ39Xxc9mhc242aCoSmfc1YeYfby60RAvePd1B1XOKvojAvf+Y3A+fIIP99o8grlYipT+VK/I9SFab1qQ1XA0UmQBKlT"
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/i9mQEM8dzl5vklW6VEqlONdbUJk.jpg",
-        "name": "besos que matan(1997)",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT5WpuSI8ct+svvBT+yKwJGoekxe9xGZw0g1pJXEHL5MFQiHK4jn23mtLLhAQs74Wg7vm5B+BuDUNAoXZzQ6j/lLt4Sgjo4LEODSqRB+bmi97w=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/cNtNlHNHmcfAPFf4K4yhEf24Yev.jpg",
@@ -3132,61 +2045,6 @@
         "uri": "f+C7v4grf+D+3KV1XoLEP7Tvm5rAiHFT9WgXRHR3kkLUAnbQe8Pe26DoHIOb/rPZ8zUz3di84PFurP2ciKJ8M2/jboCEmXkqen6miodRx2CRpoFCuA4PFmK2NNDlaC1dqXAo8ne6F22+iz/5Vn5iw7CKOle+6Hx4YGTxtMqUbmDiGX4k8hhPM3sgUxwYrgV+QuxfPSwbpBIfEFpeTPWevjb8LtEkxRhQ63isJSSX7iQ="
       },
       {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/tXRw3CHVBRHHIphtiOTwX4Cv03Y.jpg",
-        "name": "Actividades criminales",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7Xy08a2KgFNPaXTw76gNeavBkMKgTGhZtUTTg3YdqM2a7td7pMCwHAETnFBjQcDXhdWQ9SXJuCeYyn5grIBwM/9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/f9nqRcXKVT96dYKPVQpTONYcxnK.jpg",
-        "name": "la despedida",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4EbRJYDoZnabuAYxave0kuOkJboCEAMD2HV5x95MxIbnUZkjm27yVqXmMcvhzU4bfMJmffVs1m5iDAElHLBbz99V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/hwc8TlNjddcgpCzujLP17hBC8TI.jpg",
-        "name": "Blackberry: El Inicio De La Historia",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT7Q7BkaA2h+HLrYAvDdRmzKKc/86OY91W7oASxMaz8OovRa7sCl56qWlhMaj0eZJ/oSb+WW04Mg57KYRsULs4/L9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/lkqCFySAteosKDEVRJLYFp60rK8.jpg",
-        "name": "Vanskabte land",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT4fZkWndlnnyiWjCHH8XPvhxmt6uzySwx3uU9Z87/r6PkJZ2d54kXb1RXSWRXaTUsfAoIKwCsaveKtAQBOKW6Cr9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/d89FZk4nID54tKRV5oInKneZgT3.jpg",
-        "name": "el juez",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7Bo3hHXTIhK8euW5EfAqpVE23EWo3HPsrpG1PW6Crbww+8Uywgi2jHLBsnW/XVVId1rT9T8wP69+A+189ej17eNS/skHXTCxpwzk5WbKyWZA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg",
-        "name": "Butcher's Crossing (SUB)",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT6jBKstRc/GK9JkChtr12Qn7bH5gpfJ9NbhbwzygK48A/aSvXHiQ46ajcQG4Cz6yEAG6sT8RX0gfLc0vPggOwzh9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/hRvo8y4UTrtcIZq71nN6W0xjaOi.jpg",
-        "name": "El monstruo dentro  de mi",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT7PrglDzo2m6mSwVapEmoPN1gLVwgiLOtVl0f0tfrZ/IyO3DeczyXvHTdV0DGRgxAfRKzvh9M3LieN5p32VojmS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/w6fll4kwxhzG0iRdPRjFpuG8GmN.jpg",
-        "name": "Huida sangrienta",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT4Za3YYvq/YhN9VDxsxhmLTKc+ypN9s+/xwf9oKfIk8B/x1+1swXcKWjUAWDdRQeEDaNPqLVuAVk1OEi8eskNER9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/pkz7I9cOX3mVsEpkHIbGfheLEqW.jpg",
-        "name": "La pecera",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT7JMxLZLoPAr6OvKOgQcaDDzqvR35M7DEt7biLBP3+QImyrf7P3zCJS/q81imQOJl+7hSrKFp5VaXKDPeHKhgpL9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/desde-mi-cielo.jpg",
-        "name": "desde mi cielo",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT5PdfBJ8kCM6tNw/gUvPw74oy3JZ7YDh0D8QBNHbkmw/IOTe/PtqP8CWU2u8RQLnt39sXV/jrDD85b84TM86miy9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://upmedia.movie/wp-content/uploads/2023/04/Inside-2023.jpg",
-        "name": "Inside 2023",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT7aq+QPu65xt6zoxkPvCT2BSQuTj+qqBto/016UqWOwgSmnZlYFW9ce4LbGKtSihUf/AMXmNWNjvqAAk7aTcc+t9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://gnula.nu/wp-content/uploads/2023/10/Nowhere_poster_espan%CC%83a.jpg",
         "name": "NOWHERE",
         "uri": "5/tvCXUmcT2NjZEkUqLkK3t7JWnYYyGkxTx/QJVinIqSnDX0mB4KquRktvFsoy1N"
@@ -3197,69 +2055,9 @@
         "uri": "f+C7v4grf+D+3KV1XoLEP24EYcdQ7O6YGLjMyZ0zefm/VhI2SMEmSTTWswx4rzoN+4w3ddS6TE+H8Moi/gptwX3iGVcV5wfES0ZBPwPiTmxWIFxHm1cdZMT0a9wrSZIJoWRYtoe5weO3VaWOO/RDPQ=="
       },
       {
-        "icon": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",
-        "name": "SONIDO DE LIBERTAD HD",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT4BrHboaFex+IcTddG1WwTPzq+31Dmofr2Fbl6X1xq2D2I4ndOpKSjmGtF5Aq2EWvD8tL5H4Y7EZYfv8DX3/W7Mt4Sgjo4LEODSqRB+bmi97w=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/las-torres-gemelas.jpg",
-        "name": "El Instituto Junto A Las Torres Gemelas (2019)",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT5JNVhRV94MXwDZHT/2aPelh0c5ZxT9ymQ1DlulFxWtQHOZyL8JsVrrd/2p4PguxF50x9ygBePcG6ECN4JnR64l9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/den-storste-forbrytelsen-2-1644029053.jpg",
-        "name": "Traicionados",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4kbSPNSW4k9w45YZGEDP3Qxv2ELI7XEGlh+elT9osv/Xwzhd2irUmMhHTJ48vJUjUfIUvz1exq4uA9zjgGMrO09V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-teoria-del-todo.jpg",
-        "name": "La Teoria del Todo",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4q0NAvky8duFJUkQGORIfrLFabKeFd8A9BTnnc69O2XW2cZDCK4LkVx+bdF+3+dCwJwyAWscmHAVw6EMLK1UEO9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/una-mente-brillante-1578511805.jpg",
-        "name": "Una Mente Brillante",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT6wj9WiN70o8MFFkrReBakHZmRnEi73k3lZ5AcCifsv/51OdOig01ni5Q2+NZyLH/yNBiEwJ9OeFTL93dMy6MGc9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-francotirador-de-dombas-1692247819.png",
-        "name": "El francotirador de Dombas",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT7lnFrAt7x6lB424Mv12mSOiDgWtDFE7I+AOo2uj5xyVvxL/Wn6MsAepijAG2lWutr+ml+jL36jNPif4lulvB8w9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-polaquito-1580232904.jpg",
-        "name": "El Polaquito",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT5KzRABl293isbRvqy3n6sGtV6az3rqxSCTHp5Akor2wgaDRBMsQOT6CCFmckSADnggWdBZcRy8YiaU857ghiHL9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/sffZb1HKUvMcKmuB8KycMZ61ycQ.jpg",
         "name": "un momento peligroso",
         "uri": "5GJ2/kCdRWxdu4CAuGSBLunUCz7ddGjqundHvp8EXuUfw7OmYypMx/Vywz1AA9H668K2WVfjEMSwnix3MSCdEg+CkT54oTiJHyTjKIBldNJt2f+RkKUV69P9udyJZIAtpUQuqrZ27f2aqmuUbICk4YMM3ucUJ+SO/xn3qoPm3GxdeOcP3XBOrN5jTLKPMoWlqM1z64fosma+yC6jEf1bKdZkp0VwA6YTtB1M1DHF5jA="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/axb5KzE3cfwmKhnx33wmHJtADM8.jpg",
-        "name": "señales",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT6w3P5pozM2azP5OOdfbRofG6g4iq1KefR8qqlOr/HonMdJ7PmftUr21800F7DzxJw9uEvRXnDXvEwyYbt+QwzO9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/oppenheimer-1690257013.png",
-        "name": "Oppenheimer",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7RsQzWIXDvFnDn4AK0pvD2P9SkpnpN+vlzvVRcJJzXrQ+bumWUtm2GnifI6dhqcM0Xv6/aJnVY9bir3+wdPoXb9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/5akKFgS7eeXUw9rKTEujryKrH17.jpg",
-        "name": "Rush (Sub)",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT5mGxZ9xtH6piRG5/FxE+A1vo6c0aAzCrzZNhAMOUonzhVxVkoAHKPdMOEUpMfmDdxtRaypeywnhTNFvbvY2oVH9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/historia-americana-x.jpg",
-        "name": "Historia Americana x",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT56pMvfBIp/DD9D1z7iky2Br5D25zPjzLJ/AkNU8nKtBWYCYrVmCqKalBSjXgg4GKPsNY8HmAuD9LsHLFoKiCAc9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/twelve-2-1602907683.jpg",
-        "name": "Charm City Kings",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT7ik7magRdNwm9b09ftPdD8FZj77JAHqRGbO+X2Mz7EsFS1A1vtW3szRnUwMir1wH8Jd70cq9JzbaS2gUiAObye9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "icon": "https://static.cinepolis.com/img/peliculas/42195/1/1/42195.jpg",
@@ -3272,74 +2070,9 @@
         "uri": "5lYEsn5DPdaghrCw9duO9unUCz7ddGjqundHvp8EXuV96B/fLFUnyZrgUlk6SVj/CBem+RmtYorC2anRux40khhd7koWvQMFGKForW9Uo19Iwx3c5EK2z9Hi9PoqOM1337R/eX90xJ8dxdHce7CC49YOcAeUu5w+JhJ7wPwViPJtmRglt8BTPVXwI/rEFtOil+pfbX87J+kkVIwhbaz65g=="
       },
       {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/tY1UUwmqNO8UsmovnmRq8JEUEcJ.jpg",
-        "name": "Río Místico(2003)",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT7rNhP99tu4Apzmq4db2PVSfM2HjPVjXSoa0hIi0yZYdsdbhh/rwuR1Lti5BjlhjdCKx8l6rffq1WAOZ1ywcJYL9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/12-anos-de-esclavitud-1582210806.jpg",
-        "name": "12 Años de Esclavitud",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT6CyTxF0yWD8IJtI18e91d3VzYVjIisxL1mF9LgrfIIns92qNrtmUiAaiws8Dq7OyaivCRxubpWsJCekTyDANs09V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/kQCG6o9M1EVUBtQXjgkvFvlLQ7n.jpg",
-        "name": "preciosa",
-        "uri": "bfBPB511mjxzrgDQ1NGkyOnUCz7ddGjqundHvp8EXuUg7AGhbKX+IPCmVwDN23tUkPwt8Rr4MS2MnN1OS1lDskfHmrgDBA/1ZA58+yC5ArgRSyjERvbLc3OWMq6taW30jQTcY+pPnhsPIQwVKZf8f0aSjwRLKcaS4ksI7INJo3goHJwcZCCWlEp2kVUcBsBMDeRU1tmWHOheLwefL4lQyDVYWJU+WnHh5mOuPXN79eTzvTMAh8AmNFfUCgOhGvSMwbB2qfQdXymDLIjDATenOw=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/palmer-2-1612023003.jpg",
-        "name": "Palmer",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT7/Ai9dDe2Ho5waSIhVNONrdODDLtNGG35K0OO3sVNwjw9udvR3x0XykP32TbzPKihz8oidDh4BzmwRbS7T6S4S9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/heroes-en-el-infierno.jpg",
-        "name": "Héroes en el Infierno",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4PgS7cFTUg/kOb0jg26sBQ90PLqWwT4djEzuRaT/OJROEJHjNVOGiTqAeMYOhrURBJwsifQJ/YDhTbiD2sxr6B9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/en-busca-de-la-felicidad.jpg",
-        "name": "En Busca de la Felicidad",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT7K3m5FPox03Nk0v3KmVvirb1w3sPszZQyeBwQXBXOXZAJNB40Xa24mxcD1iVJt4cVB/jRKa3b7bZdt5Ok+c9iA9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/belleza-inesperada.jpg",
-        "name": "Belleza Inesperada",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT4T1KjKM0kVZYzDDt0YZpO6XFmNlq/4F5mki9h3StUkE/gJF3kEd/5WJzca57+1YX7qxbJHwlHZYD80Hp3J44e09V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://pelisimg.online/cover/hasta-el-ultimo-hombre.jpg",
         "name": "Hasta el Último Hombre",
         "uri": "RQ5e8pUHW8nCE/MDLyM37PsgpnWWZdwBPpWYAysqyNY1d3NKldtdct0LMMY+3f2Lbox5LnglQewXi9BmLrkwo0bq+Nolgw3SBoCpu4fFz3mTVrDih/t6e7ksPwBW3KH4eT2tBXo8H6aeTxSuHp0aELBkQenDMQ6USGwtEVwtp9aN4j1RrCojp0pdk5kGbpD4htCQY8zZSmhEi1b9uxgukmrQjpvvKZCVG9yZrd0TGxCq556zlcaBF/yZQNvmFMzXc7bH7XyGppPZjiCbolf3x2l9cDoEh3//qqmJTCvT38VHF5/eNS5maxC4pTTCxTsKW26cFKhpF1lEvt4I0BjrsUXSaiO2x3qFh15IHgUkgbnfzR5B5If5QkPLx7oyd96NNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/argentina-1985-2-1669011397.jpg",
-        "name": "Argentina 1985",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7HpkQAqFQjvmfuQZ3IpdTdluDPZXpXPLv/4yZO7J273TkKL2hCgfdlbKgiVUFkz7I720dWbvmYfYrHYqKKygIe9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/lo-imposible.jpg",
-        "name": "Lo Imposible",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT7uumifXHzE1gAE4ejsOx54c6WdAuDIJCxYkIVelG+r+32pJBVgR0cbSzcq/wKEU/kJEM8qYmFuFnrXkdu2EV229V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/milagro-en-la-celda-7-1585612530.jpg",
-        "name": "Milagro en La Celda 7",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT6rWJUPQBdZd6i1mloM2krYZkvnQcaLNDIt1er4Uv9wZgMhq68ZobLBYqntxuoihndBW9p+GBMtclt03Ozq8Xfi9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/cadena-de-favores.jpg",
-        "name": "Cadena de favores",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7Tw3LTv0DCP4S7rmv5B/RxhUYyZdZlVIZvajw6FWyAB+TgqWN/Fek2JKXolxsaNj9gI4JJ/5N5zVGVYbUXKkkK9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/oppenheimer-1690257013.png",
-        "name": "Oppenheimer",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7RsQzWIXDvFnDn4AK0pvD2P9SkpnpN+vlzvVRcJJzXrQ+bumWUtm2GnifI6dhqcM0mqS9VbwJHDsUSlMNQF8YP9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/snowden.jpg",
-        "name": "Snowden",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT7EZ6LVtgH2eCrhF9bra/6eViH30P5HeRTqTgY9fnx4iiAsdcz18X5SSVs2zmQkHiU0XxyJeCCtUQVucN0n8EDM9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "icon": "https://pelisimg.online/cover/nacido-para-matar.jpg",
@@ -3347,64 +2080,9 @@
         "uri": "gzTH6QF3Volp5jiUvHMqrgLf+MRy+zv4r3+55wzr0a01d3NKldtdct0LMMY+3f2Lbox5LnglQewXi9BmLrkwo0bq+Nolgw3SBoCpu4fFz3mTVrDih/t6e7ksPwBW3KH4eT2tBXo8H6aeTxSuHp0aELBkQenDMQ6USGwtEVwtp9aN4j1RrCojp0pdk5kGbpD4htCQY8zZSmhEi1b9uxgukmrQjpvvKZCVG9yZrd0TGxCq556zlcaBF/yZQNvmFMzXc7bH7XyGppPZjiCbolf3x2l9cDoEh3//qqmJTCvT38WWlipEgMosakV7Jw7tOn/n7kR99ho0G+57YK3dXv5ATK2na8fLq/RQBepi4qUpRROKwgC5se98XrrBHaYX6JTJPjmaMmIeBOOyVtT9Q9rKCQ=="
       },
       {
-        "icon": "https://pelisimg.online/cover/sonido-de-la-libertad-1690212533.png",
-        "name": "Sound of freedom",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT4Yfsc35rp9h4dk8y7GrX3nGcBAV0LWNVLaL/wuK8AfJGKmIboat6Gn6+8JXH8r8/q63fKlKc1q8h+0PD7z45Xq9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/buenos-muchachos.jpg",
-        "name": "Goodfellas",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7mW1Q/rmg8vydMTuWibf7DZNn05z9TipCMgKzwYEC11QUeoO0/uQzgLZx7EMqDcun5joTjRY5poJZNxgsCchvK9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/una-luz-en-el-infierno.jpg",
-        "name": "Historia de bronx",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT5gAedfRWyMmBxcZXw/XBRhz8Wslvfntfmp+N5ZNwwZSYV/A1B5rmoFo2uCX1EIBc/DxFpO7ii0dlI3C8ma+gOT9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-familia-hindu.jpg",
-        "name": "La familia hindu subtitulado en español",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT6haUAfiUL4p2unCuGgymawh4ToDL+tWUr/2U2FGTirEvf2omYn8UOlq9SB0XX2ijhCmkknqDqHHAJGnR0vmIV19V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-clan.jpg",
-        "name": "El clan",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7nz9gDTj1rlHQJr3q5r/ucXxwAzXGn7P99eBeQJ9rIcBkNO3M8/uz9k1KnGHogDexU4RHbRbx/HjHPzhURrnQ+9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://pelisimg.online/cover/la-vida-es-bella.jpg",
         "name": "La vida es bella",
         "uri": "RQ5e8pUHW8nCE/MDLyM37ALf+MRy+zv4r3+55wzr0a01d3NKldtdct0LMMY+3f2Lbox5LnglQewXi9BmLrkwo0bq+Nolgw3SBoCpu4fFz3mTVrDih/t6e7ksPwBW3KH4eT2tBXo8H6aeTxSuHp0aELBkQenDMQ6USGwtEVwtp9aN4j1RrCojp0pdk5kGbpD4htCQY8zZSmhEi1b9uxgukmrQjpvvKZCVG9yZrd0TGxCq556zlcaBF/yZQNvmFMzXc7bH7XyGppPZjiCbolf3x2l9cDoEh3//qqmJTCvT38ULIo7GKyX1FvzKm5/3yYMEcJ3M1XPEwwtI5uFm2F5j29CurRcIesQSWdcPQow3/fZyG4ONBVynSjPvsJonkmEUPjmaMmIeBOOyVtT9Q9rKCQ=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-secreto-de-sus-ojos.jpg",
-        "name": "El secreto de sus ojos",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT6ZCWevcY56QCSrOGV+4ZagJHnuBdznedkIAx+U6ngoBrp4kxOCGUewuxZHEg9TWUsh/v+MVRmtvGHb0/4IdO3b9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/el-mayordomo.jpg",
-        "name": "El mayordomo",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6y6ubAasbqueTyD/FHhPN5MpU3feVqlv74eUEDhRSCUOPDOXn1ksspjZgX1QH76DXBKwhg8Sc/PORWJiuXuL6u9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/124781/124781_173x256.jpg",
-        "name": "Caballo de guerra",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT5dr7Uuut8SZPYM75d9967mZBJRxr2dALoPsctnLQygRAfvlWcYedIbLl0DAEvgepus60eAbTqh7AiwwQLdrqfX9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/relatos-salvajes.jpg",
-        "name": "Relatos Salvajes",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT7axHFEsv6Q/uy2SMlKspwqo95F+ktaQhOg8c2mbr1g4oNkqt2KimCyYeFv64xsHhX1vZkhigC4acEQuCHDg5Fl9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-decision-de-anne-1595461214.jpg",
-        "name": "La decision mas Dificil",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT6KIZlzIk5el9jpxQHfi5lljqIdHHTEh7oSU2AC4vn6vSGBmSP6Zu63JiVMdE+3lcxzsQ9B98n8Wb53Veakxdhh9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-don-excepcional.jpg",
-        "name": "Un Don Excepcional",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT4hxlCfqIoSM+ACh15AjAX0LOxgEry4JXdFcdJbpxltxJ7UUMjapXlc4LPI56L99pAaNrz4K1AQDOGlcU9nN13p9V7sG20F5MutT0fnt4fINA=="
       }
     ]
   },
@@ -3428,21 +2106,6 @@
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVL1mjq7OVPYFqxGbuIcpO00IG5AF8iXRbqZMag3Viv6iMHjeZ5PWUsx4bf9bHgvac="
       },
       {
-        "icon": "https://pelisimg.online/cover/un-papa-genial.jpg",
-        "name": "Un Papá Genial",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT5rsUb2h4nHfJDywssBIDYqd+Kj2j2GAVjtE+Yw6xWrTaRGhbj9AqAAo2+ZN7Z40wSwu4ohTdvm5cDhL3Lp/HLS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/los-pinguinos-del-sr-poper.jpg",
-        "name": "Los Pingüinos de Papá",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT4iQvjjKJmDMH80CfA9OQc7Pg/Im6b1rs9Z/cmT1a+PA4zrmOY0THfLI9YtlAID/iT0iyx9obd9ejVyGZBBHM3K9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-guarderia-de-papa.jpg",
-        "name": "La Guardería de Papá",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT7v66VNCjdpQ60swVJJJobJ80A9mqwnRyB18e73pXYg9MkIfk9UwfXIUMP2Wz7Y1XwA4+S/9l97+FEtU79h4oCD9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://pelisimg.online/cover/el-gran-pez-big-fish.jpg",
         "name": "El Gran Pez",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmel5RElwv0VCvKdeTYZzvCao8T5RL8XnQtOBLClUbA0POfyivWuFv54UL3kb53tYTEXYLvCUFOLZZrNQjUFK69r0NLbTgSyRdBAsRfUUWkFbobElLq1c9dLzK+71RAC5PFxhRwPA0mKwLt8/CYx7WATa0ghFFHpRqesLvKw1eEgC+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsI7v7x5S4UHkjYU//6Nm1zO+xjkuWXmJxRz/5jSnyu/ezhpCArq3PSB1sd2YwbCKWKEl7xKoFP/yUzDMUZ/Jv+Id5EYuY7zfICKaJXv26us92Pf5MCBBLuQkzUMmadaVtDiciKuLt8z2hNYzoxpusqi+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
@@ -3458,21 +2121,6 @@
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUmXxavmV/X0Agm6Jr93tWRZj/zyL6LLoitkP0iWsuGnA=="
       },
       {
-        "icon": "https://pelisimg.online/cover/the-mitchells-vs-the-machines-2-1619883482.jpg",
-        "name": "Los Mitchell contra las máquinas",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT7egpLsB8iqlFT8XxQfbMLvMNUuY5yWw0wR7qV1clkB2qrlnFZ2Bv1jdENp93HuObeJh8ZbFVZqJm9ESiOwTOrh9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/en-busca-de-la-felicidad.jpg",
-        "name": "En busca de la felicidad",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT7K3m5FPox03Nk0v3KmVvirb1w3sPszZQyeBwQXBXOXZAJNB40Xa24mxcD1iVJt4cVB/jRKa3b7bZdt5Ok+c9iA9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/senora-doubtfire-papa-de-por-vida-1594404010.jpg",
-        "name": "Papá por Siempre",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT6PeOuGJkY2VrpjKOv4OH3egxBzys88v2G/jJSg8/5Hd3cOV63K3PXsq6uSnIvCjIJl6LnPkjuplv3pBC5qUkZQ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "http://tv.powerlan.com.ar/poster/w200/9801371708986861i.jpg",
         "name": " Papá o Mamá ",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVbYsW6JulhfiPn0YA4gtZuuaMkZHKc5vLDvLci1ZeyEA=="
@@ -3481,16 +2129,6 @@
         "icon": "http://tv.powerlan.com.ar/poster/w200/11457151701553626i.jpg",
         "name": "Malos Padres",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozULEMDQMQcg/eTq+3BMJVXZMNY1DPZ+Gai6TPwsvhRvbQ=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/juego-de-gemelas.jpg",
-        "name": "Juego de Gemelas",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT5KQsfIQPO4il67m92oPQroJIPnjfwoxt/BnDgj8PPuFI7Mtbflhb1MJuvIs1BsbmdC8zrKAyiHhs+zn3RZsk/D9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/las-buenas-intenciones-2-1587828244.jpg",
-        "name": "Las buenas intenciones",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT4C8bZD3ud1A0LYX2UiIFSWsPoITmrKNJa03zEVMgP4bE9xrza2CWHFjQenXK2hovk7BGzBOZjI4AOtLr5FR7GW9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "icon": "https://www.zpelis.com/files/uploads/683.webp",
@@ -3622,106 +2260,6 @@
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
         "name": "Toda Una Vida En Un Año(2020)",
         "uri": "f+C7v4grf+D+3KV1XoLEPwh8JxId2u9jjJ3nptoV1+0YJxqC1e7euCvtrMGjtnPLSIZgL80tAFtFq5g3Rf60JNsX2GkAJM2agjDM6eHraLkTpEaWjoa0+53UsNCXbUTMYbWX6m+110H+BEeDQ8q6w9QCvg1V4W5ZoE8aGYSNlD46bhF4mUyMVZgddlbIguXwNIVp2Z/ZughILAobN3jc5A=="
-      },
-      {
-        "icon": "https://www.themoviedb.org/t/p/w220_and_h330_face/wNBxKUcTONyVCqbEqWWGUYS1J7D.jpg",
-        "name": "Los Archies (2023) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT4s95AZbodR/T+u7m12Uk/CwWL2TIl3ZGyPLWcyvoaSjUbt248PT26espuxj/ufzFEwq5PSuX1xIfg2zJqJiqbt9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/after-para-siempre-1695013132.png",
-        "name": "After Everything (2018) 720p latino",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT6+RdK9Wg1HgxU32MjNt3ncfK/3hPc/LkR9pWMNBsTkkZdlin7HpUUj5sveAMivDKsa2FwE5MI3LJUPR7JA7nSK9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/quieres-ser-mi-hijo-1695465163.png",
-        "name": "quieres ser mi hijo? (2023) 720p latino",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT7DYR9JvFwYd4lUqI6lDwXfrP9DwibRGDlDde0REVoKdyNsrN9/clNcmw6wYk7ZxDxLFMIB3rv3Kxx/HOEkmCfz9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/loco-por-mary-1694759459.png",
-        "name": "loco por mary (1998) 720p latino",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT4GYXF5R0O0eaM9YwKXFNGNCJOQP9uB/yA58/+twt8Nd6a/qmeIlt1vnpejGsARBy8e7W/cc0aIvO1+r71nkftN9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/ehrengard-forforelsens-kunst-1694758723.png",
-        "name": "Ehrengard: Forførelsens (2023) 720p latino",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT6YNu7RWj7iD+fgAqKWzzWKfUCatqXxc6pMprKfqL4BAbzl3FSlvaZAoAxkQhQzwD+K6aui2WsObKsCgsQVLLwx9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/un-juego-de-seduccion-1694442059.png",
-        "name": "un juego de seducion (2023) 720p latino",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT4nbVJBD74LobEwqmmJ7ub3wglF5O09KfWM+mg1eoIbN3NKNMxhLhGAHN7GoXmxlJMlNZZcTXO27Y+6DI3BXC3t9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-vida-es-un-pastel-1694356147.png",
-        "name": "la vida es un pastel (2023) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT7NELLMULBzS2Y8qE9kf/U/r4CIpKLKMhHsDny45TQvo9b3nhUVhzws8TGOPsMSDsalCOyHaCU3jdpKZBO/czBO9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/well-never-have-paris-1694167955.png",
-        "name": "We'll Never Have Paris (2014) 720p latino",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT44e8NcgTbiEOK2oc54zEVCon+Nomko5IeSKC/Z8dWjBLiGmX3FC1F47I/051cIgHvH/DcpghwefzoZtRyDYvxL9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/woman-of-the-photographs-1694072649.png",
-        "name": "Woman of the Photographs (2020) 720p latino",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT77lvcG5TfyBthWy/8G97f2BaSNJdljBXKc9B+kfY4kH4LwwpG8RoBVMeGIK3ZB1id/6AkaMMbWrSUZcdzh7nd39V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-habitacion-azul-2002-1693971865.png",
-        "name": "la habitacion azul (2002) 720p latino",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT42FvOZo0naz/AhnCFxvLDRJ8JoBNL6+ScBBta+PtzFvODkSQV7O0gjgNAu/8JkORLaOr7MOh/VXL/N+dfCT4d79V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/final-feliz-1693843182.png",
-        "name": "final feliz (2023) 720p latino",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6kbfOPjHmdRBqawMDoEXb3hac+3//4/g2/yyloqsTT8tr+fN7uMmDmDj9bhKBOp6l7WdNw7VvAs6pqTkWbw7+Q9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/casi-muerta-1693843070.png",
-        "name": "casi muerta (2023) audio argentino",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT4P1xdTpoO7aRiQTXvYWC8OTfUIC+72DSDnJbt9OCJuibNDRzhl6ggAVc/bAnzmuGMQhufGuEIPNMT0jZX2byX09V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/la-gran-seduccion-1693406415.png",
-        "name": "la gran seduccion (2023) 720p latino",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT7wy8noqivBDC7996rVaK0iiUHZ7i7KW+AE36zc6soJqW95GlKBdIgPD/L0LhjGO2K/zrZMeyXEc9XTOUlRPZ1U9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/love-in-taipei-1693279931.png",
-        "name": "Noches de verano en Taipéi (2023) 720p latino",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT6CzffiAvOKFNN/VJgN26FCJhWSn/ZxV0+8c3Uwa+34Pi/Fxl+MmAU/Hat/nUevbKR5TAWnVyiP+hYr/fS7muDK9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/tengo-ganas-de-ti.jpg",
-        "name": "Tengo Ganas de Tí (2012) castellano",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT6XxcZgtQDhXzK83O/Sve/tjP/SQt8nSpW14drFHGeSDAhbZzpAjB9EQQzzscBhkx9Jc5WA4R8izNgptBl6zHWp9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pics.filmaffinity.com/Los_imprevistos_del_amor-612339378-large.jpg",
-        "name": "Love Rosie (2014) 720p latino",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT483UZ7ercHByrQG7ON8sDT1oUH+Jb9BoxtJ+i9E4Rd9HXacOv2B7p1QINbG8VozE11ztiDMKmuIq77exGVoMed9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/yo-antes-de-ti.jpg",
-        "name": "Yo antes de ti (2016) 720p latino",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT4T3jkrXSgY6Hhx5fFVK6bgXepIPpL/pqjG4RFwcfSNRNsM3+/uAl3zwAhkwtmbOkSXdhhI3dwClwpPToHfAGi99V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/songbird-2-1670328016.jpg",
-        "name": "Songbird (2020) 720p latino",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4JRYBEAiTXdr2s2WwPsd4biYpJOsIBCvYDAZqDKoFTOha7Zy639rAEg9rDX1DpQupoLt9TZ3HWa/B6uwzLm6tj9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/cuestion-de-tiempo.jpg",
-        "name": "Cuestion de Tiempo (2013) 720p latino",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT44iGfTAfRbeUOLWqmNxrP9WRyvvLPKJnvLPB7DzVneXOdY9Rm/J87yBQBerEenqB+9wHyGSgI3mUFU9VI+Byp99V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/flipped.jpg",
-        "name": "Mi Primer Amor (2010) 720p latino",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7R5XBMqc0zdFx9tkQTLeLWSLTr9UoPivsS0Z46qhPUnD0dMPS+ePQOtOnwI/OrBUKQOdOswSY/z0LluwxsUqbO9V7sG20F5MutT0fnt4fINA=="
       }
     ]
   },
@@ -4082,29 +2620,9 @@
         "uri": "f+C7v4grf+D+3KV1XoLEP1xThtspxEug1RV15Avrj+8Sia9Z/VL6IvhlM8zxLvzT+Gn1lZLspHlYObFTpkycXWWNjInJqoI05yUbajdYXiYELjBU7s2rWYAAkFj4UmdsmMrsP/Was4pIIP3GZk9AcxsMK9YPaAQFw8ImkiDvc+4="
       },
       {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
-        "name": "Joker",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT7Big16TDjcDVgfLBU3FvFd20d7qGoH/IJ+lNcHa8rl5tcFx27MEpFVznWh4v3z6J1WGdk0krC7Lc9GmNkWKU5r9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/5mHNs3o8bYoehGi5sF3hqOwPGbk.jpg",
-        "name": "Wonder Woman 84",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT7FjzjXmGfMkD+Ocy/0VwFLTU9GaKHXxrfTbfic8GUPeympJTOAgGZrEc8OWFSRQXwNZo7RVFAgG8dx8CRVFM0z9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
         "name": "Superman (2013)",
         "uri": "f+C7v4grf+D+3KV1XoLEP96sIaQ+DAdBVZAVOUq3lureZAhkVe3OfBJAGGCxnGLNqG9yf3FDFzYKH2wD7vJS2Fi5NdB6qp4rnKSrbR5Gfg+681CmrRSXQpzF9nDNByIRgGDAOYOHictD14RyxA3rdbK2q9CMUOR0B0h6zOggVIM="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/mS3t9puIjLKgoex82cu9d6G0835.jpg",
-        "name": "Batman vs Superman: El Origen de la Justicia",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT49Z7Ixrs1G9gQ+Fs4RJcb8n+Mzfy0W0JpJ2ECNtaPZWSv+/keAMDK2u964AKx4K1sqoiKXicIGqzewbNuq3Eb19V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/9ymhU7NclJr29MpZnBQbJurYbuc.jpg",
-        "name": "Escuadrón Suicida",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT6L+7zxP9x7Ir8/xZW2soB3EITheKQ2N9Fi6dC9zzW6xZp2fgztYzc79yldLz8buYApExobkrfc4SP+3Yg99owr9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
@@ -4122,11 +2640,6 @@
         "uri": "f+C7v4grf+D+3KV1XoLEP3jmGD0LK+19zbOqu15KjWswbcY4NXHRi9fA8VEAtitVtu8tgSVaPqhTucHVOjuqMWKyy55ydwX5LzLZYxC1yvN81a20o5i5UCEnwyVe2nbxkqj/TcZrFUAgPoMqTOhrsw=="
       },
       {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/4GCqF17I2ST5M8iSkwh1jwqvi7F.jpg",
-        "name": "Aves de Presa",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT670bOLNIRpfe+J4jXz0SaAzaNMn3jvUVKbNkC7k2p2txMgLg+oXRw/Pkb6xM0MBL7hc/oub1Y0Y+w1SJtlZlE39V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/xFw9RXKZDvevAGocgBK0zteto4U.jpg",
         "name": "El escuadrón suicida 2",
         "uri": "f+C7v4grf+D+3KV1XoLEP+64ZWfMZQt0UHqsEOZIzDcwoac/rrGPCGXVJDt3a3FOxBrIky98O4+fcBi+TwUr2Ocmk+pKDP7RrNq5jjaEdnCubuXlsbInRAqCzPMkEgiB7OJV6ZpQdEM1Ct6g5mgAOaJVkZBBdoGh3c74JqAUOxw="
@@ -4142,11 +2655,6 @@
         "uri": "f+C7v4grf+D+3KV1XoLEP8m1wNf7Vs5QfH6tcRUvlg2Dc6XIxouh5bvNcgrVdzlvb1M3DtBt8itI+LYpv3UZtJXU6+B7c+sWR/fBv+q4mCNsv+Zn52pW4e/Yk7dIIbePggtLZF6YKo7Tuwwlvo8xIIkF9WmeqiOj2xAarsZABdMRqxb9K0RwgltAABVI/TOi"
       },
       {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
-        "name": "Flash",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT55lbTj80htHnMM9FoUtI7C9+C+SKTHw302aJf9HWczz8E9uJ1FgbbclWoAm8awDrm7ttJBvOn+kllFCSaFMeCw9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
         "name": "la liga de la justicia: crisis en tierras infinitas",
         "uri": "f+C7v4grf+D+3KV1XoLEPyF2NePwhf0EWl+e8Nf5BaRqOY7jEoMLXrbFAHqeuvo5uIFracxxpn6GP6vQoaPq0mr9BVqDlQbwfDXIFGe11teLJyQ6RkXp8mQFleFLuHtAK6+2o3q0N8egZTklgjYPWVXhqIvxvCDTz0qFNtLublY="
@@ -4160,236 +2668,6 @@
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg",
         "name": "la liga de la justicia: crisis en tierras infinitas 3",
         "uri": "f+C7v4grf+D+3KV1XoLEP/IltMtvfLeyX9jSm8xmjDVyVzOPqrv+LwwKG/uIxYCw0Z3OrvQKi4YGhIszraCRkci/AENsUXMG6aa0PgLtlBj04hqzcjtF6dg0KpCEDUBBzltkTc/8SlhYT4ysicTBXrCsnmT1Qca8g4DBbwjGj2bf2X9XuuVnT7Y13AoSkxtmv66Et44YNpzeKjWkBfuwQXKy/W3EMWrmHJlZ8b8vMh77r3tr0eMzHfntyGJkFeVY"
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/wZdRUZX624bTFo2drYrrBjoNL7Y.jpg",
-        "name": "Batman: La Máscara del Fantasma",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT7RqdjpZ0INBBWv56NZ/DSUwcFHTIeyYrZi2G35KSn7VUBVgLyugjgUpwJvoVgtPg9kP6BTSDKTJSvAW8Iu3UtM9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg",
-        "name": "Batman y Robin",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT70Wnvwb9rVqoVGf5uOVBVgE3wmX3/8hHGLj8nrm4DG+BFdjZYJ7HUkdiIebuNtxPLrX+kPam95Gcdip4KP6hMO9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/uHZomdFWnFQmmy3XmR2t3cEcGKf.jpg",
-        "name": "La Película de Batman/Superman (1997)",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT4A6R0nw1IGdYHuHg0E0PFiGZ7blDhOrji0COrQyCt/pdb+kUxHViETHqndpMdEEQJrKNYHqGYoBdQ6QJyNzaMi9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/kjjz8mVNrwNUa9uz8IMnqS79rxj.jpg",
-        "name": "Batman: Bajo Cero",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT599KN0o5VymWw4irQzwVJiiUGSAvoaeFWKGlcZVXc1nEcw7W2lnNTdwj8Y1At3d5UKjYWPDELIcs77HgSL4Wzp9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg",
-        "name": "Batman del Futuro: El Regreso del Guasón",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT5zmUJDtQzgfWCDRPlyH8XllZyAd/vU/JoHAzdM3hJv2N4NKoKGmPF05vs5q2cXTlrRGqUlNbzqhlO66rr32si6NS/skHXTCxpwzk5WbKyWZA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg",
-        "name": "justice ligue war",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4+5SnQaSt0x3KYLVrtb0egbncIIiC9L0h+UYQoSgZe1jW16R6YXguKsKzX/IiEHsgMOP8UKtCCLKCAMlGfsk689V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/6eCyJHdj6XiW0PVyj7WWPlgmQ9H.jpg",
-        "name": "Batman: Ataque a Arkham",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7DfdqC/X85xhXQS+2usr/3/NHWxsnICMgWYQtnRpAvbuYjXTgOspEKalt3yrpCPKM26ODGnPK9BCEHOfHhwAKh9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/hKHWoabqFg7QVS4Xqu5Q84PmuAo.jpg",
-        "name": "Liga de la Justicia: El Trono de Atlantis",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT5cR+0o2pTy+lEburiWgl+IcHB0g8fY0bYqUZ8daJ3RPss7/4lTLblVhD+2PZY80kmkaZrhkpKYG7+uEbLfhjLS9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/cwyebkMwyL19sxgin02G9LqIDgx.jpg",
-        "name": "Batman Sin Límites: Caos Monstruoso",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT5v5KPiccTT+ZjeVR5C4+TQKmJXTSxe/gz4qkR8tmdTwPljGAP4HXQDZuQJk5NklFBclgPRJphaHC30SMTb9DS99V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://archive.org/download/batman-sin-limites-instintos-animales/batman-sin-limites-instintos-animales.jpg",
-        "name": "Batman Sin Límites: Instintos Animales",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT4YGKjkVXt/PxcRbMGst89kGMqB1j81pWSSzxsz+3cp+dVzPDcp3dQhDLijFfItyJnAWxWDnY/fjfTKPZ7pAS8e9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/pLj9T1wDzFWg8FEJSxTPZXWTPCu.jpg",
-        "name": "La Liga De La Justicia: Dioses y Monstruos",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT7GZ60tmGmjITk8aVMceFxV1OLPueKJrLl/MSDXQOBF+NN72/zzK96qUF6wGtk6+eJTQL+qD9krINdXeLU5zExb9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/tJz26NxxdXxfDm9lI6FDsUnDofI.jpg",
-        "name": "Batman Unlimited: Maquinas vs Monstruos",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT7QNg3ARXM0OtzjWF8pe4R2NB1Sxf1zba4/9Q5Lwp9XJCz8stRcCtgkaK63kLBFmftsN6m6PQ1LsnMFSvRuZa9f9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/6cUDnsWQSeknDeasWpq59WNjWjd.jpg",
-        "name": "Liga de la Justicia y Jóvenes Titanes: Unión en acción",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT4vtjF63obRKEO3nXX1O0q2X5wEj/tyV8M1N2h/+FkYykZsHb0s+lR6kP8kGzBxS1KlAxz6N+aABT6FwYZPv5zQ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/xMDoFicHakKLNsf7v90QDWptZ8O.jpg",
-        "name": "Batman: Mala Sangre",
-        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT5ZPzop8aJzv08IlSnXnVHSWEpnMVqSIwe8M7YeFO1hed/T6NvfJ9GWXfSGUb74febD/ti/XaWt3WCBjLzuS/G39V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/ouRndgsflwbSs54yWIQYwPDqIzl.jpg",
-        "name": "Batman: La Broma Asesina",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT4RQm8XhlOYji3mAHrGU8GufQYjGxfnqe5hqSPsIsKL9J/t2T8iuiV3xvVY3DqOqnl5BGCf7oDZg6vp3ao+6n4g9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/mRr1yD7KFS88hesTjQCURpK0A7w.jpg",
-        "name": "Los Jovenes Titanes: El Contrato De Judas",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT75yk72nK2p/eKzeo/C0CFb5N9sRsdSZVjPJ3wxmWtL5E2XlPqFNsPn4eMogZ/UPBiBBFsgq69Ks0pbVv/P3zPM9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/cC5zcStR6WJExkthMmKwXrOfrBs.jpg",
-        "name": "Batman y Harley Quinn",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT4Drl6aSrTmHFnRjkYCZAGzH7MmjPOxlxxEzTWSp8H7lIVzAw8RkBq/D234dbRT/whwIzjj/Gzy0GzR/Cr66MOa9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/osrf7VTgAwTLIr38dxJl2Y7q35H.jpg",
-        "name": "Liga de la Justicia Oscura",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT5V4vz31HyKmfmyKoudoScoH5aWmlRpduJz7u2ZH5pB9ZGrtXXn8rAYD/jHtNN4QfYn7Jyuj+3neYVtKEUHw1tu9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/7JhKi0fWSjrW10Pc0a2Tc8lgxyF.jpg",
-        "name": "Batman Vs Dos Caras",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT4dUyE5wuSFmPzIcNlf3/LnSPcGjYmqeXcmQmwWpz1Xe6hg1OX3C7nnjobuAaB6KSrKYkzhCd/aIKV8MHDYDpBp9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/en/f/fa/Sup_brainiac_attacks.jpg",
-        "name": "Superman: El Ataque de Brainiac",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT6Fkq3ZhNQ5+zuRzwQD8uN6qlFEldsiMj7wuwLR1GvZpvtF00gxLYpIbRtLaSaoZ7QcuGZGFseSGfy4ym0a1Az39V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/AmaSvf4Muh0tERE6qNZZaiTN1Rr.jpg",
-        "name": "Liga de la justicia: la nueva frontera",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT79MfrH8gghR4Q5GZ1NoJ5yfN9myW5R5ZFeSXZdchnDpgqdw950oijZO1yI8m6Hd67shgxr1GuefUPdMERvemwn9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/qYckc7dwtuIUlFEx1lallXFfYka.jpg",
-        "name": "Superman/Batman: Enemigos Públicos",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT79wcdw4Wt9SEljRDR9DSv/Lhxi/4wx21IpY8FlOprtH8+JJvOsDRxIEe7NDGHvsuIdE1fJVWuRXm3TTvui0VtH9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/AdasxxaHKbiMhFIuPtQhMigFqBr.jpg",
-        "name": "DC Showcase presenta: El Espectro",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT6Sok78/yyprmT/a0FFuQc/Z/j0tukLbkmFeDCaOJtmPPFsUm4WCtLhQMg50TuHjmnLu4nC5LGoM7uSVcQZEoaX9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/agLhe81u2mIF4i7QZ9CCKJHIUeO.jpg",
-        "name": "DC Showcase: Green Arrow",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT5e0c2UNH4jl6j8kDaRlKyNgENFF7aI0AfezjDgnOk4P3Zh6NCoD5ZY0Lidsw3vPPTWe3CdrgoMoJf7DvCDI+5e9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/jOFiLDC1fcRHDq5WSgt2zKAjTfh.jpg",
-        "name": "Superman/Batman: Apocalipsis",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT68uy8U4MzsTMqIBkUlbf1E+y1wCJBKAgarM7tNZZR9mriLs+xDk+3nRvmsii5cDksv1NhexMR9bruOdhyMekjD9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/ggiozzxw9MlMIKqSN0wkM45uAYA.jpg",
-        "name": "All-Star Superman",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT5hS5dMrqWUTVvBJN5HRRLbB95qI0OvGn+Ep0OXRjvSp4JzRllkzPClf0rDPiFPlOLL7H2AX67nYKd0/+SLHulF9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/pqKF9xBXPRxwyHK7dyagnsIBcPT.jpg",
-        "name": "Linterna Verde: Caballeros Esmeralda",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT6QdKVWWOSDSCzuchOLkzeEilrB4nwIzSFSjCmdVJJ1e/wndlALbsb5tNvmQh/kJA4yHNLKhgTidmKtIUyoIieg9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/yplFdLSePwRdVeiw3xfnumeTvsH.jpg",
-        "name": "Batman: El Regreso Del Caballero Oscuro",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT59achGUsC6n5SwqE3u5eLUrKYUMKVvgqQj+vAdN3SuNzlR7tXW5bFCyVO7QTVzSLCIQRsymgzqoOip04JY7tHL9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/8uAe1Zb8kMQOaRnCmXaoaAyGwNN.jpg",
-        "name": "Superman Vs La Élite",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6RDs6Bm4ZbJ9YSimGlNodmqBFCbTLJtp9MThmaEUmvG1ASO4dblv2wr+qp86Yn92DVZ8YOhaORLMjdLTGG3RCb9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/yNuYHiZTr1zl4qPcTVXTW8QAxT6.jpg",
-        "name": "Superman: Sin Límites",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT6qwEnabcmTezK11Zhd7he2Z8ecKYyPi8CNAaAnTBStTDP7yL6vDaNGFFJz1WeZW6s8j6ocjsaEz+V/3UDD6fsJ9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/vTpZl5n7wxyxhZZINd3gDVaEGhk.jpg",
-        "name": "Batman El Regreso del Caballero Oscuro",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT7fX2QSdGnfZfsc3DCmMXP3AyPPDHVZ9H1J1yibeLF5TbMDpyzGrC94kNQEoYvgr9XMvoKGfjskboEpyEAsdCR49V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/tCc1xGMYD9RKGhv46h7ff3DR21y.jpg",
-        "name": "Escuadrón Suicida: Deuda Infernal",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT632I66YALMmtDLrnHQE5jgs+RsJDEVm2V7WKIb9sg0Yik/EoTeFpmc5R9hWBLyAozyD+Lh52Lt9l3ngiPED7Qe9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/l40ot7UBtLOmse1qn4NI97w3ve3.jpg",
-        "name": "Gatúbela",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT7wqu8a8xCXMvgZ7uD59Dl8tcZG1/1F09ANg1VpJymYP0JFsoHe0bHQV7kWcltOy5rYfhM3Cdr4e7F4bLf/Kiiy9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/2eTqYQ2g0hKOuYfIazgy2EdH1SS.jpg",
-        "name": "La Muerte de Superman (2018)",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6k4915WWSELz/Z7fKvQL75tXOl2fsLkAIMHWWx36UIzAhnshyYcL0rmQrcH2RY0MqaVRMDweDnIFJqC5FKLxmD9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://archive.org/download/batman-vs-tortugas-ninjas-mutantes-adolescentes/batman-vs-tortugas-ninjas-mutantes-adolescentes.jpg",
-        "name": "Batman vs. Tortugas Ninjas Mutantes Adolescentes",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT5gr/JA4dWu4Ow8L5iJ2+91PPQZk5Kq+Herm8HbVEHvzna+L+/z+n4Z6GWCSxhbp5TTBQ2Rz5llKJRYnTvN3s0I9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://archive.org/download/la-liga-de-la-justicia-vs-los-cinco-fatales/la-liga-de-la-justicia-vs-los-cinco-fatales.jpg",
-        "name": "La Liga de la Justicia vs Los Cinco Fatales",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT4ZshlXZqCAkdgs/mtwcfSWTxyRjkl8ppQ3d0cP4eFZ9UA/WT1MSPGUcf6bENb7S5EbsVorKr/AKJdfudWbP/1+9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/jsbLcuUUteHqCTjShoLDqqOvgpY.jpg",
-        "name": "Superman/Shazam!: El Regreso de Black Adam",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT4t5+SGe3Ox1nWQW/DYNlyfQt0ZERfweF9EU3A0mg889e4+L1F5XcbBwTGQ8NCCeOiAMZQXKUb+7I7vuG/DJd/49V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
-        "name": "Batman: Hush",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT5B0tlat7N1dlcIMla2D9jtT6nzIvjGdbJKWj9TDjys3kbEs1vZtX/cswlFQCAc6XQMaq47P1MM2MG+iUlOR22O9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/oD94EXP5UDpzhZGhaGslDv6H8pR.jpg",
-        "name": "Superman Regresa",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT584hPrIbNqLQ4A8LW0bdORkWK3nmeEqdy98WO4K6q82D8fKhcMx8rQmWvZK0ME6sutEW3u027piaTKlXskuh3R9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/eJqzdZ4CBmPz4pkp8IyRJ4EIn2k.jpg",
-        "name": "Superman: Hombre del Mañana",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT5kkEYIkhC8P5QygzkLVyB10inEfutqne+V0XpirG0Hkyil4pFulLCC8N2YjfnyKZA1Tl5qjBkNSyYvEC+kSjnn9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",
-        "name": "La Muerte de Superman",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6rGFj4fnKeHeCUvXP+6/UaNwX0XGFJ7MZcVW0MBw2nTbHSVjguQLPjCQltisR6WFwLe/0P0u3innLBsC/z3RoI9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/do5NvZc0N5p6K0SeAG1YnxVqh1D.jpg",
-        "name": "Batman Ninja",
-        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT4+gi3soetu9xQvbBiZibTJeE+3RHtCPd8LF+CfH9t5R+A8UY6rXS0Wvlj4DFsC3mkba97TAjlbQ45h7ZlkWDC69V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/tJ7zq4VtvJqUyaRsLeNjpEFDXzk.jpg",
-        "name": "Batman",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4338ymKWNvh7trmksoJ3gY/cmYFrP01ognMISsAZ4o1KZJCPDj7B07QFZpfadoXKL46I96SZALg99FOFGq6+5X9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/original/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg",
-        "name": "Batman Inicia",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT5OAb7Otb131AJ5XAOpfwVTfKUw7bWXBu0JDhptqAMSFs4DlQZ8h4xUHjq0CEsbVUdLfEes365Mdg64whwPuu4o9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/zBFZpWs0OaRyJdtIR7gpt6sIyvZ.jpg",
-        "name": "Batman Regresa",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT5fYHNczVUFMNZIV6NJ7tDEeROp4e8V8ymAP/B64ZjEGiuFVzJ5/mlnSW+mlbkMjRK4OAjU4thRsw2Js66rMeMR9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/zxz7Qo3GhiHkkFl26tWJ3uIwXiJ.jpg",
-        "name": "Lego DC Comics Super Heroes: The Flash",
-        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT7EV0UtUeK/sBH6mGCSXFQj/IPd+NHWmlLygcuKZaWzl4kzQiy0UkdN1pXyxacX8b+tX/FETvK30vpdsOMU4e9M9V7sG20F5MutT0fnt4fINA=="
       }
     ]
   },
@@ -4561,46 +2839,6 @@
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg",
         "name": "Los 4 Fantasticos(2005)",
         "uri": "f+C7v4grf+D+3KV1XoLEP0eF5jt+HJ+yu+wDgCxwiqZUBWjszsyuoJdF+FgFuE3nE5StctqWcNC247mzq1svrBSV9i8UkuNPj+9POekzBhesvqr5S6j734qsjTf8f+CljvL4TGt9OxDHn95B4XEAgdQCvg1V4W5ZoE8aGYSNlD4p9fb/I+saA27JYgFO6x7NdBPKCWJ/fJ45HPWzp6NrtA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/mFL0EzAhEj3vscyGUMk6sT7pfQg.jpg",
-        "name": "Marvel Rising: Battle Of The Band",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT7jqSxpCdE6ijCOeR10o0X+sKlzUWxddyqy7peJJE7or2iPS0YigghDaR7C70/D2JZf8PZI2nXuxzo3a+mWy7Al9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/iCiaRZUwMddvUmQcUtbZwu808g.jpg",
-        "name": "Marvel Rising:Playing With Fir",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT40SZacmWXFH0qix+U61P9S2E3Wvlmisy3BAWQXE/8q4DOD9ToDZLqsR5/mNUVvDbAUYJFIddjkiTKlHt0Fdo7X9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/8bbspDJMKus6XSnw2F4gBuACylo.jpg",
-        "name": "Marvel Rising: Chasing Ghosts",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT407gWxVchVeGr+sXgIEXEq41cUzxTBLWV/YvSmORfeJiwLqfSMgylM3E8M1qrJPPBJBr/htFHgdgJIx/cY/dCj9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/4fcvluN98HWo6VB7C5ONRNOL4CY.jpg",
-        "name": "Marvel Rising: Operation Shuri",
-        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT6JumxrvSVEnrsws9/peVdykuIxNcfjaqfwIeLRyEYQGwcD3c+QSPCSwfS7CGQSSyDK90vMZCAMBkeetA+OJ85V9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/kY1ufnbv2bTyoNcAtGF4BwapKi6.jpg",
-        "name": "Marvel Rising: Secret Warriors",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT6UlSpMJrvMimoDxQj/KPB3Vjg0HtyTHxHZXpJ2egDlErmLOlwMk6/ztef5mBilh6CRoqNCiwVduVbjNyqDPmjt9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/2StM8Vavf7ukvuj9mxg1o7nKxmi.jpg",
-        "name": "Marvel Super Hero Adventures: Frost Figh",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT6V2uO6QB0GL6lmSG3Q8eIh3NC0sheI2YU+XkX/WPioH3Wr+Vk7qf799GdMddN04g2pPz/ZLu2CsMpsJgSJPzNj9V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/8BVM79SlfNzY73dTakZMvOgSRg0.jpg",
-        "name": "Marvelous and the Black Hole",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT6FY9o8kn0X3B/4wd/+omlNcrOlPjuLu8InAOiFqdOKiLmX3Xn1u2X+kHt6+OzWiIP/GVmW3RUZE6IZnZAEh+869V7sG20F5MutT0fnt4fINA=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/4tOusszxyHiqhVkhA0Ng19eZFtp.jpg",
-        "name": "Los Vengadores: Justicia y Venganza",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT6xyQK/uF5bLdIvLW7AMJiw20lzFXXRx2b1ggBy1XROB5Hfku6UysXqJtHwIg8MXVaCQOW2aFfqARNfC6FPC0bp9V7sG20F5MutT0fnt4fINA=="
       },
       {
         "icon": "https://pelisimg.online/cover/el-sorprendente-hombre-arana-2-la-amenaza-de.jpg",
@@ -5197,126 +3435,6 @@
         "drm_scheme": "clearkey"
       },
       {
-        "name": "CUANDO ACECHA LA MALDAD",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT6y/cceoDVqAzH6p66Ywwe3WU5Z2a3oI4uzSRIssV/FuUKGZGq1Ar304E/h6m0J4Q9GmncF7sBxZa99n0BeDTyB9V7sG20F5MutT0fnt4fINA==",
-        "icon": "http://imgfz.com/i/q7Q49TK.jpeg"
-      },
-      {
-        "name": "BLUE BEETLE",
-        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT6Lh/8RcNDtKt2CFub6R3TgbETzjgoP6Si3kwFmEkZa4r3lYB2TCyt6g7wktbEoiZ6VobXiORI625orgFi9lHi/9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/blue-beetle-1692423798.png"
-      },
-      {
-        "name": "SAW X",
-        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT5mzGlCe3ESNwldobJPYKGF+Yk6xpL3ROAFad9FxYlQr2SVSj2sm3cQY42dJgNEbmWlRs+ksMxOtFnqyeYUBJHw9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/saw-x-1695976461.png"
-      },
-      {
-        "name": "CHUCKY EL MUÑECO DIABOLICO",
-        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT5xGb4BSpG2d2s72xbMZNtwdFekLGmshmFYGNts84fw9PaVXi1GyxN61P4K+p3mS/VxgvgRrTIc8XjvyoNGdL1F9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/chucky-el-muneco-diabolico.jpg"
-      },
-      {
-        "name": "CHUCKY EL MUÑECO DIABOLICO 2",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT7SzPbrwZOfurJKPiSGrLLgCqxs99+oCDlC5R0XJlAHbFhpvHsYN1mr3dk4AFGIMuwI0mOkwiq1O33hKLFK4F7y9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/chucky-el-muneco-diabolico-2.jpg"
-      },
-      {
-        "name": "CHUCKY EL MUÑECO DIABOLICO 3",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT6BUkaIGTbfVLC1OaEdbsCXpR0+a1udgij5DhShiqwtxRfs00qHaiFpJzV/y8+ADvd5dVhLtyzgGalVekLYegBd9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/chucky-el-muneco-diabolico-3.jpg"
-      },
-      {
-        "name": "LA MALDICION DE CHUCKY",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7rl6ONFIuO5wNi/DRC+15wsfwqkhFPB3Zv1L/icCTTnC3j4ApdlFmZzycj1Fl/PX6M1RR2XQbQ1fMkvTXcNR9Y9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/la-maldicion-de-chucky.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS X",
-        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT6BB4SwfhpYLT+jtj9JHmkJz2B+Si4yGI07KAoMjyvzfBu4vHhGmAOAQJuTplnbz8+a6D6Wxv1y7b1EiJFTixrQ9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/fast-x-2-1684533003.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS 8",
-        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT47gSo0ZoZRfASoVCjpv8tMo5XafoNBFD/skrrUXjr3TpRw17PFrt/LipWS8cIwj6dMCVZErYjTM7IA1oeo23Y69V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/rapidos-y-furiosos-8.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS 7",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT69x9D3kBv0vScPAlcuD2pe10zcZhjxOqXrC4u6Lq7ipSmrIFYy9zWRRinAVKR6l26GDBOZWbdTt1Jmf8zVHGN9t4Sgjo4LEODSqRB+bmi97w==",
-        "icon": "https://pelisimg.online/cover/rapidos-y-furiosos-7.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS 6",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT7z0lZ+Qhldrn1uxlDmUBCKhhpdf9uCK738pcqeXS5Tq1PgIYfX0bSUHyM7N6eZQtzmieOdJMQxtKL/Xlf0YRTD9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/rapidos-y-furiosos-6.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS 5",
-        "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT5P+vZAwygBEBVHgPKk4uBMrwZYKB6z46Dvw8JJZYINUH/tNCv2lMT8C6mqSy9qcEUh1nVJ97H/xeX/vbZs78zB9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/rapidos-y-furiosos-5in-control.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS 4",
-        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4CDLBBAxUeWVDCuM9sAuZ9MBPU5B484LQwHK89fPi2QqjxcV7m/iqoBNo3rTJYqUj1EiELC9UNl5NAOFIyRIuh9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/rapidos-y-furiosos-4.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS RETO TOKIO",
-        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT5/70TiOY96DR5apyfw/3HTKcUye6TRylbKeblLI5PxCT6bwnyKY2WSk/M7TcFPvTK88kIDdxiOpI8efUBc6SI89V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/rapido-y-furioso-reto-tokio.jpg"
-      },
-      {
-        "name": "AGENTE STONE",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT5V5xWjxX90fckSxvKsMdpv8eMfBVHewEXcHo+mnWkuAeoxi5dKBtiEh7n/C3RHXRXUefzfDC5H4fafZe1zWo2/9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/agente-stone-1691821027.png"
-      },
-      {
-        "name": "UN SUEÑO POSIBLE",
-        "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT5zqO9/l4khZMr8qAJ9eJFTHnHD6fIi52oCm0fPzbNKFr26FCn3FzHa64ojH8dBcdjFINb5qfccHZgUbEm2ECSW9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/un-sueno-posible.jpg"
-      },
-      {
-        "name": "EL REY MONO",
-        "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT7fPkvQgssgnFhexYaU4TswUzg6n+1ycbRj0/Ikimei2jV3edIOCbO6IR+qVthLjD5hbDDbK8I9vza+otHRco63NS/skHXTCxpwzk5WbKyWZA==",
-        "icon": "https://pelisimg.online/cover/el-rey-mono-1692434974.png"
-      },
-      {
-        "name": "LA NOCHE DEL DEMONIO: LA PUERTA ROJA",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT6M4ZIJyNw9srfwHWwhilwoYqT50bIPa1qBdvbhlwpwz26+dDUtFwP4vgz+Kvc6mpHgzsjJexlzOLhbJvXkKTrA9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://i.ibb.co/3zxVhR7/v-R2qo6f-Asr-Iyh-J3cbe-Vdv8-Yqw-Wk.png"
-      },
-      {
-        "name": "MEGALODON 2023",
-        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT5pp7Lvx0dRVXmIWHyMpj0KADReC5sE/s6Mg/gyKJOOAX9SP2avoM5ujshrs3CYFLpHrHi+rmzXw2TQHAlMe8f7NS/skHXTCxpwzk5WbKyWZA==",
-        "icon": "https://pelisimg.online/cover/megalodon-2-el-gran-abismo-1691205314.png"
-      },
-      {
-        "name": "HABLAME",
-        "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7u+hIKfWgE3s/UQwEpPibcDzdD9aeGlxpeRcHaT6cnCfR8lFE/WZZSBhUuIU7kSZTR4ov7VoC8+gQVsNtDc5ktNS/skHXTCxpwzk5WbKyWZA==",
-        "icon": "https://pelisimg.online/cover/hablame-1691750975.png"
-      },
-      {
-        "name": "SCREAM 6",
-        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT5QGZudtbUrMNnlp1MObkGbRZyMAUiOpOk8YJPSJp5dXn86MQR4S2Fj39RcTNqXNrCt3l7fct9edxFs4fS8mRqD9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/scream-vi-2-1678406167.jpg"
-      },
-      {
-        "name": "EFECTO MARIPOSA",
-        "uri": "4Zclq9XDFhlAkzgZrU+iSYlV8uOmO/EatvpbYT/AXT7FQLLWVIbWcRTDE/JYu8VirrM5ynJC9Dv9Jds+P/rxcTHjpjcbZ1fyt+/5N027OLMUafuG+WqJ4XClm7Y/CfLG9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/el-efecto-mariposa.jpg"
-      },
-      {
-        "name": "SPIDERMAN-CRUZANDO EL MULTIVERSO",
-        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT4AWgfaXSRnKKjvbhOpQmX4gxrlAs+v0m3T1Woc62suFIVPVDyVSRY7cWXhCtSRFVEEL3HZvnR5FSOpyhR1xoVL9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg"
-      },
-      {
-        "name": "AFTER PARA SIEMPRE",
-        "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT6RcIvoAa3fHTWBWMKK0nk0XzjVhhCC4LV86tiXGX9sbKo+/ae2UJrqLHqbn1/MMpprFypHigpm8ojXb8zgP6cP9V7sG20F5MutT0fnt4fINA==",
-        "icon": "https://pelisimg.online/cover/after-para-siempre-1695013132.png"
-      },
-      {
         "name": "HUYE",
         "uri": "WR20+8lZSRQ19nW0bvbwMUnkkHch0NUdxHuFO2RW03pCGVpEv0pXtfpSyk/f3/xzRB4zTskcFRrZL+1oa5ogFgaqGGEwCm45C4uweHc5prf6FlL4dzEIIZLXwe8qUVE0h9+k3QptiLIWX8DR8vFEDQ==",
         "drm_scheme": "clearkey",
@@ -5467,40 +3585,6 @@
         ]
       },
       {
-        "name": "Depredador",
-        "icon": "https://i.imgur.com/31CdWym.png",
-        "temporada": [
-          {
-            "name": "Depredador 1",
-            "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT4N3PtXfoO9VL8tDqqfnE3glTmQAW7pKXqbzktg0CQfmksNhSCMTCNvY5DBuzuoij/TDhd4fH4w1ZAPzTOD66h99V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Depredador 2",
-            "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7ecWGFhH26lPiBkeNzRuOFJQl2muCkjog/UjZ8hrTanrV5FS7fi4kFTMpctQ0cwojCYMChZsbsa1YHlT/YbRJS9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Depredadores",
-            "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT40j10yB6ji7KYO+gVztvhGXTzoDlX4Sia4DUMcYj7z4/llOffOiVh+/lOruJzBTkOvWkdRCfLntFINj/fWvU0N9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "El Depredador",
-            "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT7RDO0qBXd0pYFiE2b2ckyjNeLzk/9lePLodRqBWRu7Lgltz90J8JWjB6A9Enf9//UgX9+firWzJasD+04tSYfD9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Alien vs. Depredador",
-            "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7jiIzPpoZSJW95u4WfeURVLdhaWS1+e5YW/ppku9pStqSv7KCrzvDSEXpvdS1HH1eahMAx5mpXo9qKfomLqp6+9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Alien vs. Depredador 2",
-            "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT4l0rFBkAL6QdsvekwijnFlIYwiqkgyN23zbyToR3RsFNbbn+X19zHgEYBSxekzlx3HTWzv5udFsX3wJRKrI0Ye9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Depredador: La Presa",
-            "uri": "rtSHq1FI7MQ49G7ciMRwheQHj54hGm/JNPL4ayQpTJ7LmCkM+Cb9fmb3rSLxt8kU"
-          }
-        ]
-      },
-      {
         "name": "Rambo",
         "icon": "https://http2.mlstatic.com/D_NQ_NP_681971-MLA73004136812_112023-O.webp",
         "temporada": [
@@ -5523,96 +3607,6 @@
           {
             "name": "Rambo: Last Blood",
             "uri": "5FSgSsDC6nVpPZRfqN9COHymXT91nYNU6S1W/CuJwEZqnRF5MKplcEkR48qf6TOLwvyLzbQAyn5eRco9pdpx6HnL0E8GxumleYZaxqiTjzU="
-          }
-        ]
-      },
-      {
-        "name": "Rocky",
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/f/f8/Rocky-saga-bluray.jpg/revision/latest?cb=20160802021450&path-prefix=es",
-        "temporada": [
-          {
-            "name": "Rocky",
-            "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4pajBYFJJKo6aXe0w18cl+VkmxDci3opnYTtKWztEbHLvmotLr0ya8LtMeS+F/B5WGCCssN2MNmpmNAhHlEKAf9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Rocky II",
-            "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT536H1mSSJEjIo+8K0CXC8NxEtiauzeyXkH1VLeWlAKR0rO7V1s04O2dW7yyn5KwBsQmgRtZTA46MgWxilSBRec9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Rocky III",
-            "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6FUxR+Y36NXhUOADKMLvVfsptviisJ4CSMJEUlRDd1vjCQD8GGTgu4sViCOZXkjtSflnC2gqFTOYbgZaJvpji/9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Rocky IV",
-            "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7vsXOyLIeR2ytowM1d4uY3RaUkqG8/eyB5PUAbl8o/sXkO1BY0gquu76rPBrhTBMKlxaMZ3zdyr05Fsr9XFvO49V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Rocky IV: Rocky Vs. Drago – The Ultimate Director’s Cut",
-            "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT7t6+uEyhjVtQRy+kFDMcXuxR9/hGFiM6qJsjkYetiuXGoOjB2ugruc4drGMW31Nzne4M5BI5RCHFmAun985uJ79V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Rocky V",
-            "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT5kN7ctJvoYQORVAERzAYYFM6VUYOZWc9QcS4PWlVexlYjHifwlvdk4MzqsFPvPKa6J8LMXXePWQIlocw16Rm239V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "40 años de Rocky: El nacimiento de un clásico",
-            "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT6mWZGCCUq1jodKfQN5jJai/TbCGT/jabBptIGmIOOEq+u3LlejrxaEKktVEY6Oapi0JpeagbbaKwmsY/zTCevP9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Rocky Balboa",
-            "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT4TLGkQeAbnI7r+Pmpx4anoTu88ALfYJ3NqvqHHEqAXvbZFLjkA5TaPFnj9TduQZLnu3kCEq6akdl2D4kRDi01j9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Creed: La Leyenda de Rocky",
-            "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT7g4f7BY/nEtLA+3TlFmfYJA3ON1jodoZyoQh6q5UcNWLsZW/2wXZfUr+WefxAXeQ6pCSJzOrAqeXrZpDinnslt9V7sG20F5MutT0fnt4fINA=="
-          }
-        ]
-      },
-      {
-        "name": "Terminator",
-        "icon": "https://m.media-amazon.com/images/I/41-6Vgjz0ML._AC_UF1000,1000_QL80_.jpg",
-        "temporada": [
-          {
-            "name": "Terminator",
-            "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT6gY/hf8mnaDk9JPasDBXD63XwY/8lTEobPNUpyp2sHwYErll8MF610aZ50HuOQvsPv2HDHHoNVXTvYh1gUp/w39V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Terminator 2: El Juicio Final",
-            "uri": "//A/UgWs3zGy3xrUr6cqv4lV8uOmO/EatvpbYT/AXT5XeFuJ0Vf45ah0Avx/pVxNMcEOiIa03FGFXZJP3lPzZNd29+WyW8CsrUWM2g+03kWMAhJ0LNapghzEiYvCzRLZ9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Terminator 3: La rebelión de las Maquinas",
-            "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT4w06/CeTsySc0rTPuStyVzhbjmeDe9fv/IVhU0Fv7AId6p4zmXXr2a4bLSfQAoVFN/AYS7aBzstMQ6CnOUeT9A9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Terminator 4: La Salvación",
-            "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT4nmWZyY3WD5V/aAMDM9jpAM6RHptuyWXPVfvEZnvQ/PhjZA4tfRXYd5wLDj5uS4vS/eICQrtuA3UmxPS2h/X489V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Terminator 5: Génesis",
-            "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT4yLIZoZpMNzljbl1wzSdoTQXg2ztTq+dmniGS9QozM9x/LDbHhoUp5K+OEbjZzC/EV3K+/6ksQCXSQGHhzdE6/9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Terminator 6: Destino Oculto",
-            "uri": "FnEsTEraHf6MRhbSWNZmZolV8uOmO/EatvpbYT/AXT63fW2Hb400FSvrxE/B+0l7tcKqyGiEmihJBOTQfP2/rmY1shcVj4PYXAKFXqX1DW4abujIMs2tnSCg/JcFkH+D9V7sG20F5MutT0fnt4fINA=="
-          }
-        ]
-      },
-      {
-        "name": "El Padrino",
-        "icon": "https://i.imgur.com/Xuk4CMN.png",
-        "temporada": [
-          {
-            "name": "El Padrino",
-            "uri": "NUFhG0C0kLwi9CPRPLB5RolV8uOmO/EatvpbYT/AXT6QLPXpQ0Eb2hbkxOKVykpnedPPkn9i+382Iq99sTXdmwD2ZKn7IfdhGOjG9GTbrjt4LbSUkmSRySeDJdGLh6cs9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "El Padrino: Parte II",
-            "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT7emuJIdI+Il/RJu4RVij6DyDT/BUxKOR2NQz3RRXutWTaNKPGau6ZP2VWL8ftPGxscahDMwNH1YyT70HK6r9wj9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "El Padrino: Parte III",
-            "uri": "bIBQvzxRT6TyeXvsJYZUsIlV8uOmO/EatvpbYT/AXT7Xcf0bjyclfCHyF74u1zD1qzE5kOi/0sRkNDFEfGFN1MMJKI9xrgPxxGugji7pK977+aTT3mqcCUIctMb8zrk99V7sG20F5MutT0fnt4fINA=="
           }
         ]
       },
@@ -5651,50 +3645,6 @@
           {
             "name": "Harry Potter y las reliquias de la Muerte: parte 2 (2011)",
             "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozX7XkSk+mMk/oRb68fqbrmAidvP+xOP839ga0kLWmxc8A=="
-          }
-        ]
-      },
-      {
-        "name": "Los Mercenarios",
-        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/78/35/07/20235442.jpg",
-        "temporada": [
-          {
-            "name": "Los Indestructible 1",
-            "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT71loNi/uclZCpRhdBgzgDqvY1eRyi8na6aJfRapKn0R85gELfjTC4zPojAPa28rF4SIObbQUgXREhpGaptJgiG9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Los Indestructibles 2",
-            "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT4tkFqX3/3KnpJCN093AEQakMkV6EWKBTSP1wippRWE0GCSoJ4s5aEV9sRKaDHsI2Lp1SZze322AbpUO9nbhVSj9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Los Indestructibles 3",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK2Zaebe2Ohtf3M5n6U+K0U5J3XtIyMgXGPuFDu807fjsTzM77+P92UhrMU3RHSLlVw=="
-          },
-          {
-            "name": "Los Indestructibles 4",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK2Zaebe2Ohtf3M5n6U+K0U6va92y47eRuKuoc0m51sYIHjbPI3CmrQ+Oyh05ypPAFw=="
-          }
-        ]
-      },
-      {
-        "name": "Robocop",
-        "icon": "https://http2.mlstatic.com/D_NQ_NP_671436-MLA53669925771_022023-O.webp",
-        "temporada": [
-          {
-            "name": "RoboCop 1 (1987)",
-            "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT4BW1HtWRvRxzTugboPh0LBxPYjDihcivd6JqHlzQrYNBo0v3Nc01EK9BCZmFOO0OoJb2UGSScmhcChrUvY4hza9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "RoboCop 2",
-            "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT7UdxThkEbrobIrpd0u71M9lB68n3vC9ni3RylXZucAam+EnII95+uevF0YSjqylbpwnwtciOfMtsXEJLHCLT759V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "Robocop 3",
-            "uri": "TBsCCy8oCqXc0Eag7YBMl4lV8uOmO/EatvpbYT/AXT5lonF5BLlqRfi4BN1csxkkzm1i4hNvTMedSoD5PO3nWE3UNGG/Vb5D4a2Ql3a1sUMyAuuJJ76sxwbdXFb3PMKM9V7sG20F5MutT0fnt4fINA=="
-          },
-          {
-            "name": "RoboCop Returns",
-            "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT55lXDh63oZuxPnevfk61vIHJyH30xX+gWC4gX+Yb+EKodda4I/AzOIzFcBqfTeEbr48InyrxyN1rR4hyVUC9fd9V7sG20F5MutT0fnt4fINA=="
           }
         ]
       }
