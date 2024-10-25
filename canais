@@ -4,9 +4,54 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.ibb.co/VCs0zWV/fotoefectos-com-22.png",
+        "name": "TUDN MX",
+        "uri": "+XXkeobNp/TaKxadplWmzoX1Gipg4HkGrWFnBQ+VdrYOfot5k1Dh0DKdFYEssqsj"
+      },
+      {
+        "icon": "https://i.ibb.co/VCs0zWV/fotoefectos-com-22.png",
+        "name": "TUDN MX op2",
+        "uri": "SZonH3LJ8/xIutW8YuTzKpfLHUIbu//Ey2Ky21WO9G64H2VgREkQMpc/NJdsa3lu"
+      },
+      {
+        "icon": "https://i.ibb.co/p4gPwvn/fotoefectos-com-1-1.png",
+        "name": "LA LIGA TV",
+        "uri": "+XXkeobNp/TaKxadplWmzoz53kkev1/TDqoD6sl8U8tfh6JsUDK/RnHHp3/yLkZf"
+      },
+      {
+        "icon": "https://i.ibb.co/JnvRRZ1/fotoefectos-com-5.png",
+        "name": "LIGA D CAMPEONES",
+        "uri": "+XXkeobNp/TaKxadplWmziu6zNwhXo9NbJNKkafDiELGwtj4UCCrtWiDAwXS2LIv"
+      },
+      {
+        "icon": "https://i.ibb.co/WfrjXRh/fotoefectos-com-12.png",
+        "name": "LA LIGA 1 MAX",
+        "uri": "+XXkeobNp/TaKxadplWmzjIlEemmZ4veCiF1NxAiSMluryhremsJ9JdabcX30oEy"
+      },
+      {
+        "icon": "https://i.ibb.co/5sjDycT/fotoefectos-com-21.png",
+        "name": "SKY SPORTS LA LIGA",
+        "uri": "+XXkeobNp/TaKxadplWmzvBjMQpIyOn0GufB/K8g3d2FRElNKzI/kXQBEpCaRS4s"
+      },
+      {
         "icon": "https://i.imgur.com/8yrNMQW.png",
-        "name": "Evento MLS",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/PuiY5xJZrOo70md4jRtIONeOyk/SNkigq4EgcldE0kA=="
+        "name": "Win+",
+        "uri": "+XXkeobNp/TaKxadplWmznCDiP6rvgsAGGHMDYs5oRmFwbf5SdgLzR2lNLC67yQv"
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Liga Uruguaya Evento",
+        "uri": "+XXkeobNp/TaKxadplWmzmF0SnkFypqU8NdDQ5nAjSaCN6pjmZLpWKfmWN72LGV8"
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Liga Uruguaya Evento",
+        "uri": "+zv5+eyGUl0ciLy4G9XwU9XaTaCgDi+et66UreNf5YEocOZfTCSi9pWN2ZOGEahB5G6uZkdgq4QaJ3TWomT2XHEeVyncgTE5CtVZjhY4FdU="
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Liga Uruguaya Evento",
+        "uri": "+zv5+eyGUl0ciLy4G9XwU02TxZJmgtcMJ3UWTb1Eir8ocOZfTCSi9pWN2ZOGEahB5G6uZkdgq4QaJ3TWomT2XEaD7rMawOK8M9deQjsnqZQ="
       },
       {
         "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
@@ -14,16 +59,14 @@
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiWKY9dfMZzsrsUiya7fRUMFA=="
       },
       {
+        "icon": "https://i.imgur.com/8yrNMQW.png",
+        "name": "Evento MLS",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/PuiY5xJZrOo70md4jRtIONeOyk/SNkigq4EgcldE0kA=="
+      },
+      {
         "icon": "https://i.imgur.com/Z7yul9n.png",
         "name": "Evento GV",
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiWKY9dfMZzsrsUiya7fRUMFA=="
-      },
-      {
-        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
-        "name": "VTV Plus",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
@@ -1274,14 +1317,19 @@
         "uri": "WT2z2OJPG/Dhl/x7yjPJ2lr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4rvGbslDpvNS00IhbyaF1FAA=="
       },
       {
-        "icon": "https://i.imgur.com/Tmbxdpy.png",
-        "name": "Los Simpsons",
-        "uri": "GTaC/ZuLvijEaLZi18JMK6uwR30NbLEAxwRrHIun5VfMYJ/yswbWXDi0GNaScAQCXaW67GVwyhqQHxakRst6+w=="
-      },
-      {
         "icon": "https://i.imgur.com/MaFVQfa.png",
         "name": "Los Simpsons",
         "uri": "EQRbgLbOskxnYR0gBGcQtvP2TmGhqo4gdszNfnqybYSjXFqNW/UBnk8MBj9BIBW5UKVnoYV9AsMnF72xQhOVkvzza7fRA0eq4+O34TkiwQ4="
+      },
+      {
+        "icon": "http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png",
+        "name": "ES: LOS SIMPSONS LA CASA-áRBOL DEL TERROR HD 24/7 HD",
+        "uri": "+zv5+eyGUl0ciLy4G9XwUy2Lb49xVElr5qYnXC2ksf4ocOZfTCSi9pWN2ZOGEahB5G6uZkdgq4QaJ3TWomT2XPLpyuKMu8551fMe2uNfR98="
+      },
+      {
+        "icon": "http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png",
+        "name": "ES: LOS SIMPSONS LA CASA-áRBOL DEL TERROR SD 24/7 HD",
+        "uri": "+zv5+eyGUl0ciLy4G9XwU6WVf26Q/sae6ovW4Yn3tIwocOZfTCSi9pWN2ZOGEahB5G6uZkdgq4QaJ3TWomT2XHyAuFbdbrJFjXxME5SyfIY="
       },
       {
         "icon": "https://i.imgur.com/ryYhZWY.png",
