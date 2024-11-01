@@ -4,6 +4,36 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://es.web.img2.acsta.net/c_310_420/img/96/bd/96bdd67e3872f7a991269d26de70f8aa.jpg",
+        "name": "Venom: El último baile",
+        "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8hS3EHF4Sz5QWQNv9lpZuabNV1Iv+TM6tHl2VTV8xCoWm3hKCOjgsQ4NKpEH5uaL3v"
+      },
+      {
+        "icon": "https://www.trasnochocultural.com/wp-content/uploads/2024/09/images.jpeg",
+        "name": "La sustancia",
+        "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8h5wGZCciL25yGgjxnMb3bFwKCxG0+pi0UHf2ISAEXq6mzk7FqeFyv2ePDmdnvb65e"
+      },
+      {
+        "icon": "https://i.imgur.com/fVtDdcj.png",
+        "name": "Hellboy: El hombre retorcido",
+        "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8hFH79oimxvMFLV07eSjVt+s+x4i+EN7CnvYm/clAaWWezk7FqeFyv2ePDmdnvb65e"
+      },
+      {
+        "icon": "https://i.imgur.com/fVtDdcj.png",
+        "name": "Hellboy: El hombre retorcido",
+        "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8hFH79oimxvMFLV07eSjVt+s+x4i+EN7CnvYm/clAaWWezk7FqeFyv2ePDmdnvb65e"
+      },
+      {
+        "icon": "https://www.universalpictures.com.ar/tl_files/content/movies/wild_robot/posters/01.jpg",
+        "name": "Robot Salvaje",
+        "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8hcQKgmLbK5BvrjI2sCQB42znEJ1FVc9e1yJ37aYR5n9kJsF2pKw0QKd2+W/IhiMCz"
+      },
+      {
+        "icon": "blob:https://imgur.com/fdc687ff-f32f-4364-b410-ce99ad1d8d30",
+        "name": "El Duro",
+        "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8hgJ3TkWvwWGWVTAokbFaz5gSxH+bTJQd3jbHpVT9uRL6RSnjR1qqoT8BOQj0ukLepXXazujtC5XuCkAQwgtiU1Q=="
+      },
+      {
         "icon": "https://i.imgur.com/bsz7f1f.png",
         "name": "Ctrl",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWfecsrkAeQ04g7ZuIsxiA9WrwTeYv9uOQbCFefmWvlcw=="
