@@ -274,16 +274,6 @@
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hLuNVA3OkV8DdR+zcRglABzTcL8JnH3h37rpzDTPCafCvXH58h3XuNdNn/T/cUk5c=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMECAlOm4q1ARzjzPdB1pFV0CXqFx65g45InFd3QVmmVeN/vjhhcQAwhXWrDJ39jeAVSH6snNVFpbdyB6QIO6pd4qKY8EzxU4oyrOgkJRDRuCQ+SXrw1j7Vw3Ht3993PxQ=="
-      },
-      {
-        "icon": "https://i.imgur.com/Yxl4rmH.png",
-        "name": "El Observador",
-        "uri": "egSXZO7ot169MwNnSVZgAEwfuQ3IWOjytdREGe1tH4XOBWr1a7bvepXTHyp9zefOP0gUQBt7hvkExgn9CQUoEB9w5TBJQsilc9qyQZzrdSKKIpZW8sjwzJDelbY+rAfM86z3whAMU3hNP5blFNqFTw=="
-      },
-      {
-        "icon": "https://i.imgur.com/9lubmxd.png",
-        "name": "La Gaceta Play",
-        "uri": "egSXZO7ot169MwNnSVZgAEwfuQ3IWOjytdREGe1tH4XOBWr1a7bvepXTHyp9zefOP0gUQBt7hvkExgn9CQUoEPsDRhyPzsaX4w7vlZFBkV1muMcISVcEMRraA2hZSLoz86z3whAMU3hNP5blFNqFTw=="
       }
     ]
   },
@@ -291,11 +281,6 @@
     "name": "Locales",
     "mode": false,
     "lista": [
-      {
-        "name": "prueba",
-        "icon": "https://i.imgur.com/1juxjQf.png",
-        "uri": "3oDEJLp3S9I3A/RYEX9eBaBgxHkbvcr+EWRYoHghlI3LiJJgTSHQnna1EHTu0aSKYiYynPAG6wTGUYht7hp/ew=="
-      },
       {
         "name": "EL OCHO TV TUCUMAN",
         "icon": "https://i.imgur.com/1juxjQf.png",
@@ -380,7 +365,7 @@
       {
         "name": "13 Rio Cuarto",
         "icon": "https://i.imgur.com/xPYr7vA.png",
-        "uri": "bV28tLiXErlkax1TBdo68lrcWgkwxGgddCyJToFuqzFP1IAPRsIjXTxbPwGkx3cl"
+        "uri": "OkmoFp4eQufTwZ+xm+VdwceVSbAnAWbz5TP8NNupOdoFhDXXH/uTgXGSPLud+Ht2zWAPE3VgVf2n+UBzy0xj721uzjGyY3Fadjizrwjbov6haMz0+4ltv5x7a55jN6+der8CYfcrRe+FawrmptzsoA=="
       },
       {
         "name": "Fenix la Rioja",
@@ -414,11 +399,6 @@
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+h2J/hcgW1F3WsNlyLjji+WfHL/wY/Nbm41wnvc1XKUa+nQQ8gFlQ3BzBRoSHjzpQFIVszb0ZLwLT2iV8OyAsoY",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAyFbJaza0QcL8qWFBb2GCUbXktXJ/koXY3bnN4oY6qTvKYLCCxjCecr46kAxpajg/PGKaVLCo2+9EY5P25tpYy35ooFyHPSc0fazeKGgCQ5YDEV8g0eeJ/Sya3mBB3Pvw=="
-      },
-      {
-        "name": "13 Rio Cuarto",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/00/Canal_13_R%C3%ADo_Cuarto_%28Logo_Vertical_-_2014%29.png/revision/latest/scale-to-width-down/250?cb=20240103064513",
-        "uri": "egSXZO7ot169MwNnSVZgAEwfuQ3IWOjytdREGe1tH4XOBWr1a7bvepXTHyp9zefO55ZUU7zX6SKzk9Ek7YxzEW2rxSzQJkCPZliD1d9kIPQEvFbu4cvi4N6IPswOjQW+i0/2J8pZkwer4KuaouCsVXgRyxJXQcNRc9ZaSYrzy4k="
       },
       {
         "name": "9 Televida ",
@@ -483,22 +463,7 @@
       {
         "name": "8 San juan",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es",
-        "uri": "egSXZO7ot169MwNnSVZgAEwfuQ3IWOjytdREGe1tH4XOBWr1a7bvepXTHyp9zefOP0gUQBt7hvkExgn9CQUoEN04GwLzc8RTqsFXbWnLH6AYmZnaH1K72LMap4JF+USw8oF9OD3MOOsChz1dF7A5IA=="
-      },
-      {
-        "name": "Telesol",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest?cb=20180202065936",
-        "uri": "egSXZO7ot169MwNnSVZgAEwfuQ3IWOjytdREGe1tH4XOBWr1a7bvepXTHyp9zefOP0gUQBt7hvkExgn9CQUoEIjW5U92oJvvQQAAPhsBz7dBRe3Ad/psCDwE8WMPOr2D"
-      },
-      {
-        "name": "Canal 34 San juan",
-        "uri": "upZEItFQooKPZrqSTNm0F0cGTnIm1fYP1HzRQacBMreKj8E58CxUe9h6QRPvyaRmN0OFkgXRg6QAogcBWnQp+Q==",
-        "icon": "https://latinartv.com/sites/default/files/styles/poster/public/logos/82536410_1298596117000777_4339975353511444480_o_0.png?itok=zbFF-GkD"
-      },
-      {
-        "name": "13 San juan ",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es",
-        "uri": "egSXZO7ot169MwNnSVZgAEwfuQ3IWOjytdREGe1tH4XOBWr1a7bvepXTHyp9zefOP0gUQBt7hvkExgn9CQUoEN04GwLzc8RTqsFXbWnLH6Bz58/2yejxqRkOn9i9Vv+ch08lfn9t87kwNKQjeq25uw=="
+        "uri": "nfqu6Nff6wIrzUHRH2lfNmpRacBxGO8OciYA2OzVtq9VRmRULwXLvKSq8lZQ00XENUujhwGpux7VBVgTKWZX2NODeoxUeMjeymkXV2cW0W4="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest/scale-to-width-down/250?cb=20240627181044",
@@ -743,11 +708,6 @@
         "name": "Neox TV Salta",
         "uri": "qiUD7H5zZjjuF8HpjMiNQUm1k/dlkTCshQPjjiBqQdJmCxZDcrsJRJPIImdlgt9Ec+8lsCWvWexDfv1HaT9/QQ==",
         "icon": "http://www.radiosargentina.com.ar/png/VINEOXTV.png"
-      },
-      {
-        "name": "El Siete TV",
-        "uri": "egSXZO7ot169MwNnSVZgAEwfuQ3IWOjytdREGe1tH4XOBWr1a7bvepXTHyp9zefOP0gUQBt7hvkExgn9CQUoEFtwJGAF2gaTxeQLX7+CjX+tWOqJA3SRTLo/5zOcfgYh8oF9OD3MOOsChz1dF7A5IA==",
-        "icon": "https://www.elsietetv.com.ar/wp-content/uploads/2017/08/canal-7-vivo.jpg"
       },
       {
         "name": "CANAL 7 JUJUY",
