@@ -4,6 +4,36 @@
     "mode": true,
     "lista": [
       {
+        "name": "El Pingüino",
+        "icon": "https://i.imgur.com/Mhrojg1.png",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8ho1RPrdUXNaY36yu0nfOpc8DXX3dImuB3KVpxw7SIlRRqQiYgzS2FjdMtLegKDetw"
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8ho1RPrdUXNaY36yu0nfOpc8DXX3dImuB3KVpxw7SIlRQLqE2t5xeZYtWJ1/RXIFArIYU+ieFbgPmwcZds8k+GBg=="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8ho1RPrdUXNaY36yu0nfOpc8DXX3dImuB3KVpxw7SIlRS8vqH5LJx2vjsK4s9rBTuLIYU+ieFbgPmwcZds8k+GBg=="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8ho1RPrdUXNaY36yu0nfOpc8DXX3dImuB3KVpxw7SIlRS47+DLE6f63Pe0kqfPllvcIYU+ieFbgPmwcZds8k+GBg=="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8ho1RPrdUXNaY36yu0nfOpc8DXX3dImuB3KVpxw7SIlRRsuRA61uOpjoav7/RHVpy0IYU+ieFbgPmwcZds8k+GBg=="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8ho1RPrdUXNaY36yu0nfOpc8DXX3dImuB3KVpxw7SIlRRwxQNlMT+cSBALJXNPg0JsIYU+ieFbgPmwcZds8k+GBg=="
+          }
+        ]
+      },
+      {
         "name": "Margarita",
         "icon": "https://i.imgur.com/k9izX6o.png",
         "temporada": [
