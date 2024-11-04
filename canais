@@ -1,4 +1,4 @@
-[
+  [
   {
     "name": "Eventos",
     "mode": false,
@@ -7,31 +7,6 @@
         "icon": "https://i.ibb.co/VCs0zWV/fotoefectos-com-22.png",
         "name": "TUDN MX",
         "uri": "+XXkeobNp/TaKxadplWmzoX1Gipg4HkGrWFnBQ+VdrYOfot5k1Dh0DKdFYEssqsj"
-      },
-      {
-        "icon": "https://i.ibb.co/VCs0zWV/fotoefectos-com-22.png",
-        "name": "TUDN MX op2",
-        "uri": "SZonH3LJ8/xIutW8YuTzKpfLHUIbu//Ey2Ky21WO9G64H2VgREkQMpc/NJdsa3lu"
-      },
-      {
-        "icon": "https://i.ibb.co/p4gPwvn/fotoefectos-com-1-1.png",
-        "name": "LA LIGA TV",
-        "uri": "+XXkeobNp/TaKxadplWmzoz53kkev1/TDqoD6sl8U8tfh6JsUDK/RnHHp3/yLkZf"
-      },
-      {
-        "icon": "https://i.ibb.co/JnvRRZ1/fotoefectos-com-5.png",
-        "name": "LIGA D CAMPEONES",
-        "uri": "+XXkeobNp/TaKxadplWmziu6zNwhXo9NbJNKkafDiELGwtj4UCCrtWiDAwXS2LIv"
-      },
-      {
-        "icon": "https://i.ibb.co/WfrjXRh/fotoefectos-com-12.png",
-        "name": "LA LIGA 1 MAX",
-        "uri": "+XXkeobNp/TaKxadplWmzjIlEemmZ4veCiF1NxAiSMluryhremsJ9JdabcX30oEy"
-      },
-      {
-        "icon": "https://i.ibb.co/5sjDycT/fotoefectos-com-21.png",
-        "name": "SKY SPORTS LA LIGA",
-        "uri": "+XXkeobNp/TaKxadplWmzvBjMQpIyOn0GufB/K8g3d2FRElNKzI/kXQBEpCaRS4s"
       },
       {
         "icon": "https://i.imgur.com/8yrNMQW.png",
@@ -72,19 +47,19 @@
         "icon": "https://i.imgur.com/xl7uW2T.png",
         "name": "Evento PY",
         "drm_scheme": "clearkey",
-        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
+        "uri": "/eMx2aGUC5I6FnQ6UTOsHQK7zEbsD/BY/OdHaszcV5MQ4O33L/8O7PQ7+E9T6WwQx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZiS0/EECrMmxKksk75h3CS3eO+Y5PDFiBzLIh4IaI++ow==",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
         "name": "Evento 2 PY",
         "drm_scheme": "clearkey",
-        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
+        "uri": "/eMx2aGUC5I6FnQ6UTOsHQK7zEbsD/BY/OdHaszcV5PhCUCDGQLgjw+oJ/XYQBjxvn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
       },
       {
         "name": "Evento 3 PY",
-        "uri": "a69TCKgW8Hfnq7SL+tiNvBt/zc79S+6WSANRKHUY+5ZPWTz3IL5tqtjbSEcc9L0YXQ0GV5X9EunvYI71Lcj2FwKZrlpQGfB6k3lfCEtfuzZu7aw+dPNaFYzPVf7dgTyO",
+        "uri": "/eMx2aGUC5I6FnQ6UTOsHQK7zEbsD/BY/OdHaszcV5MPTkaCbF4rzqy5FJT1O8IoXQ0GV5X9EunvYI71Lcj2FwKZrlpQGfB6k3lfCEtfuzZu7aw+dPNaFYzPVf7dgTyO",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gO+pJcNLO+wSLiw0ypkjigONiYiQih8kHmyJYzbXQNRzAbZrexSJyqQ9o4JDo1XaK0JoHY17yWrLVkAh7q4o3GsHNwb8jOW5QCgGI5Dawt6x/Bxy3C/AXtym3Vr/mmy/1A==",
         "icon": "https://i.imgur.com/xl7uW2T.png"
