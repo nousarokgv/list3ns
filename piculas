@@ -4,6 +4,16 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/FVftqsL.png",
+        "name": "Terrifier",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODKB08Ke3+AQMs6tveclH8+PZv//n0A2mj2/SMD8wNel94qwdNRWlDkauTfCWA2nMb40gLl9F3tAoU8BxCCYLocwZLA1bUzKwyGb1vnfdXOv"
+      },
+      {
+        "icon": "https://i.imgur.com/SZov98t.png",
+        "name": "Smile 2",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/XjuTytfAnURJBSHNCLr0QFNFyBThFSeCPG+scCPKU8NUEQeveTPDzUxhUGB5tQRSYxfxMuc6W29HUoj6Eq78v"
+      },
+      {
         "icon": "https://es.web.img2.acsta.net/c_310_420/img/96/bd/96bdd67e3872f7a991269d26de70f8aa.jpg",
         "name": "Venom: El último baile",
         "uri": "5FSgSsDC6nVpPZRfqN9COLebXrPkPv1ChUTxq9wgQO2//qFKOg/W8T1BJlAJrT8hS3EHF4Sz5QWQNv9lpZuabNV1Iv+TM6tHl2VTV8xCoWm3hKCOjgsQ4NKpEH5uaL3v"
@@ -1089,7 +1099,7 @@
       {
         "icon": "https://pelisimg.online/cover/smile-2-1668779779.jpg",
         "name": "smile",
-        "uri": "f+C7v4grf+D+3KV1XoLEPx8ARR6KHJwPAdwYcWrYj4V40Uyqczb+G9v3Tp/mfeepl+pfbX87J+kkVIwhbaz65g=="
+        "uri": "9kjt/SCiHXzYlX2o9Hee9udmMnXZHMJTv9IUoDazFur1DdFwEYXHMUyB1HuAVaSuqbYbbCVFXqZYM1fBfQYGdQ=="
       }
     ]
   },
