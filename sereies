@@ -4,6 +4,44 @@
     "mode": true,
     "lista": [
       {
+        "name": "Cromañon",
+        "icon": "https://i.imgur.com/CAlnuzx.png",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmOGvKWJ7R0Bkje0N5MWE1kwNvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmNr4vSVpOYJOfJTJmKL4ijqNvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmM/tBQkkWLt3J5qujv7cBQyNvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmNLQEow7dqiJt2h07H4CnFANvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmMVUf4Ic1hd4NkP0j4xLPysNvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmNy0kaI4/PnygKtPFf2gLbVNvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "name": "Capítulo 7",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmMToY928A54G76zJ+iahSHqNvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "name": "Capítulo 8",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum8uXDB1R3Ol1JrV5TckVAifieXJ5Y2UE6H9UE8vlsRfRw8r4bQar8rsFMxrU2IfjmNIKUni+0xvl7UlvWAZQKFGNvwu0STFGFDreKwlJJfuJA=="
+          }
+        ]
+      },
+      {
         "name": "El Pingüino",
         "icon": "https://i.imgur.com/Mhrojg1.png",
         "temporada": [
