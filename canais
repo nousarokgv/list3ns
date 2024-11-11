@@ -460,7 +460,13 @@
           {
             "name": "CANAL CONGRESO",
             "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrxFUUkBh2IxHephEKq0++C"
-          },
+          }
+        ]
+      },
+      {
+        "name": "CANALES TEMPORALES",
+        "icon": "https://cdn-icons-png.flaticon.com/512/49/49262.png",
+        "temporada": [
           {
             "name": "CANAL UNO",
             "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqV8b/Hkyl8qvfV8sHOT20f"
@@ -721,7 +727,6 @@
             "name": "TRACE SPORTS STARS HD",
             "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxri8oBJjxvMW71fqraot9hL"
           },
-          " ",
           {
             "name": "TRUTV HD",
             "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrMJGYjS086JH5gMis/eMgI"
