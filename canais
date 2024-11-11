@@ -86,6 +86,689 @@
     "mode": false,
     "lista": [
       {
+        "name": "CANALES TEMPORALES",
+        "icon": "https://cdn-icons-png.flaticon.com/512/49/49262.png",
+        "temporada": [
+          {
+            "name": "Tnt Sport",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1C4ky9Df1ndYwhKnzch75pW"
+          },
+          {
+            "name": "ESPN PREMIUM 1",
+            "uri": "9gD7kkZw4FmqzvkFCfEi1u829GOG7AMwvN9+tiU/ay19h4ISUTc/AcSXWj+MOlpK"
+          },
+          {
+            "name": "ESPN PREMIUM 2",
+            "uri": "E5bVuOBQTrAQSAoUTQI9RepHOQ0ri+iBFKYhY5c9IEU0jsux90TohP1pgDBn4zRr"
+          },
+          {
+            "name": "ESPN PREMIUM 3",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxr/cdi1bM0bM4Fh4/Ykj5m6"
+          },
+          {
+            "name": "AE Mundo",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1Dw7hAqgmj3vOXxjY/v7NcB"
+          },
+          {
+            "name": "ATV",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AJS5TcBtu3u8d84oDHdoPk"
+          },
+          {
+            "name": "AXN",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1B3NiAJpMK7T6Dju7mV66o9"
+          },
+          {
+            "name": "Abc Tv",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AKVehbp4ZnneUX0F0RtttC"
+          },
+          {
+            "name": "America TV",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DAMPLAUJ2BkQy4ROzjs3q0"
+          },
+          {
+            "name": "America TV PY",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1A8HcZIPlfyZKyILwUt3Nsx"
+          },
+          {
+            "name": "AmericaTV",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CyG893RsKrafXLdmyyxnT0"
+          },
+          {
+            "name": "Animal Planet",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1B2d9QhGLRxvqkbJ6Cqn9mJ"
+          },
+          {
+            "name": "BabyFirst",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1C9fFqJb8a/a+K6lzgCkU/e"
+          },
+          {
+            "name": "C9n",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BrhF7k7+GZnhNhZ7vFVFFG"
+          },
+          {
+            "name": "CANAL E",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CJ2Eb9RkuTaC9AqWkCzuUa"
+          },
+          {
+            "name": "CN23",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DKzjYoogwrIBhwpTlSAtwp"
+          },
+          {
+            "name": "CNN Espanol",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1Ak7iwZsRM1MuP+C52xg3Sw"
+          },
+          {
+            "name": "CRONICA TV",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1Bc+9zK5lz5794N1oqyAGmP"
+          },
+          {
+            "name": "Canal AlbNET",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BJ1HXey5In4qiKnKYv4xtb"
+          },
+          {
+            "name": "Canal Estrellas",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AZVKcp5FGnEOaaxAQkuGUK"
+          },
+          {
+            "name": "Cartoon Network",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AVLV/5VnqkNNJ8JyAKpRNg"
+          },
+          {
+            "name": "Cartoonito HD",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AVg6iZABDI0PiudUtq0zj3"
+          },
+          {
+            "name": "Cinecanal",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AMiD+Jf7rPRJLyq1hXlyRN"
+          },
+          {
+            "name": "Cinemax",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BjRyFwjwc9zRPtZUd6rzym"
+          },
+          {
+            "name": "Discovery Channel",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CnKz0bBV7c3zYphYNA3wAu"
+          },
+          {
+            "name": "Discovery ID",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CbJJ/PoFZ52nM6kNy86n3E"
+          },
+          {
+            "name": "Discovery Kids",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AYSu/NJdMjkEmQTa1pxwLz"
+          },
+          {
+            "name": "Discovery Turbo",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AwBk3fxoBQFJENJ+ccBagD"
+          },
+          {
+            "name": "E Entertainment",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1ApZbJRkkUBwIA7hypHpsl7"
+          },
+          {
+            "name": "E40",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DzNpJww/DhC8ogfG2hezVX"
+          },
+          {
+            "name": "ENCUENTRO HD",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BcVLxIao115f/Atc3TlKwr"
+          },
+          {
+            "name": "ESPN 4",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DVN1Ug1w19f/uqDkah1lSh"
+          },
+          {
+            "name": "El Trece Arg",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CvpUCsFsMx3ZfQh/BJTIsY"
+          },
+          {
+            "name": "Enlace",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AcCj6lbDsbwJJg3GVNKSq2"
+          },
+          {
+            "name": "Ewtn",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CQsaemi6cQWk2fKIZGOgyZ"
+          },
+          {
+            "name": "FX",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BIoRzuP6C7K8b07kG46fFc"
+          },
+          {
+            "name": "Fox Sport 1",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1A6KazY+cLx8yDvk5KGtbKo"
+          },
+          {
+            "name": "Fox Sport 2",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BkWYx9Log8u9PNVx4gP+NO"
+          },
+          {
+            "name": "France 24",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BPqU9LyVhQ/uC0qFWD/67M"
+          },
+          {
+            "name": "GEN PY",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AqkZAzpN8hgAD+B7v20SN0"
+          },
+          {
+            "name": "Gen_Py",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CRK8BKdmTiU7xVfIInRr87"
+          },
+          {
+            "name": "Globo Brasil",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1D9/kYFhvW6yib2/AIM63dc"
+          },
+          {
+            "name": "HBO",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AgFxiMt0C9N16cy2OIaExC"
+          },
+          {
+            "name": "HBO 2",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1D6hHlLSytKZCt0KWncEy7i"
+          },
+          {
+            "name": "HBO Family",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1Di8oBJjxvMW71fqraot9hL"
+          },
+          {
+            "name": "HBO Plus",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DgPN8LdAQ80+LBzvn49ZxC"
+          },
+          {
+            "name": "HBO XTREME SD",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BADUpNSNg0LiWFyP5CDFOl"
+          },
+          {
+            "name": "History Channel",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BcUjQBJnzwRyxjpGLk7zZz"
+          },
+          {
+            "name": "HomeandHealth",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1C7IukucbuGUlfijVWbG1Zf"
+          },
+          {
+            "name": "IP",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CgKgZryHN9J0XtIxKe4rcV"
+          },
+          {
+            "name": "LAPACHO TV",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DgzvNIHtMNhGUbUGm1Fa0D"
+          },
+          {
+            "name": "La Tele",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DhA4wIsqC46rEVoY1y+Nd8"
+          },
+          {
+            "name": "Latina",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1D4/LogBYoxiO71yG/c3nTt"
+          },
+          {
+            "name": "MTV",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CSp9j4ASkIJHtvbq2efu7i"
+          },
+          {
+            "name": "Nick Jr",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CBbgCjNdlQQEjayt5PKUvr"
+          },
+          {
+            "name": "Nickelodeon",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CKpAUrDDX8VipkV8zHNXPs"
+          },
+          {
+            "name": "PAKA PAKA",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DPqXQszgcjg2PkS4lKlOXS"
+          },
+          {
+            "name": "Panamericana TV",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1A1mHm1ZABTamMdcAQudYZg"
+          },
+          {
+            "name": "Paraguay Tv",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1D+FXmoio+3yopw5ep4bZVC"
+          },
+          {
+            "name": "Paravision",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CH9UQMaRVsKGLpHn9QajQ6"
+          },
+          {
+            "name": "RADIO VENUS",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AmWyQWtwxwotXg8awgN6VW"
+          },
+          {
+            "name": "RCN Novelas",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1C8KMxcR5LfFtxMGsi07dcX"
+          },
+          {
+            "name": "SNT",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AfYO3hDN/irZN8FD7Y+Ytq"
+          },
+          {
+            "name": "Sbt Brasil",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DsbfvFaxqPCskYJ/GJdUlw"
+          },
+          {
+            "name": "Sin Limites",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AYBn16ZC65GDOLgpNOdkx7"
+          },
+          {
+            "name": "Sony",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AZJh+kc75MCkW0neQoKd7j"
+          },
+          {
+            "name": "Space",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BjsJEHAXyYVtuVrxK48Sh2"
+          },
+          {
+            "name": "Studio Universal",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1A814tSIgLyTyflHOB8WFx4"
+          },
+          {
+            "name": "TCM",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AfBZq0iAeX7rDlXZkkPZqI"
+          },
+          {
+            "name": "TLC",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1Cul9cs5cpRFV856VK5R0Wb"
+          },
+          {
+            "name": "TNT",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1AxcnEKnK+gGDUZelDnuqVV"
+          },
+          {
+            "name": "TNT Novelas",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BbWROZY3mdyaP+ygE/7gGY"
+          },
+          {
+            "name": "TV Publica",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DixQVd+R/t6CX88xCGU9yk"
+          },
+          {
+            "name": "Telefe Arg",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CXnifh1+wAEywOgfJBh8JU"
+          },
+          {
+            "name": "Telefuturo",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BDpQGH+2sR9zrA6ddU8fZq"
+          },
+          {
+            "name": "Telemundo",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1D+baehGq2lhWxa1VkkQSMF"
+          },
+          {
+            "name": "Trece",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1A/DU9ZBLLIqK7CDe9S9p0c"
+          },
+          {
+            "name": "Tyc Sport",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1C9pTc4s2DafrvqXeqIhrFL"
+          },
+          {
+            "name": "Unicanal",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1D9RV7llXTD8hVk8VbGY/UZ"
+          },
+          {
+            "name": "Universal",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1BUm5DozuJOYED1FPJo7z2Q"
+          },
+          {
+            "name": "Universal Cinema SD",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DSDjhCC1a+dJ3o0urbrfIG"
+          },
+          {
+            "name": "Universal Comedy SD",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1B91S10VBNWHc64mzCkO0kq"
+          },
+          {
+            "name": "Universal Premiere SD",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1DouW0LGYhAsVjO3VaM3/jI"
+          },
+          {
+            "name": "Warner",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1CZkStNMgrlK+hG/T3yJSlq"
+          },
+          {
+            "name": "Zona Latina",
+            "uri": "3XjDiRmrno/XWPq3Xb53oahu10Rg1W8UCe1E/3vHG1Czt5Xawlpp61CZRd5OUaz5"
+          },
+          {
+            "name": "A&E HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoqZP8sSA1pwlWqEVsL6HkG"
+          },
+          {
+            "name": "AMC HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpPeBChme07Sq0NnrMqwdM2"
+          },
+          {
+            "name": "ATV+ HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrDn7Vd/ZeQvt+/M3puOHkm"
+          },
+          {
+            "name": "AXN HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqb9AzdYi22CbnU0xQH84ew"
+          },
+          {
+            "name": "Animal Planet HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrsDI45IOk8gHn6ijJ5O0Ul"
+          },
+          {
+            "name": "BABY TV HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpxAxkl7aMqu2uL5i6eo8HC"
+          },
+          {
+            "name": "CABLENOTICIAS HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqPwML9sMc9jmC67eDiUKn2"
+          },
+          {
+            "name": "CANAL CONGRESO",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrxFUUkBh2IxHephEKq0++C"
+          },
+          {
+            "name": "CANAL UNO",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqV8b/Hkyl8qvfV8sHOT20f"
+          },
+          {
+            "name": "CARACOL HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoGuS4hnAcsfrUYpkSdaHRM"
+          },
+          {
+            "name": "CGTN",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqE5fzqKKQioEtzfKNOYaLR"
+          },
+          {
+            "name": "CITY TV",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxq27COXawbaxIWvpeld11ce"
+          },
+          {
+            "name": "CNN Espaæol",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrkcmo4NHDTRpyqka00WOrp"
+          },
+          {
+            "name": "CNN International",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqnKz0bBV7c3zYphYNA3wAu"
+          },
+          {
+            "name": "CRISTOVISION",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqj3jYeubwt+NwRBO9CEkEa"
+          },
+          {
+            "name": "Canal Institucional HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpNa+FRU0bRNj8WS55D05D6"
+          },
+          {
+            "name": "Cartoon Network HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqZet5VjXhF3ORZcmH7FvJ6"
+          },
+          {
+            "name": "Cinecanal HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxriv/6i9dEjxb997jTU9ayb"
+          },
+          {
+            "name": "Cinemax HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxp2d9QhGLRxvqkbJ6Cqn9mJ"
+          },
+          {
+            "name": "Comedy Central HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqZkStNMgrlK+hG/T3yJSlq"
+          },
+          {
+            "name": "DE PELICULA",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqvjXeo5tUM7WDvXB2AiyKL"
+          },
+          {
+            "name": "DHE HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxp7PVnWenGs4ZJi9m8lT1Gv"
+          },
+          {
+            "name": "DREAMWORKS",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxog07nni7+onK0rpiOGfnHT"
+          },
+          {
+            "name": "DW (Deutsch +)",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxopZbJRkkUBwIA7hypHpsl7"
+          },
+          {
+            "name": "Discovery HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoLGWtwPiB8rjhqPyn18ind"
+          },
+          {
+            "name": "Discovery Kids HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoS1EU9gs3En/dj7GudwPrb"
+          },
+          {
+            "name": "Disney HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpGROXCyHWgD7o6k6jlfqwZ"
+          },
+          {
+            "name": "E! HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoHuASQggIeqmszwcb3VRAG"
+          },
+          {
+            "name": "ESPN 2 HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxonaft2Ie0Y3Wwp+eXZ8qPV"
+          },
+          {
+            "name": "ESPN 3 HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojghoDR4A3p8Vl4IB4tl7LC9iu/GY/dUkT8t0WRVsXnj0"
+          },
+          {
+            "name": "ESPN 4 HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpiwK8bFs/dxDUDEpPUhimy"
+          },
+          {
+            "name": "ESPN 5",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrVN1Ug1w19f/uqDkah1lSh"
+          },
+          {
+            "name": "ESPN 6 HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpU7x4JqWEfO8IEzZd/yyBD"
+          },
+          {
+            "name": "ESPN 7 HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxp9Nfg7VJmOJvzcs7X1sOdR"
+          },
+          {
+            "name": "ESPN HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpgfVkAW1lbBgLcBf0hLZxf"
+          },
+          {
+            "name": "ESPN Premium HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxr/cdi1bM0bM4Fh4/Ykj5m6"
+          },
+          {
+            "name": "EURO NEWS SPANISH",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqJw0w1ZzYgv3o0bz1UPS3t"
+          },
+          {
+            "name": "EWTN",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpyPL+J3CwtplX1yOqusPCh"
+          },
+          {
+            "name": "El Gourmet HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqSME7REDoYs2qIBvrqwt++"
+          },
+          {
+            "name": "FX HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxozJ4l4j77fFlCEB35Lj5QT"
+          },
+          {
+            "name": "France 24",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxr4/LogBYoxiO71yG/c3nTt"
+          },
+          {
+            "name": "GOLDEN EDGE",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqKpAUrDDX8VipkV8zHNXPs"
+          },
+          {
+            "name": "Golden HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxogFxiMt0C9N16cy2OIaExC"
+          },
+          {
+            "name": "HOGAR TV",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpcUjQBJnzwRyxjpGLk7zZz"
+          },
+          {
+            "name": "History Channel HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxr5Fc1vkuWBVDXtM3AHT6sX"
+          },
+          {
+            "name": "ID HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoZVKcp5FGnEOaaxAQkuGUK"
+          },
+          {
+            "name": "LA TELE HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoMiD+Jf7rPRJLyq1hXlyRN"
+          },
+          {
+            "name": "Las Estrellas HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpjRyFwjwc9zRPtZUd6rzym"
+          },
+          {
+            "name": "Love Nature HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqId8P9++5dK578Qli3MRLZ"
+          },
+          {
+            "name": "Nat Geo HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoZJh+kc75MCkW0neQoKd7j"
+          },
+          {
+            "name": "Nick HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxr+baehGq2lhWxa1VkkQSMF"
+          },
+          {
+            "name": "Paramount HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxq8KMxcR5LfFtxMGsi07dcX"
+          },
+          {
+            "name": "RCN HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqrnv3ymahDFyRzpRUafbX9"
+          },
+          {
+            "name": "RUMBA TV",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxreuai9wsQ9TLP7u9SQtpHL"
+          },
+          {
+            "name": "STAR CHANNEL HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpIoRzuP6C7K8b07kG46fFc"
+          },
+          {
+            "name": "Seæal Colombia HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrD40/zer4ahKKBV1lgTII2"
+          },
+          {
+            "name": "Sony HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpPqU9LyVhQ/uC0qFWD/67M"
+          },
+          {
+            "name": "Space HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoH4jeLbBNpw29iUD0M56Sz"
+          },
+          {
+            "name": "Studio Universal HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxr/LlVt3fTCbPQ0+yp4y5fj"
+          },
+          {
+            "name": "SyFy",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxp1KPW356M+3de46vwZcacp"
+          },
+          {
+            "name": "TELEANTIOQUIA",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqkzFQr3ZHLhxCpMI22Mp6a"
+          },
+          {
+            "name": "TELECAFE",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrSO8iieGCE7+YrvVlQnjWf"
+          },
+          {
+            "name": "TELECARIBE",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpPM3Ld1LnFri1xG0cGqJkc"
+          },
+          {
+            "name": "TELEMUNDO HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrpV5ps161D3hROrgbl5czL"
+          },
+          {
+            "name": "TELENOVELAS",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoYSu/NJdMjkEmQTa1pxwLz"
+          },
+          {
+            "name": "TELEPACIFICO",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxok7iwZsRM1MuP+C52xg3Sw"
+          },
+          {
+            "name": "TELESUR",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpJlfsBvgEQ91ePuuoaYJRS"
+          },
+          {
+            "name": "TLC",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoJS5TcBtu3u8d84oDHdoPk"
+          },
+          {
+            "name": "TLT HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpyZiV5tLFTgDWv09hJ3/aU"
+          },
+          {
+            "name": "TNT HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrQvjepjEAxl4YEgEF+h+ab"
+          },
+          {
+            "name": "TNT Series HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxogdhHUD5lB6OngaQUGx4ZN"
+          },
+          {
+            "name": "TOONCAST",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpADUpNSNg0LiWFyP5CDFOl"
+          },
+          {
+            "name": "TRACE SPORTS STARS HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxri8oBJjxvMW71fqraot9hL"
+          },
+          " ",
+          {
+            "name": "TRUTV HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrMJGYjS086JH5gMis/eMgI"
+          },
+          {
+            "name": "TV AGRO",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoZib2KWo2ngnfx701c10V/"
+          },
+          {
+            "name": "TV5 MONDE",
+            "uri": "l1sm7C5/Kg+I/p5voYKojoJJCUEF5tW4QZuGDSyBcIreQDXMOguYjdeEPx7NwenE"
+          },
+          {
+            "name": "TyC Sports HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxo7tPJmKSi/EX9VcNGbTxgj"
+          },
+          {
+            "name": "UNIVERSAL CHANNEL HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqe7wmYOlkfcXJJvLNN8DkK"
+          },
+          {
+            "name": "UNIVISION HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxrouW0LGYhAsVjO3VaM3/jI"
+          },
+          {
+            "name": "Warner Channel HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxpbWROZY3mdyaP+ygE/7gGY"
+          },
+          {
+            "name": "Win Sports HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxoqkZAzpN8hgAD+B7v20SN0"
+          },
+          {
+            "name": "Win Sports+ HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxowBk3fxoBQFJENJ+ccBagD"
+          },
+          {
+            "name": "ZOOM",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxp91S10VBNWHc64mzCkO0kq"
+          },
+          {
+            "name": "ZOOMOO HD",
+            "uri": "l1sm7C5/Kg+I/p5voYKojisWakj+JzTv6HCS+0QWUxqLJu1T4jZd/orGhiuT6OVG"
+          }
+        ]
+      },
+      {
         "name": "TV Publica",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b9/TVP_Argentina.svg/revision/latest/scale-to-width-down/221?cb=20230716034520&path-prefix=es",
         "temporada": [
@@ -804,13 +1487,6 @@
         "name": "Espn Premium",
         "icon": "https://i.imgur.com/Viwl0AN.png",
         "temporada": [
-          {
-            "icon": "https://i.imgur.com/Viwl0AN.png",
-            "name": "Espn Premium 1",
-            "uri": "zpG4WdiXTI/yQAE9BRKckOOOWUAWXt1i8zh8bl00eGBK3d2MVeg4cVam8VEhAmrAHn77Gt81x83n9QEUdjIkRxetaWuA3XLWmMM+pJC3gAd2kvYcYkLrt4HRFQky9q8n",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "l4hTvG/1ajsPXIOKqHs9L8CRIhDUbq+4VMBnmNf3yp0mF0ZnDIaZvaKhCu5S3D2S"
-          },
           {
             "icon": "https://i.imgur.com/Viwl0AN.png",
             "name": "Espn Premium ",
