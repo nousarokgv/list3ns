@@ -4,14 +4,44 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://cultura.nexos.com.mx/wp-content/uploads/2024/11/pdrprm.webp",
+        "name": "Pedro Páramo",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUjvTplwhlHk0pyQFaXk21rPd8HxNo51Hv1Ju2LkEv7bA=="
+      },
+      {
+        "icon": "https://i.imgur.com/pMGFLwP.jpeg",
+        "name": "10 dias de un Hombre curioso",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozU7bI+jYdE/xyYa4sOcNo/ehVT7cqTMFKUcxNqeiIVsgD3fB8TaOdR79Sbti5BL+2w="
+      },
+      {
+        "icon": "https://i.imgur.com/rTNceDG.jpeg",
+        "name": "Vijay 69",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXqf2OuI3ErqqUb3KLMdTtJyeYJVmqwJ+4q+XDu5EQMLg=="
+      },
+      {
+        "icon": "https://i.imgur.com/g0fXDgR.jpeg",
+        "name": "Thelma",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozX6IsdF8LvHNd+cWaPe7yFOZj/zyL6LLoitkP0iWsuGnA=="
+      },
+      {
+        "icon": "https://i.imgur.com/DCmrMHv.png",
+        "name": "Spadek",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWAKnydeYniMdENlXQd3I5UDzlXBcLBPPaEnCX2GqnuPJFKBWFWt/fxfnsALW2+9gs="
+      },
+      {
+        "icon": "https://i.imgur.com/38BePeF.png",
+        "name": "Nos vemos la Proxima Navidad",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUJ9O9q6R8Gsb9dF2LPXaBoDhHG8KDwQ8WEfkePjl9brD3fB8TaOdR79Sbti5BL+2w="
+      },
+      {
         "icon": "https://i.imgur.com/FVftqsL.png",
         "name": "Terrifier",
-        "uri": "5FSgSsDC6nVpPZRfqN9CODKB08Ke3+AQMs6tveclH8+PZv//n0A2mj2/SMD8wNel94qwdNRWlDkauTfCWA2nMb40gLl9F3tAoU8BxCCYLocwZLA1bUzKwyGb1vnfdXOv"
+        "uri": "/cYJtY8AWgSEzxmf5+Gc7YCY9P9mATIb1gxEFaYlXOjj7Nj55mGGm/kqjGX0GT1wdV7L/F4feMcfXSnccMeZ0+/W15rHLjlrlD+vNWVVQLsHCObS74Cp2tBQkivC6vF+Qbj8+kyshBXQEqH60laYjgLY5OfAgoiOHUhumzK7ry3iwUEghu/4wztshfyxC1LZI+vnHiuR7v/WcmdnoJ5X+YmOkuIYhTHxPSOPkgGQrywbGirU1RnZw4hmOG6NjKZzWoVOaiNB0KV214Y1IFvYQvN5iagdQKT55OqQIzG8cRXkY5N4N07mMkmedXq593656+DeNU7J7uVtnl2jyPjn8qXlAnr5enh4ocRuXFS+Ee5Iqis3C7qQ494NCwhDtjphKU4jg0iBIBFqQIvU1rYW+FHGHgm8bDU75GT1UXs66jiFC9xprzj0ypSi6WNc0gjgeBPr3qXUJBj5PtP+Celz9V78fWLam4KE+PFEyY6fGTM/8mt2DWlxGEL9HIbLLaaOjp8LupOFg14WTlYwK21e4t9ntM2CWJNaHEzWkb9KHvfNPX/pcMPTQd0V69Qh0RyAvkKZNbx83OtKXO02fOVHzN2HiZV4Lafsfd7kF3lxDy6UwEX88I9UdJEnqcj3gzRS"
       },
       {
         "icon": "https://i.imgur.com/SZov98t.png",
         "name": "Smile 2",
-        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/XjuTytfAnURJBSHNCLr0QFNFyBThFSeCPG+scCPKU8NUEQeveTPDzUxhUGB5tQRSYxfxMuc6W29HUoj6Eq78v"
+        "uri": "/cYJtY8AWgSEzxmf5+Gc7YCY9P9mATIb1gxEFaYlXOjj7Nj55mGGm/kqjGX0GT1wdV7L/F4feMcfXSnccMeZ0//kZXSznG3qsJ5s+KHaHQAJaSm5bJyQowe6jW5B8RyWQbj8+kyshBXQEqH60laYjhwAogrjGt66WZqSPMHnnuO6O+Mt235LHqn54CQ7yALnQzxgyXcehROX6HKPQXcQvFnYVb8s9iZqwkGzgJ8i5qMbGirU1RnZw4hmOG6NjKZzEDwN7SZ6eVjUTXqIPL+Y2ocJO7ROAkAbd+xp2njlbwIPdw7bX8h1CfO0iTsLfbpEGVSexP5EgsW7QIywXoBjdbinrK/O3nDWvN2NVCC/K6Fj5qDr/Xms/y6mmRJEt57o8HzaHvg04QKETdOpdYXMt3fnKLWUBuwh6k5nKKxb0jJXhd0nxTKu/pkRezLq1RYdmL7Mbo3p2FkPbXrvNgVNhwjwEDjU4XPuWO9XmMGHG8Lns3DVEp2NxRBRHQqnlwh0Y/u46+feuKdpJ1L52Q1AGN9ntM2CWJNaHEzWkb9KHvfNPX/pcMPTQd0V69Qh0RyAvkKZNbx83OtKXO02fOVHzN2HiZV4Lafsfd7kF3lxDy6UwEX88I9UdJEnqcj3gzRS"
       },
       {
         "icon": "https://es.web.img2.acsta.net/c_310_420/img/96/bd/96bdd67e3872f7a991269d26de70f8aa.jpg",
@@ -504,11 +534,6 @@
     "name": "Pelicula 60FPS",
     "mode": true,
     "lista": [
-      {
-        "icon": "https://play-lh.googleusercontent.com/mGB0EpSMCpiVG25VdVcHRxGDXJd6UOxxXLwkj2mS_st4AV9sYzenzvcDf871zz3lAdj8Dg",
-        "name": "Yo, robot",
-        "uri": "5FSgSsDC6nVpPZRfqN9CODKB08Ke3+AQMs6tveclH8+FCUXBkIIsIRh+YAKukU7S/lP2FKzgaLuRLWA9mGk4hlkrdktgZCHryH+Zd5VHr9gltzWwti0Fv7L6b7/8o3oO"
-      },
       {
         "icon": "https://i.imgur.com/fjnZs9A.png",
         "name": "Bad Boys 4",
@@ -1511,11 +1536,6 @@
         "uri": "5FSgSsDC6nVpPZRfqN9COCuJFp3RjvIz/A7OYEoTabQsHzDLittCpYR4a3Jjw8kygYnsWEDqj5rG92EcBlYX/CI/kna2pLLVFA/kJarq4uUwfVrPvFNGMOqaXsVYib64"
       },
       {
-        "name": "El Guardian De Las Palabras (1994) 720p latino",
-        "uri": "f+C7v4grf+D+3KV1XoLEPwUY2uhkPKEYGExkCPPfcECnzOOi01tsLCsd/uECT1Ipfvr4apT9CNWf6hWCOiPE3yG/B6Z7MJpzX0g+uRamEFo7MTUob2ZHb8xGuzTxmVf32+DIeO5QxMNsmq8Vtpy3bw==",
-        "icon": "https://media.themoviedb.org/t/p/w116_and_h174_face/etctWkYFfP7voGM3rd7uqxQJavY.jpg"
-      },
-      {
         "icon": "http://tv.powerlan.com.ar/poster/w200/8294021718418417i.jpg",
         "name": "Ultraman: el ascenso",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXBpcqKOJ8cCElecZrbDyb/SrdnxT3J/GcWgnRuSWZvrpFKBWFWt/fxfnsALW2+9gs="
@@ -1911,7 +1931,7 @@
       {
         "icon": "https://image.tmdb.org/t/p/original/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg",
         "name": "Harold y el lápiz mágico (2024)",
-        "uri": "f+C7v4grf+D+3KV1XoLEPzGnbQH75dgDfYlR3VB6GbxZjvrS1OZigJEQVmgqNbflE73ohUeGsfOTunHBrs5RSBy/30tK4dA0/XVaDuF+qRCaS1zMAyJYd6NNqrwJTJrbDixkZhXQcHUVCVcJwNb8dIw/GYTfBRAj11G6TOM1H74AQPju0B7GhJEK5fWKoaBF"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozU50lXQ8rdbitvU9OX5tPCxAXcw+mlsziQ5Ioy+t7h6H8vPxd5juN2ZJXQBcHFzQdA="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/sTpOfjsI17o2ZjehAwqzF2BVjCG.jpg",
@@ -1941,37 +1961,22 @@
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/ghlwOez45gndnAp3aPMzg5kxMjp.jpg",
         "name": "Grandes espias (2024)",
-        "uri": "f+C7v4grf+D+3KV1XoLEP9Tby8eoq9Z2z0gsxm+GGN/l8ENQhp3WSrRbrWb31uE/YKZQcbZ0+EJgV1ah6Hh6b4ufFAi7vlse/jIXgQS3bLz6ZLLIGvGfYKlpdMHjOZMCasThWb614SkjkO+ePtOcQ7OyEhcslUViYx5WLaJIp1c="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg",
-        "name": "solo una noche de juegos 2024",
-        "uri": "f+C7v4grf+D+3KV1XoLEPyXZMK84d2SvyoKMniXnqfbyvd9TmbkMrvLGSxDfBrRr/jxe20cPf9s9aUeObaGr/A19BDw0FD609/3+FqJaKNAnXLXg/TGnFFefIYNIlBGvZ1DJHglY6NhlZ80uFl8+yuH0wqq5OQJqTbUxrYVJjVE="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWlyxCsIW3I3xMbq3MCxrkCIKkAgKbCeaBCmWWOEfb1AD3fB8TaOdR79Sbti5BL+2w="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg",
         "name": "el precio de la novia (2024)",
-        "uri": "f+C7v4grf+D+3KV1XoLEPxsaVQn/80qXzHeqAyNrtL9tduABxwibyA+Mp2Dj4tYgELk+4h5Wm5EwsElsXwLWAXmRdNWSCjIkn8MsoDQyES3OrsCSHwx4LwASnNWF2iY0m6kN7jL/DHgMJNishs/CDqFkWLaHucHjt1Wljjv0Qz0="
-      },
-      {
-        "icon": "https://i.ibb.co/HDJLMsn/South-Park-The-End-of-Obesity.jpg",
-        "name": "South Park: The End of Obesity",
-        "uri": "f+C7v4grf+D+3KV1XoLEPwRmFcd4Cxw8Fjy8z7dGAKX1h+Hz4OxnrN7nHTfTjdf6of/W2j/tXUEAhZg2lj+KGle/7CtEYNaE8AYUn0R6EC6TyOtFIIZF3YEj+/mZwY7WdDjnMlG92kWbak2vgSgiyHE+9TPG4VIJRxByDcyYg3M="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVrOl4UIrJ1SD7JqwfPsUTYIVH/m2phbkTAx/oaQB1iuw=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg",
         "name": "son como niños",
-        "uri": "f+C7v4grf+D+3KV1XoLEPxqR9v2kInk9t7EnWjyxsiAU7dedDTS5ZfrFtJLsL2K9OKifIo2qCrEQbNuxf9abbZm1/nD+jPT8qTVhcpkk6B+9I4Tk27lMg7tNQa4aDQ9RIo9bh2225fS0dyKNmqor3y/9Q5zhp+uN0VLTpOxayko="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUEbn5EYXxSjaWiAaJlJJRe88sBvJ8k8ULlXYimuO8d/g=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg",
         "name": "son como niños 2",
-        "uri": "f+C7v4grf+D+3KV1XoLEPyMSB573HS7PLEsgbUCNb0B9YkIaDuWYdPW0fg6gkaxUz+QCDOTonHNYRrpSncqgZTPsCiaAPMYeFTLKcbu7KQVTGquzZ92BDDGt0zZEhJOtHRsaQFJt1TvFyw083shh9zUugfa1eQJSQb0+bcvVrxjZSqHZdlOrhmcB1srgGR2o"
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/7sZiozbWOSLlXvgT866MtTK32Yv.jpg",
-        "name": "Franco Escamilla:Ladies man",
-        "uri": "f+C7v4grf+D+3KV1XoLEP8muO6sZDVrIpYc3mgxyRL+jcHhlW7uMZEMW8fiI88nB1n4aeHCtQlhxqbPPm7Nh9NQXfYEFD7AwIAIM4bSDFzhHIzzqkDsyRzuDgw0uY5cN+LENvrMVtZERysMo5a6cs9lxxmqvk1bbTaSqwknormbtWqZ/TM782kOBnSbjfNIw"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWsqY9ZxGKSwC9sIl2oxL4AWodNYwIgeHEFYeZ1weDg6g=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/cLaTeAG7kq4x39MVqbrwGEvzLJ.jpg",
@@ -2019,7 +2024,7 @@
         "uri": "f+C7v4grf+D+3KV1XoLEP0KziRDeGds65szXfhA8Hw92qxDYYfsQ/1iOaJ7a7/YRJJElx14uFBxHyFj8XVmTmmUGyNHmyWlAK6EIiTgFTT8+e4FMb9UDQ2P2tkIA0tQdezE9rge2Qqxo2bKTiuwDPbk6Gqntr20bGimQEAZqBWI="
       },
       {
-        "icon": "https://dl.dropbox.com/scl/fi/fqw049swt2tvvdt5xt82u/Problemista-969959543-large.jpg?rlkey=phmw758v7m0oqp5up9aok82zu&dl=0",
+        "icon": "https://i.imgur.com/yrIUVsZ.png",
         "name": "problemista(2024)",
         "uri": "f+C7v4grf+D+3KV1XoLEP7XTsoWvg2ec+knz20TDeKiFUiRjVkE9cnGQY2SWcBnSpKiQXmmAjv/9Q2Nj87ByRhulBjpX3iiNWRpJcnXae+sN6juWLtyZeNx8n5yrvBR7YR5bhNtsOncGuR5ZrmMi1emoZyi8YcgdNfN4aXD5k2U="
       },
@@ -2032,11 +2037,6 @@
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/rwPb2AfNzQXjb8sUM6mCzMvN5T3.jpg",
         "name": "Padre no hay más que uno 2",
         "uri": "f+C7v4grf+D+3KV1XoLEPz54h5kn6z/ZmhFhMJaj2xW0kI8cu7flxHtQAX83sGQ8132FgJ+O99JSZbZGHQ/CuJ80LXjvOr1lCTkl02P/I6KBFTPC4AbXGJoIoHawWbKSOujW1G7MWgb4s7jsjbyvSdUZwYcVVNpqFt4uf31lLpPm/x5QaA6r8dxMVbowmwDuPtUAesz9ulNOcPIJ9eFkzdlKodl2U6uGZwHWyuAZHag="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/k2v9xSPtiyxCNxaRGtj7COwdgG3.jpg",
-        "name": "Padre no hay más que uno 3",
-        "uri": "f+C7v4grf+D+3KV1XoLEP7ctuEUrBq313Cz8QjM5jdjnPnSvoJnJ4/Z+U9+S81VlzdlZzqBVQJ96JWYcrApIZFeWXZBZeEaIL1Mt0cab0cdBNT/kEDIAVuH/wIENncFSQg9Bu0BTbcX3A98MPcMeDRfav93+S5L0u7mrIh9cvHtuS4qNEzg0FTLjF4LENo1E"
       },
       {
         "icon": "https://archive.org/download/nDrUZE24mSB54cuHEjslMLvfFRQ/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg",
@@ -2080,7 +2080,7 @@
         "uri": "f+C7v4grf+D+3KV1XoLEPxI5gD97+4N5kXHXfBkRr0YMsLNL8yRNxsq2dP+vT5x2kRSjWTwEW6p29O0a7r28vmy2YwEh1OswOr3HvHZ2qVYeZQsAIxKzKN6bRKrAxUZVm80/FPf6XGshqvY09nsUXaFkWLaHucHjt1Wljjv0Qz0="
       },
       {
-        "icon": "https://dl.dropbox.com/scl/fi/m6x6ehurbopf8lru53trs/455x650_poster_laestrellaazul_70x100_9136.jpg?rlkey=a40mxmqo92s47v21taaywxnm6&dl=0",
+        "icon": "https://i.imgur.com/7GM5m1r.png",
         "name": "la estrella azul",
         "uri": "f+C7v4grf+D+3KV1XoLEP7vn8F7kLX7EAx0RTRYDvn6IJie+0IEyiQbSHvSWijcHRm8c8li62XPkiPl6MZBidDhbGKPZ2fdt7oIibJ39Xxc9mhc242aCoSmfc1YeYfby60RAvePd1B1XOKvojAvf+Y3A+fIIP99o8grlYipT+VK/I9SFab1qQ1XA0UmQBKlT"
       },
@@ -2666,234 +2666,168 @@
     ]
   },
   {
-    "name": "DC Comics",
-    "mode": true,
-    "lista": [
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg",
-        "name": "mujer maravilla",
-        "uri": "f+C7v4grf+D+3KV1XoLEP1xThtspxEug1RV15Avrj+8Sia9Z/VL6IvhlM8zxLvzT+Gn1lZLspHlYObFTpkycXWWNjInJqoI05yUbajdYXiYELjBU7s2rWYAAkFj4UmdsmMrsP/Was4pIIP3GZk9AcxsMK9YPaAQFw8ImkiDvc+4="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
-        "name": "Superman (2013)",
-        "uri": "f+C7v4grf+D+3KV1XoLEP96sIaQ+DAdBVZAVOUq3lureZAhkVe3OfBJAGGCxnGLNqG9yf3FDFzYKH2wD7vJS2Fi5NdB6qp4rnKSrbR5Gfg+681CmrRSXQpzF9nDNByIRgGDAOYOHictD14RyxA3rdbK2q9CMUOR0B0h6zOggVIM="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
-        "name": "La liga de la justicia",
-        "uri": "f+C7v4grf+D+3KV1XoLEP7fX+x5l5TSJmLZMKCoUki9yy1qbtHsu3zHSSc0SmqMYjbFbsvNtg2XJq0SIqTLHMn9kp52iDDw25OFCGwyCcMrlbnFtD7/OGVHyM8ILOXdO1dw4ddSvcDr4I1tkp6oT+730eKrUj0TGzJpZqfKXqjs="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/zdw7Wf97vsQ0YnGomxDqfcEdUjX.jpg",
-        "name": "Aquaman",
-        "uri": "f+C7v4grf+D+3KV1XoLEP9V7Re+6TylNfPu5G+vbX7YtcPYerTNFSJSlDoNvqnM0GyqeWobbM4nwRi79gY7GRL+3lZ3JB9yHIBPNqhSUZ6nhstFhobYRbfMYF9hz4UIgeYY9t3qabYG1zPFyLYj/bdlKodl2U6uGZwHWyuAZHag="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
-        "name": "¡Shazam!",
-        "uri": "f+C7v4grf+D+3KV1XoLEP3jmGD0LK+19zbOqu15KjWswbcY4NXHRi9fA8VEAtitVtu8tgSVaPqhTucHVOjuqMWKyy55ydwX5LzLZYxC1yvN81a20o5i5UCEnwyVe2nbxkqj/TcZrFUAgPoMqTOhrsw=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/xFw9RXKZDvevAGocgBK0zteto4U.jpg",
-        "name": "El escuadrón suicida 2",
-        "uri": "f+C7v4grf+D+3KV1XoLEP+64ZWfMZQt0UHqsEOZIzDcwoac/rrGPCGXVJDt3a3FOxBrIky98O4+fcBi+TwUr2Ocmk+pKDP7RrNq5jjaEdnCubuXlsbInRAqCzPMkEgiB7OJV6ZpQdEM1Ct6g5mgAOaJVkZBBdoGh3c74JqAUOxw="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
-        "name": "Black Adam",
-        "uri": "f+C7v4grf+D+3KV1XoLEP3pI8swAm7H/qUgANdwD+hhYnnX96OwBUqyw7ZB6itQkwcqXn7mruXvbuYiDWg/egnbrDBF9cz2cxG+3LdrkD36+o+OFJIvKJCLioxLNrVbtwOfJzTrqOWwdRtw4/vjkGD03bjOep+lRhPdq4p2gm+I="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-        "name": "Shazam la furia de los dioses",
-        "uri": "f+C7v4grf+D+3KV1XoLEP8m1wNf7Vs5QfH6tcRUvlg2Dc6XIxouh5bvNcgrVdzlvb1M3DtBt8itI+LYpv3UZtJXU6+B7c+sWR/fBv+q4mCNsv+Zn52pW4e/Yk7dIIbePggtLZF6YKo7Tuwwlvo8xIIkF9WmeqiOj2xAarsZABdMRqxb9K0RwgltAABVI/TOi"
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
-        "name": "la liga de la justicia: crisis en tierras infinitas",
-        "uri": "f+C7v4grf+D+3KV1XoLEPyF2NePwhf0EWl+e8Nf5BaRqOY7jEoMLXrbFAHqeuvo5uIFracxxpn6GP6vQoaPq0mr9BVqDlQbwfDXIFGe11teLJyQ6RkXp8mQFleFLuHtAK6+2o3q0N8egZTklgjYPWVXhqIvxvCDTz0qFNtLublY="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg",
-        "name": "la liga de la justicia: crisis en tierras infinitas 2",
-        "uri": "f+C7v4grf+D+3KV1XoLEPz3lPnnF39bCLsZGQxW5q3stLrCdIaogrn8cAW1Xz51kuaE4T29JCa0NI5rJmceJXWY7cYmvfmgA09bfOp8ZTOr04hqzcjtF6dg0KpCEDUBBN8kU7hoEUpjT62+Q5zDrgPW32ZGg3+YTssEaHUnI1l2KL+scKvd1L0c0SFNYy5vbdDD22dA8B7SKOUQaAOaWKIaeSHm7U2nBkbhyQUANW4OhZFi2h7nB47dVpY479EM9"
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg",
-        "name": "la liga de la justicia: crisis en tierras infinitas 3",
-        "uri": "f+C7v4grf+D+3KV1XoLEP/IltMtvfLeyX9jSm8xmjDVyVzOPqrv+LwwKG/uIxYCw0Z3OrvQKi4YGhIszraCRkci/AENsUXMG6aa0PgLtlBj04hqzcjtF6dg0KpCEDUBBzltkTc/8SlhYT4ysicTBXrCsnmT1Qca8g4DBbwjGj2bf2X9XuuVnT7Y13AoSkxtmv66Et44YNpzeKjWkBfuwQXKy/W3EMWrmHJlZ8b8vMh77r3tr0eMzHfntyGJkFeVY"
-      }
-    ]
-  },
-  {
     "name": "Marvel",
     "mode": true,
     "lista": [
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
         "name": "Capitan américa: Primer vengador",
-        "uri": "f+C7v4grf+D+3KV1XoLEP1Cgi2NWCT6nTuPmbxOi0NV5CoM1IggPxm9zUNkC71JNL169ck0sRwa2TJPgCOP3iWPA5fxCq6EWbb8qYdKKUJMv3YWB0Qo5g/30M4OymWIXy8IlZA/iW9FPwL/i/c7yvIoxCyBl75PilUAYllAtJc3JaHt2ZLvjCWxxnwBX2xn7"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozU/7222acEo2Ia4BOJH1rXqIBr3gm4oV8HbooZow4jVn5q5eSWsLA21CdIJa0GM7oBGpnQjMnmniywHLboq/qJT"
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
         "name": "Capitana marvel",
-        "uri": "f+C7v4grf+D+3KV1XoLEP2i/RgwmVSc8ff16jsWSz2xdWO2BPp2FX/8KH82HMKrjjZmwPEnQHU1pe6w4cp4dRw=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXX+AUlPJTnRgfeS2h63FqjHvMv0nrDjvNob/sZwzRGweTwQOT36kpQCMSDbLJ7bkU="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
         "name": "iron man 1",
-        "uri": "f+C7v4grf+D+3KV1XoLEP0Cm8JMO4GttAosOEKKjHDFUguByMde583z3SdMUKAF3dsAi5pAy8Qhqpoh3YpM5C05Q+C4Y+07IFO4qQqALGM3ECd/7uzWuE/O6/uJmLzR2TFWLMJ8Vc134tI1vTDW+rHWMOm5Qyr8B2MnA/tSn6m8="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVADHTvFb9QUIwOA9NoICvFyeYJVmqwJ+4q+XDu5EQMLg=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
         "name": "iron man 2",
-        "uri": "f+C7v4grf+D+3KV1XoLEPxsaVQn/80qXzHeqAyNrtL/8Jvm/28ymLYUkFJ0vJAslwS/vSLVJ2hWXmGkizBXPdCh5t2MlzOTUBwGbnpT2QNC9ljiVOJiNLZJ87+U5JVy6963EbX3s0WfCrv2HVYDXPjoyi1PXOiVlwJLpGUQ8OLk="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUfihwEZdmXC7Gxtf2KsuILWUTYRnWnOCKDeuMw+ypXRA=="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
+        "name": "iron man 3",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozU+Ditty6eZCMgVkwePjilsRhZXY7VL9Exe0sKJ4VAPOg=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
         "name": "Thor",
-        "uri": "f+C7v4grf+D+3KV1XoLEP64FU5/7BvQUdE7UqCFFWbcaBnum1S7VGX4p43VJRm66VAp6lR0LtlN/vJra/Wnqrr7SM/ZYizhUvWrqD01X4ZzG16pwCeAxXvn6IO61XSlsnsii5kJURXvtqWPn3rjt2T03bjOep+lRhPdq4p2gm+I="
-      },
-      {
-        "icon": "https://pelisimg.online/cover/the-avengers-los-vengadores.jpg",
-        "name": "Avengers",
-        "uri": "f+C7v4grf+D+3KV1XoLEP0bjyCEc/4DnP83TAyK1Kn9V7qUui6kJodchGPo409ZvIG5KvvohLcDlP8rpL0dfhckKJnQEaPfP/bo7fcm7KcDHSDkjYKiKEWVlvkVLQKEaPkm4wTI3pA4ErMlGTPBWxOH0wqq5OQJqTbUxrYVJjVE="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
-        "name": "Iron man 3",
-        "uri": "f+C7v4grf+D+3KV1XoLEPyMP2AiXJkDN7rVwsLBPKFOq4gRNJ2CktYUF+BWkfFvgMY4zytzIQ5y0v0VoYXRdq0J2aU3Y6fLUUjBuFNSstZ3U4Hl2EdbexntmVZgyK3Mo1rFdYmq14d/qa/VC+n9nCT03bjOep+lRhPdq4p2gm+I="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXPFuHMmsddUMZVWLunlBklWrwTeYv9uOQbCFefmWvlcw=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
         "name": "Thor un mundo oscuro",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK2Zaebe2Ohtf3M5n6U+K0U7A9pToSbo9U1coFWGifRXm"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXhIZKM3WJqWmUG2c4RuJlvmR9kCED5WvqRQQ99cqFZ++igq43qPyK/WhddYrRSeBo="
+      },
+      {
+        "icon": "https://pelisimg.online/cover/the-avengers-los-vengadores.jpg",
+        "name": "Avengers",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUo/y/a3s8ede1cAkFC5qAg23gyomedMUMXMltMbrgKgg=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg",
         "name": "Capitan américa: El soldado del invierno",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK6vBYJe0BVxqwt0fdw2TDLSOHqHfWFyLov47lpNg2A3wl+pfbX87J+kkVIwhbaz65g=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVlZ34VbYgL6yoNE6QNKh8Z6SAh5By6WLFOhXJ+nwI0NxNvEmrTKdYqWSh3h6xfiKpEvVpQUSO7MY/FpWytxA3z"
       },
       {
         "icon": "https://pelisimg.online/cover/guardianes-de-la-galaxia.jpg",
         "name": "Guardianes de la Galaxia",
-        "uri": "f+C7v4grf+D+3KV1XoLEP5fKdiPD126xqW+tYvJEXQUDuKegkBkCjlazvrzEppBObRXyMFJFoyUFV4M1beJr2+53eCS5CiYGk783SqnT+gd1CqQVLUGI5CKr4Mmdw8UECQbb5DPmorUQ/Q1oJWNvfmDKypwL6wVyc9I3JKhYarY9N24znqfpUYT3auKdoJvi"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozX8kJ0IurCi+QrHddH1wx+0aoqgxPwd89Q6JzIGW5aNMn/8hkCfn6dzeHqxQs9ZbJc="
       },
       {
         "icon": "https://pelisimg.online/cover/guardianes-de-la-galaxia-vol-2.jpg",
         "name": "Guardianes de la Galaxia vol.2",
-        "uri": "f+C7v4grf+D+3KV1XoLEPxiEcqeUK3M3L5e4qt+NGEltXD4KScZmknR0K+WMu8zbbaYshRVm/jMdC485OxW2CpJs5NtqPu3cosDtcFrxcel3yaptqhvC3/nXValkod1mn5W2v9lbJhcoWGF+CVqAduxKryaNl8Z9Il1xxTbVtiQ9N24znqfpUYT3auKdoJvi"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozX8kJ0IurCi+QrHddH1wx+0q/Hz8BeG+zCPD4nd8MVkdpj0+Df7V2Sag55jLLz7KLo2/C7RJMUYUOt4rCUkl+4k"
       },
       {
         "icon": "https://pelisimg.online/cover/the-avengers-2-la-era-de-ultron.jpg",
         "name": "The Avegers 2: era de ultron",
-        "uri": "f+C7v4grf+D+3KV1XoLEPyn99pm8lWcUznZ7p+wongBw7zcSsXoePL2laOLxBJDZu+InDSFHmbRXUq+/Q/hoKg4w9ODbdiWACjO/sPT4kuPHYmCy9QsnWguOCVJH/verF31V/6bnfvoiQq+bd4wWNGzocdFmnZS5fbaocuqkYuM="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozU6ZjjhxmqL5eTZimC21dgvDcYsEnErMWygoWWxSlfkoWY/88i+iy6IrZD9IlrLhpw="
       },
       {
         "icon": "https://pelisimg.online/cover/ant-man-el-hombre-hormiga.jpg",
         "name": "Ant-Man: El hombre hormiga",
-        "uri": "f+C7v4grf+D+3KV1XoLEP2N7ersk8gPJLPuCzCC0rxd/9QXy7xYWpK5n5UFnqqwtnYrLKN4yLJbsYWJ/dMJ4+AsrzCTGOQGoXXpsUdzIxm0aI5RFvqItH6qPs/kDzmJSTYATZ49uDUi2Pv0YFIzVkaFkWLaHucHjt1Wljjv0Qz0="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW9oZ3NkWIKiIoItklmZZXhXfLYtvjDARiA8BZh2RWMMQ=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg",
         "name": "Capitan américa civil war",
-        "uri": "5/tvCXUmcT2NjZEkUqLkKwbYvAIPRnHQOxy2gqXIbqS8fAJmUewl5GbdGzptwtiHBTmD1NqBvh7VIcoPV/46Ww=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWsqQqNcKKezt2Pww8V4YOCsJagNIbn2aK7SQD63qVKE+igq43qPyK/WhddYrRSeBo="
       },
       {
         "icon": "https://pelisimg.online/cover/spider-man-de-regreso-a-casa.jpg",
         "name": "Spider-Man: De Regreso a Casa",
-        "uri": "f+C7v4grf+D+3KV1XoLEPxDX8Nrs744HL4xfnowODfqdaDlzqCcbz9q/tkkylmFtA8BY7ArBENGPDC9mmzp0Wfrbh3n3GWO0KURRuhMKI77aonKw9bEdz8XOWPrtPffkpQ0+Toov9C52PtLzARln1DeHBxPVXHnKDU/epFlTDovZSqHZdlOrhmcB1srgGR2o"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVDaSO9BUyPmO51rlMJ60MLg61318pbpRKlCcXCNdtaLcWAMhGcxlr3xuobIcHvvMk="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",
         "name": "Doctor strange",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK9Xi07P/mJOwkAsDdblJQTgcXd1pmF3ix0dyrxbj36kxl+pfbX87J+kkVIwhbaz65g=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXaYHml16f+YOZ4qsDlsygaY4YfZxgxgJk7mwqi8CO19JFKBWFWt/fxfnsALW2+9gs="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg",
         "name": "Viuda negra",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK9pAni44kAITcROJOjE0iwMhrRqaLoVLJu3OpwPHK3zr4aNMETjlQgWoAp75fw5OPw=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVkfbxXgMlbnM2z2Yb12ZKNRHO+RnkA1dkTOY6nWNE3cw=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
-        "name": "Black panter",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK97lbeYMy0L32vG4zB89ZtOFITPknFLxAULHncOLfEkSOBtpFBcljdd8SoXnaAasdDb8LtEkxRhQ63isJSSX7iQ="
+        "name": "Black panther",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVpi7lPFvwtg25o3TbuE1wwaXR7DyK3NbGyRUuaKcOIVzb8LtEkxRhQ63isJSSX7iQ="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
         "name": "Thor Ragnarok",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK2pcCesN5VGtMJVxUmwht4qYO6qDQftaUzQJLThqrLaAxi9suIHjgf0kTM8RMLiY7Q=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozViMBOUU2MfvUQvh3QwlGkrmPT4N/tXZJqDnmMsvPsoujb8LtEkxRhQ63isJSSX7iQ="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/lwmCdtTvjnJZK79JKYkzkb0MFOP.jpg",
         "name": "Ant-Man y la  avispa",
-        "uri": "5/tvCXUmcT2NjZEkUqLkKzfd2gkilXtNwtmdo4CDeaVJ9XD/vcJN7nfeUuOBD/yEA9ZZFhO/4f0LnFSoFtkJv2ylnmSzMfPNLHCOnlS0x0X4sZbZumaA0YYVKVpEpV1PoI29ckfb1O/jjpby/yqOkA=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXpYB+i0yncukCz3c2y4ZEgWZ0eRGwZDKlxI6RqCzag0rcPmBd26jPXS7zrvomfNM2X6l9tfzsn6SRUjCFtrPrm"
       },
       {
         "icon": "https://pelisimg.online/cover/the-avengers-3-la-guerra-del-infinito.jpg",
         "name": "Avengers infinity war",
-        "uri": "f+C7v4grf+D+3KV1XoLEP0Mi/x5qs21Vw4wO6liUyqSlf/6O3SHfbxQxX2yEd6v1u46fiH3ndrRcVhVcJN8l/5C3l/njCkKNULIcKgWCOTpdW1Ia50BoAfG5SzAMosPorFWzSRbzuhUtIbFkI5srG+H0wqq5OQJqTbUxrYVJjVE="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXfRuc6ouHoKWPde5wW+xsmilvtG9+uLer+O4zTg/vN+sWAMhGcxlr3xuobIcHvvMk="
       },
       {
         "icon": "https://pelisimg.online/cover/avengers-endgame.jpg",
         "name": "Avengers end game",
-        "uri": "f+C7v4grf+D+3KV1XoLEP4hfS92MFcy+2NoA2C/pKSGWKiCg/EsSM/61aAWBcc+YIiHXGXOmghC8uxwoUYSc+unU/iIe04jzX8Lq0iJiZxoQXRrd0U2kYFfX6oTvGRBMTDAjMsuRpaoynZxJ6nxyK9lKodl2U6uGZwHWyuAZHag="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWvNJsROwKwRtzKr1rYEB0oPRKrl1MhoylF6rUPrCh+VJfqX21/OyfpJFSMIW2s+uY="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/3j7u3lqe2WJOlh9tEKHcbSMCBmW.jpg",
         "name": "Shang-chi",
-        "uri": "f+C7v4grf+D+3KV1XoLEP2DAWTl5mCzzlcqL9Sq/w2sKNBq3MU/scaICrRC43fZiKz2DQp2c/4Sji3CdWEAaSw=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozX566xq49z1lmWy9KtvG3FFLh1xy5WnaEA5kUhLg5d2MryQL09Lmf0oIFGINuF90if3o8961g3NXgg1BiWbzOdO"
       },
       {
         "icon": "https://pelisimg.online/cover/spider-man-lejos-de-casa.jpg",
         "name": "Spider-Man: Lejos de Casa",
-        "uri": "f+C7v4grf+D+3KV1XoLEP8mjqKoP0le+nxY7xkfSFXGYDDwxCyC8eO4FDCr/f/WgOefC65O3XRf3S/cs0jbFkzAruSuJ5ZWKWm/Be7yEX6pMjFGb4St2N9BLl5gs7dt6yJFo/5FgAmWnuAJnetTIwwCvg1r9rummYwAc3b9EKaQ2/C7RJMUYUOt4rCUkl+4k"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVNRa4LwjQQ9kbubA3moc+iZLrsuh4vjWvRU4tM6HutUoTjt7aj4E91GdhPRRdilN0="
       },
       {
         "icon": "https://pelisimg.online/cover/spider-man-no-way-home-2-1639761997.jpg",
         "name": "Spider-Man: Sin camino a casa",
-        "uri": "f+C7v4grf+D+3KV1XoLEP2c8S71wv3MhMeLZJ/kGVkUa5i907JOvTBHHF96kKOh43vo0h50Nm3H8eD4tUraHIw=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVuYGocURiJGlhUUUvVLnfriW4201Jrlu7/ZKoc1GdB5swiOtD4kw9csPXomGkfEXo="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/zp85WEn9YKM3Cajk4m4ZDcbCHpp.jpg",
         "name": "Eternals",
-        "uri": "f+C7v4grf+D+3KV1XoLEPy3S4Mn7x1bcgq08gp9pU2LnLt69Dg5XAhitG8xo/AXtaDk034JEQm3yS24YGTy3gQ=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW/GkzWuVWHS9PQUkh18fIzhOO3tqPgT3UZ2E9FF2KU3Q=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg",
         "name": "Doctor Strange en el multiverso de la locura",
-        "uri": "f+C7v4grf+D+3KV1XoLEP2NrY2k9u4dTUR3yc7j7FAGcr/ItWxatfBP69C0HAKwppPdLpcC777DhTTgiLCjlTy7l/B87U5Rwplw3uKS7WXs7ZEUZZuyzKSuA8AV4SLwRNvwu0STFGFDreKwlJJfuJA=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUDLOqp/V8dIfz3SKFdKhJjJY/gp4JTG7213DBnUgMzOPNnnEi7ES8fXzKJq0R/CWCOMbEncbCk7GOVpo8Z2YXU"
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
         "name": "Thor amor y trueno",
-        "uri": "5/tvCXUmcT2NjZEkUqLkKxK3AbjO7dqjp7+/Re5mCkAlB8yIXafUV9xSo5IfEfMHqT544wEGXhQV0DJ8R+ADAeigq43qPyK/WhddYrRSeBo="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVFLgEqZSN9dBXdEeTIg6dsQpopfK9+aziK059C2O8K0ES9WlBRI7sxj8WlbK3EDfM="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
-        "name": "Black panter: Wakanda forever",
-        "uri": "f+C7v4grf+D+3KV1XoLEP40viZCAUF5Ow27YBFc7hzOaQHXs5q+x693P0PuP3shlvX4dx2vABIQS6/uyOVjN1VFJ1p3cBY4C4UEBQ7vzavCrQPKMe35S0NouDfq897GawoE+mYmjJsPQQW+56C1jcMKiM1m4qf6ScQJn776Fp0togbILKpmTwYGQ/YyH8rZU"
-      },
-      {
-        "icon": "https://pelisimg.online/cover/ant-man-y-la-avispa-quantumania-2-1678281003.jpg",
-        "name": "Ant-Man y la Avispa: Quantumanía",
-        "uri": "f+C7v4grf+D+3KV1XoLEPw4gj76zNkrzFLMbmL2MOErk6YKD7/JnsM2OzlJckE/UGrs8XjxmVsPQPwv/9xrqYjRZUg90J2gmj3WFu0pQ7O7SRpwn9fvVi5GFSIhxgmz80BL6my8vhBA36zr59mSmhG/vHmq036pFdZlrNLGXOUM="
+        "name": "Black panther: Wakanda forever",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVpi7lPFvwtg25o3TbuE1wwrB0CfzTcI3d/mS1gUoKlPfWGMpiBfk+y+4obGORlKAQ2/C7RJMUYUOt4rCUkl+4k"
       },
       {
         "icon": "https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg",
         "name": "Guardianes de la Galaxia vol.3",
-        "uri": "f+C7v4grf+D+3KV1XoLEP0imgDZ0tHfBlkoH8FsAEu4sQSUzuBOzv7mJnkjeq/cO3oBAdD75av1pMyc9cxghqw=="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWfoILU6mtxXHI8flYvPGL5FL+/7H7Bi9MqJsxyhmuqa6Xxt7iYZ6/sptChOpImafPk8EDk9+pKUAjEg2yye25F"
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
         "name": "The marvels",
-        "uri": "5FSgSsDC6nVpPZRfqN9COO2Mfqn/r5aPJADYremzX6g0q/qdOR2zIfcq9EeahMHEMfgzaMRrhbsN60PMJyz8ActSeSvGMdXoqBe4JiAN/+WPJ9ct/PfvN2q49GP64npF"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXVMSsLvkC0bkPQPGUjGHAduaMkZHKc5vLDvLci1ZeyEA=="
       },
       {
         "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg",
-        "name": "Los 4 Fantasticos(2005)",
-        "uri": "f+C7v4grf+D+3KV1XoLEP0eF5jt+HJ+yu+wDgCxwiqZUBWjszsyuoJdF+FgFuE3nE5StctqWcNC247mzq1svrBSV9i8UkuNPj+9POekzBhesvqr5S6j734qsjTf8f+CljvL4TGt9OxDHn95B4XEAgdQCvg1V4W5ZoE8aGYSNlD4p9fb/I+saA27JYgFO6x7NdBPKCWJ/fJ45HPWzp6NrtA=="
+        "name": "Los 4 Fantasticos",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXOHOVwmIu3Br+UYXwMM8rUD8lebbdvPq/nkF5w8eidgOigq43qPyK/WhddYrRSeBo="
       },
       {
         "icon": "https://pelisimg.online/cover/el-sorprendente-hombre-arana-2-la-amenaza-de.jpg",
@@ -3507,9 +3441,9 @@
         "icon": "https://upload.wikimedia.org/wikipedia/en/8/8a/Bloody_Daddy.jpg"
       },
       {
+        "icon": "http://185.192.124.243/images/517ed471e65f103b331471a7799cb6d6.jpg",
         "name": "Megalodon 2 (2023)",
-        "uri": "RQ1riwqZVpg55yEac28xoLUuS9ttnQSmsNxAV5As181a5VFQ1N+l9qHe688q3LCk6fDj02zlIruYz7kFeqdQAA==",
-        "icon": "http://185.192.124.243/images/517ed471e65f103b331471a7799cb6d6.jpg"
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozV2hUNj5quw6K3wKikOU8JraXJyNZ3BObEMpUvzcW6g6Eqaz3OzLQNh7iyXOgZ6FSI="
       },
       {
         "name": "Los Tres Mosqueteros: D'Artagnan (2023)",
