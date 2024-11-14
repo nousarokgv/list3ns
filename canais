@@ -155,6 +155,14 @@
         "icon": "https://i.ibb.co/RT2dTYB/el-trece.png"
       },
       {
+        "name": "Telefe HD",
+        "icon": "https://i.ibb.co/44C35b2/telefe.png",
+        "uri": "zpG4WdiXTI/yQAE9BRKckPYkMgWwo5VGunZY57ahGYjDARpfi2L7eJnAcfa8Og4463C0Gh6zw3b9eTrgV1Z+gSmPXXzGc7K7FIsmu30VDBQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQjxpDijgzLekxvFOv0aG2xj",
+        "Referer": "[{\"Referer\":\"https://web.app.flow.com.ar/\",\"Origin\":\"https://web.app.flow.com.ar\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36\"}]"
+      },
+      {
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
         "name": "Telefe",
         "drm_scheme": "clearkey",
@@ -162,11 +170,12 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gFfEJrOkc4GvICi2jYHRyMmT1V5vSz+pitEMuyj1h42FS7d6MREjDrluoKDnsGr0ZeQbZ4Fhqf3dLTXZ4EokMJW2cb7ZicQ93+vUCjRNG/11FxkJy7CDuGfWc1CEgxQgFQ=="
       },
       {
-        "name": "AMERICA TV HD",
-        "uri": "CcDcgbisVF9arau+FuDtk5LQEPrlzIp6wuWZKPIyRzgsBdw/Mg8n82ji7524yeYtHjtQfnHT3Fpo+5rZX66CtPdyKRT21QKCa/+70R4e6tU=",
+        "name": "America HD",
+        "icon": "https://i.ibb.co/cNXpgSJ/america.png",
+        "uri": "zpG4WdiXTI/yQAE9BRKckOOOWUAWXt1i8zh8bl00eGAM4Sr3kQ+UdoNog+HJdo2kiI19fjqwiV4poZBX4AoWMsd7C7l09voJTmjTgDFduwo=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gDAK8BvXtkMQJdhrr6f+22UxIiCh9xkWgc9zcr+yVaFbBVXoZJGByCrRekFRLTc7R+lIaWhuCiywFm03bUQHFd+aq7zE74hjSBNEbKOzjZ+/e0IqcgUwpSRTW+B5ajjwQw==",
-        "icon": "https://i.ibb.co/cNXpgSJ/america.png"
+        "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQg00l1ixc1sUa+0XDph98jB",
+        "Referer": "[{\"Referer\":\"https://web.app.flow.com.ar/\",\"Origin\":\"https://web.app.flow.com.ar\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36\"}]"
       },
       {
         "name": "AMERICA TV",
@@ -771,6 +780,13 @@
         "icon": "https://i.imgur.com/Viwl0AN.png",
         "temporada": [
           {
+            "name": "ESPN Premium HD",
+            "icon": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+            "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiOCmlES/I+ZN+ORs1mS0/j9r+sMuYN1lctQm6ei68UcxsqgQ7eeZf2rN0JUdB5SFd7M=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQhVmGiJjXR7gKCq+JvZdGK1"
+          },
+          {
             "icon": "https://i.imgur.com/Viwl0AN.png",
             "name": "Espn Premium ",
             "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hOV32ozzpHpDWEMAZlPkNRrA+SbWmDFbjt/iSXnnch0PfXIkQRGonVuG8UffpsdM9r721vmS26+75QoMZeQMq2f84HvdWBL3Yajt/QothHag==",
@@ -791,6 +807,13 @@
         "icon": "https://i.imgur.com/adbeH2W.png",
         "temporada": [
           {
+            "name": "TNT SPORTS HD",
+            "icon": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/800/542/0/0/66716161073984.png",
+            "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiODy8mkoIPgcjgl50yaUuSaEiLyQbJoIab7L0IZO0yLy9sd7C7l09voJTmjTgDFduwo=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQhjS4frS/ToYezd2irHIWBINvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
             "icon": "https://i.imgur.com/adbeH2W.png",
             "name": "TNT SPORTS AR",
             "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jPlXg2XS+UqWaA+ClBjEuivCn+Lw8G2WiP0w2L7JH7haKScjbJVQIcjYlFwGLcQ4rPm3F6z6hSnqmcj88SfEgp",
@@ -807,16 +830,18 @@
         ]
       },
       {
+        "name": "TYC SPORTS HD",
+        "uri": "lLwb6aQPSXjTkV3kpy6SKMKDlhUHuJOOWss3T8zqj8jXbtqKObYzaoc7BPK4csbPx7hnhEWzb5raMI5kHZyQnjXjspP0jZIoKuBIHJXRNJA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQhBDudAlCoC3ov/srjS6E1j",
+        "icon": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+      {
         "icon": "https://i.imgur.com/ZJp4DBE.png",
         "name": "TyC Sport",
         "uri": "HGqu1Kxmu21DgmpR+7xaZC9zsryDRKKrw+DigIYOjxzNs0xaD4xP6yCyuX8WGoGwOXncdPZhfVtdyKBNOZ3x72QBHbsOYMZ4LFJeRsFjkOnjcYQCxlFYjOjhAz7F/REt",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ7i3zKFu7upzAdV2Z9CiCdTgwN6grvhqB7w1X4H9EOplR1zbSrSOsbmae7EcKRX3Lac64RpUP94E3S+dwkCY8nuLDRxwUjlyD0xz5WpafbUI34GKMqms84kQi5D7ZcrcA=="
-      },
-      {
-        "icon": "https://i.imgur.com/ZJp4DBE.png",
-        "name": "TyC Sport",
-        "uri": "CsUWjy8LGI/gLeK7e1I03cDsshRVmsH1anhTo2Tq3Zys1KMBxymgNLZ9Sw5ADJ+k"
       },
       {
         "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png",
@@ -831,32 +856,6 @@
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gN/skNAQG8RwoVASaZY+BAAo+sDKsMS9di8W3JzgR9/RUZvvu/NraAxqDm4pc83SwATwBsLZYJ5VcaGHXDiQ2B",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gOOgWLtGDQP7UX1Va4FhJA6L8RRgc9u/NL+EeLHZJkQ6K4iMkz+i0x7rJqTIaTulTUzTL5vK4zgZiNqHqHbWq8yLC8I9Pl9crQEXguyuZLn4qtyzN7xjH30l7JYe3GDuZA=="
-      },
-      {
-        "name": "La Liga",
-        "icon": "https://i.pinimg.com/originals/d7/5c/81/d75c813f06766ff9a07dce67afa081d7.png",
-        "temporada": [
-          {
-            "name": "Liga 1",
-            "uri": "wpot+S67BpyqMTrJYB+pHHkL3SE8Q8n6yqzfOrkkKSdtYZhOuMTxtV/D8jDbgVG12/lIQZbUVhySd4lymLPBDjdDhZIF0YOkAKIHAVp0Kfk="
-          },
-          {
-            "name": "Liga 2",
-            "uri": "wpot+S67BpyqMTrJYB+pHCmNaHuXKAr+aajLWR2axS41jA/lqO6HIY+GWXicHPT6VkcQq5cV/21PEAp2Zk5S7zdDhZIF0YOkAKIHAVp0Kfk="
-          },
-          {
-            "name": "Liga 3",
-            "uri": "HuVzBsKlHiBElnrU42qGZSdn7hGQNyBj3uylTAelhehAyme61pn0djQQnDMCU7AssvdJkgbp1R10kdAIDSij3TdDhZIF0YOkAKIHAVp0Kfk="
-          },
-          {
-            "name": "Liga 4",
-            "uri": "HuVzBsKlHiBElnrU42qGZR8XQIjhp4pnVGcIVFb+kkRAyme61pn0djQQnDMCU7AsxCypwVZbOBIlhivaTYMJLjdDhZIF0YOkAKIHAVp0Kfk="
-          },
-          {
-            "name": "Liga 5",
-            "uri": "Bt+2uZTeglkiivQePGzMaOTYJBISD84uqinP7VkdIwbI0SRImFr1fHg1hP8UCmtJ"
-          }
-        ]
       },
       {
         "name": "ESPN",
@@ -1463,6 +1462,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "MÓRBIDO TV",
+        "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiOAXmSK7WpT5fwnCzyFzhvRTh6qxFKVqpjEbDVFXmgy1fdI9bUWf0hIlGXruip0TN9A=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gD97N2CJy60LBFUUvThnv5ck5PZo1ShIuRMC/g4kdT6eBIoM4POPkCyWnx+KzvajHNfiZtWZE8oxB1UUbEYQ1FfRNBeORE6dI8bQc5rNaJ1sZTD+kAz+shwZEcC/0fpkng==",
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/1816/CH_LOGO/800/542/0/0/38444071074991.png"
+      },
+      {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
         "name": "Golden",
         "drm_scheme": "clearkey",
@@ -1851,9 +1857,11 @@
     "mode": false,
     "lista": [
       {
-        "name": "Love-Natural",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/284?cb=20220303220459&path-prefix=es",
-        "uri": "NflBUC/0i0rJ7LT2PbZxrCOrV01ly6ipYc0Vs/O7w/yK6asRXfUHEH9Ac5B+G1Ut"
+        "name": "Love Nature",
+        "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiOCM2hvoGuPmZIukabtSmXdhjVPYkdU26N5EpfcA9QI7nDXjspP0jZIoKuBIHJXRNJA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQidZzV0sZFzL3NFliQqecnnlc5BKqM5PSvIaYupn19sqQ==",
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png"
       },
       {
         "name": "Gourmet",
@@ -1980,6 +1988,13 @@
     "name": "Musica",
     "mode": false,
     "lista": [
+      {
+        "name": "ALLEGROHD",
+        "uri": "lLwb6aQPSXjTkV3kpy6SKMKDlhUHuJOOWss3T8zqj8iUPpAKRsXHVLUpYIt+RYNpx9L/URMNjblX0wHPxVFlXCmPXXzGc7K7FIsmu30VDBQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQh2N31dsKhDn9qyaZd9JRs9",
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/3602/CH_LOGO/800/542/0/0/67158822073439.png"
+      },
       {
         "name": "Flowmusic",
         "icon": "https://television-libre.online/img/flowmusic.webp",
