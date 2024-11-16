@@ -4,16 +4,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://i.imgur.com/FV5uLTe.png",
-        "name": "🥊Mike Tyson vs Jake Paul🥊",
-        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxY+Q/1FeDsRQcVpbRTS1M+PIawgb5Qkh7C2yFuVQ85lxQ=="
-      },
-      {
-        "icon": "https://i.imgur.com/FV5uLTe.png",
-        "name": "🥊Mike Tyson vs Jake Paul🥊",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiW04N6jFR4yN7KaRdXZxbRbg=="
-      },
-      {
         "name": "Movistar Perú ",
         "uri": "2Mw7S3bKS6SsYmomdEREZo56/6Y7Gih0Xi/WkGpVs4GjCm/Z0hxjf2kw+59EpsXC2rhMNfQl0P826A2L/J5DaA==",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/5/52/Movistar_2020.svg/revision/latest/scale-to-width-down/175?cb=20200616003208&path-prefix=es"
@@ -809,13 +799,6 @@
         "icon": "https://i.imgur.com/Viwl0AN.png",
         "temporada": [
           {
-            "name": "ESPN Premium HD",
-            "icon": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-            "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiOCmlES/I+ZN+ORs1mS0/j9r+sMuYN1lctQm6ei68UcxsqgQ7eeZf2rN0JUdB5SFd7M=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQhVmGiJjXR7gKCq+JvZdGK1"
-          },
-          {
             "icon": "https://i.imgur.com/Viwl0AN.png",
             "name": "Espn Premium ",
             "uri": "HGqu1Kxmu21DgmpR+7xaZAMxVwirNR2TrY6xUoSn7YipKtysYJLci0RX5XlNDK+0DjfXj0O6Xit7GiQKT9AHU4HurPAMXzRSDMjZP9cnGVCPvHofUZvfqJtPRzgHhlNxGYdln9cDeDpzSKrWkayRidI9bUWf0hIlGXruip0TN9A=",
@@ -857,13 +840,6 @@
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gDLDHth2MI/K9WEocNCBas0+PCox+gAxnvB+TqlP8h7HRod8u7jIw6771KYVSlzzeqxZJRVHz/ELoHhbcDmJ1gpmS3KX9iisGsZZaYELDFJcYyBgHh61omPEwgWNkkB1kg=="
           }
         ]
-      },
-      {
-        "name": "TYC SPORTS HD",
-        "uri": "3ZPkd9bnBidxgWeQwNKGRpV376Gz0FNa8e5q+9Bu4Z2jA/jn1LHvzSVtvdiR9aR4JDDQz9c1OCxRkvchjTR3eA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ75ZPnh4BqRnA0UgNH1Wz351fBZhhS2yDKBiGYVjtyh3WexLD48G6nbS73oI0zrv0PRS1uNsBlyH5DiG+ZN2gyLXMJan/eamgfl/FsUUUP8TUGBWygwsKXMSlTV/1GhgA==",
-        "icon": "https://i.imgur.com/ZJp4DBE.png"
       },
       {
         "icon": "https://i.imgur.com/ZJp4DBE.png",
@@ -1491,13 +1467,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "MÓRBIDO TV",
-        "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiOAXmSK7WpT5fwnCzyFzhvRTh6qxFKVqpjEbDVFXmgy1fdI9bUWf0hIlGXruip0TN9A=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gD97N2CJy60LBFUUvThnv5ck5PZo1ShIuRMC/g4kdT6eBIoM4POPkCyWnx+KzvajHNfiZtWZE8oxB1UUbEYQ1FfRNBeORE6dI8bQc5rNaJ1sZTD+kAz+shwZEcC/0fpkng==",
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/1816/CH_LOGO/800/542/0/0/38444071074991.png"
-      },
-      {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
         "name": "Golden",
         "drm_scheme": "clearkey",
@@ -1887,7 +1856,7 @@
     "lista": [
       {
         "name": "Love Nature",
-        "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiOCM2hvoGuPmZIukabtSmXdhjVPYkdU26N5EpfcA9QI7nDXjspP0jZIoKuBIHJXRNJA=",
+        "uri": "zpG4WdiXTI/yQAE9BRKckABNU6wNnaJ0BW8yqM8BTLf0YuTZily2/bN4bUT5tnO/fXjlmaoiBjrREVKamcOVIA==",
         "drm_scheme": "clearkey",
         "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQidZzV0sZFzL3NFliQqecnnlc5BKqM5PSvIaYupn19sqQ==",
         "icon": "https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png"
