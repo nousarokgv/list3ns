@@ -4,6 +4,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Evento Uruguay",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IopQ5usMXM4z4Bvxx1hbeJ"
+      },
+      {
         "name": "Movistar Perú ",
         "uri": "2Mw7S3bKS6SsYmomdEREZo56/6Y7Gih0Xi/WkGpVs4GjCm/Z0hxjf2kw+59EpsXC2rhMNfQl0P826A2L/J5DaA==",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/5/52/Movistar_2020.svg/revision/latest/scale-to-width-down/175?cb=20200616003208&path-prefix=es"
@@ -819,13 +824,6 @@
         "icon": "https://i.imgur.com/adbeH2W.png",
         "temporada": [
           {
-            "name": "TNT SPORTS HD",
-            "icon": "https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/800/542/0/0/66716161073984.png",
-            "uri": "nB6TLZpY35PgtPctCxEKGMCQnoY4tIMnCMMwhdmDiODy8mkoIPgcjgl50yaUuSaEiLyQbJoIab7L0IZO0yLy9sd7C7l09voJTmjTgDFduwo=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQhjS4frS/ToYezd2irHIWBINvwu0STFGFDreKwlJJfuJA=="
-          },
-          {
             "icon": "https://i.imgur.com/adbeH2W.png",
             "name": "TNT SPORTS AR",
             "uri": "HGqu1Kxmu21DgmpR+7xaZAMxVwirNR2TrY6xUoSn7YiysRtoLA8GQyPzAbffMDlYmWu8lkBnGM0/kakYLcYXXnUl1vgsDCMvGR8ZQWeg6ogH9WheNh891gbdN990qYk1rRDV2QdUpkFsQ8NvVQQ2+Q==",
@@ -1474,13 +1472,6 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMMF9npoDBgjzSTkQOZq5L2r5dvzZZLRbIPJfjmILTBWxchR+Ib+1hIBYvnArdiLH0Th0fWLEsInIebAijTMocdHltPeKG6+n8jR1TWqoER0O74g4YUjK3nUgIeOJB03pA=="
       },
       {
-        "name": "GOLDEN EDGE",
-        "uri": "dcD6xYt42ZspxEG8NSb/YQ6lSoJiLkM1xsqNOxtYIJO9JZJ7OvvcJYscZlIYgvc9QvBEI7iGbn2rwQUXaHSqJcKxCM5OIjh2a2zNVCP09BPHewu5dPb6CU5o04AxXbsK",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGHYhR95BOlGCayfBHH9DB4+QvEAItWB8FFc/lWCH358PKSlxTM3Ys9rb/k+DfijjrOemU/3hmGf5fU6ZP8wPotsdczE8GYuaJ2fOKnHtGF/sGfHsjAdUZatBtDvYXIvww==",
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png"
-      },
-      {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Sony_Channel_Logo.png/revision/latest/scale-to-width-down/250?cb=20190822193846",
         "name": "Sony",
         "drm_scheme": "clearkey",
@@ -1855,13 +1846,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "Love Nature",
-        "uri": "zpG4WdiXTI/yQAE9BRKckABNU6wNnaJ0BW8yqM8BTLf0YuTZily2/bN4bUT5tnO/fXjlmaoiBjrREVKamcOVIA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQidZzV0sZFzL3NFliQqecnnlc5BKqM5PSvIaYupn19sqQ==",
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png"
-      },
-      {
         "name": "Gourmet",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest/scale-to-width-down/230?cb=20230410230610&path-prefix=es",
         "uri": "HGqu1Kxmu21DgmpR+7xaZAMxVwirNR2TrY6xUoSn7YgDrfcHOujlunolVAQwUpFutIsDe792+e/vYK7lbummtagC1Ll+JxKiKnyt+lIMnjaQvA6KG7VcV6/OK8sWaCvM",
@@ -1986,13 +1970,6 @@
     "name": "Musica",
     "mode": false,
     "lista": [
-      {
-        "name": "ALLEGROHD",
-        "uri": "lLwb6aQPSXjTkV3kpy6SKMKDlhUHuJOOWss3T8zqj8iUPpAKRsXHVLUpYIt+RYNpx9L/URMNjblX0wHPxVFlXCmPXXzGc7K7FIsmu30VDBQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "P96KRz4Q2VTScuyH9l4oR29/JJhyxp7xkGZ7BEvvDQh2N31dsKhDn9qyaZd9JRs9",
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/3602/CH_LOGO/800/542/0/0/67158822073439.png"
-      },
       {
         "name": "Flowmusic",
         "icon": "https://television-libre.online/img/flowmusic.webp",
