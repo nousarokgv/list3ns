@@ -120,25 +120,25 @@
           {
             "name": "Camara 1",
             "drm_scheme": "clearkey",
-            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63odW0v3Wn077Q14GWQpXp5JoKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1Wfyzrswp0OK9KrMEaNizhFmz0Naag==",
+            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hf1osNzPTeqz06aUo7NJ8HQr9P1l6Q081bGzVAjPrlKXJoFCaHr0C7MYdxzgV3opVJ5IiPiEgpkzfYBw08nvZT",
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHmu7X47S6TbOetHwG3OFbhVwYATKiv2zj9HzrKxVmYZgG+ng2qyVGfTK1c+AtaOR1Yn/Jddtc1zBFgX35qMBSq51+FvZkCWxxuEUMgCRtpwzxr0xMM7uUg3As4ux3OG6g=="
           },
           {
             "name": "Camara 2",
             "drm_scheme": "clearkey",
-            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63oxL1DkIW3oqdZFfgiwlW2poKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswYjQoml4O2I4GQMJCQkE4Yw==",
+            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hf1osNzPTeqz06aUo7NJ8HTJSSgwHM7ESJTI5mXhKOMnJoFCaHr0C7MYdxzgV3opWYl6CcEbontXVagetgDqln",
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gKwq5KMPKp7hS4/ZdLHONnGkAJjHkh33TUKPNtxHP2ZLlVA8VOkYaRfobWI4nHTJd8eHekjYvoId0rOtmeJ2IZP8YLN9P9/UmFySC9VVjZgWbvgeVDnYWpnG+X2YW78J9g=="
           },
           {
             "name": "Camara 3",
             "drm_scheme": "clearkey",
-            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63oPt7afVd8/9+CDPyGHMbj5IKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswoDk8jHh/InAAB79mWAgXjg==",
+            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hf1osNzPTeqz06aUo7NJ8Hh3qDfji8VtUcSWhR0u3YsXJoFCaHr0C7MYdxzgV3opUi+Ais1fQfp76PIz+QcxPN",
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJzXRaar5WzoVhURJXDk2Ag49TW8JuHFwQXcLVByuELpsJBhzel4RJENOQ6ozg4TjRu4JD2cKkIG60Apaw9tV81NrqDuFfh5A7ZWt4qqMscXRYdr5VoUDCwd3oKzAdCW2w=="
           },
           {
             "name": "Camara 4",
             "drm_scheme": "clearkey",
-            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63o92O1n6ImDPRKrCxh9beGUYKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswxbRKNrgzb8AhOnStdHZnuw==",
+            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hf1osNzPTeqz06aUo7NJ8HT5oM6AAsrJ6pACsjCUT++XJoFCaHr0C7MYdxzgV3opXJKZ96//5NB8ZfWdvpxC6v",
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBToF+bvf/1sfCxkb9zSpzRm2qFoqIMPeVFbqenzksAt0w9OvhiYEGQ4WXLv/Cg79lre46G2DcMcff6OX4FopPl3Wag0sfTNOj3S3jTAY2CtxLjxpkAFTay3BHn8LeTHOg=="
           }
         ]
@@ -297,84 +297,84 @@
       },
       {
         "name": "SOMOS",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAMx8hQLUu8WP0KWgkHKuwLlrLpxKiTHa9Nun/aTbmyN5XhAFpaYPxqXp8rOybM8WT7QLid5JxIAcP9sJMXEtWE",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hFdGbAXDC0vVyL/3ODicJpgod81DQDBHOxDZku6daqHFZkaPOWby9HwiCT4MNV5nTSPW1Fn9ISJRl67oqdEzfQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gFmn0aInlUzlv8yLAtYBlLk/yAJGhtpy1fRNaYlXcNZ43gv4Z93xoJKCIgBr8APfPghtpXBFnMPq3f2KXPqzCAAxfa0hsHkH18yLhzmNHk/rPVx1mjoszj7D6I29cfnApg==",
         "icon": "https://i.ibb.co/9y1bXhZ/somos.png"
       },
       {
         "name": "SOMOS MAR DEL PLATA NECOCHEA",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDDxdY4hjIFvO6R88Z6l63oiGT+0QQKvRFNunKPVeb4qoKHfNQ0AwRzsQ2ZLunWqhxn4wDJM47scUuHe/sl7tyfZ2T05z/n3kQz0BiTyLU4jw==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+guVaTEuV9fz/7j3du3Ty1PHr49fGGNQFKhFvx/Nx+RPJw68ZUFLDP1CdIVpcHJpf38aVTomCnvJKd+tkZYlRYF",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ+pwUyMn4GcuxvC4BWf3t0uQV5GKVQapBBhzqJQllFU7ulTpmmOPTFtLNgsXGVwopzwlMg6LqWStrAtLIykn3CMyPlydO6Z7RRbpMalhQpdF1s0KOy2HfBt17x33brUZw==",
         "icon": "https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png"
       },
       {
         "name": "SOMOS LA PLATA",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAMx8hQLUu8WP0KWgkHKuwLJPW6Dy6LTGW9XmawGTnR0803C/CZx94d+66cw0zwmnyywyrVq65+k2ZTNmnTVfqeKY9dfMZzsrsUiya7fRUMFA==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jcOkC4LFD/cMoFXc8OlNXniduweaFyzlGtv3MxN4QfD8B9z2mq7crObO/8/aavakwrw1QR1Xa00WJZQ1lZq55K",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gKODOHaNCsxvzlGFLBkoD9TrEbbsJ9/i23Wf6BUZAVA9d1pG+NfW79oXxyX1/Q7rBlzBoMj5Vpjt6IGbT1kOrgV0DEI+zDx5GL4zn2/7U69TdVXM8kGjV0ULjgT6+hFzaQ==",
         "icon": "https://i.ibb.co/vBWtKxB/somos-la-plata.png"
       },
       {
         "name": "SOMOS SANTA FÉ",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFALoV+UlMZO6UYjGXz+2vyh98d0nNGc7Df9QfBghtxhPkJ6MqEdUT4uScHXbmtn/C9+t30jVobKMegD3yLActUs",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hlz2+beOLL03GuW+mNl2cHzTcL8JnH3h37rpzDTPCafHT0FSh9efVrBi4Bud7b1ZY=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gB7GPadk4yoiv+fPXWbC1Sa7l3FJPVOttjtjdJ39I8OK+RPzov3hCXkh1Cyz6xIgEipuzhFLjEjiYqPF6aQnOCAjxye+4z3v3CI+VNB9UCefeHImBap9h/2C9mwlvsLW8w==",
         "icon": "https://i.ibb.co/jLvNjBM/somos-santa-fe.png"
       },
       {
         "name": "SOMOS ROSARIO",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFALoV+UlMZO6UYjGXz+2vyhXj+tTsODWvq3ISikjDr70U+AilXQIZopjAza92zGbUrc1aRnx/BSPOCvyqVqKq+MNvwu0STFGFDreKwlJJfuJA==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ip+JohYdb55/p7KFa2Ty6SHxJGSlgfsszQOuHtIkcpCwKiZkVo3T7ZOGU8PP5iCnYhNb3vH8+DNdUSdoy2KG1P",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gA5XHiotudJQPvt6yPWc1NnnTS9SGXkQzkiDvR6sxHbPCHAP5dkbOVbvWOIFbIXHjvY6malhnpgEYp1GiGfJpkc97jfRvm1xFxFJd63MI+nyIO5KkwOu2o+keoqVDyyzKg==",
         "icon": "https://i.ibb.co/BCtZVZT/somos-rosario.png"
       },
       {
         "name": "SOMOS EL VALLE",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDDxdY4hjIFvO6R88Z6l63o03/+hHKoKOH9FhHUQ/MPmM03C/CZx94d+66cw0zwmnxKH2MWF0vYskv81aBwGZ7OKY9dfMZzsrsUiya7fRUMFA==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gSCXHExHvH9Os4DpysrpbHikue7l+HjWSu7ZawFYWhF7XG/yX+AgSVJhvFAWql71BJOVW3PwGWeNfN0pagrdRL",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gCKJxbf/JnjLdrpaOW64sVqbipfDq3FTiXEapDy2VNY9fZ9D+Kr9B92a6U2qetqdeuz6kAKrh+hlg1+Fk/A+BufYjjMkOh6q+qHGGehMjkOXWwvAKxxo92USeh250jjh+g==",
         "icon": "https://i.ibb.co/bdxBzMQ/somos-el-valle.png"
       },
       {
         "name": "SOMOS RAFAELA",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDDxdY4hjIFvO6R88Z6l63oIvwbjC4NV2kcmYs4AySlKU+AilXQIZopjAza92zGbUp4qNvqbqgLR+y9bj5C4vA9Nvwu0STFGFDreKwlJJfuJA==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+iGxHquZ/Pd/BrRD5rKivczOnf2JEBYsATQjd4ZJ4ybFHPYFNTVKkOy7iaOttvceTfJthS9aRyhJzIq+xFOXW7C",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHY/xMvABKqkW04CeuSO3KhXR/FlOZndBFuS6e7aw6hWS2PTt1sweHoeaddvDUZTJwzKb+2uDUYywsROOTHH8Zdv2ZPjhYYL2fmhr/ASRAnqAqwnKm2ZLC2iyYppXYy3Dg==",
         "icon": "https://i.ibb.co/b5KqPnJ/somos-rafaela.png"
       },
       {
         "name": "SOMOS SALTA-JUJUY",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDDxdY4hjIFvO6R88Z6l63oKVQDWYyjJopXn3nJL6mrfpXhAFpaYPxqXp8rOybM8WTpG0iezRPWSDRc/dhxq4Up",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ipibRW0FpQEeC1zXtEF+Ztgod81DQDBHOxDZku6daqHMqE6D52OR9r8e0ZbeBLE4/SPW1Fn9ISJRl67oqdEzfQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gF3PyYKQbz8E+85SKap+nHl2lI9jIt82ok4PSoEAD5uJfGfivzjjEk+HFPFk3Zi5LoZM3/z63SxgKzU+szwrpaFg4qfdOjbFgN/vPrWtT/rt/VYK2+UkXerKZ7Phg9569Q==",
         "icon": "https://i.ibb.co/qnXjFGd/somos-salta.png"
       },
       {
         "name": "SOMOS CORRIENTES",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDDxdY4hjIFvO6R88Z6l63owKttweiObwHH44+1Vacq0YKHfNQ0AwRzsQ2ZLunWqhyTlRa1q9q+ZckL+S5bekSufVSIVFSV2pymBTomeZLOIA==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gSbBNWVoyUaSz5zHbzLT/H/hlSx9F5Z2pghBnh4FKe/mDQsujZtYhLmegF5v1Bif93XIfX/7Ul/AQ9dhqGb7kp",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gA+Q/PdyOXPvPVUviqecIJ2aHbSWN7IzohDgIcwC8U9pUeYc/JwT1jO3btLg1BbWt1nztwpcxfklQw8qMd/+VB2pkCoA2cAWhi4th4SRqnG7GMvlbnaTJE7M6xLCnKUy3Q==",
         "icon": "https://i.ibb.co/Jy849HS/somos-corrientes.png"
       },
       {
         "name": "SOMOS BAHÍA BLANCA",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAAOdYncmqOocsA6FwgwBqTGRA6yBbA7gGXmKDq9JMHBV0IzwZmNy4kvX0TmYMmunBpfySXwEvzdkehQAbn+oLouVbXQBc9YuDwaZOsB4gR1zb8LtEkxRhQ63isJSSX7iQ=",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jZQtl4mAmtlVSLupQJPP5/sXZxXyWEuJwKfyPVDvyB5M0wfbax501i7Z/YJxg58GWfFunGdq/mv3oeVyukqVD1ybYUvWkcoScyKvsRTl1uwg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gM314a0Oo+nc4tF9r9aL+hujzq8DTK2t9OS5VigiFehnK+c6h6CLZmvplo7CnQz4UtlWCLKiJYOOIP8901m/qyn25fhbdL1pfNiKs5tOw1v50gGbOouiM4SOZC2bNwmXig==",
         "icon": "https://i.postimg.cc/dVXg9Y6G/somos-bahia-blanca.png"
       },
       {
         "name": "SOMOS CHACO",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDDxdY4hjIFvO6R88Z6l63oin7M99CrPv8WCWsma3/ebsWsR/KfcsfHBYYydJEsfBBL8Pb94s4pgETh0Fubn6mAU42VYo+oMOM612wvQ7VbrQ==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hyK0wi79WhCql31uAVeUHz7gItPV5ODlutSfIU+CzB9xk3cL3XHaXdziLrhp9e+htTyajU2Ie8ypT6UNgCh77vx3sLuXT2+glOaNOAMV27Cg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGpCqdZIkTWXbQ7ZhbQTIo1YkJ3BaKfXOmGw0X0dpRbl6FpO8mgBGHd+yVB+JU76/XgCqzZW7otUzLre5wWavm6HjiaYVBxqpsevSswus5BWu4e72ZwhZ1oILdoir3525Q==",
         "icon": "https://i.postimg.cc/kMf1cCXD/somos-chaco.png"
       },
       {
         "name": "SOMOS RÍO CUARTO / RÍO TERCERO",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDDxdY4hjIFvO6R88Z6l63oVpWuVV4KUrGmMFNeCYvNBV5M+A/Db4y0HYuF77qkAv3lghCT0YjsM6dOb+MhqkPIGqY8kPUqH5ShZUg3uaHTHw==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gB8eVzUeWdgNksKilUEWkiwQfdwSJjwOFTpbvxpDuDh2l/JJfAS/N2R6FABuf6gugBDPNbiY2C9CN9jh/MwMKq",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gDse2nIPiRhjYhcfXgDw43oX3WpFo6/ZLP11v1hIV1IQGqkZNo6EWuIppfvRRs9STtCnPXItPg4u+opDFFQ7JrUhe3gKxW4nhffOpEIGcsBgC2l96XYX5HV1z75tcSjm2w==",
         "icon": "https://i.postimg.cc/bv6zJspx/somos-rio-4to-3ro.png"
@@ -623,7 +623,7 @@
       },
       {
         "name": "CANAL UNIVERSIDAD DE LA PLATA",
-        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG9TD62hoDYlD4DCm3cUiZFdMULlH9fN0XcJjxwRX4lm2/tz5U+3LbBkxZo1k3JHvOx/YYYbyvGA5A1kFPZ5htl1x3sLuXT2+glOaNOAMV27Cg==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gL+Zze1tVad/jd3+bGbCDG+hSVBVfZqZeKlCBThhh/FvtPHEerb66w8NSqKrnGnxvMS1Cyxbt7S9mScBP+pRw3",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBd8OCYNDQO25rkgfoT0nroB/ZgUpHadOD3b4dzw1ohac7XPzRzK1/+TQ37ituUkcAxNj9sMIHGXnVRgh+dYMitKM6nNzXagEKEMGY35R4dnEnfKOcbASDF6xd4HwsUlVw==",
         "icon": "https://i.ibb.co/xHqzrPV/canal-universidad.png"
@@ -808,7 +808,7 @@
           {
             "icon": "https://i.imgur.com/Viwl0AN.png",
             "name": "Espn Premium hd",
-            "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG80ff1r/SUy8BuFFUoTlufHfUytSIWmCvxMXue35IJ9KYKHfNQ0AwRzsQ2ZLunWqhw+akKOLVngQcvue5vuyzEpGYdln9cDeDpzSKrWkayRidI9bUWf0hIlGXruip0TN9A=",
+            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hOV32ozzpHpDWEMAZlPkNRrA+SbWmDFbjt/iSXnnch0L/u6zCTUcFEvBCKkq6p8peJ1UqLbGiz4VEjB/Wwkq24otyJFJEzD3AbEeHiaqlceA==",
             "drm_scheme": "clearkey",
             "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTC161BsoYqEaY/QyyhF1IeXbT/rgwGShiZw1frJ/LrnMlwqnS64RBVcKJiOCnl8yz9oBiu9hT+bkWx26YG19EibRB3QHQfHHS4GkbwK4kQ7Nvwu0STFGFDreKwlJJfuJA=="
           }
@@ -868,7 +868,7 @@
         "temporada": [
           {
             "name": "ESPN 2 OPCIONAL",
-            "uri": "8RtnOeVVVutAzROAUP0CRA59ePWzjj+D88Dn6SVNPM66wOFnH2bdbksY/7lzc6O8S4s2oiiULyf+L2ZOVTfhljhHZXH4J7SUWTLdrWkg9jYpj118xnOyuxSLJrt9FQwU",
+            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hI+BZc20n1UIAcZhEpgRgdzTcL8JnH3h37rpzDTPCafFR+HtQHXcW5UQeXMm96M9E=",
             "drm_scheme": "clearkey",
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHXQ3z9YMpMfHtIjhkgs2KWgRKr65sW860rUvvTuA4qHaRlHw6qY/YdJ7XWjKDuRryiyhtpuNX3l5l6mdgGY0Vk+QG6d2QI0wzy42WH9pzwYn1pidLInuixNbl/3oE6oog=="
           }
@@ -877,7 +877,7 @@
       {
         "name": "ESPN 3",
         "icon": "https://i.imgur.com/fc9igqN.png",
-        "uri": "ywuJogEn+z+nHSLdA1Y/aVWPhQ0k9nSTnQvxNAWlTv7Ji30Y1pbWf6hOeQzJdY7PESCNYqP8z0Quhtq2SJxSEvX22aM79DF4EBiaueA5N1s=",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hAjg08qNTsPSsEx/uaxzBhmBqUqvV41MxRcM0VBoCTLWdEeOpZSEVbf5yB8OkTxQQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGJJ1fFeiGGbp5ho5hzPtAxlKNzhPEY1FkXCVwLVWV02uz4jJbpiMqSCas11X+N/c1NrNdJyAP/9XssuvEaQcJsIL7Eh0fkiqgBpcd6viM2SGv9IIWxB0vYMJhCQq7oPIQ=="
       },
@@ -926,14 +926,14 @@
       {
         "icon": "https://i.imgur.com/dZtyngf.png",
         "name": "Fox Sport 2 Argentina",
-        "uri": "ZbigLqLFRRapbRFXw3YGyEUw1mhq2XjaevgccSrh/8oAOdYncmqOocsA6FwgwBqTocplKeBMGMPPr0mDgDLVoWRm46MqhFe2f0flbVNzwe75roFyPW7WQo8kD3tNbr5X",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gJpT4J8bT4lRi1/oHy9YBaXnzUB7T4x1z7/o4PwwVf3ctDwnFUrv+B+6Dc/mG5pWjHewu5dPb6CU5o04AxXbsK",
         "drm_scheme": "clearkey",
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uUafHKOs8HWlhlaxJOsmn+zugPCR8LKK8ql4W7O0K/AST6bx5rNGmbpXBnJgVM4bwu6BZtiJ00erbkDkmsPDSYAG0WH4Qmg2OZGPJMNfZtS4Nvwu0STFGFDreKwlJJfuJA=="
       },
       {
         "icon": "https://i.imgur.com/OTAiaLw.png",
         "name": "Fox Sport 3 Argentina",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZCxf57B7iTY2tzJYMQZRgssDrfcHOujlunolVAQwUpFuuCxbSivGQdHK30Ley6aSsScJgAUigjYz2oZ5CaKnm/LUBJA9+VBV2YFXOymhxW69",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hBdt6zCpPehG+jIjONcnAWXnzUB7T4x1z7/o4PwwVf3ZjhjAgswYr4FKdBYP/XuaPHewu5dPb6CU5o04AxXbsK",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHrfodvdoRIGz5oZRUUB4QNR3HmqsTMrJvoG1qfPGttXh2ZGPKmos9N2CwV/oxEK31K5WorQKQCeRSEc/TZNqNKcQ6JbOMbE0hpCMZ+BW9jORhQUIIj1A+1ttI8Av/lUkg=="
       },
@@ -964,13 +964,6 @@
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hPOSjGDBJSfncu1hPNWC++god81DQDBHOxDZku6daqHMbBfsBlZgHYg1AR8XjtIpLSPW1Fn9ISJRl67oqdEzfQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/284?cb=20140409052254",
-        "name": "Claro Sport",
-        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh/gaTg6iqP6LIZtjBPj64/PtVa0NpPPJLYFglZ+NQKiNTzyp+IC7uEbxJsFJhPayPCmPXXzGc7K7FIsmu30VDBQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uaMF20ifM44CAWx/U9n4CDgiOP2efX2xFBzE2n/cZEQAOpk/DsrRcS9uoaMtJg3PXgly1P5RztoTrr1N8idofjPEhr9wzjtnvhhBZP/O0K4bNvwu0STFGFDreKwlJJfuJA=="
       },
       {
         "name": "Bein Sportxtra",
@@ -1276,7 +1269,7 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20231122165643",
         "name": "NICK JR",
         "drm_scheme": "clearkey",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZCUgQ8W4hdkrcUDABXQqATAMx8hQLUu8WP0KWgkHKuwLSPCmbJxZ76YHq98DFoWBt2NJpYOWz0HgMNibzyLv+wk147KT9I2SKCrgSByV0TSQ",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gySrIH3RzqHEudzeVliRD4wO/CVxu/uJ+zxkWfd85+M9s+re6ZJ7ozB/dgW/0aHz4=",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ0FSLzGeiEL4EkfOZ3io7HLnfpy00hY/+VlnltG26PD3/DjHRlx9Rw1fXnhMqkqG7LKSCYefqawVkdnYhfcE/3zuwcSt2H+7YTTV29Q7eF3NI7VkEiErTqQJuZLDxEipQ=="
       },
       {
@@ -1338,21 +1331,21 @@
         "icon": "https://i.imgur.com/ImmT28U.png",
         "name": "Hbo family",
         "drm_scheme": "clearkey",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZIDNbWWhLuEO5H++a/aGl68Mx8hQLUu8WP0KWgkHKuwLLGw7gWkqx+etW8Ebrq3XBXGfsBu/zWm7kh4cYaaIMZ4UkC7ImIcttoAHh9TB7ic+",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gJtiBaLxV4lmSHuvCZNHf+qtuKewCXC4bHgKMeZ79W21ClDC5+qlF+/iJYHsFUTnU=",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBu6wgU15EO9+C9WnkSEU+mpIlwK01CZonbqaKM6ySPCVGzPf4pHx5m0RkQAwsr8Z9K38OGr2k4R0nKl7/9QKX2BNzGkTIz9z8sziz4AOY+fJ7h7cupbypZl8/QZFa4HeA=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
         "name": "Hbo plus",
         "drm_scheme": "clearkey",
-        "uri": "pMlPs1o3YcIvaq37V7s2TQ59ePWzjj+D88Dn6SVNPM7WaKvRZlhlymHGETkfh7chxzYnNRpIXLHb/X6jIdwYBuwU/HZ8oJipQ5+sd1R0DUs2/C7RJMUYUOt4rCUkl+4k",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+j6mGQ3Ts3q7jKb5TI1FN/OsrzTgZS7afVqlQTyz/RRmgAqtpBC+4whTk2jmqzE64Y=",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gC9sMev9OOQhsJ8Nzf3pOH1z1ZLVEqL6KPMj59yz6mg18Cl+PInulS3ZRVYVv+xucyLY9GdGwdceeZ0dWMvwxxnt6AUh6FSV1OuDUk9cwPKDlSsZwxucCowQNew0iozHfg=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",
         "name": "Hbo Pop",
         "drm_scheme": "clearkey",
-        "uri": "ywuJogEn+z+nHSLdA1Y/aVWPhQ0k9nSTnQvxNAWlTv5Q+M+12DbypGjt50RV+kpuclDhTkeujcMFFSHdii//7NCGfXsn+NYUi1Bkya7g4kvHewu5dPb6CU5o04AxXbsK",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+iQC2uimDtDfp9JDem++s2crwPzXZoeP2BVzq57UiGWQDWgYe9rzLbn+DhGhTWfhA0=",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gDFnx3QE5jxl1fIAVA/zqpOh0B9yLghGxIjlAf2qpN0Ax5kYukgSAvU3a9BU3hDENztNmOsaL7Ws2qABaMAv9gOH8y/MkUcv51gdVa3BUcgyjf/l3nKOaK6Rqspy6Sy/BA=="
       },
       {
@@ -1470,13 +1463,8 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Sony_Channel_Logo.png/revision/latest/scale-to-width-down/250?cb=20190822193846",
         "name": "Sony",
         "drm_scheme": "clearkey",
-        "uri": "ZbigLqLFRRapbRFXw3YGyEUw1mhq2XjaevgccSrh/8rNs0xaD4xP6yCyuX8WGoGwBjb52swqQTP+Njx6DGl1HK3wA8YjB59129tPS7Xs+Ekpj118xnOyuxSLJrt9FQwU",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jCemppTH9KO62gmnsqlotRjQ7hb5FokshI6+EjTXMYMQMpiUx2hRESuojcGA7sbc0=",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gPjpUDVFaizQNP++KbgyoxlOX+NgEJ7RNOCO0b8JzsNReq6M5W3ykxp7isUAUu9WZAjJfl4u6JbGhaHTcvoCji+9VmLjAtYytuzYMoiioL99KAxdHhsOCkLIkPfC8vKCng=="
-      },
-      {
-        "icon": "https://i.imgur.com/JW2DEn8.png",
-        "name": "Sony Cine",
-        "uri": "s6nwgtji1rfkI+x7p5iytVERuiSOtqhXCi34CjcUwkkVaHvah8GIEbmAVvs5l91orRJabXl1O7gKnL+SwzhlUME5tcTnPfNwKgnWe9WoqnM="
       },
       {
         "icon": "https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg",
@@ -1491,7 +1479,7 @@
       {
         "name": "CINE AR",
         "icon": "https://static.flow.com.ar/images/701/CH_LOGO/350/500/0/0/20222966074359.png",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZGv64ZRInYI69z7jRBs+hrKysRtoLA8GQyPzAbffMDlYZH7MOi54SV57XDXA10p2VyBOvaqmkF3bzrbJM9pVyNJs6zXWEVniiMGkRAYhk/aN",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jqa/aF8d8rhY6jvrzvDOHaC38EH1P9tvWTfymPeIYaPura7mDSxYM/p+BxuQROpN8=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGRA5kbC6PKkuwYrHe0WfufhyfsFAVDhp+HWEBd9WXxUTnBvUGOgJt4qJWzLMXrfFJXLhfa1DfeXWDLSs39obdRVo5d+8PHUEvuFHov4STnEk7WJMSALvAdoiHF5ePhtow=="
       },
@@ -1503,23 +1491,9 @@
         "icon": "https://i.ibb.co/wCQcFwJ/dhe.png"
       },
       {
-        "name": "DHE",
-        "icon": "https://iconape.com/wp-content/png_logo_vector/canal-dhe-logo.png",
-        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh7FcVSPehPDLvwfXFiKOnJVZWXK8cJ+bGwX8viX4Tqlix3sLuXT2+glOaNOAMV27Cg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK0mRvlHXt0Qc8wLa3YBfy/KKtyxvFpnamENBlsO3hb2A2fF9XQb6oEFgyBDW2qNr3w=="
-      },
-      {
-        "name": "Multipremier",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/4/40/Multipremier2020.svg/revision/latest/scale-to-width-down/200?cb=20201101200602",
-        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXhw8FEy9pwSE37UWuRoR4bynC9Az4Y07bcF5cur+jVv5rpsxUoASHeqdM8X2mb1hPfg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK/dGH0e3Aq/56MMUCatQ2UFksY3SUhFnBlHVNRIG8pjMlk2nw5talK9nfvnk0pThgQ=="
-      },
-      {
         "name": "CINEMAX",
         "icon": "https://static.flow.com.ar/images/673/CH_LOGO/350/500/0/0/57692590072292.png",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZCUgQ8W4hdkrcUDABXQqATAMx8hQLUu8WP0KWgkHKuwLZwVM66l0h1Z9111OkQTZQoQqFaFvueLADKqlNSWDJ3HB/Xp8cy31Flmqu9bKEEqE",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+iifS4Y0+Zd3dRfAOfh2p0JQW8x0SsFzywnxhKfBwxfKE1sUT08+9Cjv9fWH+MtD1o=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gCWzfIDBfgaz9f3lIvKHGwSpg5kn/xGZRsl43pCq54SnAUlAmLE0qvdoLsFvAfJWgCMjgdeM1DeIJ3oCkAnAVA7+gaFtlAub3ng626m2RRend0uMt7i36y61Q9QmnFAa1Q=="
       },
@@ -1534,7 +1508,7 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20230106025850",
         "name": "STAR CHANNEL",
         "drm_scheme": "clearkey",
-        "uri": "nEbIKX5bIAnNu9X6YiVQrIMEBipfklIEHPosmDbEs3ndkcnJJw54/+x8pRy2d368dPs4NalOv3gfUz0/jRKvfGhzoYUvFI22HbICfWAXU+U=",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gXO47q2QdU1vyu4MkfJtFROayXs5Kmbpye5p/HQRXiaH/OB73VgS92Go7f0KLYR2o=",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGpHzSL26ks91OzuF/MPWI/ZQX2DmKQBRbwMZCqj5VrV3OKd+JaKulq9eMrMMy/UMVVb7qXeSdmznsmYtvheF2eJkX6dVCcy0ocy37dd5XJUaxRPPo2oRC8DDgvXxsVNaw=="
       },
       {
@@ -1575,7 +1549,7 @@
       {
         "name": "WARNER CHANNEL",
         "icon": "https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png",
-        "uri": "nEbIKX5bIAnNu9X6YiVQrM0FDSZqPNIMtOMnOFLPsI7hrR4lp3Dy4TMPXYJ23qJ+2nDJWfwzni3z7cwpwWksihiAPBPgCL15jMflBLlExpx/zge91YEvdhqO39Ci2Edq",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ie9uZa0/HVYhfEIifZf/lGiBJd7gr1vEQgiKTYc5Ro03D8DGChjZRc52aWvK8XFaQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIyijkZ3qvxBJRJgV4KCEf2kyiaGRBktWBFFyUtSye7/uKh77RsaeTTOJ0TAiDENYJA5BGD7vrb5jtRBYl1dGUGkq6CRHrM9zO2L5Wq8zSEUtrue4wtyZ3FQVgHrU5qc4w=="
       },
@@ -1587,21 +1561,9 @@
         "icon": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
       },
       {
-        "name": "Cinema+",
-        "icon": "https://i.imgur.com/OpOdLfZ.png",
-        "uri": "J083UuF69HLWg7wnl8Uc205cyYPWWoI1T4Jr8cQHK7QZsih93QY6hOuLYJ8bEuNdXbSAVeGKIe8FpxDcjHcUIg=="
-      },
-      {
-        "name": "Cinema+",
-        "icon": "https://i.imgur.com/OpOdLfZ.png",
-        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh/gaTg6iqP6LIZtjBPj64/Nz+7BjXu8AfpsX29rQX7sud2+b5vhUp53Kf3x3iw1Ndg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK23UD+hc7kx4eYeNVfberJ2bJUOYXBSKhOZepvaeBRqsD5FwjVLTEOo+o5VmjAOI+g=="
-      },
-      {
         "name": "UNIVERSAL CHANNEL",
         "icon": "https://vignette.wikia.nocookie.net/logosfake/images/8/8e/UCHD_2011.png/revision/latest?cb=20140429100918",
-        "uri": "pMlPs1o3YcIvaq37V7s2TQ59ePWzjj+D88Dn6SVNPM7OqyRT1cw7mUGtsz1UpANMuMjN6O93ZcutaThiBOHbJM03C/CZx94d+66cw0zwmnweHl/CXTeB27EyyVpBXiGfT2x2y47euDQEd/nvtIxbzQ==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+i19MQdDKHyyylZNBHRg3HSwPan6PD8YPUbVmCExRjur6eTB0lCqX7970LS9VwjKfaIqqhiocHfkYQ63t0RLN5Ix3sLuXT2+glOaNOAMV27Cg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gB/rO1bnGFYE8b3aECOFgeMw3lU92reQgv9xBbLZrLvFdTqvCidXDTZD0cU0jInj+CcuywjCJEHkRwJiG4wMoEQ2bJHhjJ2loqh486pn3oo0CA1nJHqfP9a0wSE33GmCrA=="
       },
@@ -1622,9 +1584,9 @@
       {
         "name": "A&E",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest/scale-to-width-down/200?cb=20191216020018&path-prefix=es",
-        "uri": "18n3kgbShNBpHZ0D+VAupfLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+g/Ops4OunjRRUFw0j6cn6fVz3YOiZzzU/4WbppGe+gsMd7C7l09voJTmjTgDFduwo=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJd10ZuFLo+DoiLvWtNaAkuEuA9T+K0DBBZS/wtvbT0F1ODY1GLiKkp4K04nhuof9g7ZTAPS6Y/5p/7up2ni/IAbq/BRu2Jp40xjNayfbIaT6Q/1TWAoyh9MAgJjCh15jw=="
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBp/hIspN4ZIfnemlWC+H2L8yWrW3eQk0RvdFa2tuS70CujkPWo5gjd61FRT6gj7BtfpFx7HZgPEIDDXbOTeqif0dURQc/44sYUX1IGivlixxuAfMoI3SgwUa9UMAM+nkA=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/56/Europa_Europa_2001.svg/revision/latest/scale-to-width-down/150?cb=20210517132924&path-prefix=es",
@@ -1641,11 +1603,18 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gCD1PJAYS2Ug5QBRS7mgfvqDuuc4xhM/Biz7JQwY/ET4MsgCNQtpAfikYA5//gIgrMd3gZSGO3X5hIJFlZdEPFBXXcP40VMO9i7xJxKBi8UavBMZ9znHrJK+ODcN+ce23w=="
       },
       {
-        "name": "A3SERIES HD",
+        "name": "A3SERIES",
         "icon": "https://static.flow.com.ar/images/1161/CH_LOGO/350/500/0/0/99608630073988.png",
-        "uri": "N23fiEP3pWr6b5rQohEIX5n9IXMxGAmjp0QAniebNPWIngbICC6qBfVPoDVgcUhvvGnJl5G3AKNPcjMEl9FR5A==",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+inQfFLg1AL3GEz2vr1BCQHzTcL8JnH3h37rpzDTPCafK5miEzHocP8Jl6vqZCHSkA=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "DFdllpxiWX56BMWl7Q3CbxybumLIKrC0EEz0aLJp9ifwnf/DNFr4YVRDzgXJzSP1Nvwu0STFGFDreKwlJJfuJA=="
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIXuUYYe1RAke5e0eGUsaEUg+Iv/dxMbE3i7vFmMNimJKWEw3EG/quPJH4aRODR4tm5wrPjG4sAYu1xc/j0x4BofDonb3EXIlNoF19Ld6AsqEXz+J9fx4VdDK/Ac46xzlg=="
+      },
+      {
+        "name": "A3CINE",
+        "icon": "https://i.imgur.com/8p56JT6.png",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hCSsjqnzsfKn5b0MBykNlgbzK4bvNSrLx2aaAv5kzkvf1+T++I0z6R3ZVLobWumGM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEbc5Bv9U1rreuzR5aJicutT04EtkhiqWYc9cGzHnmiQGkp2IKWLDuCUgvSYLj1dvS4ucdHGEUX3EfEuly6+bWxjGVXgk9G6T4j5bVzo076qoX0bO+ePi8U0QtI73Z2J9Q=="
       },
       {
         "name": "COMEDY CENTRAL",
@@ -1657,141 +1626,9 @@
       {
         "name": "PARAMOUNT",
         "icon": "https://static.flow.com.ar/images/714/CH_LOGO/350/500/0/0/96618789072910.png",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZGv64ZRInYI69z7jRBs+hrKpKtysYJLci0RX5XlNDK+0Iz4iDD6XUjAE4pxm5xTpKLR22AoHgpQsNITZ5GopLeJUJvzQp8u1LGUFANhZV/dm",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+gNLNm9Uwy0CzbG5yiHkzJLzTcL8JnH3h37rpzDTPCafEo6B6i1uLIX1UfOhNFDY1Y=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLYMwcxEY01AriYv8sm1CeycWLj2KbP84FRW8sAEqy+2tcOuF3oGn8il8/bjeOJcKUawNlg8JzChOURGI27hPe1tB2i7ZY/bqlnPoe+Rhef6zS0/DppkO42ss8LjBNtqzw=="
-      },
-      {
-        "name": "A3CINE",
-        "icon": "https://static.flow.com.ar/images/8177/CH_LOGO/350/500/0/0/17553447073627.png",
-        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh37BSOyTH6gSRtbTLxeDYKVC1yISDAB7ySd06qkKeiuex3sLuXT2+glOaNOAMV27Cg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gM0BT9zS8N6kDG06IehuPDywLhcs7V4iVR74QqkF/vz+A8rmHboORqMBBXhZ/FYKipGKu7hoSNf+4e5DKJsyqGZCc9g94lKVW/rXAOmJEG6GxuAfMoI3SgwUa9UMAM+nkA=="
-      },
-      {
-        "name": "CINES VERDI TV",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97282U+Pcpb42NQKFENAe8VIdeahSSDAM3eFXyneruU7V3b5vm+FSnncp/fHeLDU12",
-        "icon": "https://i.ibb.co/mTXvbjM/verditv.png"
-      },
-      {
-        "name": "CINE FEEL GOOD",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97282U+Pcpb42NQKFENAe8VJjGz6mHg/CL35BcTg60C853b5vm+FSnncp/fHeLDU12",
-        "icon": "https://i.ibb.co/0MsDtN8/cine-feel-good.png"
-      },
-      {
-        "name": "ACONTRA+ CINE",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97K/5nEjnzlkZy2QGPXdmMUP5Pqg+gcOpgNtV/b3Y2D12Ua312Z6EncyyrgZMQxh+y",
-        "icon": "https://i.ibb.co/vPqtXXK/acontra.png"
-      },
-      {
-        "name": "CINE FRIKI",
-        "uri": "8HRv+Y8dbtTKlEc1glKBxBv5h85p1tX0dm6DiBN/WmlJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmRe65X/ZGvy373mKejNnxdi45mP8QW4S+LgJmOMoQIuQE2lTn3uW8Sci9EVD5tar6dfgve2KvjkbStu+KAx6NzozIqfaQQu8zOCiQTrq991FW8MKmLTBS6swuR7O1fxfpJ6Sr20P0skI1uDxTXMOi0q/xT69buqewc0KuZ1Je0CPYO7o+umRgyjiu6cnNqlmMNZekVUcXuMRVNeodaAezd4+/c1b3naAZm97y9z+cCpszari0al95yGWQ0BXfZfHZgCeg3qL/sryaDJ6GTEfqV9",
-        "icon": "https://i.ibb.co/WsZg54D/cine-friky.png"
-      },
-      {
-        "name": "FILM&CO",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCER7H162ssKg1OTwPwnGbBOlk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/KyD623Z/Film-and-Co.png"
-      },
-      {
-        "name": "CLOVER CHANNEL",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97y9JvUIjx+ZjvNBCMMgtFWvlRuuWfzanP2mbAbVTM0+x3b5vm+FSnncp/fHeLDU12",
-        "icon": "https://i.ibb.co/3vmTvjr/Clover-Channel.png"
-      },
-      {
-        "name": "MYTIME MOVIE NETWORK",
-        "uri": "BETWvxHjpgwF1GzH1VIdpZHxWJPBKe6WE1Fgn5dLbX2wQX/hi0PCbsbIjg2LrCeFwTm1xOc983AqCdZ71aiqcw==",
-        "icon": "https://i.ibb.co/pnQ4pkv/mytimemovienetworkspain.jpg"
-      },
-      {
-        "name": "RAKUTEN TV ACTION",
-        "uri": "DanulE/tPOUqRHCy+Q9g37vb/D5w3Oexbizb7sW7enWLdvFohncwGEKHfL4D+V2txHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV CINE ESPAÑOL",
-        "uri": "DanulE/tPOUqRHCy+Q9g36GYMkoqGdbIk2FSwLhw6g5sgr6ZbUCExo7xRy2hmhg6xHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV COMEDY",
-        "uri": "DanulE/tPOUqRHCy+Q9g3yPNUhaJ0cr1MPnkpTRLZIxsgr6ZbUCExo7xRy2hmhg6xHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV ESTILO Y VIDA",
-        "uri": "DanulE/tPOUqRHCy+Q9g32X6l7l0EUgvd504jGZWUM9Gj18CDtlO5ZDe/iMSfcAWxHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV FAMILY",
-        "uri": "DanulE/tPOUqRHCy+Q9g37yaFHSDBdtqfULbMNpYzQscATpm9JYZN7DDtZXOVBRC3rz5T4x5khQpQyI7U7hrGQ==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV ROMANCE",
-        "uri": "advRJR45JEgAoJbKj4pcGt7800VT/Sj0HegbdxDtoJk2h5cr9LhpaS8xGCQ+W7/kCXyzg/AhQsEIWWAiTZs/RIc3Lc4NuS8E/yDao4t4PM9WVtr3LzNv6vqF4h1vD+p/NYksiQMGpaDSRSbNuttAODcUsF0ZLwmOdC2T1pGMbWRq3Yxak/AmYZ1/8GdcC4d6ImrMRp+8c37LxOFtWQkWTt68+U+MeZIUKUMiO1O4axk=",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV SERIES CRIME",
-        "uri": "DanulE/tPOUqRHCy+Q9g30DcZJ8aHeb4yv1KLdyqvYFIoUkMyyZTTo4KCYKyZAoI2rhMNfQl0P826A2L/J5DaA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV SHOWS",
-        "uri": "DanulE/tPOUqRHCy+Q9g39H5YQtTlR/A7iCzBjj9PnTqMkBw9kLFGICK+jy6awBes5Oxanhcr9njw5nZ72+uXg==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV THRILLER",
-        "uri": "DanulE/tPOUqRHCy+Q9g3xwD41Gy7TyS3S3X5Lw1QXQ2fJUBeDxeA+I5qe8mYrZwoRjgdRaJJ/m4rkm3v9p9Qw==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV TOP FREE",
-        "uri": "DanulE/tPOUqRHCy+Q9g30yO7UhfdYkWSs+ZRdoPABgoLI0JJ83AUtpo7s+MwQ/LN0OFkgXRg6QAogcBWnQp+Q==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN VIKI",
-        "uri": "gp2Vb08WN0po+sCgOLJ1PFIDLkbstS6LhQEMgmQUdRKtgGNhjEf7zBaWVq3fjTF83rz5T4x5khQpQyI7U7hrGQ==",
-        "icon": "https://i.ibb.co/WyFKJ2R/rakuten-viki.png"
-      },
-      {
-        "name": "Runtime",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCHVy01IsSGHArSE14KBMovvlk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Acción",
-        "uri": "bp/bCUMPEiwTGQguughXDd4Rbn8IbOSGi0ppqKOS0oFJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmTtypb1p9gLaBZmqZkICAGkgcpbXQnpg+eTD/oGrbL2hD45mjJiHgTjslbU/UPaygk=",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Cine y Series",
-        "uri": "Ndy6kgy9niiHD1wprLIqS7YI0cW43V9bpZ3thMMYY72l9vg36qqBGHqz+2FKAt9NKW7Yhl7Rby9DI5hVPJysYl5PnMuCBWhVrzSpSgG0zidA9xi4aSd0uoqivUcvHg/9saR7+vX2zz7/fFpVxe4hKIekw/d/TErupKHQJLcuQhZDxYUgLm875BGNRGGLzyQj8s5OQiFoGOuMB6/ozHK5yknqJuDZmfD/DVXDQtz3xxOHj4ktJhf0yg80fiTtShawGXwY5MmooTnJ8bU0psMpozMSIJe0TzXf1stkq7nkwpbYlcc0iidiQFHWbK9bzh7qUL+6Riiu9RyX4MXtZMcwdwteprqpV5+oXSOlkOeT5VCzYqSOqpnMmP5lGpacCAxPzybNa7nB6JYj3yCDiZw9TOJGbSDzp9x0p2f3E33w+bLZQf6kDcQdZ8UERwzSY1KPn6wvrjV8w8OY0NCOSovkQauXq+RLYhMA49Z2mo40Ul63z8f8jmqUsaJeO5XVtF5HBAU3Zzjd6x3wmcZM/i2bGR8DEDnunAF/Vx/yKncfc5DoYzT4WipZpFURNYl/67D1yYMkEi4aF35bFa03qNRtDg==",
-        "icon": "https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png"
-      },
-      {
-        "name": "Runtime Comedia",
-        "uri": "fsW0EJNlpzLuSx+gN7mjyXTmPOXLFigIbpSSu63II5JJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmR+Ihcw3p4tY1Qw/YFiDL5uhsNEMck3x0anuKW5mUJBGj45mjJiHgTjslbU/UPaygk=",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Romance",
-        "uri": "JCVNsyE/wb5d7gxUZd3bNL+LHTS6m6riAYY2Kd3m5DJJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmQyKdgzZrxHpB6O6WQjhSmzSCm90gOEUAjaqmBob2ZKnj45mjJiHgTjslbU/UPaygk=",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Series",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCFZfKztw4hxUKFjffqWKgAqPjmaMmIeBOOyVtT9Q9rKCQ==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime TV y Películas",
-        "uri": "jKL/GWrQke1Qk41zZ1Z6UYyi55cG9OEbZ1sf9eA/mK0nG0+MsSEl+3PDVl4ghZLix4Zk6+h3JE+4MP3pFRwryA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
       }
     ]
   },
@@ -1850,7 +1687,7 @@
       {
         "name": "ANIMAL PLANET",
         "icon": "https://static.flow.com.ar/images/643/CH_LOGO/350/500/0/0/72827036071623.png",
-        "uri": "nEbIKX5bIAnNu9X6YiVQrIMEBipfklIEHPosmDbEs3lyOXI4v/QXgjNNH+uUsDwSBCCMT3mmtfJ9tT7WR//NSdSYrPb4xOYndk1xf5/dOVqECuoVGw3rDdiY5KX+qJ6n",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jUfzSdaieTNk41laprfJd34wjS5mwKbnkY+89OAaOGiwlgG8qZBTObEsgg95iPerbHewu5dPb6CU5o04AxXbsK",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gNdiH7E3on9PGG2PMoPFF0pJ+oJeNHKL4pLgM1f53sWkaIjjplw48ROyA3ebCKERs+C8OSJca3s8ndHKCqbLR6HJpD0WG8h1bKkiALzi2KRcsYKD2SOl8OB2vWeLT+XH8A=="
       },
@@ -1862,7 +1699,7 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gP5BrC/xEFzitt3LWzPsFL3NCEoZOlS2ur3rjsmdIEUH/dR2/K6cgKpfIXmV02PmoJvmeYq4nH/sfWrKWT6CpKODSl75134c4D4aw12swTl1Rl+KJmSZ+x4rf2flZG9vKQ=="
       },
       {
-        "name": "DISCOVERY H&H OP1",
+        "name": "DISCOVERY H&H",
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1653526651744",
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hqtH+kPmc5i3ScjR/zqdE97BeX9Od9D4wtcUYlQyCkBNqtPl58uekX63tKYRe9tkN57yP4CPZB6MY9/6caBNWKf84HvdWBL3Yajt/QothHag==",
         "drm_scheme": "clearkey",
@@ -2250,14 +2087,14 @@
         "icon": "https://i.imgur.com/MupwXwY.png",
         "name": "VENUS",
         "drm_scheme": "clearkey",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZPCGHZ0ys8l1ZFbgivuOSAwMx8hQLUu8WP0KWgkHKuwLiyFVitULXCoh6hENC4IlWsY93PBULUS8Fem9OyW9tMQ2/C7RJMUYUOt4rCUkl+4k",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+igZ5PTxZmt02Kix82M82Z6wEUOfw5yLikKtP1qGivUt6sywnH/ULAY44XnJ48Dmjw=",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gPxFzgSw5UTMng7hBHBd7waN/NsjnW72LS0TaDeDFrtwVs4wfsQHws+XSGdIx5FVhhc4sw/cX3ZmWz7QCBbl4LUpo69k2o1gwrm1ynDRDArrS+OEefdkt2MO7uZ7iij1/g=="
       },
       {
         "icon": "https://i.imgur.com/PQr0JsH.png",
         "name": "SEX EXTREME",
         "drm_scheme": "clearkey",
-        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG96UKfx0iOxBVrUfQ8wKzOlrcMgwyw4gRfGkXIXZRcdS271SUCJYRw3ll9ffI9bvg0147KT9I2SKCrgSByV0TSQ",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+iDp5wCGHSXn2Z7F6t0jdY/Hn+CyhRBc+l+5XTZD42Kp/hAyJp6bU2IfVu169WYFjk=",
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uYkve+qiYUpji0pql+tQPrQtFEVeg+Ti7nznUMiCJjElpJ/43m7lSmkN0emm0Q7N96qGND0n1I5tIy7ks6ZvIo0K8WK6fQ15Pxi66kHRzDpnNvwu0STFGFDreKwlJJfuJA=="
       },
       {
@@ -2688,11 +2525,6 @@
         "icon": "https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png"
       },
       {
-        "name": "RCN Novelas",
-        "uri": "3kkDAq4OlTw+C1UW8w9l31L56zRBZMnyBjS5oY4iy6WIBxAM4bXFmmwcUsV3trk+OUY+Q6cAIDC1cFSj7mYiMA==",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/7/71/RCN_Novelas_2019_alt.svg/revision/latest?cb=20230817155211"
-      },
-      {
         "name": "CANAL DE LAS ESTRELLAS",
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+iV1B21xpP4HTgK6r50AsvgDGlr7ox8XTgAFn+xSWmtThBinMovMAaC4S2k/sojfvPkjXnRmi7VmgF6oi/s/qgNq3grdk9Xyq/7EJOca2XViQ==",
         "drm_scheme": "clearkey",
@@ -2715,17 +2547,10 @@
       },
       {
         "name": "TELENOVELAS HD",
-        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG+AXZT/hMH3FjeCH3nmgXi2KOXNcSker74OgmFjVoKU8flGkKBVdCpegCHsdD5XBgereCt2T1fKr/sQk5xrZdWJ",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hgl8ZKz8yPQbbz0088V2zVgod81DQDBHOxDZku6daqHCX0Jo8iUCPnbG5RZTP1F1/SPW1Fn9ISJRl67oqdEzfQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAhl793dQsb7GZXnTHV2bZ4WG0YfrK4+48cYZFQGWH15oRnLbIKUNodELcc78GNORhWVTTtpvke1fP4h61c98NVGThaT7lOGH9GK4tmTiBQXHvSS3p9HG4AQJPRPN96u4g==",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
-      },
-      {
-        "name": "TLNOVELAS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png",
-        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh4R0oA2yuiC3QFABSdF9y8SDj+UODgG+dh3hU+1bWaLltjBTOoDcDkaLi3HCsOhmRw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gNyd+TGPixT4hXpruTAvNKECVCj7bI8+BtRxhPjV2bma7tEKKtjH4BvZY0gLpF+oIRD6kZZSCxB1M6iCi1rnQsJcUTvFxMkLvHY9ubeYPq6rdkNdIdxuwdd8suRCO+NBfw=="
       },
       {
         "name": "HISTORIAS DE AMOR TELEMUNDO",
