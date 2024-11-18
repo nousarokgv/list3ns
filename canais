@@ -4,6 +4,31 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.imgur.com/qMJhipy.png",
+        "name": "Copa Potrero 1",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opZ5ZCopI8DmFcUsVpFmU/NUJurtkpyk+dHrYYbm9CzmnrO4FLKwfIEiZyk4LpUtI+e4vZu2PkduXajmL+oZf9NbDMIMQXE8+HqI4qBwQ0Mu2Wugjwd8yIME0kFQHk6WyhGH6wHt8/Mq99S5R03wt4HA=="
+      },
+      {
+        "icon": "https://i.imgur.com/qMJhipy.png",
+        "name": "Copa Potrero 2",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opZ5ZCopI8DmFcUsVpFmU/NbAMdoDt2IfpYY0PXhP1VL4jqKQDH10Njrh8IlXWzHYA1gV0Tgex83NmX+pn8JfNtrDMIMQXE8+HqI4qBwQ0Mu2Wugjwd8yIME0kFQHk6WyhGH6wHt8/Mq99S5R03wt4HA=="
+      },
+      {
+        "icon": "https://i.imgur.com/qMJhipy.png",
+        "name": "Copa Potrero 3",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opZ5ZCopI8DmFcUsVpFmU/NTpE84+B3rHsryvaiMnqRVQ3rhib1xUZ1mk8rfUohxAtUMa6mV6zfPgrHLjmNjv1AbDMIMQXE8+HqI4qBwQ0Mu2Wugjwd8yIME0kFQHk6WyhGH6wHt8/Mq99S5R03wt4HA=="
+      },
+      {
+        "icon": "https://i.imgur.com/qMJhipy.png",
+        "name": "Copa Potrero 4",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opZ5ZCopI8DmFcUsVpFmU/NbGwXXZgMOOGbPJOxmOK3H6tDBiv1bbgSUIumNVh0wh567yLjUF8ZSdj+uHp+meForDMIMQXE8+HqI4qBwQ0Mu2Wugjwd8yIME0kFQHk6WyhGH6wHt8/Mq99S5R03wt4HA=="
+      },
+      {
+        "icon": "https://i.imgur.com/qMJhipy.png",
+        "name": "Copa Potrero 5",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opZ5ZCopI8DmFcUsVpFmU/NWNUCVzr1A4//O49quWE2l/Yg/bLJ/KIhBqRoXtJacm2aLr2YfxJ1Bahb2QmH4sDD7DMIMQXE8+HqI4qBwQ0Mu2Wugjwd8yIME0kFQHk6WyhGH6wHt8/Mq99S5R03wt4HA=="
+      },
+      {
         "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
         "name": "Evento Uruguay",
         "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IopQ5usMXM4z4Bvxx1hbeJ"
@@ -88,11 +113,6 @@
         "name": "Bein Sportxtra ñ",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634",
         "uri": "/MEa/02WaoMB8o4rsw5tNdu19bDEjIq5xADMrFOrLEtJb3zQha8D7Tg9SK1AF0raYO8dz6JXnipyDAecDZl492Y9Y5HymdzWvAVBxgLlBQYqgtCzteGqdR4Db9aot75s3Nw9B509kt1t/5tgwXVeFeb+FD8bM/gNfjXe7WwjZUW3hKCOjgsQ4NKpEH5uaL3v"
-      },
-      {
-        "icon": "https://i.imgur.com/Z7yul9n.png",
-        "name": "Evento DSport OFF",
-        "uri": "c8shB4zQtySEDhKuz7Hho9vywKsAeYQj+55IK4v8Gqmf7m0BRTzKAaUlPoc26xek"
       }
     ]
   },
