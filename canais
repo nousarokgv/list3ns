@@ -822,17 +822,17 @@
         "temporada": [
           {
             "icon": "https://i.imgur.com/Viwl0AN.png",
-            "name": "Espn Premium ",
+            "name": "Espn Premium 1",
             "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hOV32ozzpHpDWEMAZlPkNRrA+SbWmDFbjt/iSXnnch0PfXIkQRGonVuG8UffpsdM9r721vmS26+75QoMZeQMq2f84HvdWBL3Yajt/QothHag==",
             "drm_scheme": "clearkey",
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gCAVrNNw3K2NtJLruEnqsZIEcZ1gAeEahI7JyopybRYA090ouC47kUcNmq9IY/XRHSZipNJkIWcuSBfiXPlm6MMJTwDlMPeZ64DrEr2kD9ol+mpfQpEjpgcNpk+oySqalQ=="
           },
           {
             "icon": "https://i.imgur.com/Viwl0AN.png",
-            "name": "Espn Premium hd",
-            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hOV32ozzpHpDWEMAZlPkNRrA+SbWmDFbjt/iSXnnch0L/u6zCTUcFEvBCKkq6p8peJ1UqLbGiz4VEjB/Wwkq24otyJFJEzD3AbEeHiaqlceA==",
+            "name": "Espn Premium 2",
+            "uri": "CcDcgbisVF9arau+FuDtk5LQEPrlzIp6wuWZKPIyRziszkOko3U3cQj3Z7rANDdFpCWTXU7NzLaWPFwsAQ8KvrUNmu4cdtZ1XzeeOPn7quYBwFaFHD5D9Q4NExAGEZJp5KAaoF5Owe7//jXtWeI/mw==",
             "drm_scheme": "clearkey",
-            "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTC161BsoYqEaY/QyyhF1IeXbT/rgwGShiZw1frJ/LrnMlwqnS64RBVcKJiOCnl8yz9oBiu9hT+bkWx26YG19EibRB3QHQfHHS4GkbwK4kQ7Nvwu0STFGFDreKwlJJfuJA=="
+            "drm_license_url": "+cBGIUVAUFRDa6r/3tj+ObvxbwfPxmPiiofiX5zddbUHLfZz5ll1uk1SXXHj8Fu0t1d0RZsBooEXuFsam9RlQ6WtMn60jrw8VLtqAKsJ7w+b2n1Ur5/QpUQyqQkQh//DsrXlJwoF9xNyNMr/m8SDpWkYswICWU0p0/qUp8YVjXoAVrPE4sS0gD+cL/JQX7Gy"
           }
         ]
       },
@@ -842,14 +842,14 @@
         "temporada": [
           {
             "icon": "https://i.imgur.com/adbeH2W.png",
-            "name": "TNT SPORTS AR",
-            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jPlXg2XS+UqWaA+ClBjEuivCn+Lw8G2WiP0w2L7JH7haKScjbJVQIcjYlFwGLcQ4rPm3F6z6hSnqmcj88SfEgp",
+            "name": "TNT SPORTS 1",
+            "uri": "CcDcgbisVF9arau+FuDtk5LQEPrlzIp6wuWZKPIyRziHHkcTZdgx401tcuowLX5tzw1O5SWTVAUDpb2RxH7vJp57Fo0jUUA6xch7qzvrUZn1MIx7u2Y2jxPAXljbuksj",
             "drm_scheme": "clearkey",
-            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIT7ndvjKCqRHbcYIECoCVbE0bLgwWETp/WBCnVl5KhOuIJu3QLM0FlXBE0/pAunEbh5BZ/hvMndo1vo5CgN8Nk6DFOlhNc/RW1BSdM0a3BTrYsziC4exr4oUPm4Kz/pbA=="
+            "drm_license_url": "+cBGIUVAUFRDa6r/3tj+ObvxbwfPxmPiiofiX5zddbUHLfZz5ll1uk1SXXHj8Fu0t1d0RZsBooEXuFsam9RlQ4B3644HFpBLA75KQ/hLbvPCJITb3VROeEK6l5fVEgeAqEtzIA8ZzkCbYHgDeBQERlzKqfmxnlNM5skJQBilPZMGWT02F2NaSKlRNGKvwRy6"
           },
           {
             "icon": "https://i.imgur.com/adbeH2W.png",
-            "name": "TNT SPORTS AR",
+            "name": "TNT SPORTS 2",
             "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jPlXg2XS+UqWaA+ClBjEuivCn+Lw8G2WiP0w2L7JH7hT96sbUJfiYVfQb58Nc0Ztl/zge91YEvdhqO39Ci2Edq",
             "drm_scheme": "clearkey",
             "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gDLDHth2MI/K9WEocNCBas0+PCox+gAxnvB+TqlP8h7HRod8u7jIw6771KYVSlzzeqxZJRVHz/ELoHhbcDmJ1gpmS3KX9iisGsZZaYELDFJcYyBgHh61omPEwgWNkkB1kg=="
