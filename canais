@@ -4,16 +4,9 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://i.imgur.com/qMJhipy.png",
-        "name": "Copa Potrero 1",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opOO6igbbbkDe2u8+j325DkO9e4d8bpllzApoALdUHG5U6bfIk/RCbx0mTqfBi+fipAumx4OCaMC/RlP/QivjSUwVS6pLUt0lqM5ny7PAJ+XA="
-      },
-      {
-        "icon": "https://i.imgur.com/qMJhipy.png",
-        "name": "Copa Potrero 2",
-        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jEh2MxE5kYMQFV99Vbnxf4J9kCMs6Jej4fmFlK54UJmYJ5f4kT9AGEIQwS+1cAzmo=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "+cBGIUVAUFRDa6r/3tj+ObvxbwfPxmPiiofiX5zddbUHLfZz5ll1uk1SXXHj8Fu0t1d0RZsBooEXuFsam9RlQ+eG3whuyQnWEsdafGWOnAo58FUGHd2LYwLrY0SR7saccOOl7m8pGQoBZh4rpjR0fTj4p2uZTDyKfW+k/3h/Cge03jHLnHOAYDdJ5WB556+Z"
+        "name": "EVENTO GV",
+        "icon": "https://i.ibb.co/z79dspk/tnt-sports.png",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IMRWBLFJPSoYbAFKT2Thf3Nvwu0STFGFDreKwlJJfuJA=="
       },
       {
         "name": "TNT SPORTS CL",
