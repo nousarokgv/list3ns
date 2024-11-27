@@ -850,11 +850,22 @@
         ]
       },
       {
+        "name": "TNT SPORTS",
         "icon": "https://i.imgur.com/ZJp4DBE.png",
-        "name": "TyC Sport",
-        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jyjJqf3ms3FPT66gDc47iTY9l3iMXwbSmJqm3PLTKr+GR3c+7FYP9Fq6ju/qvyFgo=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ7i3zKFu7upzAdV2Z9CiCdTgwN6grvhqB7w1X4H9EOplR1zbSrSOsbmae7EcKRX3Lac64RpUP94E3S+dwkCY8nuLDRxwUjlyD0xz5WpafbUI34GKMqms84kQi5D7ZcrcA=="
+        "temporada": [
+          {
+            "name": "TyC Sport",
+            "uri": "CcDcgbisVF9arau+FuDtk5LQEPrlzIp6wuWZKPIyRziHHkcTZdgx401tcuowLX5tzw1O5SWTVAUDpb2RxH7vJp57Fo0jUUA6xch7qzvrUZn1MIx7u2Y2jxPAXljbuksj",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "+cBGIUVAUFRDa6r/3tj+ObvxbwfPxmPiiofiX5zddbUHLfZz5ll1uk1SXXHj8Fu0t1d0RZsBooEXuFsam9RlQ4B3644HFpBLA75KQ/hLbvPCJITb3VROeEK6l5fVEgeAqEtzIA8ZzkCbYHgDeBQERlzKqfmxnlNM5skJQBilPZMGWT02F2NaSKlRNGKvwRy6"
+          },
+          {
+            "name": "TyC Sport op2",
+            "uri": "CcDcgbisVF9arau+FuDtk5LQEPrlzIp6wuWZKPIyRzjqMjWLft6J11H6qBQt71rTisImCBC/T7uQ2QiL8LWyIvGqlVI/hstfMTJDNVIj+93dZuoxIEaYFkSxZ7nlQn0r",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35Jrf5TFusKRuKVKj+QkXqUV"
+          }
+        ]
       },
       {
         "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png",
