@@ -1,32 +1,5 @@
 [
   {
-    "name": "Liga Española",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607",
-        "name": "Bein 1",
-        "uri": "7zgqbKG0/49fraRpQNfWa8GVWqtxo20nH+vE0wfQkABQkB3/vdTD8fCmZBwIw4E7BTDD3rkLV+OLfLQnEK2PYOnVroQtgTIGdIzeNxKGRtQkhuhFymlVXnfEerS34Zvtc3BwPonHvTbK2Cht2pEoe1/5d1AsSdCMHVM3ONzCh9gsNADmg1C/tLmLcVWdwF+co0gek0OiywU4lKiWoRsJ+71BblT2VExARql4WAxL9TBAdhBr9nvYaw1PEG6OOWWhRIkZw6S+ttYbClIa4O0Ffgn+Vwg4BkcRZY29Xoo2vDgp8Fab2i2J3K6G5r3ug8tVK49qipdywnTYu1v44FoUddaVwh2zZmKk4r+clVHl6v+u2ecKvNGx0Q3Qarls+WkcYyaB6Vodxh49KjCjuPfdhsqxylYNI25IZCxPu5KqGqrgoM6Ptp5dwExJt3fbu510Sz+yNwy2NC/t58vm3z37/i8gqA09N8N35vmrd+rQnNVsEYVUwiYq22n7L91VACMAoobjfckxrysafIXnPy+kWh74N5iO6NYP8DKBfkMS4uG0JEEFSj/ZzBMeDJAyg+4O2LwUiIfPUY+PAJ/A3D6wwQGVHMgpcuBixYgB/4Tj1IJoOIQE9GiJnB43G7icNTCOWW3ka8IctEpVqG0Y5Ym3nrG/HQSl2srdzWuP8dFd53tTygKE6Pkft/HyrYswlA6fWNb4HkoJOZ3k7kv2U8LUfGIqMtOtA/7dX/qiaVETPkUx9GuWnj0+1htMKPE/urYRnbJo5zFH6yEcgCKcQSjDYk34R7+OffX/zOCizcyM8O0e8KgPGxfFpmMJKo9EN/CFGBJ8BfrxzXf0h8m/qUu7rEJQPwAZwvXp75EjnksJ4ZqIXXAyw/cUloh+Bw2sPxSCWqF2nQTZ+h43IDxXy4PNHfDk+0YVErbRaU33i5WRpY28Fu3y7rQ+h78l8m6oGGbMsEzKDT/3S2vn0OonO/BJZCsXVEzLibXl0/Ca07K1qmCsreNVaVdmdIdxWeJRQe8+5eFe9LTAR5AkF5jjKHMcCQqcxZ8sgvC41WkSl9HZ8cnFIDuZH3mx3QWZ8ub4lxoIO3QJ0Jy9iOE1xBrWs809vw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gNdJ7gTt2HsYOgahcz0QJECqcKqt9JMve9jY7aKHiCXs6w+ND8dIihw4VKySqY0SbkIi++KKS3j9RdM2ku4ASeX2OK+pB7k64+APbsLW7FXQOEnHA7gocba9V+fJ0mX4VA=="
-      },
-      {
-        "icon": "https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png",
-        "name": "Bein 2",
-        "uri": "7zgqbKG0/49fraRpQNfWa8GVWqtxo20nH+vE0wfQkABQkB3/vdTD8fCmZBwIw4E7BTDD3rkLV+OLfLQnEK2PYD/4U8U8Sf5qHEtmjt7z+EZRy7Fl0O4oSqM966dyaLA0c3BwPonHvTbK2Cht2pEoe1/5d1AsSdCMHVM3ONzCh9gsNADmg1C/tLmLcVWdwF+co0gek0OiywU4lKiWoRsJ+71BblT2VExARql4WAxL9TBAdhBr9nvYaw1PEG6OOWWhRIkZw6S+ttYbClIa4O0Ffgn+Vwg4BkcRZY29Xoo2vDgp8Fab2i2J3K6G5r3ug8tVK49qipdywnTYu1v44FoUdWemOccWs2pNYefl11i5g65a7NG8qSxOe9pDjtVJyoW+RrbNOsum1JeiOvBiuh5iY+Gymu+NkqyVGtsHj+6l2N6Ku1FXYIjJrOo39v57L5/L7QwJsRRZmQDg7/hi2ifVtF7FN0/lzvE/9I2cmzeq52wSiV/MBTWpElm4UkdCNqNrzadu4prTIZoUTQDbq5lkw3Lw6aqZTKqYbV8kUoODmodn1qMUB7qjN7zKeMIJu7jm1b1pVv7503zEgjRBwjKNtIVKJmwVDmJvR3RLq1oWlrcTFXqsDlmNy5ZbjRx2UNx+K7W94XsxLs3QFkq2m4ZxUjst0TTwnygyRj5M9tPD6eKFLsG3Ek5zESGtdhNGQYFBzHGoPBOHU3BHl8uM8CnESVv1TakPGrNLbBSWe5Hp9uuN5PCDzeXNpGl7O9Caj9l9oUoG5w05dmvB0a1yjkODjla/ls7OsexL3bhSPVrP9FUMbqJjYe7wJdrLYVROhWsrAIGp+rT4xsm6ww/UB4Z0mCB7tGA7nRyCPn2OkZZbkOVr2OQqQ+dSj63iJvfruRu+SXIWfA2X5wvy+021KGTeHns0+VcMnGXUzGy9ocUh2Z8SMIdsqfeROKo77LGrhyR2JcGTdnkKaXQaMSm/sMYoEoYD59hKd5eTSSDspMG9IjMytc9zTH3hSIPa2DVMjiBXfm8Nfe6mJv/QaMR28fbgvtNvWQMhTXerF746VaX+PYAL5AHNQhzw6zM9uU7EphcwZkffQGRhVyfb3+vfCzJO0Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "Shr71iWY236mdvtql2w8KRNq4ZgPkyOGLzJpMwLJ9IM="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ec/BeIN_Sports_Max_4_2014.png/revision/latest/scale-to-width-down/305?cb=20230312110916",
-        "name": "Bein 4",
-        "uri": "7zgqbKG0/49fraRpQNfWa8GVWqtxo20nH+vE0wfQkABQkB3/vdTD8fCmZBwIw4E7BTDD3rkLV+OLfLQnEK2PYAcdvc9FQD+SVE2nTobQ+XvI+u0EHOuejeunKb+N6Msuc3BwPonHvTbK2Cht2pEoe1/5d1AsSdCMHVM3ONzCh9gsNADmg1C/tLmLcVWdwF+co0gek0OiywU4lKiWoRsJ+71BblT2VExARql4WAxL9TBAdhBr9nvYaw1PEG6OOWWhRIkZw6S+ttYbClIa4O0Ffgn+Vwg4BkcRZY29Xoo2vDgp8Fab2i2J3K6G5r3ug8tVYoT9RioS3RDLiW1bQXBNgyQPMF0b3y+L71taBRA8PrARb6FgxHpovdh19sNlYBUBjZghZswYuG/iMPg/OkeoQMqxylYNI25IZCxPu5KqGqrGe2WL89X7aHfMgqqOH0rSSz+yNwy2NC/t58vm3z37/i8gqA09N8N35vmrd+rQnNVsEYVUwiYq22n7L91VACMA4oQQ3eB1m9uKYS5v6GLkiSsExqcibc/JpHW4wOCpdheMTAMQCApzeYa7EOfib57n2LwUiIfPUY+PAJ/A3D6wwQGVHMgpcuBixYgB/4Tj1IJoOIQE9GiJnB43G7icNTCOWW3ka8IctEpVqG0Y5Ym3nrG/HQSl2srdzWuP8dFd53tTygKE6Pkft/HyrYswlA6fWNb4HkoJOZ3k7kv2U8LUfGIqMtOtA/7dX/qiaVETPkVDv3JdM0eMfFV58qqk+JcvpB6dtrrstbOVIwLURTL6AfqIwD5kK1oI4Rc1W7e0KiHfZGmzC5dblPFkxY+ZC6/iuA/PXNktScnWXvymuEBwgtj70XWGenHbsaW0iu+irgYb/thr85Yq7TZQGppWfZ7Ok67DrcwmVYldV0REXrx74S9DHZD5IRjo1vV/Im9f+OlT+PDPmh7FwrPmMPTYJL9lJizQ++Usvqe11uSGnk7i4E1UWsq7jpF+f7IjEwxR0sFqVKEr08Gf7MR990BISjPJEE1UCo8+HMEjsRmcx6gwPqXzqQLANG403bD4NwFdx0QqhUj/cMVDYXHnJviSPpafAT0SEZ4as6V/lNHgu2KA6Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "Shr71iWY236mdvtql2w8KZ89mceZ66LR+9ITDRqPE3E="
-      }
-    ]
-  },
-  {
     "name": "CHAMPIONS LEAGUE",
     "mode": false,
     "lista": [
@@ -401,23 +374,17 @@
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/250?cb=20210506015834",
         "name": "America PE",
-        "uri": "95wtc9NyWH4zh6Ilh56x6PLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+E8oCmdMo9XnOiN/3aNMWKg="
+        "uri": "meXw2CX7qamYN9Yd/sfIzX1ZrbuiRzduEFJNPTP+PDuJ2ErEn77XBFyahRxPJgL0unpUcppZlnuo7qQgrSPHs7eEoI6OCxDg0qkQfm5ove8="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/c/cc/Latina.pe_logo_2021.svg/revision/latest/scale-to-width-down/233?cb=20221014155341&path-prefix=es",
         "name": "Latina PE",
-        "uri": "z761GUhOfLwBsRDYjJL4EvLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "Shr71iWY236mdvtql2w8KSGaRLU93f30a2G7JB7vyAk="
+        "uri": "meXw2CX7qamYN9Yd/sfIzX1ZrbuiRzduEFJNPTP+PDs8n9qTz9tkyk2Wda+QJhnXXboshhretPxCHDRKIxP6YA=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/0/06/ATV_HD_2018.svg/revision/latest/scale-to-width-down/300?cb=20210519150647",
         "name": "ATV HD PE",
-        "uri": "21KToYy5r300HQc4VCZkAfLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+KXqa7mYo1st5qtii03OgGM="
+        "uri": "meXw2CX7qamYN9Yd/sfIzQVTnhytnlTcn811dIRKrLBJIQxJCkR1zDvRX5N595iz2rhMNfQl0P826A2L/J5DaA=="
       },
       {
         "icon": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
