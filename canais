@@ -4,28 +4,38 @@
     "mode": false,
     "lista": [
       {
-        "name": "EVENTO DSPORT",
+        "name": "EVENTO TEST 1",
         "icon": "https://i.imgur.com/HVtyvNi.png",
         "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IMRWBLFJPSoYbAFKT2Thf3Nvwu0STFGFDreKwlJJfuJA=="
       },
       {
+        "name": "EVENTO TEST 2",
+        "icon": "https://i.imgur.com/HVtyvNi.png",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35JQ0wU+1VRShVdVotUQ2L0+Nvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
         "name": "TNT SPORTS CL",
-        "uri": "i3a0WUMKg+iC89c71/89Y1/Y8k9wLXHZoNPLr7tdvuWyQy35jStR6+vmA7MZ1NdrM1GLcD9V4NKOSZF5hQ8KTT45mjJiHgTjslbU/UPaygk=",
-        "icon": "https://i.ibb.co/z79dspk/tnt-sports.png"
+        "icon": "https://i.ibb.co/z79dspk/tnt-sports.png",
+        "uri": "i3a0WUMKg+iC89c71/89Y1/Y8k9wLXHZoNPLr7tdvuWyQy35jStR6+vmA7MZ1NdrM1GLcD9V4NKOSZF5hQ8KTT45mjJiHgTjslbU/UPaygk="
       },
       {
         "name": "Chile vs Venezuela",
-        "uri": "ZdITjBgtmhrk0tvP0IjoN5n3QtQWaxFOui8g4LawK/023C92iiwUumQs5E65sgnn",
-        "icon": "https://i.ibb.co/z79dspk/tnt-sports.png"
+        "icon": "https://i.ibb.co/z79dspk/tnt-sports.png",
+        "uri": "ZdITjBgtmhrk0tvP0IjoN5n3QtQWaxFOui8g4LawK/023C92iiwUumQs5E65sgnn"
       },
       {
         "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
-        "name": "Evento Uruguay",
+        "name": "Evento Uruguay 1",
         "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IopQ5usMXM4z4Bvxx1hbeJ"
       },
       {
         "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
-        "name": "Evento Uruguay",
+        "name": "Evento Uruguay 2",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35K7bb4OvzC36oHQQrzbymqf"
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Evento Uruguay 3",
         "uri": "axb5bqHrzzONmuj15YQ5Mx8PgFYAxXV67Rh8LGg+d/Li+LOhfLkLOcvo3bxmX19Vc/jPKewssExCG+mHU431kw=="
       },
       {
