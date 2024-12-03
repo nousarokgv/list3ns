@@ -187,6 +187,11 @@
       {
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
         "name": "Telefe",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35LDhY6dZQXV4o/PREJbP0sLtO/LzJQ4OZBsaCxgBHGrCA=="
+      },
+      {
+        "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
+        "name": "Telefe",
         "drm_scheme": "clearkey",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72x/EKYGC8HuHmb4Z9nMS/WMdhfUSNy46dxGpPtjKijJ3SmYbyXO+b8NLH9bZHB9eKopj118xnOyuxSLJrt9FQwU",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gFfEJrOkc4GvICi2jYHRyMmT1V5vSz+pitEMuyj1h42FS7d6MREjDrluoKDnsGr0ZeQbZ4Fhqf3dLTXZ4EokMJW2cb7ZicQ93+vUCjRNG/11FxkJy7CDuGfWc1CEgxQgFQ=="
@@ -384,27 +389,6 @@
         "icon": "https://i.ibb.co/Jy849HS/somos-corrientes.png"
       },
       {
-        "name": "SOMOS BAHÍA BLANCA",
-        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yuniO8ODvWd/ziYseu5IABYMvBBIJgHt94UOQ19uJDJ3Ul1vgsDCMvGR8ZQWeg6ogjthsaTwVu/+Lvsjy6WEyPZfE87sg9ZrwUXUk05HG1aw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gM314a0Oo+nc4tF9r9aL+hujzq8DTK2t9OS5VigiFehnK+c6h6CLZmvplo7CnQz4UtlWCLKiJYOOIP8901m/qyn25fhbdL1pfNiKs5tOw1v50gGbOouiM4SOZC2bNwmXig==",
-        "icon": "https://i.postimg.cc/dVXg9Y6G/somos-bahia-blanca.png"
-      },
-      {
-        "name": "SOMOS CHACO",
-        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xSspx7Id0DC6cMr/DcvBHzCxRH15AS+7JmtoYZwonARl5M+A/Db4y0HYuF77qkAv0Gps6VmLm/4Ltci1eFOCSSbBRD5eIgRu0desj6UjNS8g==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGpCqdZIkTWXbQ7ZhbQTIo1YkJ3BaKfXOmGw0X0dpRbl6FpO8mgBGHd+yVB+JU76/XgCqzZW7otUzLre5wWavm6HjiaYVBxqpsevSswus5BWu4e72ZwhZ1oILdoir3525Q==",
-        "icon": "https://i.postimg.cc/kMf1cCXD/somos-chaco.png"
-      },
-      {
-        "name": "SOMOS RÍO CUARTO / RÍO TERCERO",
-        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xSspx7Id0DC6cMr/DcvBHz0EZjM8CE5u4ZaO6pDYUsNNP3CmamDxSNKBUkqlmZ3JEiv4nnmo1yexi3aYK4H+JEKY9dfMZzsrsUiya7fRUMFA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gDse2nIPiRhjYhcfXgDw43oX3WpFo6/ZLP11v1hIV1IQGqkZNo6EWuIppfvRRs9STtCnPXItPg4u+opDFFQ7JrUhe3gKxW4nhffOpEIGcsBgC2l96XYX5HV1z75tcSjm2w==",
-        "icon": "https://i.postimg.cc/bv6zJspx/somos-rio-4to-3ro.png"
-      },
-      {
         "name": "America Tucuman",
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xWacjvL/1nUcSQ25xMV/7sK8heMsi1P32FHPQm87UfAMfk7S9ZKNEaTxZw4/DZs6cm17OfTmMoDLF8m0zp0xUxNvwu0STFGFDreKwlJJfuJA==",
@@ -543,6 +527,11 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBXvzAQTaw2oJbK0xbrzFTHtXrRSE6k8nYlIc/ghKklSvo+jZJ3u7l2mP0HwJsKAeqKXV5D5Ois2fw4gJ/lAQJaCy05Z22di6+x7d9NT/Qjqo8YwevN8T0wKjUj49nJ0Xg=="
       },
       {
+        "name": "Telesol",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest?cb=20210525135451&path-prefix=es",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35Lr14mQHZynrQqNOjyVu0TCEl6xAgza+Iws5hcxvZH+5Q=="
+      },
+      {
         "name": "8 San juan",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es",
         "uri": "nfqu6Nff6wIrzUHRH2lfNmpRacBxGO8OciYA2OzVtq9VRmRULwXLvKSq8lZQ00XENUujhwGpux7VBVgTKWZX2NODeoxUeMjeymkXV2cW0W4="
@@ -553,11 +542,6 @@
         "uri": "c36vsak/p5vXqAgIjWYQI1fRupbTAWo/z3Ov9a0/G6Pz+D0I2Ga7Ca53LqIpSQYYYbf0/qc2rXMGHK+bA6iTctODeoxUeMjeymkXV2cW0W4="
       },
       {
-        "name": "Canal 10 MDP",
-        "uri": "zrOqCipJ/8l8KnkuxydT09yPCdYxHXW77s1H/B+7j5jMGCdF8iYaXwuY1nwxLZHoN6eI6BNENIydOdfcK5N/DQOGKhw2S6wbC4wQ60x7HBDT074xUF0GlAQRIkCpvA9LKgDZvalB7PgRV/2Xg5U95Q==",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Diez_MDP_%28Logo_2011_-_2%29.png/revision/latest/scale-to-width-down/200?cb=20210525202842&path-prefix=es"
-      },
-      {
         "name": "Canal 79 MDP",
         "uri": "urCGOUuOlhpWoNKXmsJ+YjnDznatRKUkErc/Fgfx+4IOsmtgsfEUYcEC9ecYBhoOsHbED2JCWJeKzclW9xhpEQ==",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UZPyCOXxXgdLCHM6Ib3ZGAC4gzSKojFB1KG1EVmFVeTLj78nCeyBDLx5UOcn1xK1V68&usqp=CAU"
@@ -566,11 +550,6 @@
         "name": "Canal 11 Lapacho",
         "uri": "I0Pf0g8BvJyK7CdyyNDngYAT2VhvXRr3Trq5fZ8G86NtnbnTyCO1fIXKK7pY/e/Ls5Oxanhcr9njw5nZ72+uXg==",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/0/09/Lapacho_Canal_11_%28Logo_Vertical_-_2008%29.png/revision/latest/scale-to-width-down/250?cb=20230222183147&path-prefix=es"
-      },
-      {
-        "name": "Canal 8 MDP",
-        "uri": "jKL/GWrQke1Qk41zZ1Z6UfAlvewhNC0XIYiU1x6BZzdkZlRCd91Uqowiukha2DMXQDcy+LHXS5X5hRCXwUSLse9Xz8khA6N3enDk2tZ9sSYrlE4Jv+SnTFUmiz2VDmYuHzmOARofFKkVksN88xSZNy8H6wif/2+p94pHFNatUGwz+OARDcWO8zGxdnacSsCqLK+GuStSnjpvSjBM4MiiULQ1JbYjUcA1avnKiTMcTBp1k24Wvjvzu8EAwU/KtvMLGbyI5qVlgZepWH6bEpOLsY8P9obm9EUfyRkAnPksNRGp8fP1pWa3aSlelQBM2DsT",
-        "icon": "http://static.tvar.io/imagenes/8mardelplata.png"
       },
       {
         "name": "5RSTV Santa Fe",
@@ -593,11 +572,6 @@
         "name": "CANAL 7 JUJUY",
         "icon": "https://i.imgur.com/OUDhp3g.png",
         "uri": "jKL/GWrQke1Qk41zZ1Z6Ua6wGXs4FtWVCZ9VcuJml0M2JXdtC25qSA1cMG5PIom1ivpe237WvQKSavqi5HzLnd68+U+MeZIUKUMiO1O4axk="
-      },
-      {
-        "name": "CANAL 5 EPS TV REGIONAL BRAGADO",
-        "icon": "https://i.imgur.com/b3TkbUT.png",
-        "uri": "ocWM4AL3pGb/EK7PVPnhak0dpjT7v2jRhIVN2v1fRvQG5xSEwrj/rE2cAd//7qtqv8Y/PmruUoNjABdBjORJKTb8LtEkxRhQ63isJSSX7iQ="
       },
       {
         "name": "CANAL 6 POSADAS",
@@ -698,11 +672,6 @@
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTeXahKeeZUDnqJqGIhGP2kjSU5U0qCwpmGY_IpN596w&s"
       },
       {
-        "name": "Canal 10 Norte Visión Satelital",
-        "uri": "KlRAJiPlTbeB2xf7mW9wAxFmmwrm8AzVb87G1epXWLmWIsgQHQDnpt1SIVtyBQHRzME7viyazuMdZLVEJGRmxs2kdlyNUXsg5pkzh2pgfifTg3qMVHjI3sppF1dnFtFu",
-        "icon": "https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"
-      },
-      {
         "name": "Chilecito TV (480p)",
         "uri": "I0Pf0g8BvJyK7CdyyNDngYAT2VhvXRr3Trq5fZ8G86NhAuCWMq42byhwYRb8oU6Ct+dYrTQqyr3TC2uKq8segA==",
         "icon": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
@@ -771,16 +740,6 @@
         "name": "RTV Neuquen",
         "uri": "AYa+9a+WCDdnHol+1Jinu56gfo85dsrVwSx1CJHFL/TYGnKJhBd6M7Q8KOBd+95M+/1Mi2N5sQHBG1TPaqoGnQ==",
         "icon": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
-      },
-      {
-        "name": " Canal 22 Buenos Aires",
-        "uri": "ctSqpPqL0hUTsXR2NZaphalIMovJWacp3PvOBqLI+dSHhBtSCUukFsWZY0KnJdSCXxBD0gWKHVGF17z1KLrWp59Td58IdkadNs8AG9P4TmwJZ2uOlnZTTE0J0z8MBr3J",
-        "icon": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es"
-      },
-      {
-        "name": "Albardon TV",
-        "uri": "8TRFD9+ylAMF5EOFwL/kDEG2Bwi5qU8oHKyivVcvQdIZdPS7jW4+Ghk+zz8UzLIIs5Oxanhcr9njw5nZ72+uXg==",
-        "icon": "https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s176-c-k-c0x00ffffff-no-rj"
       },
       {
         "name": "Chaco TV (720p)",
