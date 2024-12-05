@@ -4,14 +4,14 @@
     "mode": false,
     "lista": [
       {
+        "name": "GH",
+        "icon": "https://i.imgur.com/6pkrFRA.png",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35LwDnpOG1w9pcE0Zm32pvFst4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
         "name": "EVENTO TEST 1",
         "icon": "https://i.imgur.com/HVtyvNi.png",
         "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IMRWBLFJPSoYbAFKT2Thf3Nvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "name": "EVENTO TEST 2",
-        "icon": "https://i.imgur.com/HVtyvNi.png",
-        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35JQ0wU+1VRShVdVotUQ2L0+Nvwu0STFGFDreKwlJJfuJA=="
       },
       {
         "name": "TNT SPORTS CL",
