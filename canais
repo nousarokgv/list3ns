@@ -547,6 +547,31 @@
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UZPyCOXxXgdLCHM6Ib3ZGAC4gzSKojFB1KG1EVmFVeTLj78nCeyBDLx5UOcn1xK1V68&usqp=CAU"
       },
       {
+        "name": "10 Rio Negro",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a8/Canal_10_General_Roca_%28Logo_2018%29.png/revision/latest/scale-to-width-down/250?cb=20240629040157",
+        "uri": "WDbHhhhTJcRmYhyF8QNJVXtneW8OqjQ1SKxvz/yJL2YByw3R1sI7hn4Frs47xWUC10A1zdWaRfNRd2pHNlH6HJP4PcC6JUfeH6ZSYKymI9DtbPupaF1He9qFc3MmUFa5"
+      },
+      {
+        "name": "6 Rio Negro",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/c/c9/C6ERTV2013.png/revision/latest/scale-to-width-down/540?cb=20230723175429&path-prefix=es",
+        "uri": "5Wqxq0I8sa+xXi90sRLSwuYiltIXHCnpx/Z5N6VbBgc="
+      },
+      {
+        "name": "Canal 8 Valle de Uco",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bcudrXNxNUcLws1nw_MOquA4JrvM_7ktTw&s",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XqUYWPkr/tbWNWvQRH6pFc+Z6jOiXnom3Plypjs+2sA8lkWSaAWp2eyGZUyE73kDig=="
+      },
+      {
+        "name": "bayres",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
+        "uri": "f8Ke7lgOqYUOR9ykRNbCwK0cEZeEJIuA+qTz3WzNNiBVEsvKZeOE3klk3/Dr8AGW3A+ZXqbW5d774xRzlzmslQ=="
+      },
+      {
+        "icon": "https://neotvdigital.com.ar/imagenes/logo1.png",
+        "name": "Neo TV digital",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XqUYWPkr/tbWNWvQRH6pFc+QGglhdvpi67JrKmIZwX7ONcgvrg/yrnM5Uy+8wlgK9Ay7hs7xgPuSeDcGLbX8MGo="
+      },
+      {
         "name": "Canal 11 Lapacho",
         "uri": "I0Pf0g8BvJyK7CdyyNDngYAT2VhvXRr3Trq5fZ8G86NtnbnTyCO1fIXKK7pY/e/Ls5Oxanhcr9njw5nZ72+uXg==",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/0/09/Lapacho_Canal_11_%28Logo_Vertical_-_2008%29.png/revision/latest/scale-to-width-down/250?cb=20230222183147&path-prefix=es"
@@ -700,11 +725,6 @@
         "name": "CHAMAME TV CORRIENTES",
         "uri": "diXerN6wFcsaob/oQYeHV0gvaIwOlHJYUT7z3y72HuCOMqHweYRd+Y4MUpFibzq+2CR1ocj7Mn1aza17tXsRYw==",
         "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
-      },
-      {
-        "icon": "https://neotvdigital.com.ar/imagenes/logo1.png",
-        "name": "Neo TV digital",
-        "uri": "vVy60l/8CDHcHiTlkQ8/XqUYWPkr/tbWNWvQRH6pFc+QGglhdvpi67JrKmIZwX7ONcgvrg/yrnM5Uy+8wlgK9Ay7hs7xgPuSeDcGLbX8MGo="
       },
       {
         "name": "Neox TV Salta",
