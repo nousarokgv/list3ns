@@ -134,36 +134,6 @@
         ]
       },
       {
-        "name": "Por Amor o Por Dinero",
-        "icon": "https://i.imgur.com/nFLNuJp.png",
-        "temporada": [
-          {
-            "name": "Camara 1",
-            "drm_scheme": "clearkey",
-            "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yXmIU0E34jxfbYcR1uqBzf1g+NDn3EQwOzJsohigbAUpKd8fn/bjQ7Rd415Xx8yX91bS/dafTvtDXgZZClenkmNeOyk/SNkigq4EgcldE0kA==",
-            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHmu7X47S6TbOetHwG3OFbhVwYATKiv2zj9HzrKxVmYZgG+ng2qyVGfTK1c+AtaOR1Yn/Jddtc1zBFgX35qMBSq51+FvZkCWxxuEUMgCRtpwzxr0xMM7uUg3As4ux3OG6g=="
-          },
-          {
-            "name": "Camara 2",
-            "drm_scheme": "clearkey",
-            "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yXmIU0E34jxfbYcR1uqBzf6Xf8csomQnxkbh9Fjs31uJKd8fn/bjQ7Rd415Xx8yX/EvUOQhbeip1kV+CLCVbamNeOyk/SNkigq4EgcldE0kA==",
-            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gKwq5KMPKp7hS4/ZdLHONnGkAJjHkh33TUKPNtxHP2ZLlVA8VOkYaRfobWI4nHTJd8eHekjYvoId0rOtmeJ2IZP8YLN9P9/UmFySC9VVjZgWbvgeVDnYWpnG+X2YW78J9g=="
-          },
-          {
-            "name": "Camara 3",
-            "drm_scheme": "clearkey",
-            "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yXmIU0E34jxfbYcR1uqBzfCHgp8WpFbB9QPj/Lvhw/vZKd8fn/bjQ7Rd415Xx8yX8+3tp9V3z/34IM/IYcxuPkNeOyk/SNkigq4EgcldE0kA==",
-            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJzXRaar5WzoVhURJXDk2Ag49TW8JuHFwQXcLVByuELpsJBhzel4RJENOQ6ozg4TjRu4JD2cKkIG60Apaw9tV81NrqDuFfh5A7ZWt4qqMscXRYdr5VoUDCwd3oKzAdCW2w=="
-          },
-          {
-            "name": "Camara 4",
-            "drm_scheme": "clearkey",
-            "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yXmIU0E34jxfbYcR1uqBzfgH9EkYy6qUnLZvLCDL9fWpKd8fn/bjQ7Rd415Xx8yX/3Y7WfoiYM9EqsLGH1t4ZRNeOyk/SNkigq4EgcldE0kA==",
-            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBToF+bvf/1sfCxkb9zSpzRm2qFoqIMPeVFbqenzksAt0w9OvhiYEGQ4WXLv/Cg79lre46G2DcMcff6OX4FopPl3Wag0sfTNOj3S3jTAY2CtxLjxpkAFTay3BHn8LeTHOg=="
-          }
-        ]
-      },
-      {
         "name": "El Nueve",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xdo7t9rnGGrlOop5eyQj1U4xKu/K5X7m1UjBOTFHG7t/fw96vwrUUCfwbGkC/6ZUQ=",
         "drm_scheme": "clearkey",
@@ -436,7 +406,7 @@
       {
         "name": "Fenix la Rioja",
         "icon": "https://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",
-        "uri": "+hJv7vpSzsjN1mixcVh2qpBx44cZBkf1tquF8YEsGsPRSQneAxDCWl0/U7wc9gUaI6kKJfgB7ZvgpS6s1TNgf2BNOV9oK3kpI1+MW88mL742/C7RJMUYUOt4rCUkl+4k"
+        "uri": "+hJv7vpSzsjN1mixcVh2qj5eitEayLp7+gix57wKT17RSQneAxDCWl0/U7wc9gUaNPl6UTz5HATOZZljJvXVItODeoxUeMjeymkXV2cW0W4="
       },
       {
         "name": "Telefe Santa Fe",
@@ -1177,11 +1147,6 @@
         "uri": "IAe2wt0lITUGQtL3Ks5T/Pat6NlCi4foPEkjW5k5uMW8Sbu/WM8SBJbRzFkvMQvUY0QTCz4WwlYn3qx7pxb6PQux8fkOfXCbfkh+KovOmOE="
       },
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f8/Super_1989.png/revision/latest/scale-to-width-down/200?cb=20140430224137",
-        "name": "Super channel",
-        "uri": "IAe2wt0lITUGQtL3Ks5T/Pat6NlCi4foPEkjW5k5uMXH9qEApVsJEyagquDGQWwk//zwZOq7uwwEqWRKLFdrfT45mjJiHgTjslbU/UPaygk="
-      },
-      {
         "icon": "https://i.imgur.com/9TtwkaQ.png",
         "name": "GOGO Play",
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/SdTBgAOGWee2+7d+QwC9SN0OFkgXRg6QAogcBWnQp+Q=="
@@ -1197,11 +1162,6 @@
         "uri": "oqUqhvVaZUrRv/rRjYX2Ib4nbZYxAFItUAefjUMFWlqWiPGnVP+mDcxE/BR/LU7gVYIlKheVNn5Sn+fSwtg8AaUgDPqzFAwe1ICyBHco53k8TolI47AaZ7Qapjw6PFR6yhe5DqfCLlCncUXkLU/VetB+cj0t+6/dJvGn9wcuD4voUNeNIB8UVrkMkw3WMyX/qJfkyaoR7eVW3SUIGfxf/pBOWQvM5pDHkRdkqsNdKtw4gACKY/YPILk1dalHJNMOgL9xZlWehhaYvOm++BTD4RpI7vFyUZzlz51f+2i6kspcfwap2TPDLpx2UNxugTJ7B3eIsyNyTSmzmQ4RH2chzEFSD9lrzTmJfq9xxj3tggdw0uTcjLhjfw8E5AT1+0tORyCZc5lmQYo5IDEZ/ZLEM/Dzvp6AaHUv26Lw24JU6zheoSQ34QqzvogDj+b8nqvcScZH9JTTEoB+iENCOnd3ZVLc7CMoro18giHh7FzL2tfo/7lNUrURdl3oweVTG0418x8xtyZs9GD9N2UZGZsXSi+Pq7bw0373+S415Mi9S72e1xSHHL+1uuwMyD0l/o9OrdDpt4sTCq+pL9ct2OLxqQ=="
       },
       {
-        "icon": "https://i.imgur.com/vF2m54a.png",
-        "name": "Anime Station",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/QjRSa+umv6Orx4oygDn4HxHhAGahC15SwVbiRxlSxyA=="
-      },
-      {
         "icon": "https://i.imgur.com/erv8m3S.png",
         "name": "Anime TalTal",
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/f62VEdjzvbepDn/LxGBw5YiYynPAG6wTGUYht7hp/ew=="
@@ -1214,47 +1174,67 @@
       {
         "icon": "https://i.imgur.com/07bMtEw.png",
         "name": "Bob Esponja",
-        "uri": "WT2z2OJPG/Dhl/x7yjPJ2lr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4rvGbslDpvNS00IhbyaF1FAA=="
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IFu7b7Kv/V9Y/VMkzx5htJsTTy1BuQhifstIfZccEq6Rxkk1HECjBzDR1EKWALZ4eKqOzhVYoWfdDdXu4k2PQX"
       },
       {
         "icon": "https://i.imgur.com/MaFVQfa.png",
         "name": "Los Simpsons",
-        "uri": "EQRbgLbOskxnYR0gBGcQtvP2TmGhqo4gdszNfnqybYSjXFqNW/UBnk8MBj9BIBW5UKVnoYV9AsMnF72xQhOVkvzza7fRA0eq4+O34TkiwQ4="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK7QSzC8+INrCjowozcBfwmREabKs8HW7U1go8Gfc4WQsS14QZs7qzMhqF/W48uv5SU3Rg3Ho48+O+oPwqGdd9L8="
       },
       {
-        "icon": "https://i.imgur.com/ryYhZWY.png",
-        "name": "ED, EDD Y EDDY",
-        "uri": "WT2z2OJPG/Dhl/x7yjPJ2lr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4r8LB6lAhlZKDb24JkOafvhw=="
+        "icon": "https://i.imgur.com/gP8yNOP.png",
+        "name": "Narcos Colombianos",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK7QSzC8+INrCjowozcBfwmRA0XuwRLdYhTOFp0OlmQpTBJFxwmOHEgStRn2m+sjmjk3Rg3Ho48+O+oPwqGdd9L8="
       },
       {
-        "icon": "https://i.imgur.com/4ROZCy7.png",
-        "name": "Hora aventura",
-        "uri": "GhDgCcKdEk58Sk7qWWDvuFr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4roHW1cB4bPsQyOb0Zje+r6Q=="
+        "icon": "https://i.imgur.com/Skeu56n.png",
+        "name": "Nick",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35KKwpJmVifNWh8/ptKpmjlQF+eaWgn1yog667rj/yQb0icQdv0nIjulweGUIoqLOHaKqOzhVYoWfdDdXu4k2PQX"
       },
       {
-        "icon": "https://i.imgur.com/7MN0uDe.png",
-        "name": "X-Men",
-        "uri": "GhDgCcKdEk58Sk7qWWDvuFr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4rzAlCfmCK4NFe9nyjSbWpfQ=="
+        "icon": "https://i.imgur.com/qHT0KEE.png",
+        "name": "Bubbles y Sus Amigos",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35KWASYvrCXnDgdjQVO+m7wYsD1H0VxrW/tFN4UymzCMsBxkk1HECjBzDR1EKWALZ4eKqOzhVYoWfdDdXu4k2PQX"
       },
       {
-        "icon": "https://i.imgur.com/I1Xx2zK.png",
-        "name": "Kenan y ken",
-        "uri": "GhDgCcKdEk58Sk7qWWDvuFr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4roSkrJyWEIU7VG9BVDmhjBg=="
+        "icon": "https://i.imgur.com/sD3m9cF.png",
+        "name": "Studio Kixta",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35L1CmMFHfghA20ijLNM12BKzqmrh4pU15dm7Gu3y9IAyxxkk1HECjBzDR1EKWALZ4eKqOzhVYoWfdDdXu4k2PQX"
       },
       {
-        "icon": "https://i.imgur.com/xPRWQi1.jpeg",
-        "name": "The Walking dead",
-        "uri": "F/9CFEQNaEyAUQdXj8VfDGqmd9899+qwHPRx3qiCsw2yiqUoJI8j0eTErAGboUuC04N6jFR4yN7KaRdXZxbRbg=="
+        "icon": "https://i.imgur.com/1amsQwh.png",
+        "name": "Transformers para Niños ",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IDTPW9WT2IDG2QDXk1IUsQ3qavj4RRQlTI0JxP+d5NNycQdv0nIjulweGUIoqLOHaKqOzhVYoWfdDdXu4k2PQX"
       },
       {
-        "icon": "https://i.imgur.com/ERFAFM9.png",
-        "name": "Cine Marvel",
-        "uri": "GhDgCcKdEk58Sk7qWWDvuFr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4rIOkwomxxoFYPVfEsK8Urdw=="
+        "icon": "https://i.imgur.com/RLk7WRz.png",
+        "name": "Masha y el Oso",
+        "uri": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35InNeC0+bfJm6XiR81fEwbQLPHScCEK0f1PUGFF1HZkHScQdv0nIjulweGUIoqLOHaKqOzhVYoWfdDdXu4k2PQX"
       },
       {
-        "icon": "https://i.imgur.com/29Kx88C.png",
-        "name": "Universo DC",
-        "uri": "GhDgCcKdEk58Sk7qWWDvuFr9IlZ/5TrEoZmxfanglrWHw5ftGBZq0dbhSPna5mNof3HSefiQrhhYDzZq9+JLy7YOOVLSOeRyJ39sJr5hIwO2kEyVcPQ5excvBfzzIi4r0lzr33fZO1blvOrNzKEBWA=="
+        "icon": "https://i.imgur.com/DfHe4Mh.png",
+        "name": "Familia peluche",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK7QSzC8+INrCjowozcBfwmRA0XuwRLdYhTOFp0OlmQpTY735CbVzPZ/5+D6Uygstj03Rg3Ho48+O+oPwqGdd9L8="
+      },
+      {
+        "icon": "https://i.imgur.com/yRcVC8b.png",
+        "name": "Escalofrios",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK7QSzC8+INrCjowozcBfwmRA0XuwRLdYhTOFp0OlmQpTIFzNwwmvoYo3lClCDeSqC03Rg3Ho48+O+oPwqGdd9L8="
+      },
+      {
+        "icon": "https://i.imgur.com/pxOaOGn.png",
+        "name": "Black Mirror",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK7QSzC8+INrCjowozcBfwmRA0XuwRLdYhTOFp0OlmQpTFZgGLRdqKtoiYfKXhxpgDk3Rg3Ho48+O+oPwqGdd9L8="
+      },
+      {
+        "icon": "https://i.imgur.com/B91wzIi.png",
+        "name": "Caso cerrado",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK7QSzC8+INrCjowozcBfwmRA0XuwRLdYhTOFp0OlmQpTtgoDW2qQ7kPgix4hGWeS/03Rg3Ho48+O+oPwqGdd9L8="
+      },
+      {
+        "icon": "https://i.imgur.com/9sAfahv.png",
+        "name": "Guerra de chistes",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK7QSzC8+INrCjowozcBfwmRA0XuwRLdYhTOFp0OlmQpTMDq2YmsWflkFwnoPEme+nU3Rg3Ho48+O+oPwqGdd9L8="
       },
       {
         "icon": "https://i.imgur.com/46VfCc1.png",
@@ -2093,8 +2073,8 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/0/00/Radio_Capital_2019.png/revision/latest/scale-to-width-down/300?cb=20200916173400&path-prefix=es"
       },
       {
-        "name": "RETRO  PLUS  SEÑAL  1",
-        "uri": "gsDJh6WExGpRq6wZS5vqRFPwgu6ZnOAOt4j1l9GkEgr1clEevDLI6hH9CsteUe0KlUpEYeVERTx7sweyj22nXdgkdaHI+zJ9Ws2te7V7EWM=",
+        "name": "RETRO PLUS",
+        "uri": "IWAzDUeHvVij2tMyp0oUi27DljjQ80vOvtnJPv3h+wFKxSvrAI+EFWambhWZJ6a4psZ1imfA1v7+m932/1ZL0dq4TDX0JdD/NugNi/yeQ2g=",
         "icon": "https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png"
       },
       {
