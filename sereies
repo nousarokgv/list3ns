@@ -4,6 +4,82 @@
     "mode": true,
     "lista": [
       {
+        "name": "El juego del calamar T1",
+        "icon": "https://i.postimg.cc/05drPymh/image.png",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillh93qCdgZRPysQZFVY6eedJ9ODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhqp/CiKxXL9iadSCK6RD0FdODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhueLvL0mlu/gzoLhf/6THMdODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhwLzGE0JF6IPRBPydxkn4JNODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhBt3oTWJ6ju2ST4VBDrSXftODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhg/S///McweQldwC0yEOlxNODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 7",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhmbqGfo39JK8FgkTbgPyomNODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 8",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillh2cgwuRuogQtGLMSyF4Rd2tODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 9",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillh07p+MXdJUoSw9tCCkO6qg9ODeoxUeMjeymkXV2cW0W4="
+          }
+        ]
+      },
+      {
+        "name": "El juego del calamar T2",
+        "icon": "https://i.imgur.com/pVDO5Hp.png",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhj23HvJHlWE+0cJmScsCXbtODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhj0zTqM4FWhQrzfmSTHOJN9ODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhwiVYEOSihWhRFHwJiKdM0tODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhw1J7kno/2bsNzf2SnBJTlNODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhVhfRBzw9HLZbBVdwrssSCdODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhiQr8Sw8ryRiAGaRrILFpVdODeoxUeMjeymkXV2cW0W4="
+          },
+          {
+            "name": "Capítulo 7",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/UBcHaxmSTcR8wT/9r1ogWOvnXQgLp+30CiBddYeVzHKGCv4SQ6ojQqq2tAo/LklElAhAY08Tk4fYo0+AOillhfE5Bv8O33GlVlo1eFR4HvdODeoxUeMjeymkXV2cW0W4="
+          }
+        ]
+      },
+      {
         "name": "Senna",
         "icon": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcCU5gOJUSiEwITo6XvZGSF6eQpVXp-DsGJCVNiaWuFo_8xLsSNti73Mkub_JTFnjamOE7yJPMOo5Zkrjoy9TjuhH9ugUTRFYvyNVT_7D7xQqgJoPvZCLWVB8BaOBlhTA9XDIw.jpg?r=b42",
         "temporada": [
@@ -23492,48 +23568,6 @@
           {
             "name": "Capítulo 20",
             "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2xhAxuP9VAEkw7kpOaeUGlme46E1DRYVW99mSk9o/gUQ="
-          }
-        ]
-      },
-      {
-        "name": "El juego del calamar",
-        "icon": "https://i.postimg.cc/05drPymh/image.png",
-        "temporada": [
-          {
-            "name": "Capítulo 1",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkr0kjxKlawaeR8w9Q2SmDNzo="
-          },
-          {
-            "name": "Capítulo 2",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkr1BSLtKHF+ySy8zERTugsGM="
-          },
-          {
-            "name": "Capítulo 3",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkr5uky/sqDFTHLSf9JVxcN2Y="
-          },
-          {
-            "name": "Capítulo 4",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkr8vinzcuYZ8lgDP4WBI4CaI="
-          },
-          {
-            "name": "Capítulo 5",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkr2xQggxUeHny3l4yML/13AM="
-          },
-          {
-            "name": "Capítulo 6",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkr0q8oUvZ/um5Q1xm58T+/ks="
-          },
-          {
-            "name": "Capítulo 7",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkry0r6Jl/Pfoh1YO4OkCSiW8="
-          },
-          {
-            "name": "Capítulo 8",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkr0UaT3aY7DZU1OOFgZaMW0A="
-          },
-          {
-            "name": "Capítulo 9",
-            "uri": "/s8R9uPBnrmvISuiUKfIA6Y832SL+1QNkd6lJRsvsigFb82BAmiVHNdz8Fnmq3e2gD4YjAzpVsFTzSBUHuBkrxZuRm+ZJPrrvjAsfiQSq8c="
           }
         ]
       },
