@@ -1,12 +1,140 @@
 [
   {
+    "name": "Navidad ",
+    "mode": true,
+    "lista": [
+      {
+        "icon": "https://img2.static-ottera.com/prod/oly/video/thumbnails/poster/213x304/madchr1_cover_perrodenavidad_es_1080x1620_0.jpg",
+        "name": "Un perro de navidad",
+        "uri": "/ubw9HTS7++Z1z25ZT63hP35jovKOmCxivBLXSX/9/SD0IArq9hD+VpW6Za1GiiOe5ioODrGZ+gxCKRtG0KVVnN6ol6qN1CZZlsilxT1djMxdm52vKd38bSeF4TqQ7Aoj2FJClxa/vs80RBuRphT7F+w13edf6Wow1wA8567SS1IFGjlvrgfp8dpTpNzdlDeGM4XZHwASQs8lX6Y0z2a6354JKZBJ2boT0NnnxTks3gvrU8BwH3keXoEiqPOZmxcVSm6f5d+GVcxMM3NatV2+yPmXUzTk1/NnwA2DwlMuhK5NYOQZe5rApDIg4yV5KzLX/2jbfP5bsuJqpgQ3oko+Hdvm+b4VKedyn98d4sNTXY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35JYQy49FfmBmWbwQNJIYQeTwVvsAzlDtUtJaPz4f/NX6g=="
+      },
+      {
+        "icon": "https://img2.static-ottera.com/prod/oly/video/thumbnails/poster/213x304/msadve2_1080x1620_cover.jpg",
+        "name": "San Nicolas",
+        "uri": "/ubw9HTS7++Z1z25ZT63hP35jovKOmCxivBLXSX/9/SD0IArq9hD+VpW6Za1GiiOe5ioODrGZ+gxCKRtG0KVVhyGK5gvBhRCuHSqQXAcqfHriugH11NME41gsEjQceFbj2FJClxa/vs80RBuRphT7EPf5eHq8nTPm6Ux/IXFPkaGmJUd1a8/vQTNN+SG1k/sUd+CrbaMABqPd+bvU1OvgsTCQWiv3niizvMbGpC4D+zQJBAxKiDZ/Xy3XRdjoqpTnbZW62b8s5qrWSqsWYxunXNvrAtxgDgwpO4VvlXAjEy5NYOQZe5rApDIg4yV5KzLX/2jbfP5bsuJqpgQ3oko+Hdvm+b4VKedyn98d4sNTXY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IsNBNSWagkAa/NlfMu4gBJiYr1qglEas9YFdQR03k0dg=="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/proxy/urRsntUJFRk1qUCBfqrIMTY_cKsdS5SKRdbBZM5ESzzZY9Af4wRRkdZtDuiWh3x1AwTTNwId-Y3JeLSI883taEoEsMzAtgDPcgsJanYU7e07MJYgFCY4YLm8z4n7JsnzP9io5nw3SqMPyHDjxJiZmRP7Uu3Cvuc2_OH_Xw=w240-h480-rw",
+        "name": "El Tercer deseo",
+        "uri": "/ubw9HTS7++Z1z25ZT63hP35jovKOmCxivBLXSX/9/SD0IArq9hD+VpW6Za1GiiOe5ioODrGZ+gxCKRtG0KVVkNeXgonerpGuJjHdSo2bDEtVs4kqfT3sxPMKwCHfpARj2FJClxa/vs80RBuRphT7AZpVmyW0hIjPJkSsOe18HzgGc6EsJlhof4eCXdlKZvRwfAjPH1RzpEga0RhS3qaQM2OaA5rtt+UR8vzyhDPphiTd2XEdRwyi0JuQ9Xo9PIIdGG0oaNBN2SZCmzot4y26VJeA6iLUpcSS7Oui6vp2fa5NYOQZe5rApDIg4yV5KzLX/2jbfP5bsuJqpgQ3oko+Hdvm+b4VKedyn98d4sNTXY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35ITIAFIoC2ffhaU3oQC5W4Ypz6b5GoEohdmWA+TZCdtCA=="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/t813EEWYWgddjbbn40JcpyaUI0A-QG9uNYWZkOClyGfu2fJJL3Gk_-knl-8naRcqGMp1",
+        "name": "Rosemont",
+        "uri": "/ubw9HTS7++Z1z25ZT63hP35jovKOmCxivBLXSX/9/SD0IArq9hD+VpW6Za1GiiOe5ioODrGZ+gxCKRtG0KVVov6e3FxQa8gnB/wFa2FqqfC2FqmRR2rMU9KRr3NyqsQj2FJClxa/vs80RBuRphT7OK736iepeI3sp8keyrpunDKUlOvjpkklQb0hay9i934esWtS8Rbpi4/BoEgyp/cea+jsRh+V1utHsbixdRXg8eh6+ebumwwgD4CF0UXWrJCAdtgwZr6sZieef6+X/3C15i4J7T+wPOHTVDIIdD0vCZc6fGo4t+bmyj29evJdKj7nPedRz7O7SARke7wUEcvOw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IyIhFyPI8orHprJAanGNTosEUc5n4oXBnWgxVYYy3vGg=="
+      },
+      {
+        "icon": "https://i.imgur.com/80is7gk.png",
+        "name": "Una Navidad quemada por el sol",
+        "uri": "/ubw9HTS7++Z1z25ZT63hP35jovKOmCxivBLXSX/9/SD0IArq9hD+VpW6Za1GiiOe5ioODrGZ+gxCKRtG0KVVtCOZijvz8Sv2ayMcq9Tg7S85l7+KVIzw6mbzjGf6DiTj2FJClxa/vs80RBuRphT7BQsuYTgP3ga+6AjHoF2he5l2eKzThDnd7fkwW8S+ZcLA3hisEHEvefXNMxAxm2FO8FJvnTPtX2b5eMxAIk138/difpplyk00Ku0vEHe77JDJVPIPeqKrjLfvrcxplVN9Ji4J7T+wPOHTVDIIdD0vCZc6fGo4t+bmyj29evJdKj7nPedRz7O7SARke7wUEcvOw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35JDdIC/Vr9SM4qcYPz9JeVM"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w500/25qsK9Qxs0hnXIYMpHjtL0A6ghI.jpg",
+        "name": "Hermosas Asesinas",
+        "uri": "/ubw9HTS7++Z1z25ZT63hP35jovKOmCxivBLXSX/9/SD0IArq9hD+VpW6Za1GiiOe5ioODrGZ+gxCKRtG0KVVmyovhTajK0MT3xkbAGrvApsb6BHV6ywcOLy+jgKvFXgj2FJClxa/vs80RBuRphT7L/CE0/WF7sLTotQqT/ToPJRarw+1Ey805wVhfNWHQ7MRVCXAhBY4bcpoyS/TJmw2uhZb77C3RgCOhooEdrB5O9RsPPgoXjDHCCNjX96SDkR0LIuc7U9BZd/2fzb+aWmkFpLaRVfPn685wmAPnKfaTKRvBrnjBCnVpsVkYJIAVzq0j1tRZ/SEiUZeu6KnRM30A==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "QbYA0tGg+WruMgMwlBz/PVA+1MFfP5sjJnSp9npq35IyIhFyPI8orHprJAanGNTosEUc5n4oXBnWgxVYYy3vGg=="
+      },
+      {
+        "icon": "https://i.imgur.com/h6aducF.png",
+        "name": "Amor de calendario",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZqZ4eHmGce/G/K9/Tfw6T1T0uRqmhQu/AF6bdpMN81gp3mlX5E8w3mCNePMGOGdZRE="
+      },
+      {
+        "icon": "https://i.imgur.com/CpeUETU.png",
+        "name": "Deseos de Navidad en Angel Falls",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZrr5KrrWX41QIFZBJVZJbUQnOSuXKxHdL+cQ0b3eQQ6KAKkYYIPOVFUKLkZy9ti2uk="
+      },
+      {
+        "icon": "https://i.imgur.com/k3HUhJw.png",
+        "name": "El caballero de la Navidad",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZot826eH5RFxQIEVndjPqpfr1DEEtToO84egBwzDrtPHHcwsuDmsMbEjmdsWWaKQbMn9atAc9lNUmJfA6cXe1rM"
+      },
+      {
+        "icon": "https://i.imgur.com/EX5PTZS.png",
+        "name": "La hermana de nieve",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZqx8jj8w7NGQ53LDkasuz2gCr8X4kWkEKiF4aFmaVv3n39JlC/rYhPxYO4DrNhN+tM="
+      },
+      {
+        "icon": "https://i.imgur.com/uwcKVAd.png",
+        "name": "La Nochebuena es mi condena",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZodD+5rIxju1mRsIwnFtLtZ6ONmGc8cr9sYJBBzywvIgk27A1MeOr4w5e0T8jp97ks3op9umcWQPKNtzVkvtBHOtpWZulXGF1kyP98sO1fIrw=="
+      },
+      {
+        "icon": "https://i.imgur.com/yRc16Dr.png",
+        "name": "Navidad contigo",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZq0eEWApewTnfqNGMIGY0PwO0XKMqJT1GBX1c7AnC4kB+qR3NhXVD7M2bhwJSfHfBs="
+      },
+      {
+        "icon": "https://i.imgur.com/wcDFZFn.png",
+        "name": "Nos vemos la próxima Navidad",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZrz09L7D5IxeJqh+4bSMUDNeZ6tASfSbKnP7GV/lmuGO43xVLe2VkswS0z4lGtvEhHpSIHxw4Cuycp2lR4E/vcZR3hWTfW6ECZPvsJUL+Z/gQ=="
+      },
+      {
+        "icon": "https://i.imgur.com/57vw4gM.png",
+        "name": "Pinceladas de Navidad",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZrgAlhxOC0FhmciuY7dPTBiI50ZD5ZpAlCBCpsH4D+hGO3WmUjjLcjBfOMF93bov6XTg3qMVHjI3sppF1dnFtFu"
+      },
+      {
+        "icon": "https://i.imgur.com/AFR25Xd.png",
+        "name": "Tarjeta de Navidad",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZoBZIXcAlncMdzEM0ryY2Cxpsu5LO8r+zoFIjPd0Xy3LRfLJxQc8z9Mq6Vo3t1xOGDTg3qMVHjI3sppF1dnFtFu"
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/e/e1/Un_mu%C3%B1eco_de_nieve_para_derretirse_-_Poster.png/revision/latest/thumbnail/width/360/height/360?cb=20241113031024&path-prefix=es",
+        "name": "Un muñeco de nieve para derretirse",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/qBYz6O0mbmF8OT1t9J4Y+5TDxvtH+lvonMyuXKML6S6DxPCNg0SGMrj4jEQSsvHR8LgbWlGM8TGoqMr/5e42ZQKyAGowRCnHtk/lpJyIhgHD/gBw6PlVyoK69yzDzkyM="
+      },
+      {
+        "icon": "https://i.imgur.com/UeBD3UV.png",
+        "name": "Un príncipe de Navidad La boda real",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZplh/iMFSgaSB9P6lx/7ENHcUNiOhVgr0SshG/qEsqo1NODeoxUeMjeymkXV2cW0W4="
+      },
+      {
+        "icon": "https://i.imgur.com/hOgtBsz.png",
+        "name": "Una navidad de locos",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9XcfUFDCjqxOTzVrZPQU2rPrvvSBvBnPQb9P/FgdFZs1jYxN74XOdrHOgidHqomZp59aACQi1RHVp9iRejg5ulY/pgm43JSUsshVvWbuojt1bDRTlAXCUYLh+VB2GCND9k9B8u7EhSoLjv+ujYgYGZ"
+      },
+      {
+        "icon": "https://i.imgur.com/GCY1B9E.png",
+        "name": "Una navidad llena de gracias",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/qBYz6O0mbmF8OT1t9J4Y+5TDxvtH+lvonMyuXKML6S4yY31V1BmaRSab1AhdckgIQwdX7YxTz9Dro9g4yrecH58j+VHMJYRZ1Z7vTLLiTYZzfL0YFB/UfA7S0yrWeqLYQo9sUiwjbBfT70wLNHGbOt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "icon": "https://i.imgur.com/gGWhNNo.png",
+        "name": "Vals Navideño en Paris",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/qBYz6O0mbmF8OT1t9J4Y+5TDxvtH+lvonMyuXKML6S4EDXiIa4CbQl96RmhKnygkHnw7kbn6D6A5tJMaQnW9Ee8nG/Hsh4XFiiyLhKBoxI8ylq0od8XhRqQWo4jJLGl5aojlCjoZHytWxOLOI8Tw/"
+      }
+    ]
+  },
+  {
     "name": "Recientes",
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/O4RBkRm.png",
+        "name": "Sonic 3",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9JBNVl6qYDNwHw1ubGOp6TwvyLzbQAyn5eRco9pdpx6HOKKUZcvufxWYwR8E2OVW8="
+      },
+      {
+        "icon": "https://i.imgur.com/BwTusJl.png",
+        "name": "Hackiko 2",
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum89xH8EtF2BdtTmvJ9BbLEpPrvvSBvBnPQb9P/FgdFZs+hVTOKPKKa3klOMvrYp/YpNc125MJTJ1ymokT7pJV7A"
+      },
+      {
         "icon": "https://i.imgur.com/9uIzWag.png",
         "name": "Mufasa: El Rey León",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK1rifEsqGZWNH4hYA2/JrRNOfb2ZgIggri7N5ObPHKOHIYU+ieFbgPmwcZds8k+GBg=="
+        "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum9798jhVXPw4VHjhyJe8hyjwvyLzbQAyn5eRco9pdpx6Gsg5/6BRkEUSN+76sZ8v+pqhONh/PmcVsmWQHvKRVcK"
       },
       {
         "icon": "https://cl2.buscafs.com/www.tomatazos.com/public/uploads/images/460559/460559_173x256.jpg",
@@ -35,7 +163,7 @@
       },
       {
         "icon": "https://i.imgur.com/7JKwrOu.png",
-        "name": "Nuestro Secretitos",
+        "name": "Nuestro Secretito",
         "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum/Oz36eP+7GnwvMgz4AVFcwH+BQRarJoj/jL+ruN+4VMdPLdzc1MEVaTzi+H5ibywnTeAqLxMqJN6ojGFKenyk+oFszPgdMWy143xoNu2zAEKRe2ZzAePT6nt7SRYQWTXE="
       },
       {
@@ -2565,7 +2693,7 @@
       },
       {
         "icon": "https://i.imgur.com/krhQfDJ.png",
-        "name": "El Aprendiz de Kung.Fu ",
+        "name": "El Aprendiz de Kung.Fu ",
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzT888OcBZBXNQ4yTjn0bTuFZpv0U8IdP7a/tcoBXvT0fZZEP2d7vTB0WWoBw1FQo6zZYzXSYg0BTQv1lcmagqehlzXQlBIyRJcYTN3OqEG3qWuY0Jnn3ZnoBpU3D45YP+pgrx0CKi8DKx7XWdNP7cjUqw5DCv/ANuCAgFLPfdkXbhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
       },
       {
@@ -2614,12 +2742,12 @@
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzXMv426qzBy7W8RN8YhgwYpZpv0U8IdP7a/tcoBXvT0fafXucmm+H5pDjVCFj/iImofsNVr5bjfkyFRUskdRR7WgVd3vOBIdoGOqTyM12o0Zt2Ww5tD4B80LbkpCtC4w004HsHxYf+CQMCCHnVa3XGS+malFvqWC4ESmjRpDQb+JhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSah1KeCiho7FURKIfjhEd0Q=="
       },
       {
-        "name": " Armas Invencibles",
+        "name": " Armas Invencibles",
         "icon": "https://pics.filmaffinity.com/Armas_invencibles_Police_Story-629550580-large.jpg",
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzUwEMubVRI9w3iBc2mzZMl62ma31MmKct1axFQNfNVAt9Ml+fO9NwD86KS9EYKb59G6XAa0LOMxV4l0xcC3EMjWh9Y4WJAMDr9RMUJd/wd7q0cvmeOCiURpGw8lilkzwP0DYeSM46j7YKoMDWJIxMO8qTLt4MuVQotXBEGvOxb/EhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
       },
       {
-        "name": " Corazon de Dragon",
+        "name": " Corazon de Dragon",
         "icon": "https://play-lh.googleusercontent.com/proxy/mJqJ_ryLAueUu86INAuEvZqNpgapsJVPOSMlHpvqQWB-kUSsZCUtNl_3ypa8TYLHzut0WWilRvpt2tXW9_7KCM96N_LWODdGz2pMtYenXJ51Zr7gTDlhtVkh6jIZUZvWjfOJ5k4Q5grGO_F5NN0eD_ZCI3sdKvs03ucfuQ",
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzTLm34dP++/RoZY9jSg58DRxdxG8vyr+f3gE6/d9fncS5N73ZMX54Sst44wf8w0m9hUmcm8s924xxFN5nE5gurrxxblJDLr5S50cOZPsLM6G+AeFHEreHDC4bsY+j8Hj1uZc+VaQWJ1uPDdOvhIrLGNjfT27dh4n8IsWHCrwd5j30oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
       },
@@ -2649,7 +2777,7 @@
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzcBIFQLQH/kmKgCn6MwH0xXGS4LiKcGTq0o51p+tuhkJVbjEOicdJOJWhpmKBRDk5gXa3aSCZfbkCtfD82oi3SitXTgsS+aTb6DYSJVL872ZiEWdBaXuHOWFMqgvAaLeYju4T/RsJlnAhlLigguAETrD3TCjXdZhmt3k1qcXqha/hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
       },
       {
-        "name": "Cazador Citadino ",
+        "name": "Cazador Citadino ",
         "icon": "https://m.media-amazon.com/images/M/MV5BMTkxMzQzMzMwNV5BMl5BanBnXkFtZTYwNTY5MTk4._V1_.jpg",
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzYc5BnVXfIk3k42iGGCfKtckJTJt6HrCYRHPOy9pF/IysCAbhJTISez0F6MH+83UX1k56x/kwSkyuye/a1049Dy7Myr1LnECgAb+AC668bjv4daUAgLDP9Q6uXS1E0go1RVkCGTPTHlAvoUdiecmrWwOjigzRIMeyHp3l1lVpvvQhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
       },
@@ -2684,7 +2812,7 @@
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzVZOPJDQBfvO1xunCkJfZWwkJTJt6HrCYRHPOy9pF/IygwWsbkv6p3CQhWogi0umOiIomWvk8b1aEuzH7vLRs1ZAob+YmOekSiI3YAux1gCSmPlbscJa98MYolamZ7BZfrYyPcw7kEeXnd6NWaWlDXj6YE68Wjk3ZEa8QOloRIvZhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
       },
       {
-        "name": "El Poder Del Talisman ",
+        "name": "El Poder Del Talisman ",
         "icon": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/el-poder-del-talisman/145426-1-esl-ES/El-poder-del-Talisman1.jpg",
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzaI+f5ZkjRMS4FhD/EK7VSDxP0K1GYnVkqihXUotcpqMVOmnUhJa0WyTURnMAEd4V3it+W8q/rof77GVYM0td1S1xE075de7WmybXZfO7uG331yqjGv5UQNpNKu0vxcY1zoDQQIHJ1eVGsEcGU9WUdlk76LcsheUA4D/ukws4qX7hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
       },
